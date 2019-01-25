@@ -1,0 +1,41 @@
+.header {
+  padding: 10px 0;
+  box-shadow: 0 1px 5px 0 gray;
+  color: white;
+  background-color: black;
+}
+.header-brand {
+  text-decoration: none;
+  color: white;
+}
+.header-flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.header-actions {
+  display: flex;
+  align-items: center;
+}
+.header-user {
+  display: flex;
+  align-items: center;
+  margin-right: 20px;
+}
+.header-user-name {
+  margin-right: 10px;
+}
+.header-user-avatar {
+  width: 1.5em;
+  border-radius: 50%;
+}
+.header-btn {
+  display: flex;
+  align-items: center;
+  color: white;
+  text-decoration: none;
+}
+.header-btn-icon {
+  margin-left: 10px;
+  font-size: 1.25em;
+}
