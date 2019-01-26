@@ -1,3 +1,7 @@
 .Home_Books_Summary {
-  
+  padding: 20px;
+  text-align: left;
+}
+.Home_Books_Summary p {
+  margin-bottom: 10px;
 }

@@ -9,6 +9,12 @@
 .Home_Books-container {
   display: flex;
   height: 500px;
+  border: solid 1px #ddd;
+  box-shadow: 0 0 10px 0 #ddd;
+}
+.Home_Books-summary,
+.Home_Books-list {
+  overflow-y: scroll;
 }
 .Home_Books-summary {
   flex: 1;
@@ -16,6 +22,21 @@
 .Home_Books-list {
   width: 400px;
   padding: 0;
-  overflow-y: scroll;
   background-color: #eee;
+}
+.Home_Books-list::-webkit-scrollbar,
+.Home_Books-summary::-webkit-scrollbar {
+  width: 10px;
+}
+.Home_Books-list::-webkit-scrollbar-track,
+.Home_Books-summary::-webkit-scrollbar-track {
+  background: #ddd; 
+}
+.Home_Books-list::-webkit-scrollbar-thumb,
+.Home_Books-summary::-webkit-scrollbar-thumb {
+  background: #888;
+}
+.Home_Books-list::-webkit-scrollbar-thumb:hover,
+.Home_Books-summary::-webkit-scrollbar-thumb:hover {
+  background: #555; 
 }
