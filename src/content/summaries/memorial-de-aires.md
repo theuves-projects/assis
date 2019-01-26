@@ -1,0 +1,11 @@
+# Memorial de Aires
+
+Escrita por Machado de Assis em 1908, mesmo ano da morte do autor, Memorial de Aires é considerada uma obra de caráter autobiográfico, pois nota-se uma relação entre o romance e a velhice do escritor. Sem apresentar um enredo único, a história é dividida em diversas entradas de uma espécie de diário, apresentando anedotas e episódios que se permeiam ao longo dos capítulos.
+
+memorial de airesMemorial de Aires é considerado por críticos literários como um romance de caráter psicológico, pois apresenta temas como a frivolidade da elite da sociedade brasileira ao final de 1800 e a dificuldade das relações amorosas. Ao contrário de outros romances de Machado de Assis, esta obra não é permeada pelo sarcasmo ou pela ironia. Além disso, a narração não é feita por um narrador onisciente. Desenrola-se através de um observador tentando desvendar o íntimo de personagens bondosos e simples.
+
+Memorial de Aires apresenta um enredo narrado pelo Conselheiro Aires, que remonta em um diário os anos de 1888 e 1889, em que viveu como um diplomata idoso e aposentado no Rio de Janeiro. Com várias observações argutas em suas memórias, Aires chega a enganar e confundir os leitores. Segundo Alfredo Bosi, crítico, professor universitário  e historiador da literatura nacional, o Conselheiro Aires “ouve mais do que fala e concilia o quanto pode”.
+
+Nas páginas de Memorial de Aires são apresentadas pessoas com quem o narrador conviveu, citações de leituras e obras que leu quando era diplomata e reflexões sobre fatos passados que ocorreram na política. Uma das principais personagens descritas por Aires é Fidélia, moça mais jovem por quem ele se interessou. Devido à idade avançada, Aires nunca revelou seu amor à Fidélia, considerada uma filha para o casal Dona Carmo e Aguiar, que não pode ter filhos.
+
+Outro personagem do livro é Tristão, rapaz também considerado como um filho pelo casal Aguiar. Aires mostra a tristeza do casal ao ver o jovem, que após viajar à Europa e se tornar médico, retorna ao Brasil, casa-se com Fidélia e a leva para viver com ele no continente europeu. Ao final de Memorial de Aires, o narrador acompanha a solidão do casal, que fica sozinho sem Fidélia e sem Tristão.

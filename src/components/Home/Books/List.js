@@ -23,7 +23,7 @@ const bookInformations = [{
     title: 'Iaiá Garcia'
   }, {
     cover: require('../../../images/covers/memorial-de-aires.png'),
-    title: 'Memorialde Aires'
+    title: 'Memorial de Aires'
   }, {
     cover: require('../../../images/covers/memorias-postumas-de-bras-cubas.png'),
     title: 'Memórias Póstumas de Brás Cubas'
@@ -35,11 +35,12 @@ const bookInformations = [{
     title: 'Ressurreição'
 }]
 
-const List = () => (
+const List = ({ onSelectBook }) => (
   <ul className='Home_Books_List'>
     {bookInformations.map((information, index) => (
       <ListItem
         key={index}
+        onClick={() => onSelectBook(index)}
         coverUrl={information.cover}
         bookTitle={information.title}
       />

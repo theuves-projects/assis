@@ -1,10 +1,12 @@
 .Home_Books {
+  margin-bottom: 150px;
   text-align: center;
   font-family: Helvetica, Verdana, Arial, sans-serif;
 }
 .Home_Books-title {
   margin-bottom: 75px;
   font-size: 3em;
+  line-height: 130%;
 }
 .Home_Books-container {
   display: flex;

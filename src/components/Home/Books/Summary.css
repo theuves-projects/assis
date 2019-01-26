@@ -1,6 +1,11 @@
 .Home_Books_Summary {
-  padding: 20px;
-  text-align: left;
+  padding: 50px;
+  font-family: Georgia, Times, 'Times New Roman', serif;
+  text-align: justify;
+  line-height: 150%;
+}
+.Home_Books_Summary h1 {
+  margin-bottom: 20px;
 }
 .Home_Books_Summary p {
   margin-bottom: 10px;

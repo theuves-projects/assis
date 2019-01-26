@@ -4,10 +4,14 @@ import React from 'react'
 import './ListItem.css'
 
 const ListItem = ({
+  onClick,
   coverUrl,
   bookTitle
 }) => (
-  <li className='Home_Books_ListItem'>
+  <li
+    className='Home_Books_ListItem'
+    onClick={onClick}
+  >
     <img
       className='Home_Books_ListItem-cover'
       src={coverUrl}

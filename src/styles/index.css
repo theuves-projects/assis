@@ -4,5 +4,9 @@
   box-sizing: border-box;
 }
 body {
-  font-family: Georgia, Times, "Times New Roman", serif;
+  font-family: Georgia, Times, 'Times New Roman', serif;
+}
+::selection {
+  background-color: #9b583b;
+  color: white;
 }
