@@ -1,8 +1,10 @@
 import React from 'react'
+
+// Styles
 import './Form.css'
 
 const Form = () => (
-  <form class="Form">
+  <form class='Form'>
     <dl>
       {/* Nome completo */}
       <dt>

@@ -1,0 +1,23 @@
+.Home_Books_ListItem {
+  margin: 20px;
+  margin-bottom: 10px;
+  padding: 10px;
+  border-radius: 3px;
+  text-align: left;
+  list-style: none;
+  box-shadow: 1px 1px 1px 0 #ddd;
+  background-color: white;
+}
+.Home_Books_ListItem:last-child {
+  margin-bottom: 20px;
+}
+.Home_Books_ListItem-cover {
+  width: 100%;
+  margin-bottom: 10px;
+  border-radius: 3px;
+}
+.Home_Books_ListItem-title {
+  white-space: nowrap;
+  overflow-x: hidden;
+  text-overflow: ellipsis;
+}

@@ -1,9 +1,10 @@
 .Apresentation {
-  position: relative;;
+  position: relative;
   padding: 75px 0 150px 0;
-  background-image: url(../../images/Header-bg.jpg);
+  margin-bottom: 100px;
+  background-image: url(../../../images/Home_Apresentation-bg.jpg);
   background-size: cover;
-  background-position-y: 50%;
+  background-position: 100%;
 }
 .Apresentation::after {
   content: '';
@@ -14,5 +15,5 @@
   width: 100%;
   height: 100px;
   background-size: 100% 100%;
-  background-image: url(../../images/Header-effect.png);
+  background-image: url(../../../images/Home_Apresentation-effect.png);
 }

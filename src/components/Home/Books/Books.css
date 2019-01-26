@@ -1,0 +1,21 @@
+.Home_Books {
+  text-align: center;
+  font-family: Helvetica, Verdana, Arial, sans-serif;
+}
+.Home_Books-title {
+  margin-bottom: 75px;
+  font-size: 3em;
+}
+.Home_Books-container {
+  display: flex;
+  height: 500px;
+}
+.Home_Books-summary {
+  flex: 1;
+}
+.Home_Books-list {
+  width: 400px;
+  padding: 0;
+  overflow-y: scroll;
+  background-color: #eee;
+}
