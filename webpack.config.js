@@ -5,7 +5,7 @@ module.exports = {
   module: {
     rules: [
       {
-        test: /\.css$/,
+        test: /\.(css)$/,
         use: [
           'style-loader',
           'css-loader'
@@ -36,6 +36,13 @@ module.exports = {
               name: '[path][name].[ext]'
             }
           }
+        ]
+      },
+      {
+        test: /\.(md)$/i,
+        use: [
+          'html-loader',
+          'markdown-loader'
         ]
       }
     ]
