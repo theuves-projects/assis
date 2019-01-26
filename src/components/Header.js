@@ -1,5 +1,5 @@
 import React, { Fragment } from 'React'
-import '../styles/layouts/header.css'
+import './Header.css'
 
 const Header = ({
   isLoggedIn = false,
@@ -7,41 +7,41 @@ const Header = ({
   onSignOut = () => {},
   user = {}
 }) => (
-  <header className="header">
+  <header className="Header">
     <div className="container">
-      <div className="header-flex">
+      <div className="Header-flex">
         <h1>
-          <a href="javascript:null" className="header-brand">Assis</a>
+          <a href="javascript:null" className="Header-brand">Assis</a>
         </h1>
-        <div className="header-actions">
+        <div className="Header-actions">
           {isLoggedIn ? (
             <Fragment>
-              <div className="header-user">
-                <span className="header-user-name">{user.name}</span>
+              <div className="Header-user">
+                <span className="Header-user-name">{user.name}</span>
                 <img
-                  className="header-user-avatar"
+                  className="Header-user-avatar"
                   src={user.avatarUrl}
                   alt="Avatar"
                 />
               </div>
               <a
-                className="header-btn"
+                className="Header-btn"
                 href="javascript:null"
                 onSignOut={() => onSignOut}
               >
                 Encerrar sessão
-                <i class="header-btn-icon fas fa-sign-out-alt"></i>
+                <i class="Header-btn-icon fas fa-sign-out-alt"></i>
               </a>
             </Fragment>
           ) : (
             <Fragment>
               <a
-                className="header-btn"
+                className="Header-btn"
                 href="javascript:null"
                 onSignOut={() => onSignIn}
               >
                 Entrar na sua conta
-                <i class="header-btn-icon fas fa-sign-in-alt"></i>
+                <i class="Header-btn-icon fas fa-sign-in-alt"></i>
               </a>
             </Fragment>
           )}

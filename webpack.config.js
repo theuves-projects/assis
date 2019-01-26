@@ -7,25 +7,36 @@ module.exports = {
       {
         test: /\.css$/,
         use: [
-          "style-loader",
-          "css-loader"
+          'style-loader',
+          'css-loader'
         ]
       },
       {
         test: /\.(js|jsx)$/,
         exclude: /(node_modules)/,
         use: {
-          loader: "babel-loader",
+          loader: 'babel-loader',
           options: {
             presets: [
-              "@babel/preset-env",
-              "@babel/preset-react"
+              '@babel/preset-env',
+              '@babel/preset-react'
             ],
             plugins: [
-              "react-hot-loader/babel"
+              'react-hot-loader/babel'
             ]
           }
         }
+      },
+      {
+        test: /\.(jpg|jpeg|png|gif|svg)$/i,
+        use: [
+          {
+            loader: 'file-loader',
+            options: {
+              name: '[path][name].[ext]'
+            }
+          }
+        ]
       }
     ]
   },

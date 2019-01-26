@@ -1,41 +1,42 @@
-.header {
+.Header {
   padding: 10px 0;
-  box-shadow: 0 1px 5px 0 gray;
-  color: white;
-  background-color: black;
+  border-bottom: dotted 3px #301f18;
+  color: black;
+  background-color: #f0e583;
 }
-.header-brand {
+.Header-brand {
+  font-style: italic;
   text-decoration: none;
-  color: white;
+  color: currentColor;
 }
-.header-flex {
+.Header-flex {
   display: flex;
   justify-content: space-between;
   align-items: center;
 }
-.header-actions {
+.Header-actions {
   display: flex;
   align-items: center;
 }
-.header-user {
+.Header-user {
   display: flex;
   align-items: center;
   margin-right: 20px;
 }
-.header-user-name {
+.Header-user-name {
   margin-right: 10px;
 }
-.header-user-avatar {
+.Header-user-avatar {
   width: 1.5em;
   border-radius: 50%;
 }
-.header-btn {
+.Header-btn {
   display: flex;
   align-items: center;
-  color: white;
+  color: currentColor;
   text-decoration: none;
 }
-.header-btn-icon {
+.Header-btn-icon {
   margin-left: 10px;
   font-size: 1.25em;
 }

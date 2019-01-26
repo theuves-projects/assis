@@ -1,0 +1,39 @@
+.Form {
+  display: inline-block;
+  width: 400px;
+  padding: 40px 30px;
+  border-radius: 3px;
+  font-family: Helvetica, Arial, sans-serif;
+  box-shadow: 10px 10px 0 0 #f0e583;
+  background: white;
+}
+.Form input {
+  padding: 10px 20px;
+  border: solid 1px #ccc;
+  border-radius: 3px;
+  width: 100%;
+  font-size: 1em;
+  box-shadow: inset 1px 1px 2px 0 #ddd;
+}
+.Form dt {
+  margin-bottom: 5px;
+}
+.Form dd {
+  margin-bottom: 20px;
+}
+.Form-btn {
+  width: 100%;
+  padding: 10px 0;
+  border: solid 2px #d85127;
+  border-radius: 3px;
+  font-size: 1.15em;
+  cursor: pointer;
+  color: white;
+  background-color: #ff5722;
+}
+.Form-btn:hover {
+  opacity: 0.95;
+}
+.Form-btn:active {
+  opacity: 0.9;
+}
