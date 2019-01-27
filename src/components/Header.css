@@ -1,8 +1,8 @@
 .Header {
   padding: 10px 0;
-  border-bottom: dotted 3px #301f18;
   color: black;
-  background-color: #f0e583;
+  background-image: linear-gradient(to top, #d2c86c, #f0e583);
+  border-bottom: 2px dashed #351e18;
 }
 .Header-brand {
   font-style: italic;
