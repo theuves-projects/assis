@@ -1,0 +1,23 @@
+.Dashboard_Content {
+
+}
+.Dashboard_Content-header {
+  padding-bottom: 10px;
+  border-bottom: solid 1px #ddd;
+}
+.Dashboard_Content-btn {
+  padding: 6px 20px;
+  margin: 0 5px;
+  border: solid 1px #d85127;
+  border-radius: 3px;
+  font-size: 1em;
+  cursor: pointer;
+  color: white;
+  background-image: linear-gradient(to top, #ec4d1b, #ff5722);
+}
+.Dashboard_Content-btn:first-child {
+  margin-left: 0;
+}
+.Dashboard_Content-btn:last-child {
+  margin-right: 0;
+}

@@ -1,0 +1,22 @@
+.Dashboard_Profile {
+  padding: 20px;
+  text-align: center;
+  border-radius: 3px;
+  box-shadow: 8px 8px 0 0 #f0e583;
+  background-image: linear-gradient(to bottom, #47484e, #30323c);
+  color: white;
+}
+.Dashboard_Profile-avatar {
+  margin-bottom: 25px;
+  width: 100%;
+  border-radius: 3px;
+  background-color: #eee;
+}
+.Dashboard_Profile-name {
+  margin-bottom: 5px;
+  text-transform: uppercase;
+}
+.Dashboard_Profile-username {
+  font-style: italic;
+  color: #bbb;
+}

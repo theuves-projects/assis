@@ -1,0 +1,14 @@
+.Dashboard {
+  font-family: Helvetica, Verdana, Arial, sans-serif;
+}
+.Dashboard-row {
+  margin-top: 50px;
+  display: flex;
+}
+.Dashboard-profile {
+  width: 250px;
+  margin-right: 30px;
+}
+.Dashboard-content {
+  flex: 1;
+}

@@ -1,11 +1,11 @@
 import React from 'react'
 import Header from './Header.js'
-import Home from './Home/Home'
+import Dashboard from './Dashboard/Dashboard'
 
 const Layout = () => (
   <div>
     <Header />
-    <Home />
+    <Dashboard />
   </div>
 )
 
