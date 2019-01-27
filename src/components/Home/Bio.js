@@ -4,7 +4,7 @@ import React from 'react'
 import './Bio.css'
 
 // Images
-import author from '../../../images/Home_Bio-author.jpg'
+import author from '../../images/Home_Bio-author.jpg'
 
 const Bio = () => (
   <section className='Home_Bio'>
