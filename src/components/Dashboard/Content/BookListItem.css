@@ -1,0 +1,32 @@
+.Dashboard_Content_BookListItem {
+  position: relative;
+  padding: 10px;
+  border-radius: 3px;
+  box-shadow: 1px 1px 1px 0 #aaa;
+  background-color: #eee;
+  user-select: none;
+}
+.Dashboard_Content_BookListItem::before {
+  content: '';
+  position: absolute;
+  display: block;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  cursor: pointer;
+}
+.Dashboard_Content_BookListItem:hover {
+  opacity: .95;
+}
+.Dashboard_Content_BookListItem:active {
+  opacity: .9;
+}
+.Dashboard_Content_BookListItem-cover {
+  width: 100%;
+  margin-bottom: 10px;
+  border-radius: 3px;
+}
+.Dashboard_Content_BookListItem-title {
+  font-style: normal;
+}

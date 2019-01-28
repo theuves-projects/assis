@@ -2,7 +2,7 @@ import React from 'react'
 
 // Components
 import Profile from './Profile'
-import Content from './Content'
+import Content from './Content/Content'
 
 // Styles
 import './Dashboard.css'

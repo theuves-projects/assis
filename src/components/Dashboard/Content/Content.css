@@ -2,22 +2,32 @@
 
 }
 .Dashboard_Content-header {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
   padding-bottom: 10px;
   border-bottom: solid 1px #ddd;
 }
-.Dashboard_Content-btn {
+.Dashboard_Content-btn,
+.Dashboard_Content-btn-new {
   padding: 6px 20px;
   margin: 0 5px;
-  border: solid 1px #d85127;
   border-radius: 3px;
   font-size: 1em;
   cursor: pointer;
   color: white;
+}
+.Dashboard_Content-btn {
+  border: solid 1px #d85127;
   background-image: linear-gradient(to top, #ec4d1b, #ff5722);
 }
-.Dashboard_Content-btn:first-child {
+.Dashboard_Content-btn-new {
+  border: solid 1px #d07f08;
+  background-image: linear-gradient(to top, #ff9800, #ffc107);
+}
+/*.Dashboard_Content-btn:first-child {
   margin-left: 0;
 }
 .Dashboard_Content-btn:last-child {
   margin-right: 0;
-}
+}*/
