@@ -1,11 +1,11 @@
 import React from 'react'
 import Header from './Header.js'
-import Dashboard from './Dashboard/Dashboard'
+import Book from './Book/Book'
 
 const Layout = () => (
   <div>
     <Header />
-    <Dashboard />
+    <Book />
   </div>
 )
 

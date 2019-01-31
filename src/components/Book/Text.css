@@ -1,0 +1,30 @@
+.Book_Text {
+  margin-bottom: 75px;
+  padding: 75px 100px;
+  border: solid 1px #ddd;
+  border-radius: 5px;
+  box-shadow: 1px 1px 0 0 #ccc;
+  font-size: 1.25em;
+  text-align: justify;
+  line-height: 180%;
+}
+.Book_Text-header {
+  text-align: center;
+  text-transform: uppercase;
+  margin-bottom: 25px;
+}
+.Book_Text-title {
+  font-size: 1.75em;
+  margin-bottom: 5px;
+}
+.Book_Text-subtitle {
+  font-size: 1em;
+  font-style: italic;
+  color: gray;
+}
+.Book_Text-p {
+  margin-bottom: 15px;
+}
+.Book_Text-pCenter {
+  text-align: center;
+}

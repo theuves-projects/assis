@@ -1,6 +1,6 @@
 [
   {
-    "chapter": "Prólogo da terceira edição",
+    "chapterName": "Prólogo da terceira edição",
     "chapterDescription": null,
     "text": [
       "A primeira edição destas Memórias Póstumas de Brás Cubas foi feit aos pedaços na Revista Brasileira, pelos anos de 1880. Postas mai tarde em livro, corrigi o texto em vários lugares. Agora que tive de  rever para a terceira edição, emendei ainda alguma coisa e suprim duas ou três dúzias de linhas. Assim composta, sai novamente à lu esta obra que alguma benevolência parece ter encontrado no público.",
@@ -10,7 +10,7 @@
     ]
   },
   {
-    "chapter": "AO LEITOR",
+    "chapterName": "AO LEITOR",
     "chapterDescription": null,
     "text": [
       "Que Stendhal confessasse haver escrito um de seus livros para ce leitores, coisa é que admira e consterna. O que não admira, ne provavelmente consternará é se este outro livro não tiver os ce leitores de Stendhal, nem cinqüenta, nem vinte e, quando muito dez. Dez? Talvez cinco. Trata-se, na verdade, de uma obra difusa, n qual eu, Brás Cubas, se adotei a forma livre de um Sterne, ou de u Xavier de Maistre, não sei se lhe meti algumas rabugens d pessimismo. Pode ser. Obra de finado. Escrevi-a com a pena d galhofa e a tinta da melancolia, e não é difícil antever o que poder sair desse conúbio. Acresce que a gente grave achará no livro uma aparências de puro romance, ao passo que a gente frívola não achar nele o seu romance usual; ei-lo aí fica privado da estima dos graves  do amor dos frívolos, que são as duas colunas máximas da opinião.",
@@ -19,7 +19,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO PRIMEIRO",
+    "chapterName": "CAPÍTULO PRIMEIRO",
     "chapterDescription": "ÓBITO DO AUTOR",
     "text": [
       "Algum tempo hesitei se devia abrir estas memórias pelo princípio o pelo fim, isto é, se poria em primeiro lugar o meu nascimento ou  minha morte. Suposto o uso vulgar seja começar pelo nascimento duas considerações me levaram a adotar diferente método:  primeira é que eu não sou propriamente um autor defunto, mas u defunto autor, para quem a campa foi outro berço; a segunda é qu o escrito ficaria assim mais galante e mais novo. Moisés, que també contou a sua morte, não a pôs no intróito, mas no cabo: diferenç radical entre este livro e o Pentateuco.",
@@ -31,7 +31,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO II",
+    "chapterName": "CAPÍTULO II",
     "chapterDescription": "O EMPLASTO",
     "text": [
       "Com efeito, um dia de manhã, estando a passear na chácara pendurou-se-me uma idéia no trapézio que eu tinha no cérebro. Um vez pendurada, entrou a bracejar, a pernear, a fazer as mai arrojadas cabriolas de volatim, que é possível crer. Eu deixei-m estar a contemplá-la. Súbito, deu um grande salto, estendeu o braços e as pernas, até tomar a forma de um X: decifra-me o devoro-te.",
@@ -41,7 +41,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO III",
+    "chapterName": "CAPÍTULO III",
     "chapterDescription": "GENEALOGIA",
     "text": [
       "Mas, já que falei nos meus dois tios, deixem-me fazer aqui um curt esboço genealógico.",
@@ -51,7 +51,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO IV",
+    "chapterName": "CAPÍTULO IV",
     "chapterDescription": "A IDÉIA FIXA",
     "text": [
       "A minha idéia, depois de tantas cabriolas, constituíra-se idéia fixa Deus te livre, leitor, de uma idéia fixa; antes um argueiro, antes um trave no olho. Vê o Cavour; foi a idéia fixa da unidade italiana que  matou. Verdade é que Bismarck não morreu; mas cumpre adverti que a natureza é uma grande caprichosa e a história uma etern loureira. Por exemplo, Suetônio deu-nos um Cláudio, que era u simplório, — ou “uma abóbora” como lhe chamou Sêneca, e um Tito que mereceu ser as delícias de Roma. Veio modernamente u professor e achou meio de demonstrar que dos dois césares,  delicioso, o verdadeiro delicioso, foi o “abóbora” de Sêneca. E tu madama Lucrécia, flor dos Bórgias, se um poeta te pintou como  Messalina católica, apareceu um Gregorovius incrédulo que te apago muito essa qualidade, e, se não vieste a lírio, também não ficast pântano. Eu deixo-me estar entre o poeta e o sábio.",
@@ -61,7 +61,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO V",
+    "chapterName": "CAPÍTULO V",
     "chapterDescription": "EM QUE APARECE A ORELHA DE UMA SENHORA",
     "text": [
       "Senão quando, estando eu ocupado em preparar e apurar a minh invenção, recebi em cheio um golpe de ar; adoeci logo, e não m tratei. Tinha o emplasto no cérebro; trazia comigo a idéia fixa do doidos e dos fortes. Via-me, ao longe, ascender do chão das turbas,  remontar ao Céu, como uma águia imortal, e não é diante de tã excelso espetáculo que um homem pode sentir a dor que o punge. N outro dia estava pior; tratei-me enfim, mas incompletamente, se método, nem cuidado, nem persistência; tal foi a origem do mal qu me trouxe à eternidade. Sabem já que morri numa sexta-feira, di aziago, e creio haver provado que foi a minha invenção que m matou. Há demonstrações menos lúcidas e não menos triunfantes.",
@@ -70,7 +70,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO VI",
+    "chapterName": "CAPÍTULO VI",
     "chapterDescription": "CHIMÈNE, QUI L'EÛT DIT? RODRIGUE, QU L'EÛT CRU?",
     "text": [
       "Vejo-a assomar à porta da alcova, pálida, comovida, trajada d preto, e ali ficar durante um minuto, sem ânimo de entrar, ou detid pela presença de um homem que estava comigo. Da cama, ond jazia, contemplei-a durante esse tempo, esquecido de lhe dizer nad ou de fazer nenhum gesto. Havia já dois anos que nos não víamos,  eu via-a agora não qual era, mas qual fora, quais fôramos ambos porque um Ezequias misterioso fizera recuar o sol até os dias juvenis Recuou o sol, sacudi todas as misérias, e este punhado de pó, que  morte ia espalhar na eternidade do nada, pôde mais do que o tempo que é o ministro da morte. Nenhuma água de Juventa igualaria ali  simples saudade.",
@@ -95,7 +95,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO VII",
+    "chapterName": "CAPÍTULO VII",
     "chapterDescription": "O DELÍRIO",
     "text": [
       "Que me conste, ainda ninguém relatou o seu próprio delírio; faço- eu, e a ciência mo agradecerá. Se o leitor não é dado à contemplaçã destes fenômenos mentais, pode saltar o capítulo; vá direito  narração. Mas, por menos curioso que seja, sempre lhe digo que  interessante saber o que se passou na minha cabeça durante un vinte a trinta minutos. ",
@@ -132,7 +132,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO VIII",
+    "chapterName": "CAPÍTULO VIII",
     "chapterDescription": "RAZÃO CONTRA SANDICE",
     "text": [
       "Já o leitor compreendeu que era a Razão que voltava à casa,  convidava a Sandice a sair, clamando, e com melhor jus, as palavra de Tartufo:",
@@ -148,14 +148,14 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO IX",
+    "chapterName": "CAPÍTULO IX",
     "chapterDescription": "TRANSIÇÃO",
     "text": [
       "E vejam agora com que destreza; com que arte faço eu a maio transição deste livro. Vejam: o meu delírio começou em presença d Virgília; Virgília foi o meu grão pecado da juventude; não h juventude sem meninice; meninice supõe nascimento; e eis aqu como chegamos nós, sem esforço, ao dia 20 de outubro de 1805, e que nasci. Viram? Nenhuma juntura aparente, nada que divirta  atenção pausada do leitor: nada. De modo que o livro fica assim co todas as vantagens do método, sem a rigidez do método. Na verdade, era tempo. Que isto de método, sendo, como é, uma cois indispensável, todavia é melhor tê-lo sem gravata nem suspensórios mas um pouco à fresca e à solta, como quem não se lhe dá d vizinha fronteira, nem do inspetor de quarteirão. É como  eloqüência, que há uma genuína e vibrante, de uma arte natural  feiticeira, e outra tesa, engomada e chocha. Vamos ao dia 20 d outubro."
     ]
   },
   {
-    "chapter": "CAPÍTULO X",
+    "chapterName": "CAPÍTULO X",
     "chapterDescription": "NAQUELE DIA",
     "text": [
       "Naquele dia, a árvore dos Cubas brotou uma graciosa flor. Nasci recebeu-me nos braços a Pascoela, insigne parteira minhota, que s gabava de ter aberto a porta do mundo a uma geração inteira d fidalgos. Não é impossível que meu pai lhe ouvisse tal declaração creio, todavia, que o sentimento paterno é que o induziu a gratificá-l com duas meias dobras. Lavado e enfaixado, fui desde logo o heró da nossa casa. Cada qual prognosticava a meu respeito o que mai lhe quadrava ao sabor. Meu tio João, o antigo oficial de infantaria achava-me um certo olhar de Bonaparte, coisa que meu pai não pôd ouvir sem náuseas; meu tio Ildefonso, então simples padre, farejavame cônego.",
@@ -171,7 +171,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XI",
+    "chapterName": "CAPÍTULO XI",
     "chapterDescription": "O MENINO É PAI DO HOMEM",
     "text": [
       "Cresci; e nisso é que a família não interveio; cresci naturalmente como crescem as magnólias e os gatos. Talvez os gatos são meno matreiros, e com certeza, as magnólias são menos inquietas do qu eu era na minha infância. Um poeta dizia que o menino é pai d homem. Se isto é verdade, vejamos alguns lineamentos do menino.",
@@ -186,7 +186,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XII",
+    "chapterName": "CAPÍTULO XII",
     "chapterDescription": "UM EPISÓDIO DE 1814",
     "text": [
       "Mas eu não quero passar adiante, sem contar sumariamente u galante episódio de 1814; tinha nove anos.",
@@ -214,7 +214,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XIII",
+    "chapterName": "CAPÍTULO XIII",
     "chapterDescription": "UM SALTO",
     "text": [
       "Unamos agora os pés e demos um salto por cima da escola,  enfadonha escola, onde aprendi a ler, escrever, contar, da cacholetas, apanhá-las, e ir fazer diabruras, ora nos morros, ora na praias, onde quer que fosse propício a ociosos.",
@@ -224,7 +224,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XIV",
+    "chapterName": "CAPÍTULO XIV",
     "chapterDescription": "O PRIMEIRO BEIJO",
     "text": [
       "Tinha dezessete anos; pungia-me um buçozinho que eu forcejava po trazer a bigode. Os olhos, vivos e resolutos, eram a minha feiçã verdadeiramente máscula. Como ostentasse certa arrogância, não s distinguia bem se era uma criança, com fumos de homem, se u homem com ares de menino. Ao cabo, era um lindo garção, lindo  audaz, que entrava na vida de botas e esporas, chicote na mão  sangue nas veias, cavalgando um corcel nervoso, rijo, veloz, como  corcel das antigas baladas, que o romantismo foi buscar ao castel medieval, para dar com ele nas ruas do nosso século. O pior é que  estafaram a tal ponto, que foi preciso deitá-lo à margem, onde  realismo o veio achar, comido de lazeira e vermes, e, por compaixão o transportou para os seus livros.",
@@ -238,7 +238,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XV",
+    "chapterName": "CAPÍTULO XV",
     "chapterDescription": "MARCELA",
     "text": [
       "Gastei trinta dias para ir do Rocio Grande ao coração de Marcela, nã já cavalgando o corcel do cego desejo, mas o asno da paciência,  um tempo manhoso e teimoso. Que, em verdade, há dois meios d granjear a vontade das mulheres: o violento, como o touro d Europa, e o insinuativo, como o cisne de Leda e a chuva de ouro d Danae, três inventos do Padre Zeus, que, por estarem fora da moda aí ficam trocados no cavalo e no asno. Não direi as traças que urdi nem as peitas, nem as alternativas de confiança e temor, nem a esperas baldadas, nem nenhuma outra dessas coisas preliminares Afirmo-lhes que o asno foi digno do corcel, — um asno de Sancho deveras filósofo, que me levou à casa dela, no fim do citado período apeei-me, bati-lhe na anca e mandei-o pastar.",
@@ -264,14 +264,14 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XVI",
+    "chapterName": "CAPÍTULO XVI",
     "chapterDescription": "UMA REFLEXÃO IMORAL",
     "text": [
       "Ocorre-me uma reflexão imoral, que é ao mesmo tempo um correção de estilo. Cuido haver dito, no capítulo XIV, que Marcel morria de amores pelo Xavier. Não morria, vivia. Viver não é  mesma coisa que morrer; assim o afirmam todos os joalheiros dest mundo, gente muito vista na gramática. Bons joalheiros, que seria d amor se não fossem os vossos dixes e fiados? Um terço ou um quint do universal comércio dos corações. Esta é a reflexão imoral que e pretendia fazer, a qual é ainda mais obscura do que imoral, porqu não se entende bem o que eu quero dizer. O que eu quero dizer  que a mais bela testa do mundo não fica menos bela, se a cingir u diadema de pedras finas; nem menos bela, nem menos amada Marcela, por exemplo, que era bem bonita, Marcela amou-me..."
     ]
   },
   {
-    "chapter": "CAPÍTULO XVII",
+    "chapterName": "CAPÍTULO XVII",
     "chapterDescription": "DO TRAPÉZIO E OUTRAS COISAS",
     "text": [
       "...Marcela amou-me durante quinze meses e onze contos de réis nada menos. Meu pai, logo que teve aragem dos onze contos sobressaltou-se deveras; achou que o caso excedia as raias de u capricho juvenil.",
@@ -303,7 +303,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XVIII",
+    "chapterName": "CAPÍTULO XVIII",
     "chapterDescription": "VISÃO DO CORREDOR",
     "text": [
       "No fim da escada, ao fundo do corredor escuro, parei algun instantes para respirar, apalpar-me, convocar as idéias dispersas reaver-me enfim no meio de tantas sensações profundas  contrárias. Achava-me feliz. Certo é que os diamantes corrompiamme um pouco a felicidade; mas não é menos certo que uma dam bonita pode muito bem amar os gregos e os seus presentes. E depoi eu confiava na minha boa Marcela; podia ter defeitos, mas amavame...",
@@ -313,7 +313,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XIX",
+    "chapterName": "CAPÍTULO XIX",
     "chapterDescription": "A BORDO",
     "text": [
       "Éramos onze passageiros, um homem doido, acompanhado pel mulher, dois rapazes que iam a passeio, quatro comerciantes e doi criados. Meu pai recomendou-me a todos, começando pelo capitão d navio, que aliás tinha muito que cuidar de si, porque, além do mais levava a mulher tísica em último grau.",
@@ -347,7 +347,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XX",
+    "chapterName": "CAPÍTULO XX",
     "chapterDescription": "BACHARELO-ME",
     "text": [
       "Um grande futuro! Enquanto esta palavra me batia no ouvido devolvia eu os olhos, ao longe, no horizonte misterioso e vago. Um idéia expelia outra, a ambição desmontava Marcela. Grande futuro Talvez naturalista, literato, arqueólogo, banqueiro, político, ou at bispo, — bispo que fosse, — uma vez que fosse um cargo, um preeminência, uma grande reputação, uma posição superior.  ambição, dado que fosse águia, quebrou nessa ocasião o ovo,  desvendou a pupila fulva e penetrante. Adeus, amores! adeus Marcela! dias de delírio, jóias sem preço, vida sem regímen, adeus Cá me vou às fadigas e à glória; deixo-vos com as calcinhas d primeira idade.",
@@ -355,7 +355,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XXI",
+    "chapterName": "CAPÍTULO XXI",
     "chapterDescription": "O ALMOCREVE",
     "text": [
       "Vai então, empacou o jumento em que eu vinha montado; fustigueio, ele deu dois corcovos, depois mais três, enfim mais um, que m sacudiu fora da sela, com tal desastre, que o pé esquerdo me fico preso no estribo; tento agarrar-me ao ventre do animal, mas j então, espantado, disparou pela estrada fora. Digo mal: tento disparar, e efetivamente deu dois saltos, mas um almocreve, que al estava, acudiu a tempo de lhe pegar na rédea e detê-lo, não se esforço nem perigo. Dominado o bruto, desvencilhei-me do estribo  pus-me de pé.",
@@ -373,7 +373,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XXII",
+    "chapterName": "CAPÍTULO XXII",
     "chapterDescription": "VOLTA AO RIO",
     "text": [
       "Jumento de uma figa, cortaste-me o fio às reflexões. Já agora nã digo o que pensei dali até Lisboa, nem o que fiz em Lisboa, n península e em outros lugares da Europa, da velha Europa, que ness tempo parecia remoçar. Não, não direi que assisti às alvoradas d romantismo, que também eu fui fazer poesia efetiva no regaço d Itália; não direi coisa nenhuma. Teria de escrever um diário d viagem e não umas memórias, como estas são, nas quais só entra  substância da vida.",
@@ -383,7 +383,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XXIII",
+    "chapterName": "CAPÍTULO XXIII",
     "chapterDescription": "TRISTE, MAS CURTO",
     "text": [
       "Vim. Não nego que, ao avistar a cidade natal, tive uma sensaçã nova. Não era efeito da minha pátria política; era-o do lugar d infância, a rua, a torre, o chafariz da esquina, a mulher de mantilha o preto do ganho, as coisas e cenas da meninice, buriladas n memória. Nada menos que uma renascença. O espírito, como u pássaro, não se lhe deu da corrente dos anos, arrepiou o vôo n direção da fonte original, e foi beber da água fresca e pura, ainda nã mesclada do enxurro da vida.",
@@ -395,7 +395,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XXIV",
+    "chapterName": "CAPÍTULO XXIV",
     "chapterDescription": "CURTO, MAS ALEGRE",
     "text": [
       "Fiquei prostrado. E contudo era eu, nesse tempo, um fiel compêndi de trivialidade e presunção. Jamais o problema da vida e da mort me oprimira o cérebro; nunca até esse dia me debruçara sobre  abismo do Inexplicável; faltava-me o essencial, que é o estímulo,  vertigem...",
@@ -404,7 +404,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XXV/ NA TIJUCA",
+    "chapterName": "CAPÍTULO XXV/ NA TIJUCA",
     "text": [
       "Ui! Lá me ia a pena a escorregar para o enfático. Sejamos simples como era simples a vida que levei na Tijuca, durante as primeira semanas depois da morte de minha mãe.",
       "No sétimo dia, acabada a missa fúnebre, travei de uma espingarda alguns livros, roupa, charutos, um moleque, — o Prudêncio d capítulo XI, — e fui meter-me numa velha casa de nossa propriedade Meu pai forcejou por me torcer a resolução, mas eu é que não podi nem queria obedecer-lhe. Sabina desejava que eu fosse morar co ela algum tempo, — duas semanas, ao menos; meu cunhado estev a ponto de me levar à fina força. Era um bom rapaz este Cotrim passara de estróina a circunspecto. Agora comerciava em gêneros d estiva, labutava de manhã até à noite, com ardor, com perseverança De noite, sentado à janela, a encaracolar as suíças, não pensava e outra coisa. Amava a mulher e um filho, que então tinha, e que lh morreu alguns anos depois. Diziam que era avaro.",
@@ -420,7 +420,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XXVI",
+    "chapterName": "CAPÍTULO XXVI",
     "chapterDescription": "O AUTOR HESITA",
     "text": [
       "Súbito ouço uma voz: — Olá, meu rapaz, isto não é vida! Era me pai, que chegava com duas propostas na algibeira. Sentei-me no ba e recebi-o sem alvoroço. Ele esteve alguns instantes de pé, a olha para mim; depois estendeu-me a mão com um gesto comovido:",
@@ -448,7 +448,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XXVII",
+    "chapterName": "CAPÍTULO XXVII",
     "chapterDescription": "VIRGÍLIA?",
     "text": [
       "Virgília? Mas então era a mesma senhora que alguns anos depois?.. A mesma; era justamente a senhora, que em 1869 devia assistir ao meus últimos dias, e que antes, muito antes, teve larga parte na minhas mais íntimas sensações. Naquele tempo contava apenas un quinze ou dezesseis anos; era talvez a mais atrevida criatura d nossa raça, e, com certeza, a mais voluntariosa. Não digo que ia lh coubesse a primazia da beleza, entre as mocinhas do tempo, porqu isto não é romance, em que o autor sobredoura a realidade e fech os olhos às sardas e espinhas; mas também não digo que lh maculasse o rosto nenhuma sarda ou espinha, não. Era bonita fresca, saía das mãos da natureza, cheia daquele feitiço, precário  eterno, que o indivíduo passa a outro indivíduo, para os fins secreto da criação. Era isto Virgília, e era clara, muito clara, faceira ignorante, pueril, cheia de uns ímpetos misteriosos; muita preguiça  alguma devoção, — devoção, ou talvez medo; creio que medo.",
@@ -458,7 +458,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XXVIII",
+    "chapterName": "CAPÍTULO XXVIII",
     "chapterDescription": "CONTANTO QUE...",
     "text": [
       "— Virgília? interrompi eu.",
@@ -475,7 +475,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XXIX",
+    "chapterName": "CAPÍTULO XXIX",
     "chapterDescription": "A VISITA",
     "text": [
       "Vencera meu pai; dispus-me a aceitar o diploma e o casamento Virgília e a Câmara dos Deputados. — As duas Virgílias, disse ele nu assomo de ternura política. Aceitei-os; meu pai deu-me dois forte abraços. Era o seu próprio sangue que ele, enfim, reconhecia.",
@@ -488,7 +488,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XXX",
+    "chapterName": "CAPÍTULO XXX",
     "chapterDescription": "A FLOR DA MOITA",
     "text": [
       "A voz a as saias pertenciam a uma mocinha morena, que se deteve  porta, alguns instantes, ao ver gente estranha. Silêncio curto  constrangido. D. Eusébia quebrou-o, enfim, com resolução  franqueza:",
@@ -507,7 +507,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XXXI",
+    "chapterName": "CAPÍTULO XXXI",
     "chapterDescription": "A BORBOLETA PRETA",
     "text": [
       "Na dia seguinte, como eu estivesse a preparar-me para descer entrou no meu quarto uma borboleta, tão negra como a outra,  muito maior do que ela. Lembrou-me o caso da véspera, e ri-me entrei logo a pensar na filha de D. Eusébia, no susto que tivera, e n dignidade que, apesar dele, soube conservar. A borboleta, depois d esvoaçar muito em torno de mim, pousou-me na testa. Sacudi-a, el foi pousar na vidraça; e, porque eu a sacudisse de novo, saiu dali  veio parar em cima de um velho retrato de meu pai. Era negra com a noite. O gesto brando com que, uma vez posta, começou a move as asas, tinha um certo ar escarninho, que me aborreceu muito. De de ombros, saí do quarto; mas tornando lá, minutos depois,  achando-a ainda no mesmo lugar, senti um repelão dos nervos lancei mão de uma toalha, bati-lhe e ela caiu.",
@@ -518,7 +518,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XXXII",
+    "chapterName": "CAPÍTULO XXXII",
     "chapterDescription": "COXA DE NASCENÇA",
     "text": [
       "Fui dali acabar os preparativos da viagem. Já agora não me demor mais. Desço imediatamente; desço, ainda que algum leito circunspecto me detenha para perguntar se o capítulo passado  apenas uma sensaboria ou se chega a empulhação... Ai, não contav com D. Eusébia. Estava pronto, quando me entrou por casa. Vinh convidar-me para transferir a descida, e ir lá jantar nesse dia Cheguei a recusar; mas instou tanto, tanto, tanto, que não pud deixar de aceitar; demais, era-lhe devida aquela compensação; fui.",
@@ -533,7 +533,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XXXIII",
+    "chapterName": "CAPÍTULO XXXIII",
     "chapterDescription": "BEM-AVENTURADOS OS QUE NÃO DESCEM",
     "text": [
       "O pior é que era coxa. Uns olhos tão lúcidos, uma boca tão fresca uma compostura tão senhoril; e coxa! Esse contraste faria suspeita que a natureza é às vezes um imenso escárnio. Por que bonita, s coxa? por que coxa, se bonita? Tal era a pergunta que eu vinh fazendo a mim mesmo ao voltar para casa, de noite, sem atinar co a solução do enigma. O melhor que há, quando se não resolve u enigma, é sacudi-lo pela janela fora; foi o que eu fiz; lancei mão d uma toalha e enxotei essa outra borboleta preta, que me adejava n cérebro. Fiquei aliviado e fui dormir. Mas o sonho, que é uma frest do espírito, deixou novamente entrar o bichinho, e aí fiquei eu a noit toda a cavar o mistério, sem explicá-lo.",
@@ -546,14 +546,14 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XXXIV",
+    "chapterName": "CAPÍTULO XXXIV",
     "chapterDescription": "A UMA ALMA SENSÍVEL",
     "text": [
       "Há aí, entre as cinco ou dez pessoas que me lêem, há aí uma alm sensível, que está decerto um tanto agastada com o capítulo anterior começa a tremer pela sorte de Eugênia, e talvez... sim, talvez, lá n fundo de si mesma, me chame cínico. Eu cínico, alma sensível? Pel coxa de Diana! esta injúria merecia ser lavada com sangue, se  sangue lavasse alguma coisa nesse mundo. Não, alma sensível, e não sou cínico, eu fui homem; meu cérebro foi um tablado em que s deram peças de todo gênero, o drama sacro, o austero, o piegas,  comédia louçã, a desgrenhada farsa, os autos, as bufonerias, u pandemônio, alma sensível, uma barafunda de coisas e pessoas, e que podias ver tudo, desde a rosa de Esmirna até a arruda do te quintal, desde o magnífico leito de Cleópatra até o recanto da prai em que o mendigo tirita o seu sono. Cruzavam-se nele pensamento de vária casta e feição. Não havia ali a atmosfera somente da águia  do beija-flor; havia também a da lesma e do sapo. Retira, pois,  expressão, alma sensível, castiga os nervos, limpa os óculos, — qu isso às vezes é dos óculos, — e acabemos de uma vez com esta flo da moita."
     ]
   },
   {
-    "chapter": "CAPÍTULO XXXV",
+    "chapterName": "CAPÍTULO XXXV",
     "chapterDescription": "O CAMINHO DE DAMASCO",
     "text": [
       "Ora aconteceu, que, oito dias depois, como eu estivesse no caminh de Damasco, ouvi uma voz misteriosa, que me sussurrou as palavra da Escritura (At. IX, 7): “Levanta-te, e entra na cidade.” Essa vo saía de mim mesmo, e tinha duas origens: a piedade, que m desarmava ante a candura da pequena, e o terror de vir a ama deveras, e desposá-la. Uma mulher coxa! Quanto a este motivo d minha descida, não há duvidar que ela o achou e mo disse. Foi n varanda, na tarde de uma segunda-feira, ao anunciar-lhe que n seguinte manhã viria para baixo. — Adeus, suspirou ela estendendome a mão com simplicidade; faz bem. — E como eu nada dissesse continuou: — Faz bem em fugir ao ridículo de casar comigo. Ia dizerlhe que não; ela retirou-se lentamente, engolindo as lágrimas Alcancei-a a poucos passos, e jurei-lhe por todos os santos do Cé que eu era obrigado a descer, mas que não deixava de lhe querer  muito; tudo hipérboles frias, que ela escutou sem dizer nada.",
@@ -563,7 +563,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XXXVI",
+    "chapterName": "CAPÍTULO XXXVI",
     "chapterDescription": "A PROPÓSITO DE BOTAS",
     "text": [
       "Meu pai, que me não esperava, abraçou-me cheio de ternura  agradecimento. — Agora é deveras? disse ele. Posso enfim...?",
@@ -572,7 +572,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XXXVII",
+    "chapterName": "CAPÍTULO XXXVII",
     "chapterDescription": "ENFIM!",
     "text": [
       "Enfim! eis aqui Virgília. Antes de ir à casa do Conselheiro Dutra perguntei a meu pai se havia algum ajuste prévio de casamento.",
@@ -583,7 +583,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XXXVIII",
+    "chapterName": "CAPÍTULO XXXVIII",
     "chapterDescription": "A QUARTA EDIÇÃO",
     "text": [
       "— Venha cá jantar amanhã, disse-me o Dutra uma noite.",
@@ -601,7 +601,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XXXIX",
+    "chapterName": "CAPÍTULO XXXIX",
     "chapterDescription": "O VIZINHO",
     "text": [
       "Enquanto eu fazia comigo mesmo aquela reflexão, entrou na loja u sujeito baixo, sem chapéu, trazendo pela mão uma menina de quatr anos.",
@@ -620,7 +620,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XL",
+    "chapterName": "CAPÍTULO XL",
     "chapterDescription": "NA SEGE",
     "text": [
       "Nisto entrou o moleque trazendo o relógio com o vidro novo. Er tempo; já me custava estar ali; dei uma moedinha de prata a moleque; disse a Marcela que voltaria noutra ocasião, e saí a pass largo. Para dizer tudo, devo confessar que o coração me batia u pouco; mas era uma espécie de dobre de finados. O espírito i travado de impressões opostas. Notem que aquele dia amanhecer alegre para mim. Meu pai, ao almoço, repetiu-me, por antecipação,  primeiro discurso que eu tinha de proferir na Câmara dos Deputados rimo-nos muito, e o sol também, que estava brilhante, como no mais belos dias do mundo; do mesmo modo que Virgília devia rir quando eu lhe contasse as nossas fantasias do almoço. Vai senã quando, cai-me o vidro do relógio; entro na primeira loja que me fic à mão; e eis me surge o passado, ei-lo que me lacera e beija; ei-l que me interroga, com um rosto cortado de saudades e bexigas...",
@@ -630,7 +630,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XLI",
+    "chapterName": "CAPÍTULO XLI",
     "chapterDescription": "A ALUCINAÇÃO",
     "text": [
       "Era verdade. Entrei apressado; achei Virgília ansiosa, mau humor fronte nublada. A mãe, que era surda, estava na sala com ela. No fi dos cumprimentos disse-me a moça com sequidão: ",
@@ -644,14 +644,14 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XLII",
+    "chapterName": "CAPÍTULO XLII",
     "chapterDescription": "QUE ESCAPOU A ARISTÓTELES",
     "text": [
       "Outra coisa que também me parece metafísica é isto: — Dá-s movimento a uma bola, por exemplo; rola esta, encontra outra bola transmite-lhe o impulso, e eis a segunda boa a rolar como a primeir rolou. Suponhamos que a primeira bola se chama... Marcela, —  uma simples suposição; a segunda, Brás Cubas; a terceira, Virgília Temos que Marcela, recebendo um piparote do passado rolou at tocar em Brás Cubas, — o qual, cedendo à força impulsiva, entrou  rolar também até esbarrar em Virgília, que não tinha nada com  primeira bola; e eis aí como, pela simples transmissão de uma força, se tocam os extremos sociais, e se estabelece uma coisa qu poderemos chamar — solidariedade do aborrecimento humano. Com é que este capítulo escapou a Aristóteles?"
     ]
   },
   {
-    "chapter": "CAPÍTULO XLIII",
+    "chapterName": "CAPÍTULO XLIII",
     "chapterDescription": "MARQUESA, PORQUE EU SEREI MARQUÊS",
     "text": [
       "Positivamente, era um diabrete Virgília, um diabrete angélico, s querem, mas era-o, e então...",
@@ -664,7 +664,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XLIV",
+    "chapterName": "CAPÍTULO XLIV",
     "chapterDescription": "UM CUBAS!",
     "text": [
       "Meu pai ficou atônito com o desenlace, e quer-me parecer que nã morreu de outra coisa. Eram tantos os castelos que engenhara tantos e tantíssimos os sonhos, que não podia vê-los assi esboroados, sem padecer um forte abalo no organismo. A princípi não quis crê-lo. Um Cubas! um galho da árvore ilustre dos Cubas!  dizia isto com tal convicção, que eu, já então informado da noss tanoaria, esqueci um instante a volúvel dama, para só contempla aquele fenômeno, não raro, mas curioso: uma imaginação graduad em consciência.",
@@ -677,14 +677,14 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XLV",
+    "chapterName": "CAPÍTULO XLV",
     "chapterDescription": "NOTAS",
     "text": [
       "Soluços, lágrimas, casa armada, veludo preto nos portais, um home que veio vestir o cadáver, outro que tomou a medida do caixão caixão, essa, tocheiros, convites, convidados que entravam lentamente, a passo surdo, e apertavam a mão à família, algun tristes, todos sérios e calados, padre e sacristão, rezas, aspersõe d’água benta, o fechar do caixão, a prego e martelo, seis pessoas qu o tomam da essa, e o levantam, e o descem a custo pela escada, nã obstante os gritos, soluços e novas lágrimas da família, e vão até  coche fúnebre, e o colocam em cima e traspassam e apertam a correias, o rodar do coche, o rodar dos carros, um a um... Isto qu parece um simples inventário, eram notas que eu havia tomado par um capítulo triste e vulgar que não escrevo."
     ]
   },
   {
-    "chapter": "CAPÍTULO XLVI",
+    "chapterName": "CAPÍTULO XLVI",
     "chapterDescription": "A HERANÇA",
     "text": [
       "Veja-nos agora o leitor, oito dias depois da morte de meu pai,  minha irmã sentada num sofá, — pouco adiante, Cotrim, de pé encostado a um consolo, com os braços cruzados e a morder o bigode, — eu a passear de um lado para outro, com os olhos n chão. Luto pesado. Profundo silêncio.",
@@ -721,7 +721,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XLVII",
+    "chapterName": "CAPÍTULO XLVII",
     "chapterDescription": "O RECLUSO",
     "text": [
       "Marcela, Sabina, Virgília... aí estou eu a fundir todos os contrastes como se esses nomes e pessoas não fossem mais do que modos de ser da minha afeição interior. Pena de maus costumes, ata um gravata ao estilo, veste-lhe um colete menos sórdido; e depois sim depois vem comigo, entra nessa casa, estira-te nessa rede que m embalou a melhor parte dos anos que decorreram desde o inventári de meu pai até 1842. Vem; se te cheirar a algum aroma de toucador não cuides que o mandei derramar para meu regalo; é um vestígi da N. ou da Z. ou da U. — que todas essas letras maiúscula embalaram aí a sua elegante abjeção. Mas, se além do aroma quiseres outra coisa, fica-te com o desejo, porque eu não guarde retratos, nem cartas, nem memórias, a mesma comoção esvaiu-se,  só me ficaram as letras iniciais.",
@@ -729,7 +729,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XLVIII",
+    "chapterName": "CAPÍTULO XLVIII",
     "chapterDescription": "UM PRIMO DE VIRGÍLIA",
     "text": [
       "— Sabe quem chegou ontem de São Paulo? perguntou-me uma noit Luís Dutra.",
@@ -738,7 +738,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XLIX",
+    "chapterName": "CAPÍTULO XLIX",
     "chapterDescription": "A PONTA DO NARIZ",
     "text": [
       "Nariz, consciência sem remorsos, tu me valeste muito na vida... J meditaste alguma vez no destino do nariz, amado leitor? A explicaçã do Doutor Pangloss é que o nariz foi criado para uso dos óculos, —  tal explicação confesso que até certo tempo me pareceu definitiva mas veio um dia, em que, estando a ruminar esse e outros ponto obscuros de filosofia, atinei com a única, verdadeira e definitiv explicação.",
@@ -749,7 +749,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO L",
+    "chapterName": "CAPÍTULO L",
     "chapterDescription": "VIRGÍLIA CASADA",
     "text": [
       "— Quem chegou de São Paulo foi minha prima Virgília, casada com  Lobo Neves, continuou Luís Dutra.",
@@ -768,7 +768,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO LI",
+    "chapterName": "CAPÍTULO LI",
     "chapterDescription": "É MINHA!",
     "text": [
       "— É minha! disse eu comigo, logo que a passei a outro cavalheiro;  confesso que durante o resto da noite, foi-se-me a idéia entranhand no espírito, não à força de martelo, mas de verruma, que é mai insinuativa.",
@@ -783,7 +783,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO LII",
+    "chapterName": "CAPÍTULO LII",
     "chapterDescription": "O EMBRULHO MISTERIOSO",
     "text": [
       "Foi o caso que, alguns dias depois, indo eu a Botafogo, tropecei nu embrulho, que estava na praia. Não digo bem; houve meno tropeção que pontapé. Vendo um embrulho, pão grande, mas limpo  corretamente feito, atado com um barbante rijo, uma coisa qu parecia alguma coisa, lembrou-me bater-lhe com o pé, assim po experiência, e bati, e o embrulho resistiu. Relanceei os olhos em volt de mim; a praia estava deserta; ao longe uns meninos brincavam,  um pescador curava as redes ainda mais longe, — ninguém qu pudesse ver a minha ação; inclinei-me, apanhei o embrulho e segui.",
@@ -797,7 +797,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO LIII",
+    "chapterName": "CAPÍTULO LIII",
     "chapterDescription": ". . . . .",
     "text": [
       "Virgília é que já se não lembrava da meia dobra; toda ela estav concentrada em mim, nos meus olhos, na minha vida, no me pensamento; — era o que dizia, e era verdade.",
@@ -805,7 +805,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO LIV",
+    "chapterName": "CAPÍTULO LIV",
     "chapterDescription": "A PÊNDULA",
     "text": [
       "Saí dali a saborear o beijo. Não pude dormir; estirei-me na cama,  certo, mas foi o mesmo que nada. Ouvi as horas todas da noite Usualmente, quando eu perdia o sono, o bater da pêndula fazia-m muito mal; esse tique-taque soturno, vagaroso e seco parecia dizer  cada golpe que eu ia ter um instante menos de vida. Imaginav então um velho diabo, sentado entre dois sacos, o da vida e o d morte, a tirar as moedas da vida para dá-las à morte, e a contá-la assim:",
@@ -818,7 +818,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO LV",
+    "chapterName": "CAPÍTULO LV",
     "chapterDescription": "O VELHO DIÁLOGO DE ADÃO E EVA",
     "text": [
       "BRÁS CUBAS................................?",
@@ -839,7 +839,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO LVI",
+    "chapterName": "CAPÍTULO LVI",
     "chapterDescription": "O MOMENTO OPORTUNO",
     "text": [
       "Mas, com a breca! quem me explicará a razão desta diferença? U dia vimo-nos, tratamos o casamento, desfizemo-lo e separamo-nos,  frio, sem dor, porque não houvera paixão nenhuma; mordeu-m apenas algum despeito e nada mais. Correm anos, torno a vê-la damos três ou quatro giros de valsa, e eis-nos a amar um ao outr com delírio. A beleza de Virgília chegara, é certo, a um alto grau d apuro, mas nós éramos substancialmente os mesmos, e eu, à minh parte, não me tornara mais bonito nem mais elegante. Quem m explicará a razão dessa diferença?",
@@ -849,7 +849,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO LVII",
+    "chapterName": "CAPÍTULO LVII",
     "chapterDescription": "DESTINO",
     "text": [
       "Sim, senhor, amávamos. Agora, que todas as leis sociais no-l impediam, agora é que nos amávamos deveras. Achávamo-no jungidos um ao outro, como as duas almas que o poeta encontrou n Purgatório:",
@@ -860,7 +860,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO LVIII",
+    "chapterName": "CAPÍTULO LVIII",
     "chapterDescription": "CONFIDÊNCIA",
     "text": [
       "Lobo Neves, a princípio, metia-me grandes sustos. Pura ilusão! Com adorasse a mulher, não se vexava de mo dizer muitas vezes; achav que Virgília era a perfeição mesma, um conjunto de qualidade sólidas e finas, amorável, elegante, austera, um modelo. E  confiança não parava aí. De fresta que era, chegou a port escancarada. Um dia confessou-me que trazia uma triste carcoma n existência; faltava-lhe a glória pública. Animei-o; disse-lhe muita coisas bonitas, que ele ouviu com aquela unção religiosa de u desejo que não quer acabar de morrer; então compreendi que  ambição dele andava cansada de bater as asas, sem poder abrir  vôo. Dias depois disse-me todos os seus tédios e desfalecimentos, a amarguras engolidas, as raivas sopitadas; contou-me que a vid política era um tecido de invejas, despeitos, intrigas, perfídias interesses, vaidades. Evidentemente havia aí uma crise d melancolia; tratei de combatê-la.",
@@ -869,7 +869,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO LIX",
+    "chapterName": "CAPÍTULO LIX",
     "chapterDescription": "UM ENCONTRO",
     "text": [
       "Deve ser um vinho enérgico a política, dizia eu comigo, ao sair d casa de Lobo Neves; e fui andando, fui andando, até que na Rua do Barbonos vi uma sege, e dentro um dos ministros, meu antig companheiro de colégio. Cortejamo-nos afetuosamente, a seg seguiu, e eu fui andando... andando... andando...",
@@ -897,7 +897,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO LX",
+    "chapterName": "CAPÍTULO LX",
     "chapterDescription": "O ABRAÇO",
     "text": [
       "Cuidei que o pobre diabo estivesse doido, e ia afastar-me, quando el me pegou no pulso, e olhou alguns instantes para o brilhante que e trazia no dedo. Senti-lhe na mão uns estremeções de cobiça, un pruridos de posse.",
@@ -916,7 +916,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO LXI",
+    "chapterName": "CAPÍTULO LXI",
     "chapterDescription": "UM PROJETO",
     "text": [
       "Jantei triste. Não era a falta do relógio que me pungia, era a image do autor do furto, e as reminiscências de criança, e outra vez  comparação, e a conclusão... Desde a sopa, começou a abrir em mi a flor amarela e mórbida do capítulo XXV, e então jantei depressa para correr à casa de Virgília. Virgília era o presente; eu queri refugiar-me nele, para escapar às opressões do passado, porque  encontro do Quincas Borba, tornara-me aos olhos o passado, nã qual fora deveras, mas um passado roto, abjeto, mendigo e gatuno.",
@@ -927,14 +927,14 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO LXII",
+    "chapterName": "CAPÍTULO LXII",
     "chapterDescription": "O TRAVESSEIRO",
     "text": [
       "Fui ter com Virgília; depressa esqueci o Quincas Borba. Virgília era  travesseiro do meu espírito, um travesseiro mole, tépido, aromático enfronhado em cambraia e bruxelas. Era ali que ele costumav repousar de todas as sensações más, simplesmente enfadonhas, o até dolorosas. E, bem pesadas as coisas, não era outra a razão d existência de Virgília; não podia ser. Cinco minutos bastaram par olvidar inteiramente o Quincas Borba; cinco minutos de um contemplação mútua, com as mãos presas umas nas outras; cinc minutos e um beijo. E lá se foi a lembrança do Quincas Borba.. Escrófula da vida, andrajo do passado, que me importa que existas que molestes os olhos dos outros, se eu tenho dois palmos de u travesseiro divino, para fechar os olhos e dormir?"
     ]
   },
   {
-    "chapter": "CAPÍTULO LXIII",
+    "chapterName": "CAPÍTULO LXIII",
     "chapterDescription": "FUJAMOS!",
     "text": [
       "Ai! Nem sempre dormir. Três semanas depois, indo à casa de Virgília — eram quatro horas da tarde, — achei-a triste e abatida. Não m quis dizer o que era; mas, como eu instasse muito:",
@@ -975,7 +975,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO LXIV",
+    "chapterName": "CAPÍTULO LXIV",
     "chapterDescription": "A TRANSAÇÃO",
     "text": [
       "Vaguei pelas ruas e recolhi-me às nove horas. Não podendo dormir atirei-me a ler e escrever. Às onze horas estava arrependido de nã ter ido ao teatro, consultei o relógio, quis vestir-me, e sair. Julguei porém, que chegaria tarde; demais, era dar prova de fraqueza Evidentemente, Virgília começava a aborrecer-se de mim, pensav eu. E esta idéia fez-me sucessivamente desesperado e frio, dispost a esquecê-la e a matá-la. Via-a dali mesmo, reclinada no camarote com os seus magníficos braços nus, — os braços que eram meus, s meus, — fascinando os olhos de todos, com o vestido soberbo qu havia de ter, o colo de leite, os cabelos postos em bandos, à maneir do tempo, e os brilhantes, menos luzidios que os olhos dela... Via- assim, e doía-me que a vissem outros. Depois, começava a despi-la, a pôr de lado as jóias e sedas, a despenteá-la com as minhas mão sôfregas e lascivas, a torná-la, — não sei se mais bela, se mai natural, — a torná-la minha, somente minha, unicamente minha.",
@@ -1000,7 +1000,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO LXV",
+    "chapterName": "CAPÍTULO LXV",
     "chapterDescription": "OLHEIROS E ESCUTAS",
     "text": [
       "Interrompeu-nos o rumor de um carro na chácara. Veio um escrav dizer que era a baronesa X. Virgília consultou-me com os olhos.",
@@ -1020,7 +1020,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO LXVI",
+    "chapterName": "CAPÍTULO LXVI",
     "chapterDescription": "AS PERNAS",
     "text": [
       "Ora, enquanto eu pensava naquela gente, iam-me pernas levando ruas abaixo, de modo que insensivelmente me achei à porta do Hote Pharoux. De costume jantava aí; mas, não tendo deliberadament andado, nenhum merecimento da ação me cabe, e sim às pernas que a fizeram. Abençoadas pernas! E há quem vos trate com desdé ou indiferença. Eu mesmo, até então, tinha-vos em má conta zangava-me quando vos fatigáveis, quando não podíeis ir além d certo ponto, e me deixáveis com o desejo a avoaçar, à semelhanç de galinha atada pelos pés.",
@@ -1028,7 +1028,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO LXVII",
+    "chapterName": "CAPÍTULO LXVII",
     "chapterDescription": "A CASINHA",
     "text": [
       "Jantei e fui a casa. Lá achei uma caixa de charutos, que me mandar o Lobo Neves, embrulhada em papel de seda, e ornada de fitinha cor-de-rosa. Entendi, abri-a, e tirei este bilhete:",
@@ -1045,7 +1045,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO LXVIII",
+    "chapterName": "CAPÍTULO LXVIII",
     "chapterDescription": "O VERGALHO",
     "text": [
       "Tais eram as reflexões que eu vinha fazendo, por aquele Valong fora, logo depois de ver e ajustar a casa. Interrompeu-mas u ajuntamento; era um preto que vergalhava outro na praça. O outr não se atrevia a fugir; gemia somente estas únicas palavras: — “Não perdão, meu senhor; meu senhor, perdão!” Mas o primeiro não fazi caso, e, a cada súplica, respondia com uma vergalhada nova.",
@@ -1062,7 +1062,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO LXIX",
+    "chapterName": "CAPÍTULO LXIX",
     "chapterDescription": "UM GRÃO DE SANDICE",
     "text": [
       "Este caso faz-me lembrar um doido que conheci. Chamava-s Romualdo e dizia ser Tamerlão. Era a sua grande e única mania,  tinha uma curiosa maneira de a explicar.",
@@ -1071,7 +1071,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO LXX",
+    "chapterName": "CAPÍTULO LXX",
     "chapterDescription": "D. PLÁCIDA",
     "text": [
       "Voltemos à casinha. Não serias capaz de lá entrar hoje, curioso leitor envelheceu, enegreceu, apodreceu, e o proprietário deitou-a abaix para substituí-la por outra, três vezes maior, mas juro-te que muit menor que a primeira. O mundo era estreito para Alexandre; u desvão de telhado é o infinito para as andorinhas.",
@@ -1082,7 +1082,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO LXXI",
+    "chapterName": "CAPÍTULO LXXI",
     "chapterDescription": "O SENÃO DO LIVRO",
     "text": [
       "Começo a arrepender-me deste livro. Não que ele me canse; eu nã tenho que fazer; e, realmente, expedir alguns magros capítulos par esse mundo sempre é tarefa que distrai um pouco da eternidade. Ma o livro é enfadonho, cheira a sepulcro, traz certa contraçã cadavérica; vício grave, e aliás ínfimo, porque o maior defeito dest livro és tu, leitor. Tu tens pressa de envelhecer, e o livro and devagar; tu amas a narração direta e nutrida, o estilo regular  fluente, e este livro e o meu estilo são como os ébrios, guinam  direita e à esquerda, andam e param, resmungam, urram gargalham, ameaçam o céu, escorregam e caem...",
@@ -1090,7 +1090,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO LXXII",
+    "chapterName": "CAPÍTULO LXXII",
     "chapterDescription": "O BIBLIÔMANO",
     "text": [
       "Talvez suprima o capítulo anterior; entre outros motivos, há aí, na últimas linhas, uma frase muito parecida com despropósito, e eu nã quero dar pasto à crítica do futuro.",
@@ -1100,7 +1100,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO LXXIII",
+    "chapterName": "CAPÍTULO LXXIII",
     "chapterDescription": "O “LUNCHEON”",
     "text": [
       "O despropósito fez-me perder outro capítulo. Que melhor não er dizer as coisas lisamente, sem todos estes solavancos! Já comparei  meu estilo ao andar dos ébrios. Se a idéia vos parece indecorosa direi que ele é o que eram as minhas refeições com Virgília, n casinha da Gamboa, onde às vezes fazíamos a nossa patuscada,  nosso luncheon. Vinho, fruta, compotas. Comíamos, é verdade, ma era um comer virgulado de palavrinhas doces, de olhares ternos, d criancices, uma infinidade desses apartes do coração, aliás  verdadeiro, o ininterrupto discurso do amor. Às vezes vinha o arruf temperar o nímio adocicado da situação. Ela deixava-me, refugiavase num canto do canapé, ou ia para o interior ouvir as denguices d Dona Plácida. Cinco ou dez minutos depois, reatávamos a palestra como eu reato a narração, para desatá-la outra vez. Note-se que longe de termos horror ao método, era nosso costume convidá-lo, n pessoa de D. Plácida, a sentar-se conosco à mesa; mas D. Plácid não aceitava nunca.",
@@ -1110,7 +1110,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO LXXIV",
+    "chapterName": "CAPÍTULO LXXIV",
     "chapterDescription": "HISTÓRIA DE D. PLÁCIDA",
     "text": [
       "Não te arrependas de ser generoso; a pratinha rendeu-me um confidência de D. Plácida, e conseguintemente este capítulo. Dia depois, como eu a achasse só em casa, travamos palestra, e el contou-me em breves termos a sua história. Era filha natural de u sacristão da Sé e de uma mulher que fazia doces para fora. Perdeu  pai aos dez anos. Já então ralava coco e fazia não sei que outro trabalhos de doceira, compatíveis com a idade. Aos quinze o dezesseis casou com um alfaiate, que morreu tísico algum temp depois, deixando-lhe uma filha. Viúva e moça, ficaram a seu cargo  filha, com dois anos, e a mãe, cansada de trabalhar. Tinha d sustentar a três pessoas. Fazia doces, que era o seu ofício, mas cosi também, de dia e de noite, com afinco, para três ou quatro lojas, e ensinava algumas crianças do bairro, a dez tostões por mês. Com ist iam-se passando os anos, não a beleza, porque não a tivera nunca Apareceram-lhe alguns namoros, propostas, seduções, a que resistia.",
@@ -1124,7 +1124,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO LXXV",
+    "chapterName": "CAPÍTULO LXXV",
     "chapterDescription": "COMIGO",
     "text": [
       "Podendo acontecer que algum dos meus leitores tenha pulado  capítulo anterior, observo que é preciso lê-lo para entender o que e disse comigo, logo depois que D. Plácida saiu da sala. O que eu diss foi isto:",
@@ -1132,7 +1132,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO LXXVI",
+    "chapterName": "CAPÍTULO LXXVI",
     "chapterDescription": "O ESTRUME",
     "text": [
       "Súbito deu-me a consciência um repelão, acusou-me de ter feit capitular a probidade de D. Plácida, obrigando-a a um papel torpe depois de uma longa vida de trabalho e privações. Medianeira não er melhor que concubina, e eu tinha-a baixado a esse ofício, à custa d obséquios e dinheiros. Foi o que me disse a consciência; fiquei un dez minutos sem saber que lhe replicasse. Ela acrescentou que eu m aproveitara da fascinação exercida por Virgília sobre a ex-costureira da gratidão desta, enfim da necessidade. Notou a resistência de D Plácida, as lágrimas dos primeiros dias, as caras feias, os silêncios, o olhos baixos, e a minha arte em suportar tudo isso, até vencê-la.  repuxou-me outra vez de um modo irritado e nervoso.",
@@ -1140,7 +1140,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO LXXVII",
+    "chapterName": "CAPÍTULO LXXVII",
     "chapterDescription": "ENTREVISTA",
     "text": [
       "Virgília entrou risonha e sossegada. Os tempos tinham levado o sustos e vexames. Que doce que era vê-la chegar, nos primeiros dias, envergonhada e trêmula! Ia de sege, velado o rosto, envolvid numa espécie de mantéu, que lhe disfarçava as ondulações do talhe Da primeira vez deixou-se cair no canapé, ofegante, escarlate, co os olhos no chão; e, palavra! em nenhuma outra ocasião a achei tã bela, talvez porque nunca me senti mais lisonjeado.",
@@ -1155,7 +1155,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO LXXVIII",
+    "chapterName": "CAPÍTULO LXXVIII",
     "chapterDescription": "A PRESIDÊNCIA",
     "text": [
       "Certo dia, meses depois, entrou Lobo Neves em casa, dizendo qu iria talvez ocupar uma presidência de província. Olhei para Virgília que empalideceu; ele, que a viu empalidecer, perguntou-lhe:",
@@ -1180,7 +1180,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO LXXIX",
+    "chapterName": "CAPÍTULO LXXIX",
     "chapterDescription": "COMPROMISSO",
     "text": [
       "Não acabaria se houvesse de contar pelo miúdo o que padeci na primeiras horas. Vacilava entre um querer e um não querer, entre  piedade que me empuxava à casa de Virgília e outro sentimento,  egoísmo, supunhamos, — que me dizia: — Fica; deixa-a a sós com  problema, deixa-a que ela o resolverá no sentido do amor. Creio qu essas duas forças tinham igual intensidade, investiam e resistiam a mesmo tempo, com ardor, com tenacidade, e nenhuma cedi definitivamente. Às vezes sentia um dentezinho de remorso; pareciame que abusava da fraqueza de uma mulher amante e culpada, se nada sacrificar nem arriscar de mim próprio; e, quando ia a capitular vinha outra vez o amor, e me repetia o conselho egoísta, e eu ficav irresoluto e inquieto, desejoso de a ver, e receoso de que a vista m levasse a compartir a responsabilidade da solução.",
@@ -1188,7 +1188,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO LXXX",
+    "chapterName": "CAPÍTULO LXXX",
     "chapterDescription": "DE SECRETÁRIO",
     "text": [
       "Na noite seguinte fui efetivamente à casa do Lobo Neves; estava ambos, Virgília muito triste, ele muito jovial. Juro que ela sentiu cert alívio, quando os nossos olhos se encontraram, cheios de curiosidad e ternura. Lobo Neves contou-me os planos que levava para  presidência, as dificuldades locais, as esperanças, as resoluções estava tão contente! tão esperançado! Virgília, ao pé da mesa, fingi ler um livro, mas por cima da página olhava-me de quando e quando, interrogativa e ansiosa.",
@@ -1203,7 +1203,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO LXXXI",
+    "chapterName": "CAPÍTULO LXXXI",
     "chapterDescription": "A RECONCILIAÇÃO",
     "text": [
       "Contudo, ao sair de lá, tive umas sombras de dúvida; cogitei se nã ia expor insanamente a reputação de Virgília, se não haveria outr meio razoável de combinar o Estado e a Gamboa. Não achei nada. N dia seguinte, ao levantar-me da cama, trazia o espírito feito  resoluto a aceitar a nomeação. Ao meio-dia, veio o criado dizer-m que estava na sala uma senhora, coberta com um véu. Corro; er minha irmã Sabina.",
@@ -1226,7 +1226,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO LXXXII",
+    "chapterName": "CAPÍTULO LXXXII",
     "chapterDescription": "QUESTÃO DE BOTÂNICA",
     "text": [
       "Digam o que quiserem dizer os hipocondríacos: a vida é uma cois doce. Foi o que eu pensei comigo, ao ver Sabina, o marido e a filh descerem de tropel as escadas, dizendo muitas palavras afetuosa para cima, onde eu ficava — no patamar, — a dizer-lhes outra tantas para baixo. Continuei a pensar que, na verdade, era feliz Amava-me uma mulher, tinha a confiança do marido, ia po secretário de ambos, reconciliava-me com os meus. Que podi desejar mais, em vinte e quatro horas?",
@@ -1239,7 +1239,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO LXXXIII",
+    "chapterName": "CAPÍTULO LXXXIII",
     "chapterDescription": "13",
     "text": [
       "Cotrim tirou-me daquele gozo, levando-me à janela. — Você que que lhe diga uma coisa? perguntou ele; — não faça essa viagem;  insensata, é perigosa.",
@@ -1260,7 +1260,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO LXXXIV",
+    "chapterName": "CAPÍTULO LXXXIV",
     "chapterDescription": "O CONFLITO",
     "text": [
       "Número fatídico, lembras-te que te abençoei muitas vezes? Assi também as virgens ruivas de Tebas deviam abençoar a égua, d ruiva crina, que as substituiu no sacrifício de Pelópidas, — um donosa égua, que lá morreu, coberta de flores, sem que ninguém lh desse nunca uma palavra de saudade. Pois dou-ta eu, égua piedosa não só pela morte havida, como porque, entre as donzelas escapas não é impossível que figurasse uma avó dos Cubas... Númer fatídico, tu foste a nossa salvação. Não me confessou o marido  causa da recusa; disse-me também que eram negócios particulares e o rosto sério, convencido, com que eu o escutei, fez honra  dissimulação humana. Ele é que mal podia encobrir a tristez profunda que o minava; falava pouco, absorvia-se, metia-se em casa a ler. Outras vezes recebia, e então conversava e ria muito, co estrépito e afetação. Oprimiam-no duas coisas, — a ambição, que u escrúpulo desasara, e logo depois a dúvida, e talvez  arrependimento, — mas um arrependimento, que viria outra vez, s repetisse a hipótese, porque o fundo supersticioso existia. Duvidav da superstição, sem chegar a rejeitá-la. Essa persistência de u sentimento, que repugna ao mesmo indivíduo, era um fenômen digno de alguma atenção. Mas eu preferia a pura ingenuidade de D Plácida, quando confessava não poder ver um sapato voltado para  ar.",
@@ -1271,7 +1271,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO LXXXV",
+    "chapterName": "CAPÍTULO LXXXV",
     "chapterDescription": "O CIMO DA MONTANHA",
     "text": [
       "Quem escapa a um perigo ama a vida com outra intensidade. Entrei  amar Virgília com muito mais ardor, depois que estive a pique de  perder, e a mesma coisa lhe aconteceu a ela. Assim, a presidênci não fez mais do que avivar a afeição primitiva; foi a droga com qu tornamos mais saboroso o nosso amor, e mais prezado também. No primeiros dias, depois daquele incidente, folgávamos de imaginar  dor da separação, se houvesse separação, a tristeza de um e d outro, à proporção que o mar, como uma toalha elástica, se foss dilatando entre nós; e, semelhantes às crianças, que se achegam a regaço das mães, para fugir a uma simples careta, fugíamos d suposto perigo, apertando-nos com abraços.",
@@ -1283,14 +1283,14 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO LXXXVI",
+    "chapterName": "CAPÍTULO LXXXVI",
     "chapterDescription": "O MISTÉRIO",
     "text": [
       "Serra abaixo, como eu a visse um pouco diferente, não sei se abatid ou outra coisa, perguntei-lhe o que tinha; calou-se, fez um gesto d enfado, de mal-estar, de fadiga; ateimei, ela disse-me que... U fluido sutil percorreu todo o meu corpo: sensação forte, rápida singular, que eu não chegarei jamais a fixar no papel. Travei-lhe da mãos, puxei-a levemente a mim, e beijei-a na testa, com um delicadeza de zéfiro e uma gravidade de Abraão. Ela estremeceu colheu-me a cabeça entre as palmas, fitou-me os olhos, depoi afagou-me com um gesto maternal... Eis aí um mistério; deixemo ao leitor o tempo de decifrar este mistério. "
     ]
   },
   {
-    "chapter": "CAPÍTULO LXXXVII",
+    "chapterName": "CAPÍTULO LXXXVII",
     "chapterDescription": "GEOLOGIA",
     "text": [
       "Sucedeu por esse tempo um desastre; a morte do Viegas. O Viega passou aí de relance, com os seus setenta anos, abafados de asma desconjuntados de reumatismo, e uma lesão de coração por quebra Foi um dos finos espreitadores da nossa aventura. Virgília nutri grandes esperanças em que esse velho parente, avaro como u sepulcro, lhe amparasse o futuro do filho, com algum legado; e, se  marido tinha iguais pensamentos, encobria-os ou estrangulava-os Tudo se deve dizer: havia no Lobo Neves certa dignidad fundamental, uma camada de rocha, que resistia ao comércio do homens. As outras, as camadas de cima, terra solta e areia, levoulhas a vida, que é um enxurro perpétuo. Se o leitor ainda se lembr do capítulo XXIII, observará que é agora a segunda vez que e comparo a vida a um enxurro; mas também há de reparar que dest vez acrescento-lhe um adjetivo — perpétuo. E Deus sabe a força d um adjetivo, principalmente em países novos e cálidos.",
@@ -1302,7 +1302,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO LXXXVIII",
+    "chapterName": "CAPÍTULO LXXXVIII",
     "chapterDescription": "O ENFERMO",
     "text": [
       "Não é preciso dizer que refutei tão perniciosa doutrina, com os mai elementares argumentos; mas ele estava tão vexado do meu reparo que resistiu até o fim, mostrando certo calor fictício, talvez par atordoar a consciência.",
@@ -1317,7 +1317,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO LXXXIX",
+    "chapterName": "CAPÍTULO LXXXIX",
     "chapterDescription": "IN EXTREMIS",
     "text": [
       "— Amanhã vou passar o dia em casa do Viegas, disse-me ela um vez. Coitado! não tem ninguém...",
@@ -1338,7 +1338,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XC",
+    "chapterName": "CAPÍTULO XC",
     "chapterDescription": "O VELHO COLÓQUIO DE ADÃO E CAIM",
     "text": [
       "Nada. Nenhuma lembrança testamentária, uma pastilha que fosse com que do todo em todo não parecesse ingrato ou esquecido. Nada Virgília travou raivosa esse malogro, e disse-mo com certa cautela não pela coisa em si, senão porque entendia com o filho, de que sabia que eu não gostava muito, nem pouco. Insinuei-lhe que nã devia pensar mais em semelhante negócio. O melhor de tudo er esquecer o defunto, um lorpa, um cainho sem nome, e tratar d coisas alegres; o nosso filho, por exemplo...",
@@ -1347,7 +1347,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XCI",
+    "chapterName": "CAPÍTULO XCI",
     "chapterDescription": "UMA CARTA EXTRAORDINÁRIA",
     "text": [
       "Por esse tempo recebi uma carta extraordinária, acompanhada de u objeto não menos extraordinário. Eis o que a carta dizia:",
@@ -1359,14 +1359,14 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XCII",
+    "chapterName": "CAPÍTULO XCII",
     "chapterDescription": "UM HOMEM EXTRAORDINÁRIO",
     "text": [
       "Já agora acabo com as coisas extraordinárias. Vinha de guardar  carta e o relógio, quando me procurou um homem magro e meão com um bilhete do Cotrim, convidando-me para jantar. O portado era casado com uma irmã do Cotrim, chegara poucos dias antes d Norte, chamava-se Damasceno, e fizera a revolução de 1831. Foi el mesmo que me disse isto, no espaço de cinco minutos. Saíra do Ri de Janeiro, por desacordo com o Regente, que era um asno, pouc menos asno do que os ministros que serviram com ele. De resto,  revolução estava outra vez às portas. Neste ponto, conquant trouxesse as idéias políticas um pouco baralhadas, consegui organiza e formular o governo de suas preferências: era um despotism temperado, — não por cantigas, como dizem alhures, — mas po penachos da guarda nacional. Só não pude alcançar se ele queria  despotismo de um, de três, de trinta ou de trezentos. Opinava po várias coisas, entre outras, o desenvolvimento do tráfico do africanos e a expulsão dos ingleses. Gostava muito de teatro; log que chegou foi ao Teatro de São Pedro, onde viu um drama soberbo a Maria Joana, e uma comédia muito interessante, Kettly, ou a volt à Suíça. Também gostara muito da Deperini, na Safo, ou na An Bolena, não se lembrava bem. Mas a Candiani! sim, senhor, er papa-fina. Agora queria ouvir o Ernani, que a filha dele cantava e casa, ao piano: Ernani, Ernani, involami... — E dizia isto levantandose e cantarolando a meia voz. — No Norte essas coisas chegava como um eco. A filha morria por ouvir todas as óperas. Tinha um voz muito mimosa a filha. E gosto, muito gosto. Ah! ele estav ansioso por voltar ao Rio de Janeiro. Já havia corrido a cidade toda com umas saudades... Palavra! em alguns lugares teve vontade d chorar. Mas não embarcaria mais. Enjoara muito a bordo, como todo os outros passageiros, exceto um inglês... Que os levasse o diabo o ingleses! Isto não ficava direito sem irem todos eles barra fora. Que  que a Inglaterra podia fazer-nos? Se ele encontrasse alguma pessoas de boa vontade, era obra de uma noite a expulsão de tai godemes... Graças a Deus, tinha patriotismo, — e batia no peito, —  que não admirava porque era de família; descendia de um antig capitão-mor muito patriota. Sim, não era nenhum pé-rapado. Viess a ocasião, e ele havia de mostrar de que pau era a canoa... Ma fazia-se tarde, ia dizer que eu não faltaria ao jantar, e lá m esperava para maior palestra. — Levei-o até à porta da sala; el parou dizendo que simpatizava muito comigo. Quando casara, estav eu na Europa. Conheceu meu pai, um homem às direitas, com que dançara num célebre baile da Praia Grande... Coisas! coisas! Falari depois, fazia-se tarde, tinha de ir levar a resposta ao Cotrim. Saiu fechei-lhe a porta..."
     ]
   },
   {
-    "chapter": "CAPÍTULO XCIII",
+    "chapterName": "CAPÍTULO XCIII",
     "chapterDescription": "O JANTAR",
     "text": [
       "Que suplício que foi o jantar! Felizmente, Sabina fez-me sentar ao p da filha do Damasceno, uma D. Eulália, ou mais familiarmente Nhãloló, moça graciosa, um tanto acanhada a princípio, mas só  princípio. Faltava-lhe elegância, mas compensava-a com os olhos que eram soberbos e só tinham o defeito de se não arrancarem de mim, exceto quando desciam ao prato; mas Nhã-loló comia tã pouco, que quase não olhava para o prato. De noite cantou; a vo era como dizia o pai, “muito mimosa”. Não obstante, esquivei-me Sabina veio até à porta, e perguntou-me que tal achara a filha d Damasceno.",
@@ -1378,7 +1378,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XCIV",
+    "chapterName": "CAPÍTULO XCIV",
     "chapterDescription": "A CAUSA SECRETA",
     "text": [
       "— Como está a minha querida mamãe? A esta palavra, Virgíli amuou-se, como sempre. Estava ao canto de uma janela, sozinha,  olhar para a lua, e recebeu-me alegremente; mas quando lhe falei n nosso filho amuou-se. Não gostava de semelhante alusão aborreciam-lhe as minhas antecipadas carícias paternais. Eu, par quem ela era já uma pessoa sagrada, uma âmbula divina, deixava- estar quieta. Supus a princípio que o embrião, esse perfil d incógnito, projetando-se na nossa aventura, lhe restituíra  consciência do mal. Enganava-me. Nunca Virgília me parecera mai expansiva, mais sem reservas, menos preocupada dos outros e d marido. Não eram remorsos. Imaginei também que a concepção seri um puro invento, um modo de prender-me a ela, recurso sem long eficácia, que talvez começava de oprimi-la. Não era absurda est hipótese; a minha doce Virgília mentia às vezes, com tanta graça!",
@@ -1386,14 +1386,14 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XCV",
+    "chapterName": "CAPÍTULO XCV",
     "chapterDescription": "FLORES DE ANTANHO",
     "text": [
       "Onde estão elas, as flores de antanho? Uma tarde, após alguma semanas de gestação, esboroou-se todo o edifício das minha quimeras paternais. Foi-se o embrião, naquele ponto em que se nã distingue Laplace de uma tartaruga. Tive a notícia por boca do Lob Neves, que me deixou na sala e acompanhou o médico à alcova d frustrada mãe. Eu encostei-me à janela, a olhar para a chácara, ond verdejavam as laranjeiras sem flores. Onde iam elas as flores d antanho?"
     ]
   },
   {
-    "chapter": "CAPÍTULO XCVI",
+    "chapterName": "CAPÍTULO XCVI",
     "chapterDescription": "A CARTA ANÔNIMA",
     "text": [
       "Senti tocar-me no ombro; era Lobo Neves. Encaramo-nos algun instantes, mudos, inconsoláveis. Indaguei de Virgília, depois ficamo a conversar uma meia hora. No fim desse tempo, vieram trazer-lh uma carta; ele leu-a, empalideceu muito, e fechou-a com a mã trêmula. Creio que lhe vi fazer um gesto, como se quisesse atirar-s sobre mim; mas não me lembra bem. O que me lembra claramente  que durante os dias seguintes recebeu-me frio e taciturno. Enfim Virgília contou-me tudo, daí a dias na Gamboa.",
@@ -1407,14 +1407,14 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XCVII",
+    "chapterName": "CAPÍTULO XCVII",
     "chapterDescription": "ENTRE A BOCA E A TESTA",
     "text": [
       "Sinto que o leitor estremeceu, — ou devia estremecer. Naturalment a última palavra sugeriu-lhe três ou quatro reflexões. Veja bem  quadro: numa casinha da Gamboa, duas pessoas que se amam h muito tempo, uma inclinada para a outra, a dar-lhe um beijo n testa, e a outra a recuar, como se sentisse o contato de uma boca d cadáver. Há aí, no breve intervalo, entre a boca e a testa, antes d beijo e depois do beijo, há aí largo espaço para muita coisa, —  contração de um ressentimento, — a ruga da desconfiança, — o enfim o nariz pálido e sonolento da saciedade..."
     ]
   },
   {
-    "chapter": "CAPÍTULO XCVIII",
+    "chapterName": "CAPÍTULO XCVIII",
     "chapterDescription": "SUPRIMIDO",
     "text": [
       "Separamo-nos alegremente. Jantei reconciliado com a situação.  carta anônima restituía à nossa aventura o sal do mistério e  pimenta do perigo; e afinal foi bem bom que Virgília não perdess naquela crise a posse de si mesma. De noite fui ao teatro de Sã Pedro; representava-se uma grande peça, em que a Estela arrancav lágrimas. Entro; corro os olhos pelos camarotes; vejo em um dele Damasceno e a família. Trajava a filha com outra elegância e cert apuro, coisa difícil de explicar, porque o pai ganhava apenas  necessário para endividar-se; e daí, talvez fosse por isso mesmo.",
@@ -1423,7 +1423,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XCIX",
+    "chapterName": "CAPÍTULO XCIX",
     "chapterDescription": "NA PLATÉIA",
     "text": [
       "Na platéia achei Lobo Neves, de conversa com alguns amigos falamos por alto, a frio, constrangidos um e outro. Mas no interval seguinte, prestes a levantar o pano, encontramo-nos num do corredores, em que não havia ninguém. Ele veio a mim, com muit afabilidade e riso, puxou-me a um dos óculos do teatro, e falamo muito, principalmente ele, que parecia o mais tranqüilo dos homens Cheguei a perguntar-lhe pela mulher; respondeu que estava boa mas torceu logo a conversação para assuntos gerais, expansivo quase risonho. Adivinhe quem quiser a causa da diferença; eu fujo a Damasceno que me espreita ali da porta do camarote.",
@@ -1432,7 +1432,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO C",
+    "chapterName": "CAPÍTULO C",
     "chapterDescription": "O CASO PROVÁVEL",
     "text": [
       "Se esse mundo não fosse uma região de espíritos desatentos, er escusado lembrar ao leitor que eu só afirmo certas leis, quando a possuo deveras; em relação a outras restrinjo-me à admissão d probabilidade. Um exemplo da segunda classe constitui o present capítulo, cuja leitura recomendo a todas as pessoas que amam  estudo dos fenômenos sociais. Segundo parece, e não é improvável existe entre os fatos da vida pública e os da vida particular uma cert ação recíproca, regular, e talvez periódica, — ou para usar de um imagem, há alguma coisa semelhante às marés da Praia do Flameng e de outras igualmente marulhosas. Com efeito, quando a ond investe a praia, alaga-a muitos palmos a dentro; mas essa mesm água torna ao mar, com variável força, e vai engrossar a onda que h de vir, e que terá de tornar como a primeira. Esta é a imagem vejamos a aplicação.",
@@ -1440,7 +1440,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CI",
+    "chapterName": "CAPÍTULO CI",
     "chapterDescription": "A REVOLUÇAO DÁLMATA",
     "text": [
       "Foi Virgília quem me deu notícia da viravolta política do marido, cert manhã de outubro, entre onze e meio-dia; falou-me de reuniões, d conversas, de um discurso...",
@@ -1449,14 +1449,14 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CII",
+    "chapterName": "CAPÍTULO CII",
     "chapterDescription": "DE REPOUSO",
     "text": [
       "Mas este mesmo homem, que se alegrou com a partida do outro praticou daí a tempos... Não, não hei de contá-lo nesta página; fiqu esse capítulo para repouso do meu vexame. Uma ação grosseira baixa, sem explicação possível... Repito, não contarei o caso nest página."
     ]
   },
   {
-    "chapter": "CAPÍTULO CIII",
+    "chapterName": "CAPÍTULO CIII",
     "chapterDescription": "DISTRAÇÃO",
     "text": [
       "— Não, senhor doutor, isto não se faz. Perdoe-me, isto não se faz.",
@@ -1473,7 +1473,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CIV",
+    "chapterName": "CAPÍTULO CIV",
     "chapterDescription": "ERA ELE!",
     "text": [
       "Restituí o grampo a Virgília, que o repregou nos cabelos, e preparouse para sair. Era tarde; tinham dado três horas. Tudo estava esquecido e perdoado. D. Plácida, que espreitava a ocasião idône para a saída, fecha subitamente a janela e exclama:",
@@ -1494,14 +1494,14 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CV",
+    "chapterName": "CAPÍTULO CV",
     "chapterDescription": "EQUIVALÊNCIA DAS JANELAS",
     "text": [
       "D. Plácida fechou a porta e caiu numa cadeira. Eu deixe imediatamente a alcova, e dei dois passos para sair à rua, com o fi de arrancar Virgília ao marido; foi o que disse, e em bem que o disse porque D. Plácida deteve-me por um braço. Tempo houve em qu cheguei a supor que não dissera aquilo senão para que ela m detivesse; mas a simples reflexão basta para mostrar que, depois do dez minutos da alcova, o gesto mais genuíno e cordial não podia se senão esse. E isto por aquela famosa lei da equivalência das janelas que eu tive a satisfação de descobrir e formular, no capítulo LI. Er preciso arejar a consciência. A alcova foi uma janela fechada; eu abr outra com o gesto de sair, e respirei."
     ]
   },
   {
-    "chapter": "CAPÍTULO CVI",
+    "chapterName": "CAPÍTULO CVI",
     "chapterDescription": "JOGO PERIGOSO",
     "text": [
       "Respirei e sentei-me. D. Plácida atroava a sala com exclamações  lástimas. Eu ouvia, sem lhe dizer coisa nenhuma; refletia comigo s não era melhor ter fechado Virgília na alcova e ficado na sala; ma adverti logo que seria pior; confirmaria a suspeita, chegaria o fogo  pólvora, e uma cena de sangue... Foi muito melhor assim. Ma depois? que ia acontecer em casa de Virgília? matá-la-ia o marido espancá-la-ia? encerrá-la-ia? expulsá-la-ia? Estas interrogaçõe percorriam lentamente o meu cérebro, como os pontinhos e vírgula escuras percorrem o campo visual dos olhos enfermos ou cansados Iam e vinham, com o seu aspecto seco e trágico, e eu não podi agarrar um deles e dizer: és tu, tu e não outro.",
@@ -1511,14 +1511,14 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CVII",
+    "chapterName": "CAPÍTULO CVII",
     "chapterDescription": "BILHETE",
     "text": [
       "Não houve nada, mas ele suspeita alguma coisa; est muito sério e não fala; agora saiu. Sorriu uma vez somente, para Nhonhô, depois de o fitar muito tempo carrancudo. Não me tratou mal nem bem. Não sei  que vai acontecer; Deus queira que isto passe. Muit cautela, por ora, muita cautela."
     ]
   },
   {
-    "chapter": "CAPÍTULO CVIII",
+    "chapterName": "CAPÍTULO CVIII",
     "chapterDescription": "QUE SE NÃO ENTENDE",
     "text": [
       "Eis aí o drama, eis aí a ponta da orelha trágica de Shakespeare. Ess retalhinho de papel, garatujado em partes, machucado das mãos, er um documento de análise, que eu não farei neste capítulo, nem n outro, nem talvez em todo o resto do livro. Poderia eu tirar ao leitor  gosto de notar por si mesmo a frieza, a perspicácia e o ânimo dessa poucas linhas traçadas à pressa; e por trás delas a tempestade d outro cérebro, a raiva dissimulada, o desespero que se constrange  medita, porque tem de resolver-se na lama ou no sangue, ou na lágrimas?",
@@ -1526,7 +1526,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CIX",
+    "chapterName": "CAPÍTULO CIX",
     "chapterDescription": "O FILÓSOFO",
     "text": [
       "Sabido que reli a carta, antes e depois do almoço, sabido fica qu almocei, e só resta dizer que essa refeição foi das mais parcas d minha vida: um ovo, uma fatia de pão, uma xícara de chá. Não m esqueceu esta circunstância mínima; no meio de tanta cois importante obliterada escapou esse almoço. A razão principal poderi ser justamente o meu desastre; mas não foi; a principal razão foi  reflexão que me fez o Quincas Borba, cuja visita recebi naquele dia Disse-me ele que a frugalidade não era necessária para entender  Humanitismo, e menos ainda praticá-lo; que esta filosofi acomodava-se facilmente com os prazeres da vida, inclusive a mesa o espetáculo e os amores; e que, ao contrário, a frugalidade podi indicar certa tendência para o ascetismo, o que era a expressã acabada de tolice humana.",
@@ -1539,14 +1539,14 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CX",
+    "chapterName": "CAPÍTULO CX",
     "chapterDescription": "31",
     "text": [
       "Uma semana depois, Lobo Neves foi nomeado presidente d província. Agarrei-me à esperança da recusa, se o decreto viess outra vez datado de 13; trouxe, porém, a data de 31, e esta simples transposição de algarismos eliminou deles a substância diabólica. Qu profundas que são as molas da vida!"
     ]
   },
   {
-    "chapter": "CAPÍTULO CXI",
+    "chapterName": "CAPÍTULO CXI",
     "chapterDescription": "O MURO",
     "text": [
       "Não sendo meu costume dissimular ou esconder nada, contarei nest página o caso do muro. Eles estavam prestes a embarcar. Entrand em casa de D. Plácida, vi um papelinho dobrado sobre a mesa; er um bilhete de Virgília; dizia que me esperava à noite, na chácara sem falta. E concluía: “O muro é baixo do lado do beco”.",
@@ -1561,7 +1561,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CXII",
+    "chapterName": "CAPÍTULO CXII",
     "chapterDescription": "A OPINIÃO",
     "text": [
       "Mas estava escrito que esse dia devia ser o dos lances dúbios. Pouca horas depois, encontrei Lobo Neves, na Rua do Ouvidor, falamos d presidência e da política. Ele aproveitou o primeiro conhecido que no passou à ilharga, e deixou-me, depois de muitos cumprimentos Lembra-me que estava retraído, mas de um retraimento qu forcejava por dissimular. Pareceu-me então (e peço perdão à crítica, se este meu juízo for temerário!), pareceu-me que ele tinha medo  não medo de mim, nem de si, nem do código, nem da consciência tinha medo da opinião. Supus que esse tribunal anônimo e invisível em que cada membro acusa e julga, era o limite posto à vontade d Lobo Neves. Talvez já não amasse a mulher; e, assim, pode ser qu o coração fosse estranho à indulgência dos seus últimos atos. Cuid (e de novo insto pela boa vontade da crítica!) cuido que ele estari pronto a separar-se da mulher, como o leitor se terá separado d muitas relações pessoais; mas a opinião, essa opinião que lh arrastaria a vida por todas as ruas, que abriria minucioso inquérit acerca do caso, que coligiria uma a uma todas as circunstâncias antecedências, induções, provas, que as relataria na palestra da chácaras desocupadas, essa terrível opinião, tão curiosa das alcovas obstou à dispersão da família. Ao mesmo tempo tornou impossível  desforço, que seria a divulgação. Ele não podia mostrar-se ressentid comigo, sem igualmente buscar a separação conjugal; teve então d simular a mesma ignorância de outrora, e, por dedução, iguai sentimentos.",
@@ -1569,14 +1569,14 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CXIII",
+    "chapterName": "CAPÍTULO CXIII",
     "chapterDescription": "A SOLDA",
     "text": [
       "A conclusão, se há alguma no capítulo anterior, é que a opinião  uma boa solda das instituições domésticas. Não é impossível que e desenvolva este pensamento, antes de acabar o livro; mas també não é impossível que o deixe como está. De um ou de outro modo,  uma boa solda a opinião, e tanto na ordem doméstica, como n política. Alguns metafísicos biliosos têm chegado ao extremo de  darem como simples produto da gente chocha ou medíocre; mas  evidente que, ainda quando um conceito tão extremado nã trouxesse em si mesmo a resposta, bastava considerar os efeito salutares da opinião, para concluir que ela é a obra superfina da flo dos homens, a saber, do maior número."
     ]
   },
   {
-    "chapter": "CAPÍTULO CXIV",
+    "chapterName": "CAPÍTULO CXIV",
     "chapterDescription": "FIM DE UM DIÁLOGO",
     "text": [
       "— Sim, é amanhã. Você vai a bordo?",
@@ -1597,7 +1597,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CXV",
+    "chapterName": "CAPÍTULO CXV",
     "chapterDescription": "O ALMOÇO",
     "text": [
       "Não a vi partir; mas à hora marcada senti alguma coisa que não er dor nem prazer, uma coisa mista, alívio e saudade, tudo misturado em iguais doses. Não se irrite o leitor com esta confissão. Eu bem se que, para titilar-lhe os nervos da fantasia, devia padecer um grand desespero, derramar algumas lágrimas, e não almoçar. Seri romanesco; mas não seria biográfico. A realidade pura é que e almocei, como nos demais dias, acudindo ao coração com a lembranças da minha aventura, e ao estômago com os acepipes d M. Prudhon...",
@@ -1606,7 +1606,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CXVI",
+    "chapterName": "CAPÍTULO CXVI",
     "chapterDescription": "FILOSOFIA DAS FOLHAS VELHAS",
     "text": [
       "Fiquei tão triste com o fim do último capítulo que estava capaz d não escrever este, descansar um pouco, purgar o espírito d melancolia que o empacha, e continuar depois. Mas não, não quer perder tempo.",
@@ -1616,7 +1616,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CXVII",
+    "chapterName": "CAPÍTULO CXVII",
     "chapterDescription": "O HUMANITISMO",
     "text": [
       "Duas forças, porém, além de uma terceira, compeliam-me a tornar  vida agitada do costume: Sabina e Quincas Borba. Minha irm encaminhou a candidatura conjugal de Nhã-loló de um mod verdadeiramente impetuoso. Quando dei por mim estava com a moça quase nos braços. Quanto ao Quincas Borba, expôs-me enfim  Humanitismo, sistema de filosofia destinado a arruinar todos o demais sistemas.",
@@ -1630,14 +1630,14 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CXVIII",
+    "chapterName": "CAPÍTULO CXVIII",
     "chapterDescription": "A TERCEIRA FORÇA",
     "text": [
       "A terceira força que me chamava ao bulício era o gosto de luzir, e sobretudo, a incapacidade de viver só. A multidão atraía-me,  aplauso namorava-me. Se a idéia do emplasto me tem aparecid nesse tempo, quem sabe? não teria morrido logo e estaria célebre Mas o emplasto não veio. Veio o desejo de agitar-me em algum coisa, com alguma coisa e por alguma coisa."
     ]
   },
   {
-    "chapter": "CAPÍTULO CXIX",
+    "chapterName": "CAPÍTULO CXIX",
     "chapterDescription": "PARÊNTESES",
     "text": [
       "Quero deixar aqui, entre parêntesis, meia dúzia de máximas da muitas que escrevi por esse tempo. São bocejos de enfado; pode servir de epígrafe a discursos sem assunto:",
@@ -1656,7 +1656,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CXX",
+    "chapterName": "CAPÍTULO CXX",
     "chapterDescription": "“COMPELLE INTRARE”",
     "text": [
       "— Não, senhor, agora quer você queira, quer não, há de casar, disseme Sabina. Que belo futuro! Um solteirão sem filhos.",
@@ -1664,7 +1664,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CXXI",
+    "chapterName": "CAPÍTULO CXXI",
     "chapterDescription": "MORRO ABAIXO",
     "text": [
       "No fim de três meses, ia tudo à maravilha. O fluido, Sabina, os olho da moça, os desejos do pai, eram outros tantos impulsos que m levavam ao matrimônio. A lembrança de Virgília aparecia de quand em quando, à porta, e com ela um diabo negro que me metia à car um espelho, no qual eu via ao longe Virgília desfeita em lágrimas mas outro diabo vinha, cor-de-rosa, com outro espelho, em que s refletia a figura de Nhã-loló, terna, luminosa, angélica.",
@@ -1677,7 +1677,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CXXII",
+    "chapterName": "CAPÍTULO CXXII",
     "chapterDescription": "UMA INTENÇÃO MUITO FINA",
     "text": [
       "O que vexava a Nhã-loló era o pai. A facilidade com que ele s metera com os apostadores punha em relevo antigos costumes  afinidades sociais, e Nhã-loló chegara a temer que tal sogro m parecesse indigno. Era notável a diferença que ela fazia de si mesma estudava-se e estudava-me. A vida elegante e polida atraía-a principalmente porque lhe parecia o meio mais seguro de ajustar a nossas pessoas. Nhã-loló observava, imitava, adivinhava; ao mesm tempo dava-se ao esforço de mascarar a inferioridade da família Naquele dia, porém, a manifestação do pai foi tamanha que  entristeceu grandemente. Eu busquei então diverti-la do assunto dizendo-lhe muitas chanças e motes de bom-tom; vãos esforços, qu não a alegravam mais. Era tão profundo o abatimento, tão expressiv o desânimo, que cheguei a atribuir a Nhã-loló a intenção positiva d separar, no meu espírito, a sua causa da causa do pai. Este sentimento pareceu-me de grande elevação; era uma afinidade mai entre nós.",
@@ -1685,7 +1685,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CXXIII",
+    "chapterName": "CAPÍTULO CXXIII",
     "chapterDescription": "O VERDADEIRO COTRIM",
     "text": [
       "Não obstante os meus quarenta e tantos anos, como eu amasse  harmonia da família, entendi não tratar o casamento sem primeir falar ao Cotrim. Ele ouviu-me e respondeu-me seriamente que nã tinha opinião em negócio de parentes seus. Podiam supor-lhe algu interesse, se acaso louvasse as raras prendas de Nhã-loló; por iss calava-se. Mais: estava certo de que a sobrinha nutria por mi verdadeira paixão, mas se ela o consultasse, o seu conselho seri negativo. Não era levado por nenhum ódio; apreciava as minhas boa qualidades, — não se fartava de as elogiar, como era de justiça;  pelo que respeita a Nhã-loló, não chegaria jamais a negar que er noiva excelente; mas daí a aconselhar o casamento ia um abismo.",
@@ -1698,14 +1698,14 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CXXIV",
+    "chapterName": "CAPÍTULO CXXIV",
     "chapterDescription": "VÁ DE INTERMÉDIO",
     "text": [
       "Que há entre a vida e a morte? Uma curta ponte. Não obstante, se e não compusesse este capítulo, padeceria o leitor um forte abalo assaz danoso ao efeito do livro. Saltar de um retrato a um epitáfio pode ser real e comum; o leitor, entretanto, não se refugia no livro senão para escapar à vida. Não digo que este pensamento seja meu digo que há nele uma dose de verdade, e que, ao menos, a forma  pinturesca. E repito: não é meu."
     ]
   },
   {
-    "chapter": "CAPÍTULO CXXV",
+    "chapterName": "CAPÍTULO CXXV",
     "chapterDescription": "EPITÁFIO",
     "text": [
       "________________________",
@@ -1718,7 +1718,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CXXVI",
+    "chapterName": "CAPÍTULO CXXVI",
     "chapterDescription": "DESCONSOLAÇÃO",
     "text": [
       "O epitáfio diz tudo. Vale mais do que se lhes narrasse a moléstia d Nhã-loló, a morte, o desespero da família, o enterro. Ficam sabend que morreu; acrescentarei que foi por ocasião da primeira entrada d febre amarela. Não digo mais nada, a não ser que a acompanhei at o último jazigo, e me despedi triste, mas sem lágrimas. Concluí qu talvez não a amasse deveras. ",
@@ -1732,7 +1732,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CXXVII",
+    "chapterName": "CAPÍTULO CXXVII",
     "chapterDescription": "FORMALIDADE",
     "text": [
       "Grande coisa é haver recebido do céu uma partícula da sabedoria,  dom de achar as relações das coisas, a faculdade de as comparar e  talento de concluir! Eu tive essa distinção psíquica; eu a agradeç ainda agora do fundo do meu sepulcro.",
@@ -1741,21 +1741,21 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CXXVIII",
+    "chapterName": "CAPÍTULO CXXVIII",
     "chapterDescription": "NA CÂMARA",
     "text": [
       "E notai bem que eu vi a gravura turca, dois anos depois das palavra de Damasceno, e vi-a na Câmara dos Deputados, em meio de grand burburinho, enquanto um deputado discutia um parecer da comissã do orçamento, sendo eu também deputado. Para quem há lido est livro é escusado encarecer a minha satisfação, e para os outros  igualmente inútil. Era deputado, e vi a gravura turca, recostado n minha cadeira, entre um colega, que contava uma anedota, e outro que tirava a lápis, nas costas de uma sobrecarta, o perfil de orador O orador era o Lobo Neves. A onda da vida trouxe-nos à mesm praia, como duas botelhas de náufragos, ele contendo o se ressentimento, eu devendo conter o meu remorso; e emprego est forma suspensiva, dubitativa ou condicional, para o fim de dizer qu efetivamente não continha nada, a não ser a ambição de se ministro."
     ]
   },
   {
-    "chapter": "CAPÍTULO CXXIX",
+    "chapterName": "CAPÍTULO CXXIX",
     "chapterDescription": "SEM REMORSOS",
     "text": [
       "Não tinha remorsos. Se possuísse os aparelhos próprios, incluía nest livro uma página de química, porque havia de decompor o remors até os mais simples elementos, com o fim de saber de um mod positivo e concludente por que razão Aquiles passeia à roda de Trói o cadáver do adversário, e lady Macbeth passeia à volta da sala a su mancha de sangue. Mas eu não tenho aparelhos químicos, como nã tinha remorsos; tinha vontade de ser ministro de Estado. Contudo, s hei de acabar este capítulo, direi que não quisera ser Aquiles ne lady Macbeth; e que, a ser alguma coisa, antes Aquiles, ante passear ovante o cadáver do que a mancha; ouvem-se no fim a súplicas de Príamo, e ganha-se uma bonita reputação militar e literária. Eu não ouvia as súplicas de Príamo, mas o discurso do Lob Neves, e não tinha remorsos."
     ]
   },
   {
-    "chapter": "CAPÍTULO CXXX",
+    "chapterName": "CAPÍTULO CXXX",
     "chapterDescription": "PARA INTERCALAR NO CAP. CXXIX",
     "text": [
       "A primeira vez que pude falar a Virgília, depois da presidência, fo num baile em 1855. Trazia um soberbo vestido de gorgorão azul,  ostentava às luzes o mesmo par de ombros de outro tempo. Não er a frescura da primeira idade; ao contrário; mas ainda estav formosa, de uma formosura outoniça, realçada pela noite. Lembrame que falamos muito, sem aludir a coisa nenhuma do passado Subentendia-se tudo. Um dito remoto, vago, ou então um olhar,  mais nada. Pouco depois retirou-se; eu fui vê-la descer as escadas,  não sei por que fenômeno de ventriloquismo cerebral (perdoem-m os filólogos essa frase bárbara) murmurei comigo esta palavr profundamente retrospectiva:",
@@ -1764,7 +1764,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CXXXI",
+    "chapterName": "CAPÍTULO CXXXI",
     "chapterDescription": "DE UMA CALÚNIA",
     "text": [
       "Como eu acabava de dizer aquilo, pelo processo ventríloquo-cerebral — o que era simples opinião e não remorso, — senti que alguém m punha a mão no ombro. Voltei-me; era um antigo companheiro oficial de marinha, jovial, um pouco despejado de maneiras. El sorriu maliciosamente, e disse-me:",
@@ -1777,21 +1777,21 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CXXXII",
+    "chapterName": "CAPÍTULO CXXXII",
     "chapterDescription": "QUE NÃO É SÉRIO",
     "text": [
       "Citando o dito da rainha de Navarra, ocorre-me que entre o noss povo, quando uma pessoa vê outra pessoa arrufada, costum perguntar-lhe: “Gentes, quem matou seus cachorrinhos?” como s dissesse: — “quem lhe levou os amores, as aventuras secretas, etc. Mas este capítulo não é sério."
     ]
   },
   {
-    "chapter": "CAPÍTULO CXXXIII",
+    "chapterName": "CAPÍTULO CXXXIII",
     "chapterDescription": "O PRINCÍPIO DE HELVETIUS",
     "text": [
       "Estávamos no ponto em que o oficial de marinha me arrancou  confissão dos amores de Virgília, e aqui emendo eu o princípio d Helvetius, — ou, por outra, explico-o. O meu interesse era calar confirmar a suspeita de uma coisa antiga fora provocar algum ódi sopitado, dar origem a um escândalo, quando menos adquirir  reputação de indiscreto. Era esse o interesse; e entendendo-se  princípio de Helvetius de um modo superficial, isso é o que devia te feito. Mas eu já dei o motivo da indiscrição masculina: antes daquel interesse de segurança, havia outro, o do desvanecimento, que  mais íntimo, mais imediato: o primeiro era reflexivo, supunha u silogismo anterior; o segundo era espontâneo, instintivo, vinha da entranhas do sujeito; finalmente, o primeiro tinha o efeito remoto,  segundo próximo. Conclusão: o princípio de Helvetius é verdadeiro n meu caso; — a diferença é que não era o interesse aparente, mas  recôndito."
     ]
   },
   {
-    "chapter": "CAPÍTULO CXXXIV",
+    "chapterName": "CAPÍTULO CXXXIV",
     "chapterDescription": "CINQÜENTA ANOS",
     "text": [
       "Não lhes disse ainda, — mas digo-o agora, — que quando Virgíli descia a escada, e o oficial de marinha me tocava no ombro, tinha eu cinqüenta anos. Era portanto a minha vida que descia pela escad abaixo, — ou a melhor parte, ao menos, uma parte cheia d prazeres, de agitações, de sustos, — capeada de dissimulação  duplicidade, — mas enfim a melhor, se devemos falar a linguage usual. Se, porém, empregarmos outra mais sublime, a melhor part foi a restante, como eu terei a honra de lhes dizer nas pouca páginas deste livro.",
@@ -1799,7 +1799,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CXXXV",
+    "chapterName": "CAPÍTULO CXXXV",
     "chapterDescription": "“OBLIVION”",
     "text": [
       "E agora sinto que, se alguma dama tem seguido estas páginas, fech o livro e não lê as restantes. Para ela extinguiu-se o interesse d minha vida, que era o amor. Cinqüenta anos! Não é ainda a invalidez mas já não é a frescura. Venham mais dez, e eu entenderei o que u inglês dizia, entenderei que “coisa é não achar já quem se lembre d meus pais, e de que modo me há de encarar o própri ESQUECIMENTO”.",
@@ -1807,14 +1807,14 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CXXXVI",
+    "chapterName": "CAPÍTULO CXXXVI",
     "chapterDescription": "INUTlLIDADE",
     "text": [
       "Mas, ou muito me engano, ou acabo de escrever um capítulo inútil."
     ]
   },
   {
-    "chapter": "CAPÍTULO CXXXVII",
+    "chapterName": "CAPÍTULO CXXXVII",
     "chapterDescription": "A BARRETINA",
     "text": [
       "E daí, não; ele resume as reflexões que fiz no dia seguinte a Quincas Borba, acrescentando que me sentia acabrunhado, e mi outras coisas tristes. Mas esse filósofo, com o elevado tino de qu dispunha, bradou-me que eu ia escorregando na ladeira fatal d melancolia.",
@@ -1826,7 +1826,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CXXXVIII",
+    "chapterName": "CAPÍTULO CXXXVIII",
     "chapterDescription": "A UM CRÍTICO",
     "text": [
       " Meu caro crítico,",
@@ -1834,14 +1834,14 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CXXXIX",
+    "chapterName": "CAPÍTULO CXXXIX",
     "chapterDescription": "DE COMO NÃO FUI MINISTRO D’ESTADO",
     "text": [
       "................................................................................................ ................................................................................................ ................................................................................................ ................................................................................................ ................................................................................................ ................................................................................................ ................................................................................................ ................................................................................................ ................................................................................................ ............"
     ]
   },
   {
-    "chapter": "CAPÍTULO CXL",
+    "chapterName": "CAPÍTULO CXL",
     "chapterDescription": "QUE EXPLICA O ANTERIOR",
     "text": [
       "Há coisas que melhor se dizem calando; tal é a matéria do capítul anterior. Podem entendê-lo os ambiciosos malogrados. Se a paixã do poder é a mais forte de todas, como alguns inculcam, imaginem  desespero, a dor, o abatimento do dia em que perdi a cadeira d Câmara dos Deputados. Iam-se-me as esperanças todas; terminav a carreira política. E notem que o Quincas Borba, por induçõe filosóficas que fez, achou que a minha ambição não era a paixã verdadeira do poder, mas um capricho, um desejo de folgar. N opinião dele, este sentimento, não sendo mais profundo que o outro amofina muito mais, porque orça pelo amor que as mulheres têm à rendas e toucados. Um Cromwell ou um Bonaparte, acrescentava ele por isso mesmo que os queima a paixão do poder, lá chegam à fin força ou pela escada da direita, ou pela da esquerda. Não era assim  meu sentimento; este, não tendo em si a mesma força, não tem  mesma certeza do resultado; e daí a maior aflição, o maio desencanto, a maior tristeza. O meu sentimento, segundo  Humanitismo...",
@@ -1850,7 +1850,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CXLI",
+    "chapterName": "CAPÍTULO CXLI",
     "chapterDescription": "OS CÃES",
     "text": [
       "— Mas, enfim,, que pretendes fazer agora? perguntou-me Quinca Borba, indo pôr a xícara vazia no parapeito de uma das janelas.",
@@ -1865,7 +1865,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CXLII",
+    "chapterName": "CAPÍTULO CXLII",
     "chapterDescription": "O PEDIDO SECRETO",
     "text": [
       "Quanta coisa num minuete! como dizia o outro. Quanta coisa num briga de cães! Mas eu não era um discípulo servil ou medroso, qu deixasse de fazer uma ou outra objeção adequada. Andando, disselhe que tinha uma dúvida; não estava bem certo da vantagem d disputar a comida aos cães. Ele respondeu-me com excepciona brandura:",
@@ -1881,14 +1881,14 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CXLIII",
+    "chapterName": "CAPÍTULO CXLIII",
     "chapterDescription": "NÃO VOU",
     "text": [
       "Enquanto ele restituía o livro à estante, relia eu o bilhete. Ao jantar vendo que eu falava pouco, mastigava sem acabar de engolir, fitav o canto da sala, a ponta da mesa, um prato, uma cadeira, um mosca invisível, disse-me ele: — Tens alguma coisa; aposto que fo aquela carta? — Foi. Realmente, sentia-me aborrecido, incomodad com o pedido de Virgília. Tinha dado a D. Plácida cinco contos d réis; duvido muito que ninguém fosse mais generoso do que eu, ne tanto. Cinco contos! E que fizera deles? Naturalmente botou-os fora comeu-os em grandes festas, e agora toca para a Misericórdia, e e que a leve! Morre-se em qualquer parte. Acresce que eu não sabia o não me lembrava do tal Beco das Escadinhas; mas, pelo nome parecia-me algum recanto estreito e escuro da cidade. Tinha de lá ir chamar a atenção dos vizinhos, bater à porta, etc. Que maçada! Nã vou."
     ]
   },
   {
-    "chapter": "CAPÍTULO CXLIV",
+    "chapterName": "CAPÍTULO CXLIV",
     "chapterDescription": "UTILIDADE RELATIVA",
     "text": [
       "Mas a noite, que é boa conselheira, ponderou que a cortesia mandav obedecer aos desejos da minha antiga dama.",
@@ -1897,14 +1897,14 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CXLV",
+    "chapterName": "CAPÍTULO CXLV",
     "chapterDescription": "SIMPLES REPETIÇÃO",
     "text": [
       "Quanto aos cinco contos, não vale a pena dizer que um canteiro d vizinhança fingiu-se enamorado de D. Plácida, logrou espertar-lhe o sentidos, ou a vaidade, e casou com ela; no fim de alguns mese inventou um negócio, vendeu as apólices e fugiu com o dinheiro. Nã vale a pena. É o caso dos cães do Quincas Borba. Simples repetiçã de um capítulo."
     ]
   },
   {
-    "chapter": "CAPÍTULO CXLVI",
+    "chapterName": "CAPÍTULO CXLVI",
     "chapterDescription": "O PROGRAMA",
     "text": [
       "Urgia fundar o jornal. Redigi o programa, que era uma aplicaçã política do Humanitismo; somente, como o Quincas Borba nã houvesse ainda publicado o livro (que aperfeiçoava de ano em ano) assentamos de lhe não fazer nenhuma referência. Quincas Borb exigiu apenas uma declaração, autógrafa e reservada, de que algun princípios novos aplicados à política eram tirados do livro dele, aind inédito.",
@@ -1913,7 +1913,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CXLVII",
+    "chapterName": "CAPÍTULO CXLVII",
     "chapterDescription": "O DESATINO",
     "text": [
       "Mandei logo para a imprensa uma notícia discreta, dizendo qu provavelmente começaria a publicação de um jornal oposicionista, da a algumas semanas, redigido pelo Dr. Brás Cubas. Quincas Borba,  quem li a notícia, pegou da pena, e acrescentou ao meu nome, co uma fraternidade verdadeiramente humanística, esta frase: “um do mais gloriosos membros da passada Câmara”.",
@@ -1925,7 +1925,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CXLVIII",
+    "chapterName": "CAPÍTULO CXLVIII",
     "chapterDescription": "O PROBLEMA INSOLÚVEL",
     "text": [
       "Publiquei o jornal. Vinte e quatro horas depois, aparecia em outro uma declaração do Cotrim, dizendo, em substância, que “posto nã militasse em nenhum dos partidos em que se dividia a pátria, achav conveniente deixar bem claro que não tinha influência nem part direta ou indireta na folha de seu cunhado, o Dr. Brás Cubas, cuja idéias e procedimento político inteiramente reprovava. O atua ministério (como aliás qualquer outro composto de iguai capacidades) parecia-lhe destinado a promover a felicidade pública”. ",
@@ -1933,7 +1933,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CXLIX",
+    "chapterName": "CAPÍTULO CXLIX",
     "chapterDescription": "TEORIA DO BENEFÍCIO",
     "text": [
       "... Tão insolúvel que o Quincas Borba não pôde dar com ele, apesa de estudá-lo longamente e com boa vontade. — Ora adeus! concluiu nem todos os problemas valem cinco minutos de atenção.",
@@ -1944,7 +1944,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CL",
+    "chapterName": "CAPÍTULO CL",
     "chapterDescription": "ROTAÇÃO E TRANSLAÇÃO",
     "text": [
       "Há em cada empresa, afeição ou idade um ciclo inteiro da vid humana. O primeiro número do meu jornal encheu-me a alma d uma vasta aurora, coroou-me de verduras, restituiu-me a lepidez d mocidade. Seis meses depois batia a hora da velhice, e daí a dua semanas a da morte, que foi clandestina, como a de D. Plácida. N dia em que o jornal amanheceu morto, respirei como um homem qu vem de longo caminho. De modo que, se eu disser que a vid humana nutre de si mesma outras vidas, mais ou menos efêmeras como o corpo alimenta os seus parasitas, creio não dizer uma cois inteiramente absurda. Mas, para não arriscar essa figura meno nítida e adequada, prefiro uma imagem astronômica: o home executa à roda do grande mistério um movimento duplo de rotação  translação; tem os seus dias, desiguais como os de Júpiter, e dele compõe o seu ano mais ou menos longo.",
@@ -1953,21 +1953,21 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CLI",
+    "chapterName": "CAPÍTULO CLI",
     "chapterDescription": "FILOSOFIA DOS EPITÁFIOS",
     "text": [
       "Saí, afastando-me dos grupos, e fingindo ler os epitáfios. E, aliás gosto dos epitáfios; eles são, entre a gente civilizada, uma expressã daquele pio e secreto egoísmo que induz o homem a arrancar  morte um farrapo ao menos da sombra que passou. Daí vem, talvez a tristeza inconsolável dos que sabem os seus mortos na val comum; parece-lhes que a podridão anônima os alcança a ele mesmos."
     ]
   },
   {
-    "chapter": "CAPÍTULO CLII",
+    "chapterName": "CAPÍTULO CLII",
     "chapterDescription": "A MOEDA DE VESPASIANO",
     "text": [
       "Tinham ido todos; só o meu carro esperava pelo dono. Acendi u charuto; afastei-me do cemitério. Não podia sacudir dos olhos  cerimônia do enterro, nem dos ouvidos os soluços de Virgília. O soluços, principalmente, tinham o som vago e misterioso de u problema. Virgília traíra o marido, com sinceridade, e agora choravao com sinceridade. Eis uma combinação difícil que não pude fazer e todo o trajeto; em casa, porém, apeando-me do carro, suspeitei qu a combinação era possível, e até fácil. Meiga Natura! A taxa da dor  como a moeda de Vespasiano; não cheira à origem, e tanto se colh do mal como do bem. A moral repreenderá, porventura, a minh cúmplice; é o que te não importa, implacável amiga, uma vez que lh recebeste pontualmente as lágrimas. Meiga, três vezes Meiga Natura!"
     ]
   },
   {
-    "chapter": "CAPÍTULO CLIII",
+    "chapterName": "CAPÍTULO CLIII",
     "chapterDescription": "O ALIENISTA",
     "text": [
       "Começo a ficar patético e prefiro dormir. Dormi, sonhei que er nababo, e acordei com a idéia de ser nababo. Eu gostava, às vezes de imaginar esses contrastes de região, estado e credo. Alguns dia antes tinha pensado na hipótese de uma revolução social, religiosa  política, que transferisse o arcebispo de Cantuária a simples coleto de Petrópolis, e fiz longos cálculos para saber se o coletor eliminaria  arcebispo, ou se o arcebispo rejeitaria o coletor, ou que porção d arcebispo pode jazer num coletor, ou que soma de coletor pod combinar com um arcebispo, etc. Questões insolúveis aparentemente, mas na realidade perfeitamente solúveis, desde que se atenda que pode haver num arcebispo dois arcebispos, — o d bula e o outro. Está dito, vou ser nababo.",
@@ -1981,7 +1981,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CLIV",
+    "chapterName": "CAPÍTULO CLIV",
     "chapterDescription": "OS NAVIOS DO PIREU",
     "text": [
       "— Há de lembrar-se, disse-me o alienista, daquele famoso maníac ateniense, que supunha que todos os navios entrados no Pireu era de sua propriedade. Não passava de um pobretão, que talvez nã tivesse, para dormir, a cuba de Diógenes; mas a posse imaginári dos navios valia por todas as dracmas da Hélade. Ora bem, há e todos nós um maníaco de Atenas; e quem jurar que não possui alguma vez, mentalmente, dois ou três patachos, pelo menos, pod crer que jura falso.",
@@ -1993,21 +1993,21 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CLV",
+    "chapterName": "CAPÍTULO CLV",
     "chapterDescription": "REFLEXÃO CORDIAL",
     "text": [
       "— Se o alienista tem razão, disse eu comigo, não haverá muito qu lastimar o Quincas Borba; é uma questão de mais ou de menos Contudo, é justo cuidar dele, e evitar que lhe entrem no cérebr maníacos de outras paragens."
     ]
   },
   {
-    "chapter": "CAPÍTULO CLVI",
+    "chapterName": "CAPÍTULO CLVI",
     "chapterDescription": "ORGULHO DA SERVILIDADE",
     "text": [
       "Quincas Borba divergiu do alienista em relação ao meu criado.  Pode-se, por imagem, disse ele, atribuir ao teu criado a mania d ateniense; mas imagens não são idéias nem observações tomadas  natureza. O que o teu criado tem é um sentimento nobre  perfeitamente regido pelas leis do Humanitismo: é o orgulho d servilidade. A intenção dele é mostrar que não é criado de qualquer — Depois chamou a minha atenção para os cocheiros de casa grande mais empertigados que o amo, para os criados de hotel, cuj solicitude obedece às variações sociais da freguesia, etc. E conclui que era tudo a expressão daquele sentimento delicado e nobre,  prova cabal de que muitas vezes o homem, ainda a engraxar botas,  sublime."
     ]
   },
   {
-    "chapter": "CAPÍTULO CLVII",
+    "chapterName": "CAPÍTULO CLVII",
     "chapterDescription": "FASE BRILHANTE",
     "text": [
       "— Sublime és tu, bradei eu, lançando-lhe os braços ao pescoço.",
@@ -2019,7 +2019,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CLVIII",
+    "chapterName": "CAPÍTULO CLVIII",
     "chapterDescription": "DOIS ENCONTROS",
     "text": [
       "No fim de alguns anos, três ou quatro, estava enfarado do ofício,  deixei-o, não sem um donativo importante, que me deu direito a retrato na sacristia. Não acabarei, porém, o capítulo sem dizer que v morrer no hospital da Ordem, adivinhem quem?... a linda Marcela;  vi-a morrer no mesmo dia em que, visitando um cortiço, par distribuir esmolas, achei... Agora é que não são capazes d adivinhar... achei a flor da moita, Eugênia, a filha de D. Eusébia e d Vilaça, tão coxa como a deixara, e ainda mais triste.",
@@ -2027,7 +2027,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CLIX",
+    "chapterName": "CAPÍTULO CLIX",
     "chapterDescription": "SEMIDEMÊNCIA",
     "text": [
       "Compreendi que estava velho, e precisava de uma força; mas  Quincas Borba partira seis meses antes para Minas Gerais, e levo consigo a melhor das filosofias. Voltou quatro meses depois,  entrou-me em casa, certa manhã, quase no estado em que eu o vir no Passeio Público. A diferença é que o olhar era outro. Vinh demente. Contou-me que, para o fim de aperfeiçoar o Humanitismo queimara o manuscrito todo e ia recomeçá-lo. A parte dogmátic ficava completa, embora não escrita; era a verdadeira religião d futuro.",
@@ -2038,7 +2038,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CLX",
+    "chapterName": "CAPÍTULO CLX",
     "chapterDescription": "DAS NEGATIVAS",
     "text": [
       "Entre a morte do Quincas Borba e a minha, mediaram os sucesso narrados na primeira parte do livro. O principal deles foi a invençã do emplasto Brás Cubas, que morreu comigo, por causa da molésti que apanhei. Divino emplasto, tu me darias o primeiro lugar entre o homens, acima da ciência e da riqueza, porque eras a genuína  direta inspiração do Céu. O caso determinou o contrário; e aí vo ficais eternamente hipocondríacos.",

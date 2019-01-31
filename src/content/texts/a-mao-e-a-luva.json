@@ -1,6 +1,6 @@
 [
   {
-    "chapter": " Advertência de 1907",
+    "chapterName": "Advertência de 1907",
     "chapterDescription": null,
     "text": [
       "Os trinta e tantos anos decorridos do aparecimento desta novela à reimpressã que ora se faz parece que explicam as diferenças de composição e de maneira d autor. Se este não lhe daria agora a mesma feição, é certo que lha deu outrora e, ao cabo, tudo pode servir a definir a mesma pessoa.",
@@ -9,7 +9,7 @@
     ]
   },
   {
-    "chapter": " Advertência de 1874",
+    "chapterName": "Advertência de 1874",
     "chapterDescription": null,
     "text": [
       "Esta novela, sujeita às urgências da publicação diária, saiu das mãos do auto capítulo a capítulo, sendo natural que a narração e o estilo padecessem com ess método de composição, um pouco fora dos hábitos do autor. Se a escrevera e outras condições, dera-lhe desenvolvimento maior, e algum colorido mais ao caracteres, que aí ficam esboçados. Convém dizer que o desenho de tai caracteres, — o de Guiomar, sobretudo, — foi o meu objeto principal, senã exclusivo, servindo-me a ação apenas de tela em que lancei os contornos do perfis. Incompletos embora, terão eles saído naturais e verdadeiros?",
@@ -19,7 +19,7 @@
     ]
   },
   {
-    "chapter": " CAPÍTULO PRIMEIRO",
+    "chapterName": "CAPÍTULO PRIMEIRO",
     "chapterDescription": "O FIM DA CARTA",
     "text": [
       "— Mas o que pretendes fazer agora?",
@@ -64,7 +64,7 @@
     ]
   },
   {
-    "chapter": " CAPÍTULO II",
+    "chapterName": "CAPÍTULO II",
     "chapterDescription": "UM ROUPÃO",
     "text": [
       "Um mês depois de chegar Estevão a São Paulo, achava-se a sua paixã definitivamente morta e enterrada, cantando ele mesmo um responso, a voze alternadas, com duas ou três moças da capital, — todas elas, por passatempo Claro é que dois anos depois, quando tomou o grau de bacharel, nenhuma idéi lhe restava do namoro da Rua dos Inválidos. Demais, a bela Guiomar desd muito tempo deixara o colégio e fora morar com a madrinha. Já ele a não vira d primeira vez que veio à Corte. Agora voltava graduado em ciências jurídicas  sociais, como ficou dito, mais desejoso de devassar o futuro que de reler  passado.",
@@ -98,7 +98,7 @@
     ]
   },
   {
-    "chapter": " CAPÍTULO III",
+    "chapterName": "CAPÍTULO III",
     "chapterDescription": "AO PÉ DA CERCA",
     "text": [
       "A primeira coisa que Estevão pôde descobrir é que a vizinha era moça. Via-lhe  perfil, em cada aberta que deixavam as árvores, um perfil correto e puro, com de escultura antiga. Via-lhe a face cor de leite, sobre a qual se destacava a co escura dos cabelos, não penteados de vez, mas frouxamente atados no alto d cabeça, com aquele desleixo matinal que faz mais belas as mulheres belas.  roupão, — de musselina branca, — finamente bordado, não deixava ver toda  graça do talhe, que devia ser e era elegante, dessa elegância que nasce com  criatura ou se apura com a educação, sem nada pedir, ou pedindo pouco  tesoura da costureira. Todo o colo ia coberto até o pescoço, onde o roupão er preso por um pequeno broche de safira. Um botão, do mesmo mineral, fechav em cada pulso as mangas estreitas e lisas, que rematavam em folhos de renda.",
@@ -150,7 +150,7 @@
     ]
   },
   {
-    "chapter": " CAPÍTULO IV",
+    "chapterName": "CAPÍTULO IV",
     "chapterDescription": "LATET ANGUIS",
     "text": [
       "O passeio da baronesa durou pouco mais de meia hora. O sol começava  aquecer, e apesar de ser bastante sombreada a chácara, o calor aconselhava  boa senhora que se recolhesse. Guiomar deu-lhe o braço, e ambas, seguindo pel mesmo caminho, guiaram para casa.",
@@ -210,7 +210,7 @@
     ]
   },
   {
-    "chapter": " CAPÍTULO V",
+    "chapterName": "CAPÍTULO V",
     "chapterDescription": "MENINICE",
     "text": [
       "Guiomar tivera humilde nascimento; era filha de um empregado subalterno nã sei de que repartição do Estado, homem probo, que morreu quando ela contav apenas sete anos, legando à viúva o cuidado de a educar e manter. A viúva er mulher enérgica e resoluta, enxugou as lágrimas com a manga do modest vestido, olhou de frente para a situação e determinou-se à luta e à vitória.",
@@ -242,7 +242,7 @@
     ]
   },
   {
-    "chapter": " CAPÍTULO VI",
+    "chapterName": "CAPÍTULO VI",
     "chapterDescription": "O POST SCRIPTUM",
     "text": [
       "Aquele conselho de Luís Alves, na fatal noite de dois anos antes, não há dúvid que era judicioso e devera ter ficado no espírito de Estevão. Não convinha reler  carta, sob pena de lhe achar um post scriptum. Estevão era curioso de epístolas não pôde ter-se que não abrisse aquela. O post scriptum lá estava no fim. ",
@@ -292,7 +292,7 @@
     ]
   },
   {
-    "chapter": " CAPÍTULO VII",
+    "chapterName": "CAPÍTULO VII",
     "chapterDescription": "UM RIVAL",
     "text": [
       "Não era a primeira vez que Mrs. Oswald aludia a alguma coisa que desagradava  Guiomar, nem a primeira que esta lhe respondia com a sequidão que o leitor vi no fim do capítulo anterior. A boa inglesa ficou séria e calada alguns dois ou trê minutos, a olhar para Guiomar, aparentemente buscando interrogar-lhe  pensamento, mas na realidade sem saber como sair da situação. A moça rompe o silêncio:",
@@ -330,7 +330,7 @@
     ]
   },
   {
-    "chapter": " CAPÍTULO VIII",
+    "chapterName": "CAPÍTULO VIII",
     "chapterDescription": "GOLPE",
     "text": [
       "Um dia de manhã acordou Estevão com a resolução feita de dar o golpe decisivo. Os corações frouxos têm destas energias súbitas, e é próprio da pusilanimidad iludir-se a si mesma. Ele confessava que nada havia feito, e que a situação exigi alguma coisa mais.",
@@ -378,7 +378,7 @@
     ]
   },
   {
-    "chapter": " CAPÍTULO IX",
+    "chapterName": "CAPÍTULO IX",
     "chapterDescription": "CONSPIRAÇÃO",
     "text": [
       "A baronesa, quando se lhe aproximaram os dois interlocutores da cerca, mai receosa ficou e mais perplexa. Guiomar vinha risonha e até gracejadora; mas  abatimento de Estevão era tão mal disfarçado, que de duas uma, — ou el acabava de lhe dar o último desengano, — ou aquilo era apenas um arrufo sério que o moço não podia ou não queria esconder de olhos estranhos. Isto é o que  baronesa pensou. O que ela concluiu foi que, em todo caso, urgia tentar algum coisa em favor do maior, — do único sonho da sua velhice.",
@@ -435,7 +435,7 @@
     ]
   },
   {
-    "chapter": " CAPÍTULO X",
+    "chapterName": "CAPÍTULO X",
     "chapterDescription": "A REVELAÇÃO",
     "text": [
       "Meia hora depois, indo a abrir o livro para continuar a leitura, viu Guiomar  cartinha de Jorge. Não tinha sobrecarta; era um simples papelinho dobrado rescendendo a amores. O espírito de Guiomar estava tão longe daquilo que nã suspeitou nada e distraidamente o abriu. A primeira palavra escrita era o se nome; a última era o de Jorge.",
@@ -523,7 +523,7 @@
     ]
   },
   {
-    "chapter": " CAPÍTULO XI",
+    "chapterName": "CAPÍTULO XI",
     "chapterDescription": "LUÍS ALVES",
     "text": [
       "Durante uma inteira e comprida semana, deixou Estevão de aparecer n escritório onde trabalhava com Luís Alves; não apareceu também em Botafogo Ninguém o viu em todo esse tempo nos lugares onde ele era mais ou meno assíduo. Foram seis dias, não digo de reclusão absoluta, mas de complet solidão, porque ainda nas poucas vezes que saiu, fê-lo sempre a horas ou e direções que a ninguém via, e de ninguém era visto.",
@@ -570,7 +570,7 @@
     ]
   },
   {
-    "chapter": " CAPÍTULO XII",
+    "chapterName": "CAPÍTULO XII",
     "chapterDescription": "A VIAGEM",
     "text": [
       "Mal recomeçara Luís Alves a leitura dos autos, entrou no gabinete o criad apresentando-lhe um bilhete de visita.",
@@ -613,7 +613,7 @@
     ]
   },
   {
-    "chapter": " CAPÍTULO XIII",
+    "chapterName": "CAPÍTULO XIII",
     "chapterDescription": "EXPLICAÇÕES",
     "text": [
       "Luís Alves compreendera toda a expressão dos olhos de Guiomar; era, porém homem frio, resoluto. Inclinou o busto com toda a graça correta e de bom-tom,  disse-lhe na voz mais branda que lhe permitia o seu órgão forte e severo:",
@@ -647,7 +647,7 @@
     ]
   },
   {
-    "chapter": " CAPÍTULO XIV",
+    "chapterName": "CAPÍTULO XIV",
     "chapterDescription": "EX ABRUPTO",
     "text": [
       "Já o leitor ficou entendendo que a viagem a Cantagalo era obra quase exclusiv de Guiomar. A baronesa relutara a princípio, como das outras vezes fizera, e  comendador pouca esperança tinha já de a ver na fazenda. Mas o voto d Guiomar foi decisivo. Ela fortaleceu, com as suas, as razões do comendador alegando não só a obrigação em que a madrinha estava de desempenhar  palavra dada, mas ainda a vantagem que lhe podiam trazer aqueles três mese de vida roceira, longe das agitações da Corte; enfim, invocou o seu própri desejo de ver uma fazenda e conhecer os hábitos do interior.",
@@ -691,7 +691,7 @@
     ]
   },
   {
-    "chapter": " CAPÍTULO XV",
+    "chapterName": "CAPÍTULO XV",
     "chapterDescription": "EMBARGOS DE TERCEIRO",
     "text": [
       "Durante três dias deixou Luís Alves de ir à casa da baronesa, estando aliás  morrer por isso. Entrava porém no plano esta ausência; era das instruções qu ele mesmo dera ao seu coração; não havia remédio senão observá-las.",
@@ -739,7 +739,7 @@
     ]
   },
   {
-    "chapter": " CAPÍTULO XVI",
+    "chapterName": "CAPÍTULO XVI",
     "chapterDescription": "A CONFISSÃO",
     "text": [
       "Na mesma noite em que Jorge, cedendo às sugestões de Mrs. Oswald, tentava  último recurso que no entender da inglesa havia, achava-se Luís Alves em casa comodamente sentado numa poltrona de couro, defronte da janela com os olho no mar e o pensamento nas suas duas candidaturas vencidas. Meia-noite estav a pingar; uma pessoa descia de um tílburi e batia-lhe à porta.",
@@ -793,7 +793,7 @@
     ]
   },
   {
-    "chapter": " CAPÍTULO XVII",
+    "chapterName": "CAPÍTULO XVII",
     "chapterDescription": "A CARTA",
     "text": [
       "Não era preciso reler o papel para entendê-lo; mas olhos amantes deliciam-s com letras namoradas. O papel continha uma palavra única: — Peça-me,  escrita no centro da folha, com uma letra fina, elegante, feminina. Luís Alve olhou algum tempo para o bilhete, primeiramente como namorado, depois com simples observador. A letra não era trêmula, mas parecia ter sido lançada a papel em hora de comoção.",
@@ -833,7 +833,7 @@
     ]
   },
   {
-    "chapter": " CAPÍTULO XVIII",
+    "chapterName": "CAPÍTULO XVIII",
     "chapterDescription": "A ESCOLHA",
     "text": [
       "Mrs. Oswald tinha falado demais. A baronesa não a incumbira de dizer à afilhad a razão por que a mandava chamar. Aconteceu, porém, que aquela indiscriçã não foi a única. Mrs. Oswald, em vez de esquivar-se e deixar que entre Guiomar  a baronesa fosse tratado o assunto que as ia reunir, cedeu à curiosidade,  acompanhou a moça.",
@@ -912,7 +912,7 @@
     ]
   },
   {
-    "chapter": " CAPÍTULO XIX",
+    "chapterName": "CAPÍTULO XIX",
     "chapterDescription": "CONCLUSÃO",
     "text": [
       "Marcado o casamento para dois meses depois, todo o tempo de intervalo fo despendido pelos noivos naquele deleitoso viver, que já não é o colóquio furtiv do simples namoro, nem é ainda a intimidade conjugal, mas um estad intermédio e consentido, em que os corações podem entornar-se livremente u no outro. Aqueles não tinham nada do amor extático e romanesco de Estevão mas amavam sinceramente, ela ainda mais do que ele, e tão feliz um como outro.",

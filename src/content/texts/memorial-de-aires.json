@@ -1,6 +1,6 @@
 [
   {
-    "chapter": "Advertência",
+    "chapterName": "Advertência",
     "chapterDescription": null,
     "text": [
       "Quem me leu Esaú e Jacó talvez reconheça estas palavras do prefácio “Nos lazeres do ofício escrevia o Memorial, que, apesar das página mortas ou escuras, apenas daria (e talvez dê) para matar o tempo d barca de Petrópolis”.",
@@ -9,7 +9,7 @@
     ]
   },
   {
-    "chapter": "1888",
+    "chapterName": "1888",
     "chapterDescription": "9 de janeiro",
     "text": [
       "Ora bem, faz hoje um ano que voltei definitivamente da Europa. O qu me lembrou esta data foi, estando a beber café, o pregão de u vendedor de vassouras e espanadores: \"Vai vassouras! va espanadores!\" Costumo ouvi-lo outras manhãs, mas desta vez trouxeme à memória o dia do desembarque, quando cheguei aposentado  minha terra, ao meu Catete, à minha língua. Era o mesmo que ouvi h um ano, em 1887, e talvez fosse a mesma boca.",
@@ -17,14 +17,14 @@
     ]
   },
   {
-    "chapter": "Cinco horas da tarde",
+    "chapterName": "Cinco horas da tarde",
     "chapterDescription": null,
     "text": [
       "Recebi agora um bilhete de mana Rita, que aqui vai colado:"
     ]
   },
   {
-    "chapter": "9 de janeiro",
+    "chapterName": "9 de janeiro",
     "chapterDescription": null,
     "text": [
       "“Mano Só agora me lembrou que faz hoje um ano que voc voltou da Europa aposentado. Já é tarde para ir a cemitério de São João Batista, em visita ao jazigo d família, dar graças pelo seu regresso; irei amanhã d manhã, e peço a você que me espere para ir comigo Saudades d Velha mana Rita”.",
@@ -32,7 +32,7 @@
     ]
   },
   {
-    "chapter": "10 de janeiro",
+    "chapterName": "10 de janeiro",
     "chapterDescription": null,
     "text": [
       "Fomos ao cemitério. Rita, apesar da alegria do motivo, não pôde rete algumas velhas lágrimas de saudade pelo marido que lá está no jazigo com meu pai e minha mãe. Ela ainda agora o ama, como no dia e que o perdeu, lá se vão tantos anos. No caixão do defunto mando guardar um molho dos seus cabelos, então pretos, enquanto os mai deles ficaram a embranquecer cá fora.",
@@ -72,7 +72,7 @@
     ]
   },
   {
-    "chapter": "12 de janeiro",
+    "chapterName": "12 de janeiro",
     "chapterDescription": null,
     "text": [
       "Na conversa de anteontem com Rita esqueceu-me dizer a parte relativ a minha mulher, que lá está enterrada em Viena. Pela segunda ve falou-me em transportá-la para o nosso jazigo. Novamente lhe diss que estimaria muito estar perto dela, mas que, em minha opinião, o mortos ficam bem onde caem; redargüiu-me que estão muito melho com os seus.",
@@ -89,7 +89,7 @@
     ]
   },
   {
-    "chapter": "14 de janeiro",
+    "chapterName": "14 de janeiro",
     "chapterDescription": null,
     "text": [
       "A única particularidade da biografia de Fidélia é que o pai e o sogr eram inimigos políticos, chefes de partido na Paraíba do Sul. Inimizad de famílias não tem impedido que moços se amem, mas é preciso ir  Verona ou alhures. E ainda os de Verona dizem comentadores que a famílias de Romeu e de Julieta eram antes amigas e do mesmo partido também dizem que nunca existiram, salvo na tradição ou somente n cabeça de Shakespeare.",
@@ -98,7 +98,7 @@
     ]
   },
   {
-    "chapter": "16 de janeiro",
+    "chapterName": "16 de janeiro",
     "chapterDescription": null,
     "text": [
       "........................................................................... Tão depressa vinha saindo do Banco do Sul encontrei Aguiar, gerent dele, que para lá ia. Cumprimentou-me muito afetuosamente, pediume notícias de Rita, e falamos durante alguns minutos sobre coisa gerais.",
@@ -106,21 +106,21 @@
     ]
   },
   {
-    "chapter": "20 de janeiro",
+    "chapterName": "20 de janeiro",
     "chapterDescription": null,
     "text": [
       "Três dias metido em casa, por um resfriamento com pontinha de febre Hoje estou bom, e segundo o médico, posso já sair amanhã; ma poderei ir às bodas de prata dos velhos Aguiares? Profissiona cauteloso, o Dr. Silva me aconselhou que não vá; mana Rita, qu tratou de mim dois dias, é da mesma opinião. Eu não a tenho contrária mas se me achar lépido e robusto, como é possível, custar-me-á não ir Veremos; três dias passam depressa."
     ]
   },
   {
-    "chapter": "Seis horas da tarde",
+    "chapterName": "Seis horas da tarde",
     "chapterDescription": null,
     "text": [
       "Gastei o dia a folhear livros, e reli especialmente alguma coisa d Shelley e também de Thackeray. Um consolou-me de outro, est desenganou-me daquele; é assim que o engenho completa o engenho e o espírito aprende as línguas do espírito."
     ]
   },
   {
-    "chapter": "Nove horas da noite",
+    "chapterName": "Nove horas da noite",
     "chapterDescription": null,
     "text": [
       "Rita jantou comigo; disse-lhe que estou são como um pêro, e co forças para ir às bodas de prata. Ela, depois de me aconselha prudência, concordou que, se não tiver mais nada, e for comedido a jantar, posso ir; tanto mais que os meus olhos terão lá dieta absoluta.",
@@ -136,7 +136,7 @@
     ]
   },
   {
-    "chapter": "25 de janeiro",
+    "chapterName": "25 de janeiro",
     "chapterDescription": null,
     "text": [
       "Lá fui ontem às bodas de prata. Vejamos se posso resumir agora a minhas impressões da noite.",
@@ -174,14 +174,14 @@
     ]
   },
   {
-    "chapter": "Sábado",
+    "chapterName": "Sábado",
     "chapterDescription": null,
     "text": [
       "Ontem encontrei um velho conhecido do corpo diplomático e prometi i jantar com ele amanhã em Petrópolis. Subo hoje e volto segunda-feira O pior é que acordei de mau humor, e antes quisera ficar que subir.  daí pode ser que a mudança de ar e de espetáculo altere a disposiçã do meu espírito. A vida, mormente nos velhos, é um ofício cansativo."
     ]
   },
   {
-    "chapter": "Segunda-feira",
+    "chapterName": "Segunda-feira",
     "chapterDescription": null,
     "text": [
       "Desci hoje de Petrópolis. Sábado, ao sair a barca da Prainha, dei com  Desembargador Campos a bordo, e foi um bom encontro, porque daí  pouco o meu mau humor cedia, e cheguei a Mauá já meio curado. N estação de Petrópolis estava restabelecido inteiramente.",
@@ -193,7 +193,7 @@
     ]
   },
   {
-    "chapter": "4 de fevereiro",
+    "chapterName": "4 de fevereiro",
     "chapterDescription": null,
     "text": [
       "Eia, resumamos hoje o que ouvi ao desembargador em Petrópoli acerca do casal Aguiar. Não ponho os incidentes, nem as anedota soltas, e até excluo os adjetivos que tinham mais interesse na boc dele do que lhes poderia dar a minha pena; vão só os precisos  compreensão de coisas e pessoas.",
@@ -229,7 +229,7 @@
     ]
   },
   {
-    "chapter": "5 de fevereiro",
+    "chapterName": "5 de fevereiro",
     "chapterDescription": null,
     "text": [
       "Relendo o que escrevi ontem, descubro que podia ser ainda mai resumido, e principalmente não lhe pôr tantas lágrimas. Não gost delas, nem sei se as verti algum dia, salvo por mama, em menino; ma lá vão. Pois vão também essas que aí deixei, e mais a figura de Tristão a que cuidei dar meia dúzia de linhas e levou a maior parte delas. Nad há pior que a gente vadia, — ou aposentada, que é a mesma coisa;  tempo cresce e sobra, e se a pessoa pega a escrever, não há papel qu baste.",
@@ -237,7 +237,7 @@
     ]
   },
   {
-    "chapter": "6 de fevereiro",
+    "chapterName": "6 de fevereiro",
     "chapterDescription": null,
     "text": [
       "Outra coisa que também não escrevi no dia 4, mas essa não entrou n narração do Campos. Foi ao despedir-me dele, que lá ficou e Petrópolis três ou quatro dias. Como eu lhe deixasse recomendaçõe para a sobrinha, ouvi-lhe que me respondeu:",
@@ -245,14 +245,14 @@
     ]
   },
   {
-    "chapter": "6 de fevereiro, à noite",
+    "chapterName": "6 de fevereiro, à noite",
     "chapterDescription": null,
     "text": [
       "Diferença de vocações; o casal Aguiar morre por filhos, eu nunc pensei neles, nem lhes sinto a falta, apesar de só. Alguns há que o quiseram, que os tiveram e não souberam guardá-los."
     ]
   },
   {
-    "chapter": "10 de fevereiro",
+    "chapterName": "10 de fevereiro",
     "chapterDescription": null,
     "text": [
       "Ontem, indo jantar a Andaraí, contei a mana Rita o que ouvi a desembargador.",
@@ -281,7 +281,7 @@
     ]
   },
   {
-    "chapter": "11 de fevereiro",
+    "chapterName": "11 de fevereiro",
     "chapterDescription": null,
     "text": [
       "Antigamente, quando eu era menino, ouvia dizer que às crianças só s punham nomes de santos ou santas. Mas Fidélia...? Não conheço sant com tal nome, ou sequer mulher pagã. Terá sido dado à filha do barão como a forma feminina de Fidélio, em homenagem a Beethoven? Pod ser; mas eu não sei se ele teria dessas inspirações e reminiscência artísticas. Verdade é que o nome da família, que serve ao títul nobiliário, Santa-Pia, também não o acho na lista dos canonizados, e  única pessoa que conheço assim chamada, é a de Dante: Ricorditi d me, chi son la Pia.",
@@ -289,14 +289,14 @@
     ]
   },
   {
-    "chapter": "18 de fevereiro",
+    "chapterName": "18 de fevereiro",
     "chapterDescription": null,
     "text": [
       "Campos disse-me hoje que o irmão lhe escrevera, em segredo, te ouvido na roça o boato de uma lei próxima de abolição. Ele, Campos não crê que este ministério a faça, e não se espera outro."
     ]
   },
   {
-    "chapter": "24 de fevereiro",
+    "chapterName": "24 de fevereiro",
     "chapterDescription": null,
     "text": [
       "A data de hoje (revolução de 1848) lembra-me a festa de rapazes qu tivemos em São Paulo, e um brinde que eu fiz ao grande Lamartine. Ai viçosos tempos! Eu estava no meu primeiro ano de Direito. Com falasse disso ao desembargador, disse-me este:",
@@ -304,7 +304,7 @@
     ]
   },
   {
-    "chapter": "2 de março",
+    "chapterName": "2 de março",
     "chapterDescription": null,
     "text": [
       "Venho da casa do Aguiar. Lá achei Fidélia, um primo desta, filho d desembargador, aluno da Escola de Marinha (16 anos) e u empregado do Banco do Brasil. Passei uma boa hora ou mais. A velh esteve encantadora, a moça também, e a conversação evitou tudo  que pudesse lembrar a ambas a respectiva perda, uma do esposo outra do filho postiço. Contavam-se histórias de sociedade, que eu ouv sorrindo, quando era preciso, ou consternado nas ocasiões pertinentes Também eu contei uma, de sociedade alheia e remota, mas o receio d lembrar à viúva Noronha alguma terra por onde houvesse andado co o marido me fez encurtar a narração e não começar segunda Entretanto, ela referiu duas ou três reminiscências de viagem impressões do que vira em museus da Itália e da Alemanha. Da noss terra dissemos coisas agradáveis e sempre de acordo. A mesma torr da Matriz da Glória, que alguns defenderam como necessária, deixounos a nós, a ela e a mim, concordes no desacordo, sem que, aliás, e combatesse ninguém. O casal Aguiar ouviu-nos sorrindo; o moço d Escola de Marinha tentou, em vão, suscitar a questão militar.",
@@ -312,28 +312,28 @@
     ]
   },
   {
-    "chapter": "10 de março",
+    "chapterName": "10 de março",
     "chapterDescription": null,
     "text": [
       "Afinal houve sempre mudança de gabinete. O Conselheiro João Alfred organizou hoje outro. Daqui a três ou quatro dias irei apresentar a minhas felicitações ao novo ministro dos negócios estrangeiros."
     ]
   },
   {
-    "chapter": "20 de março",
+    "chapterName": "20 de março",
     "chapterDescription": null,
     "text": [
       "Ao Desembargador Campos parece que alguma coisa se fará no sentid da emancipação dos escravos, — um passo adiante, ao menos. Aguiar que estava presente, disse que nada corre na praça nem lhe chegou a Banco do Sul."
     ]
   },
   {
-    "chapter": "27 de março",
+    "chapterName": "27 de março",
     "chapterDescription": null,
     "text": [
       "Santa-Pia chegou da fazenda, e não foi para a casa do irmão; foi para  Hotel da América. É claro que não quer ver a filha. Não há nada mais tenaz que um bom ódio. Parece que ele veio por causa do boato qu corre na Paraíba do Sul acerca da emancipação dos escravos."
     ]
   },
   {
-    "chapter": "4 de abril",
+    "chapterName": "4 de abril",
     "chapterDescription": null,
     "text": [
       "Ouvi que o barão caiu doente, e que o irmão conseguiu trazê-lo par casa. Eis aqui como. Não lhe pediu logo que viesse; achou meio de lh dizer que Fidélia estava em casa da amiga, donde não viria tão cedo,  acabou propondo-lhe tratar-se em casa dele. Santa-Pia recusou, depoi aceitou. Tudo isso foi planeado com ela. Fidélia está efetivamente n Flamengo com a gente Aguiar. Deste modo a casa do Campos fico livre ao pai irritado e enfermo. A opinião do Campos e do Aguiar é qu o fazendeiro, mais tarde ou mais cedo, acabará perdoando a filha. E todo caso, não se encontram agora, com pesar dela.",
@@ -341,7 +341,7 @@
     ]
   },
   {
-    "chapter": "7 de abril",
+    "chapterName": "7 de abril",
     "chapterDescription": null,
     "text": [
       "A distração faz das suas. Hoje, vindo da cidade para casa, passei po esta, e dei comigo no Largo do Machado, quando o bonde parou. Apeeime, e antes de arrepiar caminho, a pé, detive-me alguns instantes,  enfiei pelo jardim, em direção à Matriz da Glória, a olhar para a fachad do templo com a torre por cima. Fiz isto porque me lembrou  conversação da outra noite no Flamengo.",
@@ -350,7 +350,7 @@
     ]
   },
   {
-    "chapter": "8 de abril",
+    "chapterName": "8 de abril",
     "chapterDescription": null,
     "text": [
       "Papel, amigo papel, não recolhas tudo o que escrever esta pena vadia Querendo servir-me, acabarás desservindo-me, porque se acontecer que eu me vá desta vida, sem tempo de te reduzir a cinzas, os que m lerem depois da missa de sétimo dia, ou antes, ou ainda antes d enterro, podem cuidar que te confio cuidados de amor.",
@@ -359,7 +359,7 @@
     ]
   },
   {
-    "chapter": "10 de abril",
+    "chapterName": "10 de abril",
     "chapterDescription": null,
     "text": [
       "Grande novidade! O motivo da vinda do barão é consultar  desembargador sobre a alforria coletiva e imediata dos escravos d Santa-Pia. Acabo de sabê-lo, e mais isto, que a principal razão d consulta é apenas a redação do ato. Não parecendo ao irmão que est seja acertado, perguntou-lhe o que é que o impelia a isso, uma vez qu condenava a idéia atribuída ao governo de decretar a abolição,  obteve esta resposta, não sei se sutil, se profunda, se ambas as coisa ou nada:",
@@ -371,14 +371,14 @@
     ]
   },
   {
-    "chapter": "11 de abril",
+    "chapterName": "11 de abril",
     "chapterDescription": null,
     "text": [
       "Fidélia, quando soube do ato do pai, teve vontade de ir ter com ele não para invectivá-lo, mas para abraçá-lo; não lhe importam perda faturas. O tio é que a dissuadiu dizendo-lhe que o barão ainda est muito zangado com ela."
     ]
   },
   {
-    "chapter": "12 de abril",
+    "chapterName": "12 de abril",
     "chapterDescription": null,
     "text": [
       "Santa-Pia não é feio velho, nem muito velho; terá menos idade que eu Arqueja um pouco, às vezes, mas pode ser da bronquite. É meio calvo largo de espáduas, as mãos ásperas, cheio de corpo.",
@@ -387,28 +387,28 @@
     ]
   },
   {
-    "chapter": "13 de abril",
+    "chapterName": "13 de abril",
     "chapterDescription": null,
     "text": [
       "Ontem com o pai, hoje com a filha. Com esta tive vontade de dizer ma do pai, tanto foi o bem que ela disse dele, a propósito da alforria do escravos. Vontade sem ação, veleidade pura; antes me vi obrigado  louvá-lo também, o que lhe deu azo a estender o panegírico. Disse-m que ele é bom senhor, eles bons escravos, contou-me anedotas de se tempo de menina e moça, com tal desinteresse e calor que me de vontade de lhe pegar na mão, e, em sinal de aplauso, beijar-lha Vontade sem ação. Tudo sem ação esta tarde."
     ]
   },
   {
-    "chapter": "19 de abril",
+    "chapterName": "19 de abril",
     "chapterDescription": null,
     "text": [
       "Lá se foi o barão com a alforria dos escravos na mala. Talvez tenh ouvido alguma coisa da resolução do governo; dizem que, abertas a câmaras, aparecerá um projeto de lei. Venha, que é tempo. Ainda m lembra do que lia lá fora, a nosso respeito, por ocasião da famos proclamação de Lincoln: \"Eu, Abraão Lincoln, Presidente dos Estado Unidos da América...” Mais de um jornal fez alusão nominal ao Brasil dizendo que restava agora que um povo cristão e último imitass aquele e acabasse também com os seus escravos. Espero que hoje no louvem. Ainda que tardiamente, é a liberdade, como queriam a sua o conjurados de Tiradentes."
     ]
   },
   {
-    "chapter": "7 de maio",
+    "chapterName": "7 de maio",
     "chapterDescription": null,
     "text": [
       "O ministério apresentou hoje à Câmara o projeto de abolição. É  abolição pura e simples. Dizem que em poucos dias será lei."
     ]
   },
   {
-    "chapter": "13 de maio",
+    "chapterName": "13 de maio",
     "chapterDescription": null,
     "text": [
       "Enfim, lei. Nunca fui, nem o cargo me consentia ser propagandista d abolição, mas confesso que senti grande prazer quando soube d votação final do Senado e da sanção da Regente. Estava na Rua d Ouvidor, onde a agitação era grande e a alegria geral.",
@@ -417,7 +417,7 @@
     ]
   },
   {
-    "chapter": "14 de maio, meia-noite",
+    "chapterName": "14 de maio, meia-noite",
     "chapterDescription": null,
     "text": [
       "Não há alegria pública que valha uma boa alegria particular. Saí agor do Flamengo, fazendo esta reflexão, e vim escrevê-la, e mais o que lh deu origem.",
@@ -431,7 +431,7 @@
     ]
   },
   {
-    "chapter": "16 de maio",
+    "chapterName": "16 de maio",
     "chapterDescription": null,
     "text": [
       "Fidélia voltou para casa, levando e deixando saudades. Os três estã muito amigos, e os dois parecem pais de verdade; ela também parec filha verdadeira. O desembargador, que me contou isto, referiu-m algumas palavras da sobrinha acerca da gente Aguiar, principalment da velha, e acrescentou:",
@@ -439,14 +439,14 @@
     ]
   },
   {
-    "chapter": "17 de maio",
+    "chapterName": "17 de maio",
     "chapterDescription": null,
     "text": [
       "Vou ficar em casa uns quatro ou cinco dias, não para descansar porque eu não faço nada, mas para não ver nem ouvir ninguém, a nã ser o meu criado José. Este mesmo, se cumprir, mandá-lo-ei à Tijuca,  ver se eu lá estou. Já acho mais quem me aborreça do que quem m agrade, e creio que esta proporção não é obra dos outros, e só minh exclusivamente. Velhice esfalfa."
     ]
   },
   {
-    "chapter": "18 de maio",
+    "chapterName": "18 de maio",
     "chapterDescription": null,
     "text": [
       "Rita escreveu-me pedindo informações de um leiloeiro. Parece-m caçoada. Que sei eu de leiloeiros nem de leilões? Quando eu morre podem vender em particular o pouco que deixo, com abatimento o sem ele, e a minha pele com o resto; não é nova, não é bela, não  fina, mas sempre dará para algum tambor ou pandeiro rústico. Não  preciso chamar um leiloeiro.",
@@ -454,7 +454,7 @@
     ]
   },
   {
-    "chapter": "21 de maio",
+    "chapterName": "21 de maio",
     "chapterDescription": null,
     "text": [
       "Ontem escrevi à mana Rita anunciando-lhe a morte do homem, e hoj de manhã abrindo os jornais, dei com a notícia de haver falecido onte o leiloeiro Fernandes. Chamava-se Fernandes. Sucumbiu a não sei qu moléstia grega ou latina. Parece que era bom chefe de família, honrad e laborioso, e excelente cidadão; a Vida Nova chama-lhe grande, ma talvez ele votasse com os liberais.",
@@ -465,7 +465,7 @@
     ]
   },
   {
-    "chapter": "22 de maio",
+    "chapterName": "22 de maio",
     "chapterDescription": null,
     "text": [
       "Em caminho, mana Rita contou-me o que já sabe da carta de Tristão  da resposta que D. Carmo lhe mandou. Sabe mais que eu. D. Carm leu-lhe as duas cartas. Tristão pede mil desculpas do longo silêncio d anos e lança-o à conta de tarefas e distrações. Ultimamente, j formado em Medicina, foi em viagem a várias terras, onde viu  estudou muito. Não podendo escrever as viagens, contar-lhas-á u dia, se cá vier. Pede notícias dela e do padrinho, pede-lhes os retratos e manda-lhes pelo correio umas gravuras; assim também lembrança do pai e da mãe que estão em Lisboa. A carta é longa, cheia d ternuras e saudades. A resposta, disse-me mana Rita que é em to verdadeiramente maternal. Não sabe mostrar-se magoada; é tod perdão e carinho. Só lhe faz uma queixa; é que, pedindo os retrato dela e do marido, não lhe mandasse logo o seu, o último dos seus porque os antigos cá estão. Diz muitas coisas longas, lembra os tempo de infância e de estudo, e no fim insinua-lhe que venha contar-lhe a viagens. As gravuras são da casa Goupil.",
@@ -473,7 +473,7 @@
     ]
   },
   {
-    "chapter": "23 de maio",
+    "chapterName": "23 de maio",
     "chapterDescription": null,
     "text": [
       "Les morts vont vite. Tão depressa enterrei o leiloeiro como o esqueci Assim foi que, escrevendo o dia de ontem, deixei de dizer que n armazém do Fernandes achamos todos os objetos de mana Rit notados e vendidos, e o dinheiro à espera da dona. Pouco é; recebê-loá oportunamente. Talvez não houvesse necessidade de escrever isto fica servindo à reputação do finado.",
@@ -485,7 +485,7 @@
     ]
   },
   {
-    "chapter": "24 de maio, ao meio-dia",
+    "chapterName": "24 de maio, ao meio-dia",
     "chapterDescription": null,
     "text": [
       "Esta manhã, como eu pensasse na pessoa que terá sido mordida pel viúva, veio a própria viúva ter comigo, consultar-me se devia curá-l ou não. Achei-a na sala com o seu vestido preto do costume e enfeite brancos, fi-la sentar no canapé, sentei-me na cadeira ao lado e espere que falasse.",
@@ -500,7 +500,7 @@
     ]
   },
   {
-    "chapter": "26 de maio",
+    "chapterName": "26 de maio",
     "chapterDescription": null,
     "text": [
       "Aqui ficam os sinais do sujeito mordido pela viúva Noronha. Vinte e oit anos, solteiro, advogado do Banco do Sul, donde lhe vieram as relaçõe com o gerente Aguiar; boa feição, boas maneiras, acaso tímido. É filh de um antigo lavrador do Norte, que reside agora no Recife. Dizem qu tem muito talento e grande futuro. Chama-se Osório.",
@@ -508,7 +508,7 @@
     ]
   },
   {
-    "chapter": "29 de maio",
+    "chapterName": "29 de maio",
     "chapterDescription": null,
     "text": [
       "Ontem, na reunião do Aguiar, pude verificar que o jovem advogad está mordido pela viúva. Não têm outra explicação os olhos que lh deita; são daqueles que nunca mais acabam. Realmente, é tímido, ma de uma timidez que se confunde com respeito e adoração. Se houvess dança, ele apenas lhe pediria uma quadrilha; duvido que a convidass a valsar. Conversaram alguns minutos largos, e por duas vezes,  ainda assim foi ela que principalmente falou. Osório gastou o mais d tempo em mirá-la, e fazia bem, porque o gesto da dama era cheio d graça, sem perder a tristeza do estado.",
@@ -528,7 +528,7 @@
     ]
   },
   {
-    "chapter": "9 de junho",
+    "chapterName": "9 de junho",
     "chapterDescription": null,
     "text": [
       "Este mês é a primeira linha que escrevo aqui. Não tem sido falta d matéria, ao contrário; falta de tempo também não; falta de disposiçã é possível. Agora volta.",
@@ -554,21 +554,21 @@
     ]
   },
   {
-    "chapter": "14 de junho",
+    "chapterName": "14 de junho",
     "chapterDescription": null,
     "text": [
       "Más notícias de Santa-Pia. O barão teve uma congestão cerebral Fidélia e o tio vão para a fazenda amanhã. Não é fácil adivinhar o qu vai sair daqui, mas não seria difícil compor uma invenção, que nã acontecesse. Enchia-se o papel com ela, e consolava-se a gente com  imaginado. Melhor é dizer que a reconciliação parece fazer-se mai depressa do que esperavam, e tristemente."
     ]
   },
   {
-    "chapter": "15 de junho",
+    "chapterName": "15 de junho",
     "chapterDescription": null,
     "text": [
       "Há na vida simetrias inesperadas. A moléstia do pai de Osório chamo o filho ao Recife, a do pai de Fidélia chama a filha à Paraíba do Sul. S isto fosse novela algum crítico tacharia de inverossímil o acordo d fatos, mas já lá dizia o poeta que a verdade pode ser às veze inverossímil. Vou hoje à casa do Aguiar para ver se a filha postiç deixou saudades aos dois; deve tê-las deixado."
     ]
   },
   {
-    "chapter": "16 de junho",
+    "chapterName": "16 de junho",
     "chapterDescription": null,
     "text": [
       "Deixou, deixou saudades e grandes. Achei-os sós e conversamos d amiga. Propriamente não estavam tristes da ausência dela, mas d tristeza que ela levou consigo. Quero dizer que lhes doía a mágoa d outra; foi o que me pareceu. A ausência contam que não seja longa,  será temperada por visitas à capital; em todo caso, a separação não  tamanha que eles não possam dar um pulo à fazenda. Tais foram o sentimentos e as esperanças que lhes adivinhei. Falaram-me do golp recebido pela moça. D. Carmo disse-me que eu não podia imagina como a foi achar abatida.",
@@ -580,14 +580,14 @@
     ]
   },
   {
-    "chapter": "17 de junho",
+    "chapterName": "17 de junho",
     "chapterDescription": null,
     "text": [
       "O Barão de Santa-Pia está mal, muito mal."
     ]
   },
   {
-    "chapter": "18 de junho",
+    "chapterName": "18 de junho",
     "chapterDescription": null,
     "text": [
       "Viva a Fortuna, que sabe às vezes consolar o mal agudo com algu bálsamo inesperado. A gente Aguiar recebeu carta de Tristão, que lhe anuncia a vinda ao Brasil, talvez no paquete próximo. Logo qu entrei... Era dia de recepção deles, e soube depois que tinham pensad em transferi-la por causa da tristeza de Fidélia, mas consideraram qu era modesta e resumida, que se não dançava, raro se cantava,  apenas se conversava e tomava chá; podia ser mantida sem escândalo.",
@@ -596,14 +596,14 @@
     ]
   },
   {
-    "chapter": "20 de junho",
+    "chapterName": "20 de junho",
     "chapterDescription": null,
     "text": [
       "Telegrama da Paraíba do Sul: \"O Barão de Santa-Pia faleceu hoje d manhã\". Vou mandar a notícia a mana Rita, e enviar cartões d pêsames. É caso de dar também os pêsames à gente Aguiar? Pêsame não, mas uma visita discreta e afetuosa, amanhã ou depois..."
     ]
   },
   {
-    "chapter": "21 de junho",
+    "chapterName": "21 de junho",
     "chapterDescription": null,
     "text": [
       "Aguiar vai à fazenda de Santa-Pia, em visita de pêsames a Fidélia parte amanhã. D. Carmo fica. Foi o que ele me disse na Rua d Ouvidor.",
@@ -613,14 +613,14 @@
     ]
   },
   {
-    "chapter": "21 de junho, à noite",
+    "chapterName": "21 de junho, à noite",
     "chapterDescription": null,
     "text": [
       "Cá esteve hoje a minha boa mana; ia visitar a gente Aguiar, eu disselhe que vá comigo amanhã, e aceitou."
     ]
   },
   {
-    "chapter": "23 de junho",
+    "chapterName": "23 de junho",
     "chapterDescription": null,
     "text": [
       "A mana e eu estivemos ontem em casa da boa velha Aguiar. Saí de l mais cedo do que quisera; se pudesse, ficaria muito mais tempo.",
@@ -637,7 +637,7 @@
     ]
   },
   {
-    "chapter": "24 de junho",
+    "chapterName": "24 de junho",
     "chapterDescription": null,
     "text": [
       "Ontem conversei com a senhora do Aguiar acerca das antigas noites d São João, Santo Antônio e São Pedro, e mais as suas sortes  fogueiras. D. Carmo pegou do assunto para tratar ainda do filh postiço. Leve o diabo tal filho. A filha postiça é que há de estar a est hora muito triste no casarão da fazenda, onde certamente passou a antigas noites de São João de donzela esperançada e crédula. A dest ano sem pai deve ser aborrecida, não tendo mãe que o continue, ne marido que os supra. Um tio não basta para tanta coisa.",
@@ -645,7 +645,7 @@
     ]
   },
   {
-    "chapter": "27 de junho",
+    "chapterName": "27 de junho",
     "chapterDescription": null,
     "text": [
       "Missa do Barão de Santa-Pia em São Francisco de Paula. O filho d desembargador representava a família; este e a sobrinha ouvira missa na fazenda. Há de ter sido outra recordação antiga para a viúva A fazenda tem capela, onde um padre dizia missa aos domingos  confessava pela quaresma. Também eu conheci esse costume e pequeno, e ainda me lembra que, na quaresma, eu e outros rapaze íamos esconder-nos do confessor embaixo das camas ou nos desvão da casa. Já então confundíamos as práticas religiosas com as canseira da vida, e fugíamos delas. Entretanto, o padre que me confessou pel primeira vez era meigo, atento, guiava-me a confissão indicando o pecados que devia dizer, e até que ponto, e punha a absolvição n língua antes que os pecados lhe entrassem pelo ouvido; assim m pareceu. Perdoe-me a sua memória, se não é verdade. Tudo isso va longe. A segunda confissão foi por ocasião de casar. Daí em diante nã fui mais que virtudes.",
@@ -654,7 +654,7 @@
     ]
   },
   {
-    "chapter": "30 de junho",
+    "chapterName": "30 de junho",
     "chapterDescription": null,
     "text": [
       "Ora bem, a viúva Noronha mandou uma carta a D. Carmo, document psicológico, verdadeira página da alma. Como eles tiveram a bondad de mostrar-ma, dispus-me a achá-la interessante, antes mesmo de  ler, mas a leitura dispensou a intenção; achei-a interessante deveras disse-o, reli alguns trechos. Não tem frases feitas, nem frase rebuscadas; é simplesmente simples, se tal advérbio vai com ta adjetivo; creio que vai, ao menos para mim.",
@@ -664,7 +664,7 @@
     ]
   },
   {
-    "chapter": "1 de julho",
+    "chapterName": "1 de julho",
     "chapterDescription": null,
     "text": [
       "Também há ventanias de felicidade, que levam tudo adiante de si.  gente Aguiar recebeu ontem a carta de Fidélia, e hoje outra de Tristão em que este lhe anuncia que embarca no paquete inglês para cá; dev chegar a 23 ou 24. A alegria com que eles leram esta notícia fo naturalmente grande; porquanto Fidélia cá está e diz-se filha da bo velha; Tristão aí vem e anuncia que esta carta é a última; a seguinte  ele próprio. Tudo isso a um tempo.",
@@ -673,7 +673,7 @@
     ]
   },
   {
-    "chapter": "2 de julho",
+    "chapterName": "2 de julho",
     "chapterDescription": null,
     "text": [
       "O que ouvi dizer ontem a Aguiar foi no Banco do Sul, aonde tinha id depositar umas apólices. Esqueceu-me escrever que, à saída, perto d igreja da Candelária, encontrei o Desembargador Campos; tinh chegado de Santa-Pia anteontem, à noite, e ia ao Banco levar recado da sobrinha para o Aguiar e para a mulher. Perguntei-lhe se Fidéli ficava lá de vez; respondeu-me que não.",
@@ -682,7 +682,7 @@
     ]
   },
   {
-    "chapter": "5 de julho",
+    "chapterName": "5 de julho",
     "chapterDescription": null,
     "text": [
       "Obrigado pela palavra a ir passar a noite com o corretor Miranda, lá fu hoje. Veio mais gordo da Europa, onde só esteve alguns meses; é  mesmo impetuoso de sempre, mas bom sujeito e excelente marido Nada novo, a não ser um jogo, parece que inventado nos Estado Unidos e que ele aprendeu a bordo. No meu tempo não se conhecia Chama-se poker; eu trouxe o whist, que ainda jogo, e peguei no me velho voltarete. Parece que o poker vai derrubar tudo. Na casa d Miranda até a senhora deste jogou.",
@@ -691,35 +691,35 @@
     ]
   },
   {
-    "chapter": "13 de julho",
+    "chapterName": "13 de julho",
     "chapterDescription": null,
     "text": [
       "Sete dias sem uma nota, um fato, uma reflexão; posso dizer oito dias porque também hoje não tenho que apontar aqui. Escrevo isto só par não perder longamente o costume. Não é mau este costume d escrever o que se pensa e o que se vê, e dizer isso mesmo quando s não vê nem pensa nada."
     ]
   },
   {
-    "chapter": "18 de julho",
+    "chapterName": "18 de julho",
     "chapterDescription": null,
     "text": [
       "Tristão chegou a Pernambuco; esperam por ele a 23."
     ]
   },
   {
-    "chapter": "20 de julho",
+    "chapterName": "20 de julho",
     "chapterDescription": null,
     "text": [
       "Chegou à Bahia o afilhado dos Aguiares. Creio que eles lhe darão fest de recepção, ainda que modesta. A última fotografia foi mandad encaixilhar e pendurar. É um belo rapaz, e a atitude do retrato te certo ar de petulância que lhe não fica mal, ao contrário."
     ]
   },
   {
-    "chapter": "25 de julho",
+    "chapterName": "25 de julho",
     "chapterDescription": null,
     "text": [
       "Já aqui chegou o Tristão. Não o vi ainda; também não tenho saído d casa estes três dias. Entre outras coisas, estive a rasgar cartas velhas As cartas velhas são boas, mas estando eu velho também, e não tend a quem deixar as que me restam, o melhor é rasgá-las. Fiquei só co oito ou dez para reler algum dia e dar-lhes o mesmo fim. Nenhum delas vale uma só das de Plínio, mas a todas posso aplicar o que el escrevia a Apolinário: \"teremos ambos o mesmo gosto, tu em ler o qu digo, e eu em dizê-lo\". Os meus Apolinários estão mortos ou velhos; a Apolinárias também."
     ]
   },
   {
-    "chapter": "27 de julho",
+    "chapterName": "27 de julho",
     "chapterDescription": null,
     "text": [
       "Vi hoje o Tristão descendo a Rua do Ouvidor com o Aguiar; adivinhei- por este e pelo retrato. Trazia no vestuário alguma coisa que, apesa de não diferir da moda, cá e lá, lhe põe certo jeito particular e próprio Aguiar apresentou-nos. Tristão falou-me polidamente, e com tal o qual curiosidade, não ouso dizer interesse. Naturalmente já ouviu fala de mim em casa deles. Cinco minutos de conversação apenas, —  bastante para me dizer que está encantado com o que tem visto. Crei que seja assim, porque eu amo a minha terra, apesar das rua estreitas e velhas; mas também eu desembarquei em terras alheias,  usei igual estilo. Entretanto, esta cidade é a dele, e, como eu lh dissesse que não devera ter esquecido o Rio de Janeiro, donde saír adolescente, respondeu que era assim mesmo, não esquecera nada.  encanto vinha justamente da sensação de coisas vistas, um ressurreição que era continuidade, se assim resumo o que ele me diss em vocábulos mais simples que estes. Cinco minutos e despedimo-nos.",
@@ -727,7 +727,7 @@
     ]
   },
   {
-    "chapter": "28 de julho",
+    "chapterName": "28 de julho",
     "chapterDescription": null,
     "text": [
       "Não duvido que o Tristão visse com prazer o Rio de Janeiro. Quaisque que sejam os costumes novos e ligações de família, e por maior que tenha sido a ausência, o lugar onde alguém passou os primeiros ano há de dizer à memória e ao coração uma linguagem particular. Crei que ele esteja realmente encantado, como me disse ontem. Demais, l fora ouvia a mesma língua daqui; a mãe é a mesma paulista que  gerou e levou consigo, e está agora em Lisboa, com o pai, ambo velhos.",
@@ -736,7 +736,7 @@
     ]
   },
   {
-    "chapter": "31 de julho",
+    "chapterName": "31 de julho",
     "chapterDescription": null,
     "text": [
       "Tem agradado muito o Tristão, e para crer que o merece basta dize que a mim não me desagrada, ao contrário. É ameno, conversado atento, sem afetação nem presunção; fala ponderado e modesto,  explica-se bem. Ainda lhe não ouvi grandes coisas, nem estas sã precisas a quem chega de fora e vive em família; as que lhe ouvi sã interessantes.",
@@ -748,7 +748,7 @@
     ]
   },
   {
-    "chapter": "1 de agosto",
+    "chapterName": "1 de agosto",
     "chapterDescription": null,
     "text": [
       "O desembargador deu-me também notícia da sobrinha. Está boa e vir brevemente da fazenda. Contou-lhe em carta um sonho que tev ultimamente, a aparição do pai e do sogro, ao fundo de uma ensead parecida com a do Rio de Janeiro. Vieram as duas figuras sobre a água de mãos dadas, até que pararam diante dela, na praia. A morte o reconciliara para nunca mais se desunirem; reconheciam agora qu toda a hostilidade deste mundo não vale nada, nem a política ne outra qualquer.",
@@ -756,7 +756,7 @@
     ]
   },
   {
-    "chapter": "2 de agosto",
+    "chapterName": "2 de agosto",
     "chapterDescription": null,
     "text": [
       "Aguiar mostrou-me uma carta de Fidélia a D. Carmo. Letra rasgada  firme, estilo correntio, linguagem terna; promete-lhes vir para a Cort logo que possa e será breve. Estou cansado de ouvir que ela vem, ma ainda me não cansei de o escrever nestas páginas de vadiação Chamo-lhes assim para divergir de mim mesmo. Já chamei a est Memorial um bom costume. Ao cabo, ambas as opiniões se pode defender, e, bem pensado, dão a mesma coisa. Vadiação é bo costume.",
@@ -764,7 +764,7 @@
     ]
   },
   {
-    "chapter": "3 de agosto",
+    "chapterName": "3 de agosto",
     "chapterDescription": null,
     "text": [
       "Hoje fazia anos o ministério Ferraz, e quem já pensa nele nem no homens que o compunham e lá vão, uns na morte, outros na velhice o na inação? Foi ele que me promoveu a secretário de legação, sem qu eu lho pedisse e até com espanto meu.",
@@ -778,7 +778,7 @@
     ]
   },
   {
-    "chapter": "4 de agosto",
+    "chapterName": "4 de agosto",
     "chapterDescription": null,
     "text": [
       "Indo a entrar na barca de Niterói, quem é que encontrei encostado  amurada? Tristão, ninguém menos, Tristão que olhava para o lado d barra, como se estivesse com desejo de abrir por ela fora e sair para  Europa. Foi o que eu lhe disse, gracejando, mas ele acudiu que não.",
@@ -804,14 +804,14 @@
     ]
   },
   {
-    "chapter": "7 de agosto",
+    "chapterName": "7 de agosto",
     "chapterDescription": null,
     "text": [
       "D. Carmo foi a Nova Friburgo com o afilhado para lhe mostra novamente a cidade em que nasceu, creio que também a rua, e parec que a própria casa. Tudo está velho e quieto, dizem-me. Isto vai co os hábitos dela, que sabe e gosta de guardar os velhos retalhos  lembranças antigas, como que lhe dando um ar perpétuo de mocidade Tristão, não tendo aliás o mesmo interesse, mostrou prazer em  acompanhar. Toda a gente continua a gostar dele, Campos mais qu outros, pois o conheceu menino. Mana Rita é que apenas o viu; te estado adoentada, levantou-se anteontem; só ontem soube disso, e fu visitá-la. Contei-lhe o que havia daquela casa e da casa d desembargador; dei-lhe vontade de vir também à gente Aguiar quando os dois voltarem de Nova Friburgo."
     ]
   },
   {
-    "chapter": "10 de agosto",
+    "chapterName": "10 de agosto",
     "chapterDescription": null,
     "text": [
       "Meu velho Aires, trapalhão da minha alma, como é que t comemoraste no dia 3 o ministério Ferraz, que é de 10? Hoje é que el faria anos, meu velho Aires. Vês que é bom ir apontando o que s passa; sem isso não te lembraria nada ou trocarias tudo.",
@@ -819,7 +819,7 @@
     ]
   },
   {
-    "chapter": "11 de agosto",
+    "chapterName": "11 de agosto",
     "chapterDescription": null,
     "text": [
       "Recebi hoje um bilhete de Tristão, escrito de Nova Friburgo, no qual m diz que está muito satisfeito com o que vê e o que ouve; reconheceu  cidade, que é encantadora com a sua gente. A companheira de viage ainda o é mais que a gente e a cidade. Copio estas palavras do bilhete:",
@@ -829,14 +829,14 @@
     ]
   },
   {
-    "chapter": "17 de agosto",
+    "chapterName": "17 de agosto",
     "chapterDescription": null,
     "text": [
       "Fidélia chegou, Tristão e a madrinha chegaram, tudo chegou; e mesmo cheguei a mim mesmo, — por outras palavras, esto reconciliado com as minhas cãs. Os olhos que pus na viúva Noronh foram de admiração pura, sem a mínima intenção de outra espécie como nos primeiros dias deste ano. Verdade é que já então citava eu  verso de Shelley, mas uma coisa é citar versos, outra é crer neles. Eu l há pouco um soneto verdadeiramente pio de um rapaz sem religião mas necessitado de agradar a um tio religioso e abastado. Pois aind que eu não desse então toda a fé ao poeta inglês, dou-lhe agora,  aqui a dou de novo para mim. A admiração basta."
     ]
   },
   {
-    "chapter": "19 de agosto",
+    "chapterName": "19 de agosto",
     "chapterDescription": null,
     "text": [
       "Tristão veio almoçar comigo. A primeira parte do almoço foi a glosa d carta que ele me escreveu. Contou-me que já em criança tinha ido co a madrinha a Nova Friburgo algumas vezes, parece-lhe que três reconheceu a cidade agora e gostou muito dela. De D. Carmo fal entusiasmado; diz que a afeição, o carinho, a bondade, tudo faz del uma criatura particular e rara, por ser tudo de espécie também rara  particular. Referiu-me anedotas antigas, dedicações grandes. Depoi confessou que as impressões da nossa terra fazem reviver os seu primeiros tempos, a infância e a adolescência. O fim do almoço foi co o naturalizado e o político. A política parece ser grande necessidad para este moço. Estendeu-se bastante sobre a marcha das coisa públicas em Portugal e na Espanha; confiou-me as suas idéias  ambições de homem de Estado. Não disse formalmente estas trê palavras últimas, mas todas as que empregou vinham a dar nelas Enfim, ainda que pareça algo excessivo, não perde o interesse e fal com graça.",
@@ -848,7 +848,7 @@
     ]
   },
   {
-    "chapter": "21 de agosto",
+    "chapterName": "21 de agosto",
     "chapterDescription": null,
     "text": [
       "Anteontem fui deixar um bilhete de visita a Fidélia; ontem, a convite d tio, que me encontrou na rua, fui tomar chá com ambos.",
@@ -859,14 +859,14 @@
     ]
   },
   {
-    "chapter": "21 de agosto, 5 horas da tarde",
+    "chapterName": "21 de agosto, 5 horas da tarde",
     "chapterDescription": null,
     "text": [
       "Não quero acabar o dia de hoje sem escrever que tenho os olho cansados, acaso doentes, e não sei se continuarei este diário de fatos impressões e idéias. Talvez seja melhor parar. Velhice quer descanso Bastam já as cartas que escrevo em resposta e outras mais, e ainda há poucos dias um trabalho que me encomendaram da Secretaria d Estrangeiros, — felizmente acabado."
     ]
   },
   {
-    "chapter": "24 de agosto",
+    "chapterName": "24 de agosto",
     "chapterDescription": null,
     "text": [
       "Qual! não posso interromper o Memorial; aqui me tenho outra vez co a pena na mão. Em verdade, dá certo gosto deitar ao papel coisas qu querem sair da cabeça, por via da memória ou da reflexão. Venhamo novamente à notação dos dias Desta vez o que me põe a pena na mão é a sombra da sombra de um lágrima...",
@@ -875,7 +875,7 @@
     ]
   },
   {
-    "chapter": "27 de agosto",
+    "chapterName": "27 de agosto",
     "chapterDescription": null,
     "text": [
       "A alegria do casal Aguiar é coisa manifesta. Marido e mulher andam  inventar ocasiões e maneiras de viver com os dois e com algun amigos, entre os quais parece que me contam. Jantam, passeiam, e s não projetam bailes é porque os não amam de si mesmos, mas s Fidélia e Tristão os quisessem, estou que eles os dariam. A verdade porém, é que os dois hóspedes não chegaram a tal ponto, morment Fidélia que se contenta de conversar e sorrir; não vai a teatros, nem  festas públicas.",
@@ -883,7 +883,7 @@
     ]
   },
   {
-    "chapter": "31 de agosto",
+    "chapterName": "31 de agosto",
     "chapterDescription": null,
     "text": [
       "Como eu ainda gosto de música! A noite passada, em casa do Aguiar éramos algumas pessoas... Treze! Só agora, ao contar de memória o presentes, vejo que éramos treze; ninguém deu então por est número, nem na sala, nem à mesa do chá de família. Conversamos d coisas várias, até que Tristão tocou um pouco de Mozart, ao piano,  pedido da madrinha.",
@@ -899,7 +899,7 @@
     ]
   },
   {
-    "chapter": "Seis horas da tarde",
+    "chapterName": "Seis horas da tarde",
     "chapterDescription": null,
     "text": [
       "Antes de ir para a mesa, escrevo a confirmação do que conjeturei d manhã; Fidélia efetivamente acordou os ecos da casa e da rua. Contoumo há pouco o próprio Desembargador Campos. A diferença é que nã foi às dez horas e meia, mas às sete. Campos estava ainda na cama quando ouviu os primeiros acordes de uma composição conhecida parece que italiana. Não chegou a crer que fosse ela, mas não podi ser outra pessoa. Um criado, chamado por ele, veio dizer-lhe que sim que era ela mesma. Tocou algum tempo. Quando ele entrou na sala tinha acabado, mas estava ainda ao piano, ante um folheto de música aberto, a soletrar para si.",
@@ -917,14 +917,14 @@
     ]
   },
   {
-    "chapter": "2 de setembro",
+    "chapterName": "2 de setembro",
     "chapterDescription": null,
     "text": [
       "Aniversário da batalha de Sedan. Talvez vá à casa do desembargado pedir a Fidélia que, em comemoração da vitória prussiana, nos dê u pedaço de Wagner."
     ]
   },
   {
-    "chapter": "3 de setembro",
+    "chapterName": "3 de setembro",
     "chapterDescription": null,
     "text": [
       "Nem Wagner, nem outro. Tristão estava lá e deu-nos um trecho d Tannhäuser, mas a viúva Noronha recusou o pedido. Supondo qu fosse luto pela lembrança da derrota francesa, pedi-lhe um auto francês qualquer, antigo ou moderno, posto que a arte, — disse-lh com alguma afetação, — naturaliza a todos na mesma pátria superior Sorriu e não tocou; tinha um pouco de dor de cabeça. Aguiar e Carmo que lá estavam também, não me acompanharam no pedido, como \"s lhes doesse a cabeça da amiga\". Outra preciosidade de estilo, est renovada de Sévigné. Emenda essa língua, velho diplomata.",
@@ -940,7 +940,7 @@
     ]
   },
   {
-    "chapter": "4 de setembro",
+    "chapterName": "4 de setembro",
     "chapterDescription": null,
     "text": [
       "Relendo o dia de ontem fiz comigo uma reflexão que escrevo aqui par me lembrar mais tarde. Quem sabe se aquela afeição de D. Carmo, tã meticulosa e tão serviçal, não acabará fazendo dano à bela Fidélia?  carreira desta, apesar de viúva, é o casamento; está na idade de casar e pode aparecer alguém que realmente a queira por esposa. Não fal de mim, Deus meu, que apenas tive veleidades sexagenárias; dig alguém de verdade, pessoa que possa e deva amar como a don merece. Ela, entregue a si mesma, poderia acabar de receber o noivo e iriam ambos para o altar; mas entregue a D. Carmo, amigas uma d outra, não dará pelo pretendente, e lá se vai embora um destino. E vez de mãe de família, ficará viúva solitária, porque a amiga velha h de morrer, e a amiga moça acabará de morrer um dia, depois d muitos dias...",
@@ -949,7 +949,7 @@
     ]
   },
   {
-    "chapter": "8 de setembro",
+    "chapterName": "8 de setembro",
     "chapterDescription": null,
     "text": [
       "Os dois filhos postiços do casal Aguiar não têm ciúmes um do outro não se sentem diminuídos pela afeição que recebem dos velhos. A contrário, parecem achar que a porção de cada um cresce com a que  outro recebe também. Eis aí uma boa divisão de amigos; há casos e que os filhos de verdade não se mostram tão cordatos.",
@@ -966,7 +966,7 @@
     ]
   },
   {
-    "chapter": "9 de setembro",
+    "chapterName": "9 de setembro",
     "chapterDescription": null,
     "text": [
       "O resto é a noticia de ter chegado Osório, o advogado do Banco do Sul que foi há tempos ao Recife, onde o pai estava doente e morreu.",
@@ -982,7 +982,7 @@
     ]
   },
   {
-    "chapter": "9 de setembro, à tarde",
+    "chapterName": "9 de setembro, à tarde",
     "chapterDescription": null,
     "text": [
       "Parece que a gente Aguiar me vai pegando o gosto de filhos, ou  saudade deles, que é expressão mais engraçada. Vindo agora pela Ru da Glória, dei com sete crianças, meninos e meninas, de vári tamanho, que iam em linha, presas pelas mãos. A idade, o riso e  viveza chamaram-me a atenção, e eu parei na calçada, a fitá-las. Era tão graciosas todas, e pareciam tão amigas que entrei a rir de gosto Nisto ficaria a narração, caso chegasse a escrevê-la, se não fosse o dit de uma delas, uma menina, que me viu rir parado, e disse às sua companheiras:",
@@ -997,14 +997,14 @@
     ]
   },
   {
-    "chapter": "9 de setembro, à noite",
+    "chapterName": "9 de setembro, à noite",
     "chapterDescription": null,
     "text": [
       "Fui ao Flamengo. A viúva não estava lá; estava o Osório, e não o ache triste, como Aguiar havia dito, também não estava alegre; falav pouco. Tristão, que lhe fora apresentado hoje, falava mais que ele, se falar muito. Noite sem interesse. Voltei cedo e vou dormir."
     ]
   },
   {
-    "chapter": "12 de setembro",
+    "chapterName": "12 de setembro",
     "chapterDescription": null,
     "text": [
       "Quando cheguei hoje à cidade, eram duas horas, e ia a sair do bonde chegou-se a ele a bela Fidélia, com o seu gracioso e austero meio-lut de viúva. Vinha de compras, naturalmente. Cumprimentamo-nos, deilhe a mão para subir. Perguntou-me pela mana, eu pelo tio, ambos po nós, e ainda houve tempo de trocar esta meia dúzia de palavras. Ela:",
@@ -1017,14 +1017,14 @@
     ]
   },
   {
-    "chapter": "14 de setembro",
+    "chapterName": "14 de setembro",
     "chapterDescription": null,
     "text": [
       "Nem uma coisa nem outra. Refiro-me ao que escrevi anteontem d Osório, que não é namorado feliz, pelo que me disse Aguiar hoje, ne mau advogado, pelo que li nos jornais. Li que venceu uma demanda d Banco do Sul, e Aguiar não lhe regateou louvores ao zelo com que  pleiteou antes do embarque e depois do desembarque. Eis aí u homem que sabe casar o zelo e a tristeza, e bem pode ser isto u símbolo, se ele é o zelo, e Fidélia a tristeza. Talvez acabem casando Mas ainda depois da recusa? Tudo é possível debaixo do sol, — e  mesma coisa sucederá acima dele, — Deus sabe."
     ]
   },
   {
-    "chapter": "18 de setembro",
+    "chapterName": "18 de setembro",
     "chapterDescription": null,
     "text": [
       "Venho da gente Aguiar, e não me quero ir deitar sem escrever primeir o que lá se passou. Cheguei cedo, estavam sós os dois velhos  receberam-me familiarmente.",
@@ -1073,21 +1073,21 @@
     ]
   },
   {
-    "chapter": "20 de setembro",
+    "chapterName": "20 de setembro",
     "chapterDescription": null,
     "text": [
       "Aquele dia 18 de setembro (anteontem) há de ficar-me na memória mais fixo e mais claro que outros, por causa da noite que passamos o três velhos. Talvez não escrevesse tudo nem tão bem; mas bastou-m relê-lo ontem e hoje para sentir que o escrito me acordou lembrança vivas e interessantes, a boa velha, o bom velho, a lembrança dos doi filhos postiços... Continuo a dar-lhes este nome, por não acha melhor... Principalmente aquela felicidade média ou turva de pessoa que vão perder um de dois bens do Céu, essa expressão que vi em D Carmo mais forte ainda que no Aguiar..."
     ]
   },
   {
-    "chapter": "21 de setembro",
+    "chapterName": "21 de setembro",
     "chapterDescription": null,
     "text": [
       "Ao sair hoje de casa, vi passar na rua, do lado oposto, a irmã d corretor Miranda, D. Cesária, tão risonha que parecia falar mal de mim mas não falava, ia só, — ou falava de mim consigo; mas só consig não teria tanto prazer. Cumprimentamo-nos e seguimos."
     ]
   },
   {
-    "chapter": "22 de setembro",
+    "chapterName": "22 de setembro",
     "chapterDescription": null,
     "text": [
       "...encantadora Fidélia! Não escrevo isto porque a deseje, mas porque  assim mesmo: encantadora! Pois não é que esta criatura de Deus encontrando-se comigo de manhã, veio agradecer-me a companhia qu fiz aos seus amigos do Flamengo, na noite de 18?",
@@ -1106,7 +1106,7 @@
     ]
   },
   {
-    "chapter": "30 de setembro",
+    "chapterName": "30 de setembro",
     "chapterDescription": null,
     "text": [
       "Se eu estivesse a escrever uma novela, riscaria as páginas do dia 12  do dia 22 deste mês. Uma novela não permitiria aquela paridade d sucessos. Em ambos esses dias, — que então chamaria capítulos,  encontrei na rua a viúva Noronha, trocamos algumas palavras, vi- entrar no bonde ou no carro, e partir; logo dei com dois sujeitos qu pareciam admirá-la. Riscaria os dois capítulos, ou os faria muit diversos um de outro; em todo caso diminuiria a verdade exata, qu aqui me parece mais útil que na obra de imaginação.",
@@ -1117,14 +1117,14 @@
     ]
   },
   {
-    "chapter": "2 de outubro",
+    "chapterName": "2 de outubro",
     "chapterDescription": null,
     "text": [
       "Estou melhor, mas choveu e não saí."
     ]
   },
   {
-    "chapter": "3 de outubro",
+    "chapterName": "3 de outubro",
     "chapterDescription": null,
     "text": [
       "— Foi um duelo entre mim e a velhice, que me disparou esta bala n joelho; uma dor reumática. Já sei que vem jantar comigo?",
@@ -1150,7 +1150,7 @@
     ]
   },
   {
-    "chapter": "6 de outubro",
+    "chapterName": "6 de outubro",
     "chapterDescription": null,
     "text": [
       "Mana Rita, mana Rit Foi a última visita,",
@@ -1178,7 +1178,7 @@
     ]
   },
   {
-    "chapter": "10 de outubro",
+    "chapterName": "10 de outubro",
     "chapterDescription": null,
     "text": [
       "Entendam lá mulheres! Tanta necessidade de ir à fazenda e já. Campo alcança uma licença de alguns dias, Tristão apronta a mala, e, tud feito, cessa a necessidade de partir. Foram só o Campos e o Tristão Tal a notícia que me deram as duas (Carmo e Fidélia) hoje, à tarde quando eu ia a entrar no jardim da casa do Flamengo. As duas vinha chegando ao portão.",
@@ -1195,7 +1195,7 @@
     ]
   },
   {
-    "chapter": "12 de outubro",
+    "chapterName": "12 de outubro",
     "chapterDescription": null,
     "text": [
       "Aguiar e D. Carmo foram ontem levar a amiga a Botafogo, e voltara cedo. Assim o soube hoje por ele, à porta do banco, onde me achava  conversar com o corretor Miranda. Nenhuma notícia de Tristão, mas  bilhete do padrinho já está no correio, e segue hoje mesmo par Santa-Pia.",
@@ -1204,7 +1204,7 @@
     ]
   },
   {
-    "chapter": "13 de outubro",
+    "chapterName": "13 de outubro",
     "chapterDescription": null,
     "text": [
       "Campos escreveu à sobrinha, referindo-lhe o estado da fazenda,  contando os passeios que deu por ela com o moço Tristão. Este  curioso e discreto no exame das coisas que vê e nas notícias que pede Lá está o capelão, e mais o juiz municipal. A carta é anterior ao bilhet do Aguiar, não fala nele, mas diz que Tristão não se demorará muito conta vir daqui a dias.",
@@ -1212,7 +1212,7 @@
     ]
   },
   {
-    "chapter": "17 de outubro",
+    "chapterName": "17 de outubro",
     "chapterDescription": null,
     "text": [
       "Chegou Tristão. Ignoro o que terá lido nas cartas de Lisboa, não falei  nenhuma das pessoas que poderiam sabê-lo. Irei ao Flamengo um di destes, amanhã.",
@@ -1226,14 +1226,14 @@
     ]
   },
   {
-    "chapter": "17 de outubro, duas horas",
+    "chapterName": "17 de outubro, duas horas",
     "chapterDescription": null,
     "text": [
       "Começo a receber cartões de visita pelo dia de hoje, entre eles os d casal Aguiar e do Tristão, e um de Fidélia. A viúva escreveu esta palavras: cumprimentos de boa amizade. Agora me lembra que no di 12, quando a encontrei no Flamengo, em casa do Aguiar, usei dest expressão \"boa amizade\", como a mais doce que podia desejar dela; fo um modo de concluir o elogio discreto que lhe fazia, apoiando a outr que D. Carmo lhe fazia também. Daí este cumprimento de hoje.  bilhete de Tristão traz a fórmula admirativa, os dos Aguiares afeto  apreço. Rita não me escreveu; certamente virá jantar."
     ]
   },
   {
-    "chapter": "Meia-noite",
+    "chapterName": "Meia-noite",
     "chapterDescription": null,
     "text": [
       "Veio, veio, Rita veio jantar com a alegria do costume, e examino todas as cartas e cartões de cumprimentos. Explicou-me que estiver ontem no Flamengo, onde dera notícia do meu aniversário; daí a cortesias de hoje.",
@@ -1255,14 +1255,14 @@
     ]
   },
   {
-    "chapter": "18 de outubro",
+    "chapterName": "18 de outubro",
     "chapterDescription": null,
     "text": [
       "Ao levantar da cama, a primeira idéia que me acudiu foi aquela qu escrevi ontem, à meia-noite: \"Esta moça (Fidélia) foge a alguma coisa se não foge a si mesma\"."
     ]
   },
   {
-    "chapter": "22 de outubro",
+    "chapterName": "22 de outubro",
     "chapterDescription": null,
     "text": [
       "Fidélia não voltou ao Flamengo, apesar da promessa que D. Carmo lh fez fazer. D. Carmo fora achá-la a pintar; Fidélia lembrara-se de have pintado em menina, e começara um trecho do jardim da própria casa Prometeu voltar ao Flamengo no dia seguinte, e não foi.",
@@ -1283,7 +1283,7 @@
     ]
   },
   {
-    "chapter": "28 de outubro",
+    "chapterName": "28 de outubro",
     "chapterDescription": null,
     "text": [
       "Nem marinha nem paisagem, não soube de nada. Fidélia não te aparecido no Flamengo, e escreveu hoje à velha amiga um bilhete d desculpas; está tomando as contas ao tio, que voltou ontem d fazenda. Não me lembra se já escrevi que o Banco do Sul é que fará  transferência de Santa-Pia.",
@@ -1294,7 +1294,7 @@
     ]
   },
   {
-    "chapter": "29 de outubro",
+    "chapterName": "29 de outubro",
     "chapterDescription": null,
     "text": [
       "O resto da noite foi passado em casa do Faria. Eram anos dele e estiv lá mais tempo do que contava. Havia gente e alegria, algum canto  piano, e também conversa.",
@@ -1303,14 +1303,14 @@
     ]
   },
   {
-    "chapter": "1 de novembro",
+    "chapterName": "1 de novembro",
     "chapterDescription": null,
     "text": [
       "Este é o dia de todos os santos; amanhã é o de todos os mortos.  igreja andou bem marcando uma data para comemorar os que s foram. No tumulto da vida e suas seduções, fique um dia para eles...  reticência que aí deixo exprime o esforço que fiz para acabar est página em melancolia; não posso, nunca pude. Tristezas não sã comigo. Entretanto, em rapaz, — quando fiz versos, nunca os fiz senã tristíssimos. As lágrimas que verti então, — pretas, porque a tinta er preta, — podiam encher este mundo, vale delas."
     ]
   },
   {
-    "chapter": "2 de novembro",
+    "chapterName": "2 de novembro",
     "chapterDescription": null,
     "text": [
       "Mana Rita foi hoje ao cemitério levar flores aos nossos.",
@@ -1336,7 +1336,7 @@
     ]
   },
   {
-    "chapter": "9 de novembro",
+    "chapterName": "9 de novembro",
     "chapterDescription": null,
     "text": [
       "A marinha interrompeu a paisagem, ou de todo a pôs de lado. Fidéli consentiu em ir pintar um trecho da Praia do Flamengo, não sei se co Tristão ou sem ele. Aguiar, que me deu a notícia, limitou-se a dizer qu ela já começou a tela com muito gosto.",
@@ -1344,7 +1344,7 @@
     ]
   },
   {
-    "chapter": "11 de novembro",
+    "chapterName": "11 de novembro",
     "chapterDescription": null,
     "text": [
       "Não fui ontem, fui hoje ver a marinha. Achei Fidélia no jardim, junto d casa, com o pincel e a palheta nas mãos, os olhos no mar e na tela, e pé. Ao lado, sentada, estava D. Carmo, com o seu riso bom e maternal Viu-me à porta do jardim, e fez um gesto convidando-me a entrar entrei.",
@@ -1366,7 +1366,7 @@
     ]
   },
   {
-    "chapter": "12 de novembro",
+    "chapterName": "12 de novembro",
     "chapterDescription": null,
     "text": [
       "Fiz mal em não pôr aqui ontem o que trouxe de lá comigo. Creio qu Tristão anda namorado de Fidélia. No meu tempo de rapaz dizia-s mordido; era mais enérgico, mas menos gracioso, e não tinha  espiritualidade da outra expressão, que é clássica. Namoro é banal, d idéia de uma ocupação de vadios ou sensuais, mas namorado é bonito \"Ala de namorados\" era a daqueles cavaleiros antigos que se batera por amor das damas... Ó tempos!",
@@ -1375,7 +1375,7 @@
     ]
   },
   {
-    "chapter": "13 de novembro",
+    "chapterName": "13 de novembro",
     "chapterDescription": null,
     "text": [
       "Aguiar veio a mim, e disse:",
@@ -1395,7 +1395,7 @@
     ]
   },
   {
-    "chapter": "20 de novembro",
+    "chapterName": "20 de novembro",
     "chapterDescription": null,
     "text": [
       "Já lá voltei três vezes. Achei sempre D. Carmo, Fidélia e Tristão. D terceira vez Aguiar chegou mais cedo, e assistiu às últimas pinceladas.",
@@ -1404,7 +1404,7 @@
     ]
   },
   {
-    "chapter": "30 de novembro",
+    "chapterName": "30 de novembro",
     "chapterDescription": null,
     "text": [
       "Tristão convidou-me a subir às Paineiras, amanhã; aceitei e vou.",
@@ -1414,7 +1414,7 @@
     ]
   },
   {
-    "chapter": "1 de dezembro",
+    "chapterName": "1 de dezembro",
     "chapterDescription": null,
     "text": [
       "Volto espantado das Paineiras. Lá fui hoje com Tristão. No fim d almoço, acima da cidade e do mar, ouvi-lhe nem mais nem menos qu a confissão do amor que dedica à formosa Fidélia. Uso os seus próprio termos: dedica à formosa Fidélia. O verbo não é vivo, mas pode se elegante, e em todo caso, exprime a unidade do destino. As tese escolares dedicam-se a pais, a parentes, a amigos; o amor é tese par uma só pessoa.",
@@ -1442,21 +1442,21 @@
     ]
   },
   {
-    "chapter": "2 de dezembro",
+    "chapterName": "2 de dezembro",
     "chapterDescription": null,
     "text": [
       "Uma observação. Como é que Tristão foi tão franco ontem na Paineiras, e tão cauteloso naquele dia do Largo de São Francisco, ond dei com ele embebido a ver entrar a moça no carro? \"Grande talento! exclamou então, o talento de pianista, que ela não levava nas saias.  já então gostava dela, pelo que lhe ouvi ontem, visto que começou  querer-lhe pouco depois de chegado. A razão é que só agora a paixã subiu tão alto; isso, e a confiança que lhe inspiro. Não se pôde conter é o que foi."
     ]
   },
   {
-    "chapter": "3 de dezembro",
+    "chapterName": "3 de dezembro",
     "chapterDescription": null,
     "text": [
       "Aires amigo, confessa que ouvindo ao moço Tristão a dor de não se amado, sentiste tal ou qual prazer, que aliás não foi longo nem s repetiu. Tu não a queres para ti, mas terias algum desgosto em a sabe apaixonada dele; explica-te se podes; não podes. Logo depois entrast em ti mesmo, e viste que nenhuma lei divina impede a felicidade d ambos, se ambos a quiserem ter juntos. A questão é querê-lo, e el parece que o não quer."
     ]
   },
   {
-    "chapter": "5 de dezembro",
+    "chapterName": "5 de dezembro",
     "chapterDescription": null,
     "text": [
       "A marinha está quase pronta. Mana Rita veio encantada da tela, d autora e da dona, porque Fidélia destina a obra a Dona Carmo. Estev só com as duas amigas; não achou lá Tristão nem Aguiar,  conversaram as três longamente, até que a viúva se despediu e torno para Botafogo, apesar de instada para jantar no Flamengo; não podia  partiu antes de cair a tarde.",
@@ -1488,14 +1488,14 @@
     ]
   },
   {
-    "chapter": "10 de dezembro",
+    "chapterName": "10 de dezembro",
     "chapterDescription": null,
     "text": [
       "Fidélia sabe já que Tristão resolveu partir no dia 24. Foi ele mesmo qu lho disse em casa dela."
     ]
   },
   {
-    "chapter": "15 de dezembro",
+    "chapterName": "15 de dezembro",
     "chapterDescription": null,
     "text": [
       "Se eu estivesse certo de poder casar os dois, casava-os, por mais qu me custe confessá-lo a mim mesmo, e, a rigor, não custa muito. Esto só, entre quatro paredes, e os meus sessenta e três anos não rejeita a idéia do ofício eclesiástico. Ego conjugo vos...",
@@ -1505,14 +1505,14 @@
     ]
   },
   {
-    "chapter": "20 de dezembro",
+    "chapterName": "20 de dezembro",
     "chapterDescription": null,
     "text": [
       "Sucedeu como eu cuidava. Tristão achou todas as passagens de 2 vendidas. Vai no dia 9. O pior é que, sendo natural comprar bilhet desde logo, para lhe não acontecer o mesmo, não comprou cois nenhuma. Sei disto por ele, a quem perguntei se se não aparelhava já respondeu que não, que há tempo. Agora imagino que, se houve tempo e achar bilhete, ele pode converter a necessidade de amar  moça no desejo de ceder aos velhos, e ficará mais duas ou trê semanas. Os velhos não serão a causa verdadeira, mas não há só filho de empréstimo, há também causas de empréstimo."
     ]
   },
   {
-    "chapter": "22 de dezembro",
+    "chapterName": "22 de dezembro",
     "chapterDescription": null,
     "text": [
       "A verdadeira causa — ou uma delas, estava hoje no Flamengo acabando a marinha. Tristão lá estava também, e ambos faziam a estética um do outro. Ele admirava menos a tela que a pintora, el menos o espetáculo que o admirador, e eu via-os com estes olhos qu a terra fria há de comer.",
@@ -1522,14 +1522,14 @@
     ]
   },
   {
-    "chapter": "28 de dezembro",
+    "chapterName": "28 de dezembro",
     "chapterDescription": null,
     "text": [
       "Estive hoje com Tristão, e não lhe ouvi nada a não ser que recebe cartas de Lisboa, cartas políticas; também as recebeu do pai e da mãe A mãe, se ele se demorar muito, diz que virá ver a sua terra. Deu-m notícias dos seus outros pais de cá, mas não falou da moça."
     ]
   },
   {
-    "chapter": "1889",
+    "chapterName": "1889",
     "chapterDescription": "2 de janeiro",
     "text": [
       "Enfim, amam-se. A viúva fugiu-lhe e fugiu a si mesma, enquanto pôde mas já não pode. Agora parece dele, ri com ele, e no dia 9 chorará po ele, naturalmente, se ele lhe não estancar a fonte das lágrimas com u gesto. As visitas são agora diárias, os jantares freqüentes; D. Carm acompanha algumas vezes o afilhado a Botafogo, e Aguiar vai buscálos.",
@@ -1537,14 +1537,14 @@
     ]
   },
   {
-    "chapter": "7 de janeiro",
+    "chapterName": "7 de janeiro",
     "chapterDescription": null,
     "text": [
       "Tristão já não vai a 9, por uma razão que me não deu, nem lha pedi Só me disse que não vai; escreveu para Lisboa e ia levar as cartas a correio."
     ]
   },
   {
-    "chapter": "9 de janeiro",
+    "chapterName": "9 de janeiro",
     "chapterDescription": null,
     "text": [
       "Segundo aniversário da minha volta definitiva ao Rio. Não ouvi hoje o pregões do ano passado e do outro. Desta vez lembrou-me a data se nenhum som exterior; veio de si mesma. Esperei ver a mana entrar-m em casa e convidar-me a ir com ela ao cemitério. Não veio (são quatr horas da tarde) ou porque se não lembrou, ou por lhe não parece necessário todos os anos.",
@@ -1553,14 +1553,14 @@
     ]
   },
   {
-    "chapter": "12 de janeiro",
+    "chapterName": "12 de janeiro",
     "chapterDescription": null,
     "text": [
       "Amanhã (13) faz anos a bela Fidélia. Tal a razão que levou Tristão  transferir a viagem de 9 para outro dia que ainda não fixou. Assim  disse aos padrinhos que o aprovaram naturalmente e alegremente esta mesma razão me foi confessada por ele hoje, quando o encontre a buscar uma lembrança para deixar à viúva. Tais foram as sua palavras, mas não traziam alma de convicção. A razão da ficada  outra."
     ]
   },
   {
-    "chapter": "13 de janeiro",
+    "chapterName": "13 de janeiro",
     "chapterDescription": null,
     "text": [
       "Antes de me despir quero escrever o que ouvi agora há pouco (meianoite) à picante Cesária. Vim com ela e o marido da casa d desembargador onde fomos tomar chá com a graciosa viúva. O amigos desta lá estiveram, menos Rita, que mandou cartão d cumprimentos; parece que está adoentada.",
@@ -1573,7 +1573,7 @@
     ]
   },
   {
-    "chapter": "23 de janeiro",
+    "chapterName": "23 de janeiro",
     "chapterDescription": null,
     "text": [
       "Agora me lembra que amanhã faz um ano das bodas de prata do casa Aguiar. Lá estive naquela festa íntima, que me deu prazer grande Também lá esteve Fidélia, e fez o seu brinde de filha à boa Carmo tudo correu na melhor harmonia. Ainda cá não chegara Tristão, ne era esperado. Oxalá me não esqueça de lhes mandar cedo o me bilhete de felicitações, e pode ser que lá vá de noite. Vou, vou.",
@@ -1581,14 +1581,14 @@
     ]
   },
   {
-    "chapter": "25 de janeiro",
+    "chapterName": "25 de janeiro",
     "chapterDescription": null,
     "text": [
       "Não havia muita gente no Flamengo. Os quatro, — casal Aguiar, Tristã e Fidélia (não conto o desembargador, que estava jogando) os quatr pareciam viver de uma novidade recente e desejada. Quem sabe se  mão da viúva não foi já pedida e concedida por ela? Comuniquei est suposição a Rita, que me disse suspeitá-lo também."
     ]
   },
   {
-    "chapter": "29 de janeiro",
+    "chapterName": "29 de janeiro",
     "chapterDescription": null,
     "text": [
       "Tínhamos razão na noite de 24. Os namorados estão declarados. A mã da viúva foi pedida naquele mesmo dia, justamente por ser o 26 aniversário do casamento dos padrinhos de Tristão; foi pedida e Botafogo, na casa do tio, e em presença deste, concedida pela dona com assentimento do desembargador, que aliás nada tinha que opor  dois corações que se amam. Mas tudo neste negócio devia sair assim de acordo uns com outros, e todos consigo.",
@@ -1600,7 +1600,7 @@
     ]
   },
   {
-    "chapter": "2 de fevereiro",
+    "chapterName": "2 de fevereiro",
     "chapterDescription": null,
     "text": [
       "O abraço que lá contei atrás fez-me bem; foi sincero. Podia ser afetad ou apenas de cortesia, mas não foi; gostei de ver feliz aquele rapaz,  com ele a dama, e com eles os dois velhos de cá e os de lá.",
@@ -1608,7 +1608,7 @@
     ]
   },
   {
-    "chapter": "6 de fevereiro",
+    "chapterName": "6 de fevereiro",
     "chapterDescription": null,
     "text": [
       "Não há como um grande segredo para ser divulgado depressa. Além d mim, que sei, e de Rita, que desconfia, há já quem afirme que os doi se casam; ou porque o sabem ou porque desconfiam somente, ma afirmam. Osório, que ouviu falar disso, recebeu a notícia como u grande golpe novo e inesperado. Nem faltarão outros que gostem del ou morram por ela, e façam figas ao Tristão.",
@@ -1616,14 +1616,14 @@
     ]
   },
   {
-    "chapter": "10 de fevereiro",
+    "chapterName": "10 de fevereiro",
     "chapterDescription": null,
     "text": [
       "A felicidade é palreira. D. Carmo ainda não me disse que os dois estã para casar, mas já hoje me confiou que escreveu à comadre, mãe d Tristão, a quem não escreve há muito. Justamente pelo mesm paquete que levou a carta do afilhado. Naturalmente reforçou o pedid e analisou as graças físicas e morais de Fidélia, e se lhe não pediu que os deixe cá, e venha ela também, acabará por aí. Nessa ocasião m dirá o resto, ou antes."
     ]
   },
   {
-    "chapter": "12 de fevereiro",
+    "chapterName": "12 de fevereiro",
     "chapterDescription": null,
     "text": [
       "Estava com desejo de ir passar um mês em Petrópolis, mas o gosto d acompanhar aqueles dois namorados me fez hesitar um pouco,  acabará por me prender aqui. Rita tem o mesmo gosto, e já agora o freqüenta mais. Ontem disse-me que o casamento é certo.",
@@ -1639,7 +1639,7 @@
     ]
   },
   {
-    "chapter": "12 de fevereiro, onze horas da noite",
+    "chapterName": "12 de fevereiro, onze horas da noite",
     "chapterDescription": null,
     "text": [
       "Antes de me deitar, reli o que escrevi hoje ao meio-dia, e achei o fina demasiado cético. A mana que me perdoe.",
@@ -1649,7 +1649,7 @@
     ]
   },
   {
-    "chapter": "13 de fevereiro",
+    "chapterName": "13 de fevereiro",
     "chapterDescription": null,
     "text": [
       "Mandei saber do Aguiar; amanheceu bom; não sai para se não arriscar mas está bom. Escreveu-me que vá jantar com eles. Respondi-lhe qu a doença foi um pretexto para passar o dia de hoje ao pé da esposa,  por isso mesmo não me é possível ir contemplar de perto esse quadr de Teócrito.",
@@ -1659,7 +1659,7 @@
     ]
   },
   {
-    "chapter": "15 de fevereiro",
+    "chapterName": "15 de fevereiro",
     "chapterDescription": null,
     "text": [
       "Não, não remeteram Tristão para Botafogo. Creio que o desejassem e  fizessem, mas não tiveram tempo. Tão depressa acabamos de jantar apareceram Fidélia e o tio. Concluí que os dois namorados houvesse concertado isto mesmo.",
@@ -1668,7 +1668,7 @@
     ]
   },
   {
-    "chapter": "16 de fevereiro",
+    "chapterName": "16 de fevereiro",
     "chapterDescription": null,
     "text": [
       "Esqueceu-me notar ontem uma coisa que se passou anteontem, n começo do jantar do Flamengo. Aqui vai ela; talvez me seja precis amanhã ou depois.",
@@ -1677,7 +1677,7 @@
     ]
   },
   {
-    "chapter": "18 de fevereiro",
+    "chapterName": "18 de fevereiro",
     "chapterDescription": null,
     "text": [
       "Telegrama dos pais de Tristão, dizendo-lhe que sim, que aprovam, qu os abençoam. O estilo telegráfico é mais conciso, mas foi assim qu Tristão mo traduziu de cor; contentamento traz derramamento Apertei-lhe a mão com prazer; ele quis um abraço. Foi aqui em casa quando eu ia a sair, duas horas da tarde. Saímos juntos, e tive de ouvi três panegíricos, um dos pais, outro dos padrinhos, e o terceiro (aliá vigésimo) da própria dama dos seus pensamentos.",
@@ -1690,7 +1690,7 @@
     ]
   },
   {
-    "chapter": "22 de fevereiro",
+    "chapterName": "22 de fevereiro",
     "chapterDescription": null,
     "text": [
       "Está publicado o casamento de Tristão e de Fidélia, não nos jornais,  antes fosse neles também; está só publicado entre as relações da duas famílias...",
@@ -1698,7 +1698,7 @@
     ]
   },
   {
-    "chapter": "25 de fevereiro",
+    "chapterName": "25 de fevereiro",
     "chapterDescription": null,
     "text": [
       "Quando mana Rita veio trazer-me a notícia oficial do casament mostrei-lhe a minha carta de participação, e fiz um gesto de triunfo perguntando-lhe quem tinha razão no cemitério, há um ano. Ainda um vez concordou que era eu, mas emendou em parte, dizendo que  nossa aposta é que ela casaria comigo, e citou a aposta entre Deus e  Diabo a propósito de Fausto, que eu lhe li aqui em casa no texto d Goethe.",
@@ -1708,7 +1708,7 @@
     ]
   },
   {
-    "chapter": "Seis horas da tarde",
+    "chapterName": "Seis horas da tarde",
     "chapterDescription": null,
     "text": [
       "Vim agora da rua, onde me confirmaram que o corretor Miranda tev hoje de manhã uma congestão cerebral. Rita só me falou disso ao sai daqui, e esqueceu-me escrevê-lo. Estávamos no patamar da escad quando ela me contou que ouvira a notícia, no bonde, a doi desconhecidos.",
@@ -1717,14 +1717,14 @@
     ]
   },
   {
-    "chapter": "26 de fevereiro",
+    "chapterName": "26 de fevereiro",
     "chapterDescription": null,
     "text": [
       "Miranda morreu ontem às dez horas; enterra-se hoje às quatro. Crei que deixa a família bem. Dávamo-nos sem ser grandes amigos. Eu, s fosse a somar os amigos que tenho perdido por esse mundo, chegaria  algumas dúzias deles. Os jornais dizem que não há convites para  enterro; irei ao enterro sem convite."
     ]
   },
   {
-    "chapter": "Dez horas da noite",
+    "chapterName": "Dez horas da noite",
     "chapterDescription": null,
     "text": [
       "Lá fui a enterrar o Miranda. Não valeria a pena contá-lo, se não fosse  que me sucedeu no fim. Muita gente, as tristezas do costume.  própria Cesária parecia abatida; não digo se chorava ou não. Aguiar  Campos também compareceram, e outros conhecidos.",
@@ -1734,7 +1734,7 @@
     ]
   },
   {
-    "chapter": "Sem data",
+    "chapterName": "Sem data",
     "chapterDescription": null,
     "text": [
       "Já lá vão dias que não escrevo nada. A princípio foi um pouco d reumatismo no dedo, depois visitas, falta de matéria, enfim preguiça Sacudo a preguiça.",
@@ -1748,7 +1748,7 @@
     ]
   },
   {
-    "chapter": "Sábado",
+    "chapterName": "Sábado",
     "chapterDescription": null,
     "text": [
       "Fidélia parece retrair-se agora depois das primeiras confidências qu me fez, e é natural. Como eu lhe pedisse notícias de Tristão respondeu-me que não as tinha, e falou de outra coisa; mas, falandolhe eu da alegria recente de D. Carmo, referiu-me as tristezas que lh ouviu uma vez a propósito da volta do afilhado, e do conselho qu então lhe deu de ir com ele; ao que a boa senhora retrucou que seri preciso separar-se do marido e não podia.",
@@ -1757,7 +1757,7 @@
     ]
   },
   {
-    "chapter": "9 de março",
+    "chapterName": "9 de março",
     "chapterDescription": null,
     "text": [
       "Tristão voltou de Petrópolis. Deixou casa alugada em Vestefália, cas posta pelo comendador Josino, que a vai deixar por algum tempo  segue com a família para o sul; passou-lhe o contrato por três meses D. Carmo e Fidélia sobem a vê-la esta semana. Andam agora muit mais juntas, em casa ou na rua; naturalmente a confidência é maior Também eu ando com elas se as encontro, também ouço as palavra de ambas.",
@@ -1766,14 +1766,14 @@
     ]
   },
   {
-    "chapter": "13 de março",
+    "chapterName": "13 de março",
     "chapterDescription": null,
     "text": [
       "Não há como a paixão do amor para fazer original o que é comum,  novo o que morre de velho. Tais são os dois noivos, a quem não m canso de ouvir por serem interessantes. Aquele drama de amor, qu parece haver nascido da perfídia da serpente e da desobediência d homem, ainda não deixou de dar enchentes a este mundo. Uma vez o outra algum poeta empresta-lhe a sua língua, entre as lágrimas do espectadores; só isso. O drama é de todos os dias e de todas a formas, e novo como o sol, que também é velho."
     ]
   },
   {
-    "chapter": "20 de março",
+    "chapterName": "20 de março",
     "chapterDescription": null,
     "text": [
       "D. Carmo tomou a si adornar a casa dos noivos. Soube isto pel desembargador, que chegou de Petrópolis e deixou a casa \"um beleza\" com a ordem em que ela dispõe os móveis e os adornos alguns destes obra já de suas mãos.",
@@ -1786,14 +1786,14 @@
     ]
   },
   {
-    "chapter": "21 de março",
+    "chapterName": "21 de março",
     "chapterDescription": null,
     "text": [
       "Explico o texto de ontem. Não foi o medo que me levou a admirar  espírito de D. Cesária, os olhos, as mãos, e implicitamente o resto d pessoa. Já confessei alguns dos seus merecimentos. A verdade, porém é que o gosto de dizer mal não se perde com elogios recebidos,  aquela dama, por mais que eu lhe ache os dentes bonitos, não deixar de mos meter pelas costas, se for oportuno. Não; não a elogiei par desarmá-la, mas para divertir-me, e o resto da noite não passei mal Estava em casa dela, onde a irmã escurecia tudo com a sua viuve recente. D. Cesária disse muitas coisas de fel e de mel, trocando-as  completando-as com tal arte que alguma vez uma coisa parecia outra e ambas pareciam as duas unidas."
     ]
   },
   {
-    "chapter": "22 de março",
+    "chapterName": "22 de março",
     "chapterDescription": null,
     "text": [
       "A reflexão que vou fazer é curta; se tal não fora, melhor seria guardála para amanhã, ou logo mais tarde, quando me recolher; mas é curta.",
@@ -1802,7 +1802,7 @@
     ]
   },
   {
-    "chapter": "25 de março",
+    "chapterName": "25 de março",
     "chapterDescription": null,
     "text": [
       "Era minha idéia hoje, aniversário da Constituição, ir cumprimentar  imperador, mas a visita de Tristão fez-me abrir mão do plano. Deixeime estar a conversar com ele de mil coisas várias, depois saímos passeamos e tornamos a casa.",
@@ -1811,7 +1811,7 @@
     ]
   },
   {
-    "chapter": "26 de março",
+    "chapterName": "26 de março",
     "chapterDescription": null,
     "text": [
       "Or bene, marcou-se o dia do casamento de Tristão e Fidélia; é a 15 d maio. Já estava disposto entre eles, secretamente, para que os papéi corressem em Lisboa a tempo. Os de cá vão correr já.",
@@ -1828,14 +1828,14 @@
     ]
   },
   {
-    "chapter": "4 de abril",
+    "chapterName": "4 de abril",
     "chapterDescription": null,
     "text": [
       "Não esperava por esta. Tristão veio pedir-me que lhe sirva de padrinh ao casamento. Não podia negar-lho, e aceitei o convite, ainda que se grande gosto. Aí tinha ele o Aguiar, ou o Campos, mas enfim, quer ajudar a felicidade de todos. Deu-me outros pormenores: casamento  capucha, entre onze horas e meio-dia, almoço no Flamengo, e família, e os dois serão levados à Prainha modestamente, embarcarã ali para Petrópolis. Minúcias escusadas, mas tudo se deve escutar co interesse a um coração que ama."
     ]
   },
   {
-    "chapter": "8 de abril",
+    "chapterName": "8 de abril",
     "chapterDescription": null,
     "text": [
       "— Sabe o que D. Fidélia me escreveu agora? perguntou-me Aguiar Que o Banco tome a si vender Santa-Pia.",
@@ -1850,7 +1850,7 @@
     ]
   },
   {
-    "chapter": "15 de abril",
+    "chapterName": "15 de abril",
     "chapterDescription": null,
     "text": [
       "Já se não vende Santa-Pia, não por falta de compradores, ao contrário em cinco dias apareceram logo dois, que conhecem a fazenda, e só  primeiro recusou o preço. Não se vende; é o que me disseram hoje de manhã. Concluí que o casal Tristão iria lá passar o resto dos seus dias Podia ser, mas é ainda mais inesperado.",
@@ -1861,7 +1861,7 @@
     ]
   },
   {
-    "chapter": "19 de abril",
+    "chapterName": "19 de abril",
     "chapterDescription": null,
     "text": [
       "Tristão, a quem falei da doação de Santa-Pia, não me confiou os seu motivos secretos; disse-me só que Fidélia vai assinar o document amanhã ou depois. Estávamos no Carceler tomando café. Ouvi-lh também dizer que recebeu cartas de Lisboa, duas políticas; instam po ele. Quis saber se acudiria ao chamado, mas o gesto com que ele vi subir o fumo do charuto parecia mirar tão somente a noiva, o altar e  felicidade; não ousei passar adiante.",
@@ -1872,14 +1872,14 @@
     ]
   },
   {
-    "chapter": "28 de abril",
+    "chapterName": "28 de abril",
     "chapterDescription": null,
     "text": [
       "Lá se foi Santa-Pia para os libertos que a receberão provavelment com danças e com lágrimas; mas também pode ser que est responsabilidade nova ou primeira..."
     ]
   },
   {
-    "chapter": "6 de maio",
+    "chapterName": "6 de maio",
     "chapterDescription": null,
     "text": [
       "A gente Aguiar parece estar sobressaltada. Tristão recebeu nova cartas e alguns jornais de Lisboa, e longamente os leu para si, agor alegre, logo carrancudo. O que leu nos jornais foram trechos marcado a lápis azul e a tinta preta, e nada referiu aos dois velhos. Ao contrário levou os jornais para o quarto, onde nenhum deles lhos foi pedir ne ver. Também não lhe perguntaram nada, ele ficou a pensar consigo,  assim correu o resto da tarde. Depois de jantar foram para Botafogo.",
@@ -1888,7 +1888,7 @@
     ]
   },
   {
-    "chapter": "8 de maio",
+    "chapterName": "8 de maio",
     "chapterDescription": null,
     "text": [
       "Tristão quer ser casado pelo Padre Bessa e pediu-lho. O padre ma pôde ouvir o pedido, consentiu e agradeceu deslumbrado. Há uma idéi de simetria na bênção do casamento dada pelo mesmo sacerdote que  batizou, que entrará por alguma coisa na resolução do noivo, ma também pode ser que a principal intenção fosse fazê-lo feliz. Aquel sacerdote obscuro e escondido na Praia Formosa virá subir a escadari da Matriz da Glória (o casamento é na Matriz da Glória) para abençoa o casamento de duas pessoas lustrosas e vistosas. Aguiar disse-me qu o padre está que parecia ser ele próprio o noivo.",
@@ -1896,7 +1896,7 @@
     ]
   },
   {
-    "chapter": "15 de maio",
+    "chapterName": "15 de maio",
     "chapterDescription": null,
     "text": [
       "Enfim, casados. Venho agora da Prainha, aonde os fui embarcar par Petrópolis. O casamento foi ao meio-dia em ponto, na Matriz da Glória poucas pessoas, muita comoção. Fidélia vestia escuro e afogado, a mangas presas nos pulsos por botões de granada, e o gesto grave. D Carmo, austeramente posta, é verdade, ia cheia de riso, e o marid também. Tristão estava radiante. Ao subir a escadaria, troquei u olhar com a mana Rita, e creio que sorrimos; não sei se nela, mas e mim era a lembrança daquele dia do cemitério, e do que lhe ouvi sobr a viúva Noronha. Aí vínhamos nós com ela a outras núpcias. Tal era  vontade do Destino. Chamo-lhe assim, para dar um nome a que  leitura antiga me acostumou, e francamente gosto dele. Tem um a fixo e definitivo. Ao cabo, rima com divino, e poupa-me a cogitaçõe filosóficas.",
@@ -1908,7 +1908,7 @@
     ]
   },
   {
-    "chapter": "26 de maio",
+    "chapterName": "26 de maio",
     "chapterDescription": null,
     "text": [
       "Nestes últimos dias só tenho visitado o casal Aguiar, que parece meterme cada vez mais no coração. Vivem felizes, recebem e manda notícias aos dois filhos de empréstimo. Estes descerão na seman próxima para subir no mesmo dia; o único fim é abraçar os velhos.",
@@ -1920,7 +1920,7 @@
     ]
   },
   {
-    "chapter": "Quinta-feira",
+    "chapterName": "Quinta-feira",
     "chapterDescription": null,
     "text": [
       "Tristão e Fidélia desceram hoje e Aguiar os foi buscar à Prainha. Dal vieram almoçar ao Flamengo, onde D. Carmo esperava os recémcasados e os abraçou cheia de coração. O velho ficou de ir do Banco  Prainha, quando a barca houvesse de sair à tarde para Petrópolis.",
@@ -1934,7 +1934,7 @@
     ]
   },
   {
-    "chapter": "11 de junho",
+    "chapterName": "11 de junho",
     "chapterDescription": null,
     "text": [
       "Hoje apareceram-me os recém-casados pela primeira vez, encontr casual, na Rua do Ouvidor, às duas horas da tarde; iam a compras Gostei de os ouvir, e ainda mais de a ver. A graça com que ela dava  braço ao marido e deslizava na rua era mais completa que a anterior a casamento; obra do casamento e da felicidade. Iam ouvindo, ia falando, iam parando aos mostradores.",
@@ -1945,7 +1945,7 @@
     ]
   },
   {
-    "chapter": "25 de junho",
+    "chapterName": "25 de junho",
     "chapterDescription": null,
     "text": [
       "Campos e Aguiar queriam, à sua vez, que o jovem casal viess aposentar-se em casa deles, e alegaram a razão de ser por pouco dias, pois que tinham de embarcar. Tristão e Fidélia recusaram e fora para o Hotel dos Estrangeiros. A razão alegada por estes foi a mesm dos poucos dias, e eu creio que era verdadeira, mas principalment seria a de não dar preferência a um nem a outro.",
@@ -1956,14 +1956,14 @@
     ]
   },
   {
-    "chapter": "29 de junho",
+    "chapterName": "29 de junho",
     "chapterDescription": null,
     "text": [
       "A outra visita foi por noite de São João; hoje, noite de São Pedro chegarei também ao Flamengo, e, se couber, falaremos também da coisas antigas."
     ]
   },
   {
-    "chapter": "30 de junho",
+    "chapterName": "30 de junho",
     "chapterDescription": null,
     "text": [
       "Lá estive na casa Aguiar. Não falamos de coisas velhas nem de coisa novas, mas só das futuras. No fim da noite adverti que falávamo todos, menos o casal recente; esse, depois de algumas palavras ma atadas, entrou a dizer de si mesmo, um dizer calado, espraiado  fundido. De quando em quando os dois davam alguma sílaba  conversação, e logo tornavam ao puro silêncio. Também tocara piano. Também foram falar entre si ao canto da janela. Sós os quatr velhos, — o desembargador com os três, — fazíamos planos futuros.",
@@ -1972,7 +1972,7 @@
     ]
   },
   {
-    "chapter": "Sem data",
+    "chapterName": "Sem data",
     "chapterDescription": null,
     "text": [
       "Hoje foi a última recepção dos Aguiares, e eu quis despedir-me do viajantes que embarcam depois de amanhã. Bastante gente, entre el o Faria e D. Cesária, e a viúva do corretor Miranda, ainda abatida.  nota geral da noite não era alegre, ao contrário: todos buscavam i pelo tom da casa, que era tristonha. A própria Fidélia parecia definharse ao pé da amiga, e uma vez a mana Rita a foi achar que dizia  outra:",
@@ -1986,7 +1986,7 @@
     ]
   },
   {
-    "chapter": "Véspera de embarque",
+    "chapterName": "Véspera de embarque",
     "chapterDescription": null,
     "text": [
       "Tristão cumpriu a promessa, veio almoçar comigo, eram onze horas  meia. Vinha triste, — triste e calado. Quer dizer que falamos muit pouco. Não havendo melhor assunto de conversa que esse mesm silêncio, lembrou-me dizer-lhe que compreendia as saudades que el levava daqui, já da terra, já das pessoas, e particularmente das dua pessoas que lhe queriam tanto. A ocasião era boa para dizer dos doi velhos as melhores coisas, — ou repeti-las, pois já mas tinha confiad várias vezes; outrossim, inteirar-me dos seus planos de futuro, at onde ia a viagem, e em que tempo tornaria com a formosa esposa. Nã me disse nada; afirmou de cabeça e mergulhou no mesmo grand silêncio do princípio. Creio que não me ouviu metade.",
@@ -2010,7 +2010,7 @@
     ]
   },
   {
-    "chapter": "18 de julho",
+    "chapterName": "18 de julho",
     "chapterDescription": null,
     "text": [
       "Vim de bordo, aonde fui acompanhar os dois, com o velho Aguiar,  Desembargador Campos e outros amigos. D. Carmo foi só até o cais estava sucumbida, e enxugava os olhos. Ficou parada, a ver a lanch em que íamos, dizendo adeus com o lenço; não tardou que o espaç nos separasse inteiramente da vista.",
@@ -2021,14 +2021,14 @@
     ]
   },
   {
-    "chapter": "Dez horas da noite",
+    "chapterName": "Dez horas da noite",
     "chapterDescription": null,
     "text": [
       "Venho do Flamengo. Quisera ficar mais tempo, mas eles precisava descansar da separação. Campos também lá foi, e ambos saímos cedo nove e meia; não se falou dos viajantes."
     ]
   },
   {
-    "chapter": "29 de agosto",
+    "chapterName": "29 de agosto",
     "chapterDescription": null,
     "text": [
       "Chegou paquete da Europa, trouxe cartas de Lisboa e notícias políticas As cartas eram saudosas, e as notícias interessantes; aliás só vieram  noite. Na rua tinha-me Aguiar dito o que havia nas cartas de Tristão  de Fidélia e na que a comadre escrevera a D. Carmo; fui vê-las a Flamengo. A da comadre era cheia de louvores à nora; que achav mais bela que no retrato, e mais terna que ninguém; foram as própria palavras dela, e para uma sogra não me destoaram muito. Assim  disse a D. Carmo, que sorria complacente, com uma espécie de ternur mórbida. Éramos sós os três, e a saudade grande.",
@@ -2042,7 +2042,7 @@
     ]
   },
   {
-    "chapter": "30 de agosto",
+    "chapterName": "30 de agosto",
     "chapterDescription": null,
     "text": [
       "Praia fora (esqueceu-me notar isto ontem) praia fora viemos faland daquela orfandade às avessas em que os dois velhos ficavam, e e acrescentei, lembrando-me do marido defunto:",
@@ -2051,7 +2051,7 @@
     ]
   },
   {
-    "chapter": "Sem data",
+    "chapterName": "Sem data",
     "chapterDescription": null,
     "text": [
       "Há seis ou sete dias que eu não ia ao Flamengo. Agora à tard lembrou-me lá passar antes de vir para casa. Fui a pé; achei aberta  porta do jardim, entrei e parei logo.",

@@ -1,6 +1,6 @@
 [
   {
-    "chapter": "ADVERTÊNCIA",
+    "chapterName": "ADVERTÊNCIA",
     "chapterDescription": null,
     "text": [
       "Esta nova edição de Helena sai com várias emendas de linguagem e outras, que não alteram a feição do livro. Ele é o mesmo da data em que o compus e imprimi, diverso do que o tempo me foi depois, correspondendo assim ao capítulo da história do meu espírito, naquele ano de 1876.",
@@ -9,7 +9,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO PRIMEIRO",
+    "chapterName": "CAPÍTULO PRIMEIRO",
     "chapterDescription": null,
     "text": [
       "O Conselheiro Vale morreu às 7 horas da noite de 25 de abril de 1859. Morreu de apoplexia fulminante, pouco depois de cochilar a sesta, — segundo costumava dizer, — e quando se preparava a ir jogar a usual partida de voltarete em casa de um desembargador, seu amigo. O Dr. Camargo, chamado à pressa, nem chegou a tempo de empregar os recursos da ciência; o Padre Melchior não pôde dar-lhe as consolações da religião: a morte fora instantânea.",
@@ -96,7 +96,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO III",
+    "chapterName": "CAPÍTULO III",
     "chapterDescription": null,
     "text": [
       "Na seguinte manhã, Estácio levantou-se tarde e foi direito à sala de jantar, onde encontrou D.Úrsula, pachorrentamente sentada na poltrona de seu uso, ao pé de uma janela, a ler um tomo do Saint-Clair das Ilhas, enternecida pela centésima vez com as tristezas dos desterrados da ilha da Barra; boa gente e moralíssimo livro, ainda que enfadonho e maçudo, como outros de seu tempo. Com ele matavam as matronas daquela quadra muitas horas compridas do inverno, com ele se encheu muito serão pacífico, com ele se desafogou o coração de muita lágrima sobressalente. — Veio? perguntou Estácio.",
@@ -148,7 +148,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO IV",
+    "chapterName": "CAPÍTULO IV",
     "chapterDescription": null,
     "text": [
       "As primeiras semanas correram sem nenhum sucesso notável, mas ainda assim interessantes. Era, por assim dizer, um tempo de espera, de hesitação, de observação recíproca, um tatear de caracteres, em que de uma e de outra parte procuravam conhecer o terreno e tomar posição. O próprio Estácio, não obstante a primeira impressão, recolhera-se a prudente reserva, de que o arrancou aos poucos o procedimento de Helena.",
@@ -165,7 +165,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO V",
+    "chapterName": "CAPÍTULO V",
     "chapterDescription": null,
     "text": [
       "Por esse tempo resolveu Estácio dar um passo decisivo. Ligado por amor à filha de Camargo, desde antes da morte do conselheiro, hesitara sempre em pedi-la ao pai, diferindo a resolução para quando fosse propício o ensejo. A condição não era fácil, porque o sentimento que ele nutria em relação à Eugênia tinha alternativas de tibieza e fervor. A causa disso pode crer-se estava também em seu coração; mas principalmente residia nela. Num dos primeiros dias de agosto, assentara Estácio de ir solicitar de Eugênia autorização para fazer oficialmente o pedido. Assim disposto, dirigiu-se à casa de Camargo.",
@@ -206,7 +206,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO VI",
+    "chapterName": "CAPÍTULO VI",
     "chapterDescription": null,
     "text": [
       "Chegando à casa, achou Estácio remédio ao mau humor. Era uma carta de Luís Mendonça, que dois anos antes partira para a Europa, donde agora regressava. Escrevia-lhe de Pernambuco, anunciando-lhe que dentro de poucas semanas estaria no Rio de Janeiro. Mendonça fora o seu melhor companheiro de aula. Havia entre eles certos contrastes de gênio. O de Mendonça era mais folgazão e ativo. Quando este partiu para a Europa, quis que o antigo colega o acompanhasse, e o próprio conselheiro opinara nesse sentido. Estácio recusou pelo receio de que, sendo diferente o espírito de um e outro, a viagem tivesse de obrigar ao sacrifício de hábitos e preferências de um deles.",
@@ -345,7 +345,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO VII",
+    "chapterName": "CAPÍTULO VII",
     "chapterDescription": null,
     "text": [
       "Apearam-se os dois no terreiro e dirigiram-se para a escada que ia ter à varanda. Pisando o primeiro degrau, disse Estácio:",
@@ -418,7 +418,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO VIII",
+    "chapterName": "CAPÍTULO VIII",
     "chapterDescription": null,
     "text": [
       "D. Úrsula tinha já confiado ao velho capelão a proposta de Camargo. Consultado por Estácio, respondeu o padre:",
@@ -468,7 +468,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO IX",
+    "chapterName": "CAPÍTULO IX",
     "chapterDescription": null,
     "text": [
       "Naquela mesma noite, D. Úrsula, que não havia de todo melhorado, adoeceu deveras. A família, mal convalescida da perda do velho chefe, via-se agora ameaçada de uma nova dor, em todo o caso, exposta a  novos receios. O Dr. Camargo declarou que o caso era grave, e deu princípio a rigoroso tratamento.",
@@ -529,7 +529,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO X",
+    "chapterName": "CAPÍTULO X",
     "chapterDescription": null,
     "text": [
       "Estácio dirigiu-se ao portão. Abriu-o; um moço que ali estava entrou precipitadamente. Era Mendonça. Os dois mancebos lançaram-se nos braços um do outro. Helena, a alguma distância, presenciou aquela efusão, e não lhe foi difícil adivinhar quem era o recém-chegado.",
@@ -576,7 +576,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XI",
+    "chapterName": "CAPÍTULO XI",
     "chapterDescription": null,
     "text": [
       "Naquele dia fazia anos Estácio, e D. Úrsula assentara receber algumas pessoas a jantar, e outras mais à noite, em reunião íntima. Ela e Helena tomavam a peito fazer que a pequena festa de família fosse digna do objeto. Estácio opinou pela supressão do sarau; mas era difícil alcançar a desistência de corações que o amavam.",
@@ -600,7 +600,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XII",
+    "chapterName": "CAPÍTULO XII",
     "chapterDescription": null,
     "text": [
       "A festa correu animada, posto a reunião fosse restrita. Alguns giros da valsa, duas ou três quadrilhas, jogo e música, muita conversa e muito riso, tal foi o programa da noite, que a encheu e fez mais curta.",
@@ -668,7 +668,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XIII",
+    "chapterName": "CAPÍTULO XIII",
     "chapterDescription": null,
     "text": [
       "Dissolvida a reunião, Helena recolheu-se à pressa com o pretexto de que estava a cair de sono, mas realmente para dar à natureza o tributo de suas lágrimas. O desespero comprimido tumultuava no coração, prestes a irromper. Helena entrou no quarto, fechou a porta, soltou um grito e lançou-se de golpe à cama, a chorar e a soluçar.",
@@ -730,7 +730,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XIV",
+    "chapterName": "CAPÍTULO XIV",
     "chapterDescription": null,
     "text": [
       "Camargo ia sentar-se à mesa quando lhe entregaram a carta de Estácio; leu-a para si, mas a filha leu-a nos olhos dele. Uma aura de bem-aventurança desrugou a fronte do médico; seus lábios – coisa pasmosa! – abriram-se num sorriso franco, sorriso que chegou a desabrochar em gargalhada, a primeira que D. Tomásia lhe ouviu. Acabado o jantar, Camargo deu conta do pedido à mulher, e os dois pais chamaram a filha à sala. Eugênia ouviu a notícia sem baixar os olhos nem corar. Interrogada, respondeu que era muito do seu gosto o casamento.",
@@ -773,7 +773,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XV",
+    "chapterName": "CAPÍTULO XV",
     "chapterDescription": null,
     "text": [
       "Estácio levantou-se ao amanhecer. Uma vez pronto, quis surpreender a tia e a irmã com uma lembrança sua, e escreveu numa folha de papel estas simples palavras: \"Até à volta; 6 horas da manhã”.Dobroua e foi pô-la sobre a mesa de costura de D. Úrsula. Dali passou à sala de jantar, depois à varanda. Aqui chegando, deu com os olhos em Helena, que o esperava ao pé da escada.",
@@ -802,7 +802,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XVI",
+    "chapterName": "CAPÍTULO XVI",
     "chapterDescription": null,
     "text": [
       "Helena leu e releu a carta. Depois ficou silenciosa, a olhar para as folhas da trepadeira, que do lado de fora viera a subir pela muralha da varanda e a debruçar-se enfim do parapeito para dentro. A carta ficara aberta sobre os joelhos da moça. Mendonça, a poucos passos, olhava para esta, sem ousar falar-lhe.",
@@ -899,7 +899,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XVII",
+    "chapterName": "CAPÍTULO XVII",
     "chapterDescription": null,
     "text": [
       "Aquele dia foi marcado no calendário de Mendonça com letras de ouro e cetim; a noite desceu coroada de murta e rosas. Ele viveu essas horas todas num estado de sonambulismo e êxtase. Tencionava referir tudo à mãe, logo que entrou em casa ao meio-dia; mas não se atreveu, porque ele mesmo não estava certo se vivia a realidade ou se  voava nas asas de uma quimera. De noite voltou a Andaraí; achou em Helena o mesmo modo afetuoso, a mesma solicitude e carinho; nenhuma ternura expansiva, nenhuma contemplação namorada; um meio-termo que o continha a ele próprio, e não era menos aprazível ao coração. A nova situação era, entretanto, sensível, porque os vigilantes de fora trocaram entre si olhares cheios de graves descobertas; um deles, o coronel-major, chegou a proferir uma alusão, que os interessados fingiram não perceber.",
@@ -955,7 +955,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XVIII",
+    "chapterName": "CAPÍTULO XVIII",
     "chapterDescription": null,
     "text": [
       "— Helena, disse Estácio no dia seguinte, logo que pôde falar a sós à irmã, — sabes por que vim mais depressa? Foi por tua causa. O Mendonça escreveu-me dizendo haver alcançado de ti uma promessa de casamento.",
@@ -1078,7 +1078,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XX",
+    "chapterName": "CAPÍTULO XX",
     "chapterDescription": null,
     "text": [
       "A visita de Estácio não causou nenhum espanto a Mendonça; ele a esperava com a confiança das índoles ingênuas e avessas ao ódio. Não era crível que um amigo de longos anos dormisse sobre a injustiça de um minuto; contudo dormiu. Foi na seguinte manhã que Estácio procurou o pretendente de Helena.",
@@ -1114,7 +1114,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XXI",
+    "chapterName": "CAPÍTULO XXI",
     "chapterDescription": null,
     "text": [
       "Poucos instantes esperou Estácio. Veio um homem abrir-lhe a porta; era o mesmo que ele vira ali uma vez. Entre ambos houve meio minuto de silêncio, durante o qual nem Estácio se lembrou de dizer o que queria, nem o desconhecido de lhe perguntar quem era. Olhavam um para o outro.",
@@ -1203,7 +1203,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XXII",
+    "chapterName": "CAPÍTULO XXII",
     "chapterDescription": null,
     "text": [
       "Não era preciso grande esforço para adivinhar a dona das mãos. Estácio, com as suas, afastou as mãos de Helena, segurando-lhe os pulsos de modo que lhe arrancou um leve gemido. Voltando-se, deu com os olhos na irmã, que lhe disse em tom de gracioso reproche:",
@@ -1254,7 +1254,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XXIII",
+    "chapterName": "CAPÍTULO XXIII",
     "chapterDescription": null,
     "text": [
       "— És forte? perguntou o padre.",
@@ -1315,7 +1315,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XXIV",
+    "chapterName": "CAPÍTULO XXIV",
     "chapterDescription": null,
     "text": [
       "A noite era escura. Calcando a terra e a areia das largas calhes da chácara, Melchior, em sua imaginação, refloria o passado, nem sempre feliz, mas geralmente quieto. Mais de uma vez buscara dissipar a sombra pesarosa que alguns erros do conselheiro acumularam na fronte da consorte. Haveria naquela casa uma geração de dores, destinadas a abater o orgulho da riqueza com o irremediável espetáculo da debilidade humana?",
@@ -1396,7 +1396,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XXV",
+    "chapterName": "CAPÍTULO XXV",
     "chapterDescription": null,
     "text": [
       "— A mãe de Helena, disse Salvador, cuja beleza foi a causa, a um tempo, da sua má e boa fortuna, era filha de um nobre lavrador do Rio Grande do Sul, onde também nasci. Apaixonamo-nos um pelo outro. Meu pai opôs-se ao casamento; tinha alguns bens, mandara-me estudar, queria ver-me em posição brilhante. Ângela podia ser obstáculo à minha carreira, dizia ele. Opôs-se, e eu resisti; raptei-a; fomos viver na campanha oriental, donde passamos a Montevidéu, e mais tarde ao Rio de Janeiro. Tinha vinte anos quando deixei a casa paterna; possuía alguns estudos, poucos, meia dúzia de patacões, muito amor e muita esperança. Era de sobra para a minha idade, mas insuficiente para o meu futuro. A lua-de-mel foi desde logo uma noite de privações e trabalhos. Minha vida começou a ser um mosaico de profissões; aqui onde me vêem, fui mascate, agente do foro, guardalivros, lavrador, operário, estalajadeiro, escrevente de cartório; algumas semanas vivi de tirar cópias de peças e papéis para teatro. Trabalhava com energia, mas a fortuna não correspondia à constância, e o melhor dos anos gastei-o em luta áspera e desigual. Uma compensação havia, a mais doce de todas: era o amor e o contentamento de Ângela, a igualdade do ânimo com que ela encarava todas as vicissitudes. Pouco tempo depois da nossa fuga, havia outra compensação mais: era Helena. Essa menina nasceu em um dos momentos mais tristes da minha vida. Os primeiros caldos da mãe foram obtidos por favor de uma mulher da vizinhança. Mas nasceu em boa hora, e foi um laço mais que nos prendeu um ao outro. A presença de um ente novo, sangue do meu sangue, fez-me redobrar de energia. Trabalhava com alma, lutava resoluto contra todas as forças adversas, certo de encontrar à noite a solicitude da mãe e as ingênuas carícias da filha. Os senhores não são pais; não podem avaliar a força que possui o sorriso de uma filha para dissolver todas as tristezas acumuladas na fronte de um homem. Muita vez, quando o trabalho me tomava parte da noite, e eu, apesar de robusto, me sentia cansado, erguia-me, ia ao berço de Helena, contemplava-a um instante e parecia cobrar forças novas. Se o próprio berço era obra de minhas mãos! Fabriquei-o de alguns sarrafos de pinho velho; obra grosseira e sublime; servia a adormecer metade da minha felicidade na Terra.",
@@ -1426,7 +1426,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XXVII",
+    "chapterName": "CAPÍTULO XXVII",
     "chapterDescription": null,
     "text": [
       "Tinha acabado; grossas lágrimas, retidas a custo enfim lhe rebentaram dos olhos e rolaram pelo rosto abaixo do narrador. A comoção não  ficou só nele; os dois ouvintes a sentiram também. Acabara; e o pior que podia acontecer, era isso mesmo. Uma vez finda a narração, ficaram os dois calados e perplexos, sem que ousassem contradizê-lo. Depois de curta pausa, Salvador rematou assim:",
@@ -1467,7 +1467,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XXVIII",
+    "chapterName": "CAPÍTULO XXVIII",
     "chapterDescription": null,
     "text": [
       "Naquela noite, a segunda de tão extraordinários sucessos, foi que Estácio sentiu toda a violência do amor que lhe inspirara Helena. Enquanto os detinha um vínculo sagrado, amara sem consciência; e ainda depois de esclarecido pelo padre, o esforço empregado em vencer-se e a própria natureza da catástrofe não lhe permitiram ver a extensão do mal. Agora, sim; roto o vínculo, restituída a verdade, ele conhecia que a voz da natureza, mais sincera e forte que as combinações sociais, os chamava um para o outro, e que a mulher destinada a amá-lo e ser amada era justamente a única que as leis sociais lhe vedavam possuir.",

@@ -1,6 +1,6 @@
 [
   {
-    "chapter": " ADVERTÊNCIA DA NOVA EDIÇÃO",
+    "chapterName": "ADVERTÊNCIA DA NOVA EDIÇÃO",
     "text": [
       "Este foi o meu primeiro romance, escrito aí vão muitos anos. Dado em nov edição, não lhe altero a composição nem o estilo, apenas troco dois ou trê vocábulos, e faço tais ou quais correções de ortografia. Como outros qu vieram depois, e alguns contos e novelas de então, pertence à primeira fase d minha vida literária.",
       "M. DE A.",
@@ -8,7 +8,7 @@
     ]
   },
   {
-    "chapter": " ADVERTÊNCIA DA PRIMEIRA EDIÇÃO",
+    "chapterName": "ADVERTÊNCIA DA PRIMEIRA EDIÇÃO",
     "text": [
       "Não sei o que deva pensar deste livro; ignoro sobretudo o que pensará dele  leitor. A benevolência com que foi recebido um volume de contos e novelas que há dois anos publiquei, me animou a escrevê-lo. É um ensaio. Va despretensiosamente às mãos da crítica e do público, que o tratarão com  justiça que merecer.",
       "A crítica desconfia sempre da modéstia dos prólogos, e tem razão. Geralment são arrebiques de dama elegante, que se vê ou se crê bonita, e quer assi realçar as graças naturais. Eu fujo e benzo-me três vezes quando encar alguns desses prefácios contritos e singelos, que trazem os olhos no pó da su humildade, e o coração nos píncaros da sua ambição. Quem só lhes vê o olhos, e lhes diz verdade que amargue, arrisca-se a descair no conceito d autor, sem embargo da humildade que ele mesmo confessou, e da justiça qu pediu.",
@@ -27,7 +27,7 @@
     ]
   },
   {
-    "chapter": " CAPÍTULO PRIMEIRO",
+    "chapterName": "CAPÍTULO PRIMEIRO",
     "chapterDescription": "NO DIA DE ANO BOM",
     "text": [
       "Naquele dia, — já lá vão dez anos! — o Dr. Félix levantou-se tarde, abriu  janela e cumprimentou o sol. O dia estava esplêndido; uma fresca bafagem d mar vinha quebrar um pouco os ardores do estio; algumas raras nuvenzinha brancas, finas e transparentes se destacavam no azul do céu. Chilreavam n chácara vizinha à casa do doutor algumas aves afeitas à vida semi-urbana semi-silvestre que lhes pode oferecer uma chácara nas Laranjeiras. Pareci que toda a natureza colaborava na inauguração do ano. Aqueles para quem  idade já desfez o viço dos primeiros tempos, não se terão esquecido do fervo com que esse dia é saudado na meninice e na adolescência. Tudo nos parec melhor e mais belo, — fruto da nossa ilusão, — e alegres com vermos o an que desponta, não reparamos que ele é também um passo para a morte.",
@@ -97,7 +97,7 @@
     ]
   },
   {
-    "chapter": " CAPÍTULO II",
+    "chapterName": "CAPÍTULO II",
     "chapterDescription": "LIQUIDAÇÃO DO ANO VELHO",
     "text": [
       "Meia hora depois apeava-se Félix de um tílburi à porta de uma casa no Rocio.",
@@ -186,7 +186,7 @@
     ]
   },
   {
-    "chapter": " CAPÍTULO III",
+    "chapterName": "CAPÍTULO III",
     "chapterDescription": "AO SOM DA VALSA",
     "text": [
       "A casa do coronel podia conter o triplo das pessoas convidadas para o sara daquela noite; mas o coronel preferia convidar apenas as pessoas mais íntima e familiares. Era homem pouco cerimonioso, gostava sobretudo da intimidade.",
@@ -291,7 +291,7 @@
     ]
   },
   {
-    "chapter": " CAPÍTULO IV",
+    "chapterName": "CAPÍTULO IV",
     "chapterDescription": "PRELÚDIO",
     "text": [
       "No dia seguinte partiu Félix para a Tijuca, onde tinha uma casa de recreio  refúgio; regressou duas semanas depois. Durante esse tempo nada soube d que ocorrera na cidade: não leu jornais nem abriu cartas de amigos.",
@@ -367,7 +367,7 @@
     ]
   },
   {
-    "chapter": " CAPÍTULO V",
+    "chapterName": "CAPÍTULO V",
     "chapterDescription": "FICO",
     "text": [
       "Dois dias depois, estando Félix a vestir-se para ir a Catumbi, entrou-lhe",
@@ -450,7 +450,7 @@
     ]
   },
   {
-    "chapter": "CAPITULO VI",
+    "chapterName": "CAPITULO VI",
     "chapterDescription": "DECLARAÇÃO",
     "text": [
       "— Então, já não vai para a Europa? perguntou Félix à viúva nessa mesm tarde.",
@@ -514,7 +514,7 @@
     ]
   },
   {
-    "chapter": " CAPÍTULO VII",
+    "chapterName": "CAPÍTULO VII",
     "chapterDescription": "O GAVIÃO E A POMBA",
     "text": [
       "Iniciando afoitamente esta aventura, era natural que Félix saísse de Catumb com a vaidade satisfeita de um triunfador. Não era ele amado, e amado se esforço seu, sem resistência nem combate? E a mulher que lhe acabava de da francamente o coração não tinha todas as qualidades que podem seduzir u homem e lisonjear-lhe o amor-próprio?",
@@ -559,7 +559,7 @@
     ]
   },
   {
-    "chapter": " CAPÍTULO VIII",
+    "chapterName": "CAPÍTULO VIII",
     "chapterDescription": "QUEDA",
     "text": [
       "O desenlace desta situação desigual entre um homem frio e uma mulhe apaixonada parece que devera ser a queda da mulher: foi a queda do homem.",
@@ -597,7 +597,7 @@
     ]
   },
   {
-    "chapter": " CAPÍTULO IX",
+    "chapterName": "CAPÍTULO IX",
     "chapterDescription": "LUTA",
     "text": [
       "O amor de Félix era um gosto amargo, travado de dúvidas e suspeitas.",
@@ -676,7 +676,7 @@
     ]
   },
   {
-    "chapter": " CAPÍTULO X",
+    "chapterName": "CAPÍTULO X",
     "chapterDescription": "A ENFERMA",
     "text": [
       "A doença de Raquel era grave; durante alguns dias chegaram a recear u desenlace funesto. Os velhos pais quase enlouqueceram, quando o médico o preparou para a terrível catástrofe. A menina percebeu o seu estado, mas ne o medo da morte, nem a saudade da terra lhe fez doer o coração. Morria com flor que era. A mágoa era toda para os que a viam assim condenada se remédio.",
@@ -745,7 +745,7 @@
     ]
   },
   {
-    "chapter": " CAPÍTULO XI",
+    "chapterName": "CAPÍTULO XI",
     "chapterDescription": "O PASSADO",
     "text": [
       "— Serei indiscreto perguntando que passado foi esse? disse Félix depois d alguns instantes.",
@@ -805,7 +805,7 @@
     ]
   },
   {
-    "chapter": " CAPÍTULO XII",
+    "chapterName": "CAPÍTULO XII",
     "chapterDescription": "UM PONTO NEGRO",
     "text": [
       "Lívia e Raquel estavam assentadas no sofá; o coronel, encostado a um cadeira, consultava o relógio. Não consultava; tinha o relógio na mão, diant dos olhos, mas os olhos reviam-se na filha, enquanto esta respondia à perguntas da viúva.",
@@ -848,7 +848,7 @@
     ]
   },
   {
-    "chapter": " CAPÍTULO XIII",
+    "chapterName": "CAPÍTULO XIII",
     "chapterDescription": "CRISE",
     "text": [
       "Lívia não percebeu logo o amor de Meneses; mas, era impossível que tarde o cedo o não suspeitasse. Não se fingiu admirada quando ele lho confiou depoi de algum tempo de assiduidade nas Laranjeiras. Nem se admirou nem s irritou; além de não ser motivo para cólera, havia entre ambos, como Féli dissera um dia, certa conformidade de sentir e pensar, que de algum modo o vinculava.",
@@ -887,7 +887,7 @@
     ]
   },
   {
-    "chapter": " CAPÍTULO XIV",
+    "chapterName": "CAPÍTULO XIV",
     "chapterDescription": "OU CAPÍTULO DO ACASO",
     "text": [
       "Félix chegou a casa cheio de cólera e desespero. Entrou impetuoso na sala como se precisasse de vingar em alguma coisa a suposta injúria, lançou mã do primeiro vaso que se lhe deparou e deitou-o ao chão. O vaso fez-se e estilhas.",
@@ -941,7 +941,7 @@
     ]
   },
   {
-    "chapter": " CAPÍTULO XV",
+    "chapterName": "CAPÍTULO XV",
     "chapterDescription": "ENFANT TERRIBLE",
     "text": [
       "No dia seguinte, logo cedo, Viana foi à casa do médico. Não ia almoçar co ele; ia convidá-lo para jantar.",
@@ -994,7 +994,7 @@
     ]
   },
   {
-    "chapter": " CAPÍTULO XVI",
+    "chapterName": "CAPÍTULO XVI",
     "chapterDescription": "RAQUEL",
     "text": [
       "Quando Raquel ficou só atirou-se ao sofá, trêmula, fria, com os olhos secos sem compreender bem aquele drama íntimo, mas sentindo-lhe já algu terrível desenlace. O que ela via claro é que a outra amava o mesmo homem e com tal força que cedera a um impulso de cólera, tão contrário aos seu hábitos de brandura.",
@@ -1083,7 +1083,7 @@
     ]
   },
   {
-    "chapter": " CAPÍTULO XVII",
+    "chapterName": "CAPÍTULO XVII",
     "chapterDescription": "SACRIFÍCIO",
     "text": [
       "A situação das duas moças demandava um termo. Raquel foi a primeira qu resolveu deixar completamente o campo; tinha no seu restabelecimento um excelente razão para regressar a casa.",
@@ -1131,7 +1131,7 @@
     ]
   },
   {
-    "chapter": " CAPÍTULO XVIII",
+    "chapterName": "CAPÍTULO XVIII",
     "chapterDescription": "RENOVAÇÃO",
     "text": [
       "Lívia não ignorou muito tempo a existência da carta de Raquel. Félix mostroulha no dia seguinte, desejoso de saber como havia nascido no espírito da moç a convicção tão generosamente afirmada.",
@@ -1175,7 +1175,7 @@
     ]
   },
   {
-    "chapter": " CAPÍTULO XIX",
+    "chapterName": "CAPÍTULO XIX",
     "chapterDescription": "A PORTA DO CÉU",
     "text": [
       "Dois dias antes do casamento, Lívia foi jantar à casa do coronel, a convit deste que reunira algumas pessoas de amizade. Félix não compareceu, apesa de instantemente chamado; cedera a um sentimento de delicadeza, nã querendo mortificar com a sua presença a filho do coronel, nem perturbar d algum modo o espírito da viúva.",
@@ -1221,7 +1221,7 @@
     ]
   },
   {
-    "chapter": " CAPÍTULO XX",
+    "chapterName": "CAPÍTULO XX",
     "chapterDescription": "UMA VOZ MISTERIOSA",
     "text": [
       "Félix estacou à porta da sala. Luís Batista deu dois passos para ele.",
@@ -1278,7 +1278,7 @@
     ]
   },
   {
-    "chapter": " CAPÍTULO XXI",
+    "chapterName": "CAPÍTULO XXI",
     "chapterDescription": "ÚLTIMO GOLPE",
     "text": [
       "Era já sobre tarde quando a carta chegou às mãos da viúva. Viana descera  chácara, enquanto a irmã dividia a atenção entre os gracejos do filho e o se próprio pensamento. O menino enchia toda a sala com a sua pessoa; a travessuras dele não eram enfadonhas. Lívia não o contemplava só com o olhos de mãe; via nele como que o elo de ouro entre uma quimera desfeita  uma quimera realizada. Tais eram as suas reflexões quando a mucama lhe vei trazer a carta de Félix. Entregou-lha e saiu.",
@@ -1330,7 +1330,7 @@
     ]
   },
   {
-    "chapter": " CAPÍTULO XXII",
+    "chapterName": "CAPÍTULO XXII",
     "chapterDescription": "A CARTA",
     "text": [
       "Quando Meneses chegou à Tijuca eram quatro horas da tarde. A casa de Féli ficava afastada do caminho. O portão estava aberto; Meneses atravesso rapidamente o espaço que ia da estrada à casa e bateu. Veio um molequ abrir-lhe a porta. Meneses entrou precipitadamente e perguntou:",
@@ -1423,7 +1423,7 @@
     ]
   },
   {
-    "chapter": " CAPÍTULO XXIII",
+    "chapterName": "CAPÍTULO XXIII",
     "chapterDescription": "ADEUS",
     "text": [
       "Apenas chegaram à cidade, Félix despediu-se de Meneses e seguiu para as",
@@ -1465,7 +1465,7 @@
     ]
   },
   {
-    "chapter": " CAPÍTULO XXIV",
+    "chapterName": "CAPÍTULO XXIV",
     "chapterDescription": "HOJE",
     "text": [
       "Dez anos volveram sobre os acontecimentos deste livro, longos e enfastiado para uns, ligeiros e felizes para outros, que é a lei uniforme desta mofin sociedade humana.",

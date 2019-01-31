@@ -1,6 +1,6 @@
 [
   {
-    "chapter": "PRÓLOGO DA 3ª EDIÇÃO",
+    "chapterName": "PRÓLOGO DA 3ª EDIÇÃO",
     "chapterDescription": null,
     "text": [
       "A segunda edição deste livro acabou mais depressa que a primeira. Aqui sai el em terceira, sem outra alteração além da emenda de alguns erros tipográficos tais e tão poucos que, ainda conservados, não encobririam o sentido.",
@@ -10,7 +10,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO PRIMEIRO",
+    "chapterName": "CAPÍTULO PRIMEIRO",
     "chapterDescription": null,
     "text": [
       "Rubião fitava a enseada, — eram oito horas da manhã. Quem o visse, com o polegares metidos no cordão do chambre, à janela de uma grande casa d Botafogo, cuidaria que ele admirava aquele pedaço de água quieta; mas, e verdade, vos digo que pensava em outra coisa. Cotejava o passado com  presente. Que era, há um ano? Professor. Que é agora? Capitalista. Olha para si para as chinelas (umas chinelas de Túnis, que lhe deu recente amigo, Cristian Palha), para a casa, para o jardim, para a enseada, para os morros e para o céu e tudo, desde as chinelas até o céu, tudo entra na mesma sensação d propriedade. ",
@@ -18,14 +18,14 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO II",
+    "chapterName": "CAPÍTULO II",
     "chapterDescription": null,
     "text": [
       "Que abismo que há entre o espírito e o coração! O espírito do ex-professor vexado daquele pensamento, arrepiou caminho, buscou outro assunto, uma cano que ia passando; o coração, porém, deixou-se estar a bater de alegria. Que lh importa a canoa nem o canoeiro, que os olhos de Rubião acompanham arregalados? Ele, coração, vai dizendo que, uma vez que a mana Piedade tinha d morrer, foi bom que não casasse; podia vir um filho ou uma filha... — Bonit canoa! — Antes assim! — Como obedece bem aos remos do homem! — O certo  que eles estão no Céu!"
     ]
   },
   {
-    "chapter": "CAPÍTULO III",
+    "chapterName": "CAPÍTULO III",
     "chapterDescription": null,
     "text": [
       "Um criado trouxe o café. Rubião pegou na xícara e, enquanto lhe deitava açúcar ia disfarçadamente mirando a bandeja, que era de prata lavrada. Prata, ouro eram os metais que amava de coração; não gostava de bronze, mas o amig Palha disse-lhe que era matéria de preço, e assim se explica este par de figura que aqui está na sala, um Mefistófeles e um Fausto. Tivesse, porém, de escolher escolheria a bandeja, — primor de argentaria, execução fina e acabada. O criad esperava teso e sério. Era espanhol; e não foi sem resistência que Rubião  aceitou das mãos de Cristiano; por mais que lhe dissesse que estava acostumad aos seus crioulos de Minas, e não queria línguas estrangeiras em casa, o amig Palha insistiu, demonstrando-lhe a necessidade de ter criados brancos. Rubiã cedeu com pena. O seu bom pajem, que ele queria pôr na sala, como um pedaç da província, nem o pôde deixar na cozinha, onde reinava um francês, Jean; fo degradado a outros serviços.",
@@ -38,7 +38,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO IV",
+    "chapterName": "CAPÍTULO IV",
     "chapterDescription": null,
     "text": [
       "Este Quincas Borba, se acaso me fizeste o favor de ler as Memórias Póstumas d Brás Cubas, é aquele mesmo náufrago da existência, que ali aparece, mendigo herdeiro inopinado, e inventor de uma filosofia. Aqui o tens agora em Barbacena Logo que chegou, enamorou-se de uma viúva, senhora de condição mediana  parcos meios de vida; mas, tão acanhada, que os suspiros no namorado ficava sem eco. Chamava-se Maria da Piedade. Um irmão dela, que é o presente Rubião fez todo o possível para casá-los. Piedade resistiu, um pleuris a levou.",
@@ -52,7 +52,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO V",
+    "chapterName": "CAPÍTULO V",
     "chapterDescription": null,
     "text": [
       "Rubião achou um rival no coração de Quincas Borba, — um cão, um bonito cão meio tamanho, pêlo cor de chumbo, malhado de preto. Quincas Borba levava- para toda parte, dormiam no mesmo quarto. De manhã, era o cão que acordava  senhor, trepando ao leito, onde trocavam as primeiras saudações. Uma da extravagâncias do dono foi dar-lhe o seu próprio nome; mas, explicava-o por doi motivos, um doutrinário, outro particular.",
@@ -76,7 +76,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO VI",
+    "chapterName": "CAPÍTULO VI",
     "chapterDescription": null,
     "text": [
       "— Para entenderes bem o que é a morte e a vida, basta contar-te como morre minha avó.",
@@ -109,7 +109,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO VII",
+    "chapterName": "CAPÍTULO VII",
     "chapterDescription": null,
     "text": [
       "Quincas Borba calou-se de exausto, e sentou-se ofegante. Rubião acudiu, levando-lh água e pedindo que se deitasse para descansar; mas o enfermo, após algun minutos, respondeu que não era nada. Perdera o costume de fazer discursos, é  que era. E, afastando com o gesto a pessoa de Rubião, a fim de poder encará-l sem esforço, empreendeu uma brilhante descrição do mundo e suas excelências Misturou idéias próprias e alheias, imagens de toda sorte, idílicas, épicas, a ta ponto que Rubião perguntava a si mesmo como é que um homem, que ia morre dali a dias, podia tratar tão galantemente aqueles negócios.",
@@ -128,7 +128,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO VIII",
+    "chapterName": "CAPÍTULO VIII",
     "chapterDescription": null,
     "text": [
       "No dia seguinte, Quincas Borba acordou com a resolução de ir ao Rio de Janeiro voltaria no fim de um mês, tinha certos negócios... Rubião ficou espantado. E  moléstia, e o médico? O doente respondeu que o médico era um charlatão, e qu a moléstia precisava espairecer, tal qual a saúde. Moléstia e saúde eram doi caroços do mesmo fruto, dois estados de Humanitas.",
@@ -148,7 +148,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO IX",
+    "chapterName": "CAPÍTULO IX",
     "chapterDescription": null,
     "text": [
       "Horas depois, teve Rubião um pensamento horrível. Podiam crer que ele própri incitara o amigo à viagem, para o fim de o matar mais depressa, e entrar na poss do legado, se é que realmente estava incluso no testamento. Sentiu remorsos. Po que não empregou todas as forças para contê-lo? Viu o cadáver de Quincas Borba pálido, hediondo, fitando nele um olhar vingativo; resolveu, se acaso o fata desfecho se desse em viagem, abrir mão do legado.",
@@ -163,7 +163,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO X",
+    "chapterName": "CAPÍTULO X",
     "chapterDescription": null,
     "text": [
       "Sete semana depois, chegou a Barbacena esta carta, datada do Rio de Janeiro toda do punho do Quincas Borba:",
@@ -179,7 +179,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XI",
+    "chapterName": "CAPÍTULO XI",
     "chapterDescription": null,
     "text": [
       "No começo da semana seguinte, recebendo os jornais da Corte (ainda assinatura do Quincas Borba) leu Rubião esta notícia em um deles:",
@@ -187,7 +187,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XII",
+    "chapterName": "CAPÍTULO XII",
     "chapterDescription": null,
     "text": [
       "— Acabou de sofrer! suspirou Rubião.",
@@ -198,7 +198,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XIII",
+    "chapterName": "CAPÍTULO XIII",
     "chapterDescription": null,
     "text": [
       "A notícia correra a cidade; o vigário, o farmacêutico da casa, o médico, todo mandaram saber se era verdadeira. O agente do correio, que a lera nas folhas trouxe em mão própria ao Rubião uma carta que viera na mala para ele; podia se do finado, conquanto a letra do sobrescrito fosse outra.",
@@ -208,14 +208,14 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XIV",
+    "chapterName": "CAPÍTULO XIV",
     "chapterDescription": null,
     "text": [
       "Quando o testamento foi aberto, Rubião quase caiu para trás. Adivinhais por quê Era nomeado herdeiro universal do testador. Não cinco, nem dez, nem vint contos, mas tudo, o capital inteiro, especificados os bens, casas na Corte, uma e Barbacena, escravos, apólices, ações do Banco do Brasil e de outras instituições jóias, dinheiro amoedado, livros, — tudo finalmente passava às mãos do Rubião sem desvios, sem deixas a nenhuma pessoa, nem esmolas, nem dívidas. Uma s condição havia no testamento, a de guardar o herdeiro consigo o seu pobr cachorro Quincas Borba, nome que lhe deu por motivo da grande afeição que lh tinha. Exigia do dito Rubião que o tratasse como se fosse a ele próprio testador nada poupando em seu benefício, resguardando-o de moléstias, de fugas, de roubo ou de morte que lhe quisessem dar por maldade; cuidar finalmente como s cão não fosse, mas pessoa humana. Item, impunha-lhe a condição, quand morresse o cachorro, de lhe dar sepultura decente em terreno próprio, qu cobriria de flores e plantas cheirosas; e mais desenterraria os ossos do dit cachorro, quando fosse tempo idôneo, e os recolheria a uma urna de madeir preciosa para depositá-los no lugar mais honrado da casa."
     ]
   },
   {
-    "chapter": "CAPÍTULO XV",
+    "chapterName": "CAPÍTULO XV",
     "chapterDescription": null,
     "text": [
       "Tal era a cláusula. Rubião achou-a natural, posto que só tivesse pensamento par cuidar na herança. Espreitara uma deixa, e sai-lhe do testamento a massa tod dos bens. Não podia acabar de crer; foi preciso que lhe apertassem muito a mãos, com força, — a força dos parabéns, — para não supor que era mentira.",
@@ -228,7 +228,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XVI",
+    "chapterName": "CAPÍTULO XVI",
     "chapterDescription": null,
     "text": [
       "— Quincas Borba! Quincas Borba! eh! Quincas Borba! bradou entrando em casa.",
@@ -239,7 +239,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XVII",
+    "chapterName": "CAPÍTULO XVII",
     "chapterDescription": null,
     "text": [
       "— Sinhá comadre, o cachorro? perguntou Rubião com indiferença, mas pálido.",
@@ -260,7 +260,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XVIII",
+    "chapterName": "CAPÍTULO XVIII",
     "chapterDescription": null,
     "text": [
       "Rubião e o cachorro, entrando em casa, sentiram, ouviram a pessoa e as vozes d finado amigo. Enquanto o cachorro farejava por toda a parte, Rubião foi sentar-s na cadeira, onde estivera quando Quincas Borba referiu a morte da avó co explicações científicas. A memória dele recompôs, ainda que de embrulho  esgarçadamente, os argumentos do filósofo. Pela primeira vez, atentou bem n alegoria das tribos famintas e compreendeu a conclusão: \"Ao vencedor, a batatas!\" Ouviu distintamente a voz roufenha do finado expor a situação da tribos, a luta e a razão da luta, o extermínio de uma e a vitória da outra,  murmurou baixinho:",
@@ -272,7 +272,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XIX",
+    "chapterName": "CAPÍTULO XIX",
     "chapterDescription": null,
     "text": [
       "Não esqueça dizer que Rubião tomou a si mandar dizer uma missa por alma d finado, embora soubesse ou pressentisse que ele não era católico. Quincas Borb não dizia pulhices a respeito de padres, nem desconceituava doutrinas católicas mas não falava nem da igreja nem dos seus servos. Por outro lado, a veneraçã de Humanitas fazia desconfiar ao herdeiro que essa era a religião do testador. Nã obstante, mandou dizer a missa, considerando que não era ato da vontade d morto, mas prece de vivos; considerou mais que seria um escândalo na cidade s ele, nomeado herdeiro pelo defunto, deixasse de dar ao seu protetor os sufrágio que não se negam aos mais miseráveis e avaros deste mundo.",
@@ -280,14 +280,14 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XX",
+    "chapterName": "CAPÍTULO XX",
     "chapterDescription": null,
     "text": [
       "Regulados os preliminares para a liquidação da herança, Rubião tratou de vir a Rio de Janeiro, onde se fixaria, logo que tudo estivesse acabado. Havia que faze em ambas as cidades; mas as coisas prometiam correr depressa."
     ]
   },
   {
-    "chapter": "CAPÍTULO XXI",
+    "chapterName": "CAPÍTULO XXI",
     "chapterDescription": null,
     "text": [
       "Na estação de Vassouras, entraram no trem Sofia e o marido, Cristiano de Almeid e Palha. Este era um rapagão de trinta e dois anos; ela ia entre vinte e sete  vinte e oito. Vieram sentar-se nos dois bancos fronteiros ao do Rubião acomodaram as cestinhas e embrulhos de lembranças que traziam de Vassouras onde tinham ido passar uma semana; abotoaram o guarda-pó, trocaram alguma palavras, baixo.",
@@ -336,14 +336,14 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XXII",
+    "chapterName": "CAPÍTULO XXII",
     "chapterDescription": null,
     "text": [
       "Chegados à estação da Corte, despediram-se quase familiarmente. Palha oferece a sua casa em Santa Teresa; o ex-professor ia para a Hospedaria União,  prometeram visitar-se."
     ]
   },
   {
-    "chapter": "CAPÍTULO XXIII",
+    "chapterName": "CAPÍTULO XXIII",
     "chapterDescription": null,
     "text": [
       "No dia seguinte, estava Rubião ansioso por ter ao pé de si o recente amigo d estrada de ferro, e determinou ir a SantaTeresa, à tarde; mas foi o próprio Palh que o procurou logo de manhã. Ia cumprimentá-lo, ver se estava bem ali, ou s preferia a casa dele, que ficava no alto. Rubião não aceitou a casa, mas aceitou  advogado, um contraparente do Palha, que este lhe indicou, como um do primeiros, apesar de muito moço.",
@@ -353,21 +353,21 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XXIV",
+    "chapterName": "CAPÍTULO XXIV",
     "chapterDescription": null,
     "text": [
       "Rubião tinha vexame, por causa de Sofia; não sabia haver-se com senhoras Felizmente, lembrou-se da promessa que a si mesmo fizera de ser forte  implacável. Foi jantar. Abençoada resolução! Onde acharia iguais horas? Sofia era em casa, muito melhor que no trem de ferro. Lá vestia a capa, embora tivesse o olhos descobertos; cá trazia à vista os olhos e o corpo, elegantemente apertad em um vestido de cambraia, mostrando as mãos que eram bonitas, e um princípi de braço. Demais, aqui era a dona da casa, falava mais, desfazia-se e obséquios; Rubião desceu meio tonto."
     ]
   },
   {
-    "chapter": "CAPÍTULO XXV",
+    "chapterName": "CAPÍTULO XXV",
     "chapterDescription": null,
     "text": [
       "Jantou lá muitas vezes. Era tímido e acanhado. A freqüência atenuou a impressã dos primeiros dias. Mas trazia sempre guardado, e mal guardado, certo fog particular, que ele não podia extinguir. Enquanto durou o inventário,  principalmente a denúncia dada por alguém contra o testamento, alegando que  Quincas Borba, por manifesta demência, não podia testar, o nosso Rubião distraiu-se mas a denúncia foi destruída, e o inventário caminhou rapidamente para  conclusão. Palha festejou o acontecimento com um jantar em que tomaram parte além dos três, o advogado, o procurador e o escrivão. Sofia tinha nesse dia o mais belos olhos do mundo."
     ]
   },
   {
-    "chapter": "CAPÍTULO XXVI",
+    "chapterName": "CAPÍTULO XXVI",
     "chapterDescription": null,
     "text": [
       "— Parece que ela os compra em alguma fábrica misteriosa, pensou Rubião descendo o morro; nunca os vi como hoje.",
@@ -375,14 +375,14 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XXVII",
+    "chapterName": "CAPÍTULO XXVII",
     "chapterDescription": null,
     "text": [
       "Tudo isso passava agora pela cabeça do Rubião, depois do café, no mesmo luga em que o deixamos sentado, a olhar para longe, muito longe. Continuava a bate com as borlas do chambre. Afinal lembrou-se de ir ver o Quincas Borba, e soltá-lo Era a sua obrigação de todos os dias. Levantou-se e foi ao jardim, ao fundo."
     ]
   },
   {
-    "chapter": "CAPÍTULO XXVIII",
+    "chapterName": "CAPÍTULO XXVIII",
     "chapterDescription": null,
     "text": [
       "— Mas que pecado é este que me persegue? pensava ele andando. Ela é casada dá-se bem com o marido, o marido é meu amigo, tem-me confiança, com ninguém... Que tentações são estas?",
@@ -401,7 +401,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XXIX",
+    "chapterName": "CAPÍTULO XXIX",
     "chapterDescription": null,
     "text": [
       "Rubião passou o resto da manhã alegremente. Era domingo; dois amigos viera almoçar com ele, um rapaz de vinte e quatro anos, que roía as primeiras apara dos bens da mãe, e um homem de quarenta e quatro ou quarenta e seis, que nã tinha que roer.",
@@ -415,7 +415,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XXX",
+    "chapterName": "CAPÍTULO XXX",
     "chapterDescription": null,
     "text": [
       "Rubião perguntou-lhe uma vez:",
@@ -429,7 +429,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XXXI",
+    "chapterName": "CAPÍTULO XXXI",
     "chapterDescription": null,
     "text": [
       "Queres o avesso disso, leitor curioso? Vê este outro convidado para o almoço Carlos Maria. Se aquele tem os modos \"expansivos e francos”, — no bom sentid laudatório, — claro é que ele os tem contrários. Assim, não te custará nada vê-l entrar na sala, lento, frio e superior, ser apresentado ao Freitas, olhando par outra parte. Freitas que já o mandou cordialmente ao diabo por causa da demor (é perto do meio-dia), corteja-o agora rasgadamente, com grandes aleluia íntimas.",
@@ -445,7 +445,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XXXII",
+    "chapterName": "CAPÍTULO XXXII",
     "chapterDescription": null,
     "text": [
       "— Quem é que manda isto? perguntou Rubião.",
@@ -479,14 +479,14 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XXXIII",
+    "chapterName": "CAPÍTULO XXXIII",
     "chapterDescription": null,
     "text": [
       "Rubião viu-os ir, entrou, meteu-se na sala, e ainda uma vez leu o bilhete de Sofia Cada palavra dessa página inesperada era um mistério; a assinatura um capitulação. Sofia apenas; nenhum outro nome da família ou do casal. Verdadeir amiga era evidentemente uma metáfora. Quanto às primeiras palavras: Mando-lh estas frutinhas para o almoço respiravam a candidez de uma alma boa  generosa. Rubião viu, sentiu, palpou tudo pela única força do instinto e deu por s beijando o papel, — digo mal, beijando o nome, o nome dado na pia de batismo, repetido pela mãe, entregue ao marido como parte da escritura moral d casamento, e agora roubado a todas essas origens e posses para lhe ser mandad a ele, no fim duma folha de papel... Sofia! Sofia! Sofia!"
     ]
   },
   {
-    "chapter": "CAPÍTULO XXXIV",
+    "chapterName": "CAPÍTULO XXXIV",
     "chapterDescription": null,
     "text": [
       "— Por que veio tão tarde? perguntou-lhe Sofia, logo que ele apareceu à porta d jardim, em Santa Teresa.",
@@ -498,7 +498,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XXXV",
+    "chapterName": "CAPÍTULO XXXV",
     "chapterDescription": null,
     "text": [
       "As senhoras casadas eram bonitas; a mesma solteira não devia ter sido feia, ao vinte e cinco anos; mas Sofia primava entre todas elas.",
@@ -512,7 +512,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XXXVI",
+    "chapterName": "CAPÍTULO XXXVI",
     "chapterDescription": null,
     "text": [
       "— Meu Deus! como é bonita! Sinto-me capaz de fazer um escândalo! pensav Rubião, à noite, ao canto de uma janela, de costas para fora, olhando para Sofia, que olhava para ele.",
@@ -521,7 +521,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XXXVII",
+    "chapterName": "CAPÍTULO XXXVII",
     "chapterDescription": null,
     "text": [
       "Entende-se bem que D. Tonica observasse a contemplação dos dois. Desde qu Rubião ali chegou, não cuidou ela mais que de atraí-lo. Os seus pobres olhos d trinta e nove anos, olhos sem parceiros na terra, indo já a resvalar do cansaço n desesperança, acharam em si algumas fagulhas. Volvê-los uma e muitas vezes requebrando-os, era o longo ofício dela. Não lhe custou nada armá-los contra  capitalista.",
@@ -536,14 +536,14 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XXXVIII",
+    "chapterName": "CAPÍTULO XXXVIII",
     "chapterDescription": null,
     "text": [
       "Rubião estava resoluto. Nunca a alma de Sofia pareceu convidar a dele, co tamanha instância, a voarem juntas até às terras clandestinas, donde elas tornam em geral, velhas e cansadas. Algumas não tornam. Outras param a meio caminho Grande número não passa da beira dos telhados..."
     ]
   },
   {
-    "chapter": "CAPÍTULO XXXIX",
+    "chapterName": "CAPÍTULO XXXIX",
     "chapterDescription": null,
     "text": [
       "A lua era magnífica. No morro, entre o céu e a planície, a alma menos audacios era capaz de ir contra um exército inimigo, e destroçá-lo. Vede o que não seri com este exército amigo. Estavam no jardim. Sofia enfiara o braço no dele, par irem ver a lua. Convidara D. Tonica, mas a pobre dama respondeu que tinha u pé dormente, que já ia, e não foi.",
@@ -556,7 +556,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XL",
+    "chapterName": "CAPÍTULO XL",
     "chapterDescription": null,
     "text": [
       "Em cima, as estrelas pareciam rir daquela situação inextricável.",
@@ -566,7 +566,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XLI",
+    "chapterName": "CAPÍTULO XLI",
     "chapterDescription": null,
     "text": [
       "— Vamos para dentro, murmurou Sofia.",
@@ -582,7 +582,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XLII",
+    "chapterName": "CAPÍTULO XLII",
     "chapterDescription": null,
     "text": [
       "— Olá! estão apreciando a lua? Realmente, está deliciosa; está uma noite par namorados... Sim, deliciosa... Há muito que não vejo uma noite assim... Olhem s para baixo, os bicos de gás... Deliciosa! para namorados... Os namorados gosta sempre da Lua. No meu tempo, em Icaraí...",
@@ -622,7 +622,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XLIII",
+    "chapterName": "CAPÍTULO XLIII",
     "chapterDescription": null,
     "text": [
       "Ladeira abaixo, D. Tonica foi ouvindo o resto do discurso do pai, que mudou d assunto, sem mudar de estilo, — difuso e derramado. Ouvia sem entender. I metida em si mesma, absorta, remoendo a noite, recompondo os olhares de Sofi e de Rubião.",
@@ -635,14 +635,14 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XLIV",
+    "chapterName": "CAPÍTULO XLIV",
     "chapterDescription": null,
     "text": [
       "Não vades crer que a dor aqui foi mais verdadeira que a cólera; foram iguais em s mesmas, os efeitos é que foram diversos. A cólera deu em nada; a humilhaçã debulhou-se em lágrimas legítimas. E contudo não faltaram a esta senhor ímpetos de estrangular Sofia, calcá-la aos pés, arrancar-lhe o coração ao pedaços, dizendo-lhe na cara os nomes crus que atribuía ao marido... Tud imaginações! Crede-me: há tiranos de intenção. Quem sabe? Na alma dest senhora passou agora um tênue fio de Calígula..."
     ]
   },
   {
-    "chapter": "CAPÍTULO XLV",
+    "chapterName": "CAPÍTULO XLV",
     "chapterDescription": null,
     "text": [
       "E enquanto uma chora, outra ri; é a lei do mundo, meu rico senhor; é a perfeiçã universal. Tudo chorando seria monótono, tudo rindo cansativo; mas uma bo distribuição de lágrimas e polcas, soluços e sarabandas, acaba por trazer à alm do mundo a variedade necessária, e faz-se o equilíbrio da vida.",
@@ -656,7 +656,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XLVI",
+    "chapterName": "CAPÍTULO XLVI",
     "chapterDescription": null,
     "text": [
       "O rumor das vozes e dos veículos acordou um mendigo que dormia nos degrau da igreja. O pobre diabo sentou-se, viu o que era, depois tornou a deitar-se, ma acordado, de barriga para o ar, com os olhos fitos no céu. O céu fitava-o também impassível como ele, mas sem as rugas do mendigo, nem os sapatos rotos, ne os andrajos, um céu claro, estrelado, sossegado, olímpico, tal qual presidiu à bodas de Jacó e ao suicídio de Lucrécia. Olhavam-se numa espécie de jogo d siso, com certo ar de majestades rivais e tranqüilas, sem arrogância, nem baixeza como se o mendigo dissesse ao céu:",
@@ -666,7 +666,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XLVII",
+    "chapterName": "CAPÍTULO XLVII",
     "chapterDescription": null,
     "text": [
       "Rubião não era filósofo; a comparação que ali fez entre os seus cuidados e os d maltrapilho apenas lhe trouxe à alma uma sombra de inveja. Aquele malandro nã pensa em nada, disse ele consigo; daqui a pouco está dormindo, enquanto eu...",
@@ -685,7 +685,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XLVIII",
+    "chapterName": "CAPÍTULO XLVIII",
     "chapterDescription": null,
     "text": [
       "— Vossa Senhoria há de ter visto que o cavalinho é bom...",
@@ -699,7 +699,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XLIX",
+    "chapterName": "CAPÍTULO XLIX",
     "chapterDescription": null,
     "text": [
       "O cão ladrou de dentro; mas, logo que Rubião entrou, recebeu-o com grand alegria; e por mais importuno que fosse, Rubião desfez-se em carícias.  possibilidade de estar ali o testador dava-lhe arrepios. Subiram juntos a escada d pedra; ali ficaram por alguns instantes, à luz do lampião que Rubião mandar deixar aceso. Rubião era mais crédulo que crente; não tinha razões para ataca nem para defender nada: — terra eternamente virgem para se lhe planta qualquer coisa. A vida da Corte deu-lhe até uma particularidade: entre incrédulos chegava a ser incrédulo...",
@@ -711,7 +711,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO L",
+    "chapterName": "CAPÍTULO L",
     "chapterDescription": null,
     "text": [
       "Não, senhora minha, ainda não acabou este dia tão comprido; não sabemos o qu se passou entre Sofia e o Palha, depois que todos se foram embora. Pode ser at que acheis aqui melhor sabor que no caso do enforcado.",
@@ -792,7 +792,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO LI",
+    "chapterName": "CAPÍTULO LI",
     "chapterDescription": null,
     "text": [
       "Banhado, barbeado, meio vestido, Palha lia os jornais, à espera do almoço quando viu entrar a mulher no gabinete, um tanto pálida.",
@@ -804,7 +804,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO LII",
+    "chapterName": "CAPÍTULO LII",
     "chapterDescription": null,
     "text": [
       "Nisto passou um rapaz alto, que a cortejou sorrindo e vagarosamente. Sofi cortejou-o também um pouco espantada da pessoa e da ação.",
@@ -817,7 +817,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO LIII",
+    "chapterName": "CAPÍTULO LIII",
     "chapterDescription": null,
     "text": [
       "Perdoem-lhe esse riso. Bem sei que o desassossego, a noite mal passada, o terro da opinião, tudo contrasta com esse riso inoportuno. Mas, leitora amada, talvez  senhora nunca visse cair um carteiro. Os deuses de Homero, — e mais era deuses, — debatiam uma vez no Olimpo, gravemente, e até furiosamente.  orgulhosa Juno, ciosa dos colóquios de Tétis e Júpiter em favor de Aquiles interrompe o filho de Saturno. Júpiter troveja e ameaça; a esposa treme de cólera Os outros gemem e suspiram. Mas quando Vulcano pega da urna de néctar, e va coxeando servir a todos, rompe no Olimpo uma enorme gargalhada inextinguível Por quê? Senhora minha, com certeza nunca viu cair um carteiro.",
@@ -825,7 +825,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO LIV",
+    "chapterName": "CAPÍTULO LIV",
     "chapterDescription": null,
     "text": [
       "Quinze dias depois, estando Rubião em casa, apareceu-lhe o marido de Sofia Vinha perguntar-lhe o que era feito dele? onde se tinha metido que não aparecia estivera doente? ou já não cuidava dos pobres? Rubião mastigava as palavras sem acabar de compor uma frase única. No meio disto, Palha viu que havia n sala um homem mirando os quadros, e abafou a voz.",
@@ -839,7 +839,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO LV",
+    "chapterName": "CAPÍTULO LV",
     "chapterDescription": null,
     "text": [
       "Tudo esperava o outro, menos isto. Daí o espanto em que se dissolveu a cólera daí também uma sombrinha de pesar, que é o que o leitor menos espera. Deixá-los Naturalmente ia-se embora do Rio de Janeiro; era o castigo que a si mesm impunha, pela ação ruim que praticara, em Santa Teresa; logo, vexara-se arrependera-se. Não tinha cara de aparecer à esposa do amigo. Tal foi a primeir conclusão do Palha; mas vieram outras hipóteses. Por exemplo, a paixão podi persistir, e a saída dele era um modo de afastar-se da pessoa amada. També podia acontecer que entrasse aí algum plano de casamento.",
@@ -847,7 +847,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO LVI",
+    "chapterName": "CAPÍTULO LVI",
     "chapterDescription": null,
     "text": [
       "Mas, por que é que Rubião ia deixá-los? Que razão? Que negócio?",
@@ -862,7 +862,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO LVII",
+    "chapterName": "CAPÍTULO LVII",
     "chapterDescription": null,
     "text": [
       "Camacho era homem político. Formado em direito em 1844, pela Faculdade d Recife, voltara para a província natal, onde começou a advogar; mas a advocaci era um pretexto. Já na academia, escrevera um jornal político, sem partid definido, mas com muitas idéias colhidas aqui e ali, e expostas em estilo mei magro e meio inchado. Pessoa que recolheu esses primeiros frutos de Camach fez um índice dos seus princípios e aspirações: — ordem pela liberdade, liberdad pela ordem; — a autoridade não pode abusar da lei, sem esbofetear-se a s própria; — a vida dos princípios é a necessidade moral das nações novas como da nações velhas; — dai-me boa política, dar-vos-ei boas finanças (Barão Louis);  mergulhemos no Jordão constitucional; — dai passagem aos valentes, homens d poder; eles serão os vossos sustentáculos, etc., etc.",
@@ -874,7 +874,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO LVIII",
+    "chapterName": "CAPÍTULO LVIII",
     "chapterDescription": null,
     "text": [
       "Dias antes, indo passar a noite em casa de um conselheiro, viu ali Rubião. Falava-s da chamada dos conservadores ao poder, e da dissolução da Câmara. Rubiã assistira à reunião em que o Ministério ltaboraí pediu os orçamentos. Tremia aind ao contar as suas impressões, descrevia a Câmara, tribunas, galerias cheias qu não cabia um alfinete, o discurso de José Bonifácio, a moção, a votação... Tod essa narrativa nascia de uma alma simples; era claro. A desordem dos gestos,  calor da palavra tinham a eloqüência da sinceridade. Camacho escutava-o atento Teve modo de o levar a um canto da janela, e fazer-lhe considerações grave sobre a situação. Rubião opinava de cabeça, ou por palavras soltas e aprobatórias.",
@@ -889,7 +889,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO LIX",
+    "chapterName": "CAPÍTULO LIX",
     "chapterDescription": null,
     "text": [
       "— Sim, mas eu preciso ir a Minas, teimou Rubião.",
@@ -913,7 +913,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO LX",
+    "chapterName": "CAPÍTULO LX",
     "chapterDescription": null,
     "text": [
       "Pobre Minas! Rubião voltou para casa, sozinho, a passo lento, pensando no mod de lá não ir agora. E as palavras dos dois andavam-lhe no cérebro, como peixinho de ouro em globo de vidro, abaixo, acima, rutilantes: \"aqui é que se deve esmaga a cabeça da cobra\"; —\"Sofia é companheira para estas viagens\". Pobre Minas!",
@@ -931,7 +931,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO LXI",
+    "chapterName": "CAPÍTULO LXI",
     "chapterDescription": null,
     "text": [
       "— Que é que tem aí na mão? inquiriu Camacho, logo que Rubião entrou n escritório.",
@@ -964,7 +964,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO LXII",
+    "chapterName": "CAPÍTULO LXII",
     "chapterDescription": null,
     "text": [
       "Rubião despediu-se. No corredor passou por ele uma senhora alta, vestida d preto, com um arruído de seda e vidrilhos. Indo a descer a escada ouviu a voz d Camacho, mais alta do que até então: — Oh! senhora baronesa!",
@@ -972,7 +972,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO LXIII",
+    "chapterName": "CAPÍTULO LXIII",
     "chapterDescription": null,
     "text": [
       "Na rua, encontrou Sofia com uma senhora idosa e outra moça. Não teve olho para ver bem as feições destas; todo ele foi pouco para Sofia. Falaram-s acanhadamente, dois minutos apenas, e seguiram o seu caminho. Rubião paro adiante, e olhou para trás; mas as três senhoras iam andando sem voltar  cabeça. Depois do jantar, consigo:",
@@ -981,7 +981,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO LXIV",
+    "chapterName": "CAPÍTULO LXIV",
     "chapterDescription": null,
     "text": [
       "Sofia deu-lhe a mão gentilmente, sem sombra de rancor. As duas senhoras d passeio estavam com ela, em trajes caseiros; apresentou-as. A moça era prima,  velha era tia, — aquela tia da roça, autora da carta que Sofia recebeu no jardi das mãos do carteiro, que logo depois deu uma queda. A tia chamava-se D. Mari Augusta; tinha uma fazendola, alguns escravos e dívidas, que lhe deixara  marido, além das saudades. A filha era Maria Benedita, — nome que a vexava, po ser de velha, dizia ela; mas a mãe retorquia-lhe que as velhas foram algum di moças e meninas, e que os nomes adequados às pessoas eram imaginações d poetas e contadores de histórias. Maria Benedita era o nome da avó dela, afilhad de Luís de Vasconcelos, o vice-rei. Que queria mais?",
@@ -1004,7 +1004,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO LXV",
+    "chapterName": "CAPÍTULO LXV",
     "chapterDescription": null,
     "text": [
       "Curta foi a visita de Rubião. Às nove horas levantou-se ele discretamente esperando qualquer palavra de Sofia, um pedido para que ficasse ainda algum tempo, que esperasse o marido que já vinha, um espanto que fosse: Já! mas ne isso. Sofia estendeu-lhe a mão, em que ele mal pôde tocar. Contudo, a moça durante a visita, mostrou-se tão natural, tão sem azedume... Não tev seguramente os olhos longos e loquazes, como dantes; parecia até que nã houvera nada, nem bem nem mal, nem morangos, nem lua. Rubião tremia, nã achava palavras; ela achava todas as que queria, e, se era preciso olhar para ele fazia-o direitamente, tranqüilamente.",
@@ -1023,14 +1023,14 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO LXVI",
+    "chapterName": "CAPÍTULO LXVI",
     "chapterDescription": null,
     "text": [
       "— Como ele diz aquelas coisas tão naturalmente! pensou Rubião, em casa relembrando as palavras de Carlos Maria. Desfazer no retrato só para elogiar  pessoa! Note-se que o retrato é muito parecido."
     ]
   },
   {
-    "chapter": "CAPÍTULO LXVII",
+    "chapterName": "CAPÍTULO LXVII",
     "chapterDescription": null,
     "text": [
       "De manhã, na cama, teve um sobressalto. O primeiro jornal que abriu foi  Atalaia. Leu o artigo editorial, uma correspondência, e algumas notícias. D repente, deu com o seu nome.",
@@ -1046,7 +1046,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO LXVIII",
+    "chapterName": "CAPÍTULO LXVIII",
     "chapterDescription": null,
     "text": [
       "Maria Benedita consentiu finalmente em aprender francês e piano. Durante quatr dias a prima teimou com ela, a todas as horas, de tal arte e maneira, que a mã da moça resolveu apressar a volta à fazenda, para evitar que ela acabass aceitando. A filha resistiu muito; respondia que eram coisas supérfluas, que moç de roça não precisa de prendas da cidade. Uma noite, porém, estando ali Carlo Maria, pediu-lhe este que tocasse alguma coisa; Maria Benedita fez-se vermelha Sofia acudiu com uma mentira:",
@@ -1069,7 +1069,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO LXIX",
+    "chapterName": "CAPÍTULO LXIX",
     "chapterDescription": null,
     "text": [
       "Os quinze minutos foram contados no relógio do Rubião, que estava ao pé d Maria Benedita, e a quem ela perguntou duas vezes que horas eram, no princípio  no fim da valsa. A própria moça inclinou-se para ver bem o ponteiro dos minutos.",
@@ -1114,7 +1114,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO LXX",
+    "chapterName": "CAPÍTULO LXX",
     "chapterDescription": null,
     "text": [
       "Rubião cedeu a cadeira, e acompanhou Carlos Maria, que atravessou a sala, e fo até o gabinete da entrada, onde estavam os sobretudos e uns dez homen conversando. Antes que o rapaz entrasse no gabinete, Rubião pegou-lhe do braço familiarmente, para lhe perguntar alguma coisa, — fosse o que fosse, — mas, e verdade, para retê-lo consigo, e procurar sondá-lo. Começava a crer possível o real uma idéia que o atormentava desde muitos dias. Agora, a conversação dilatada, os modos dela...",
@@ -1131,7 +1131,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO LXXI",
+    "chapterName": "CAPÍTULO LXXI",
     "chapterDescription": null,
     "text": [
       "Em casa, ao despentear-se, Sofia falou daquele sarau como de uma cois enfadonha. Bocejava, doíam-lhe as pernas. Palha discordava; era má disposiçã dela. Se lhe doíam as pernas é porque dançara muito. Ao que retorquiu a mulhe que, se não dançasse, teria morrido de tédio. E ia tirando os grampos, deitando-o num vaso de cristal; os cabelos caíam-lhe aos poucos sobre os ombros, ma cobertos pela camisola de cambraia. Palha, por trás dela, disse-lhe que o Carlo Maria valsava muito bem. Sofia estremeceu; fitou-o no espelho, o rosto er plácido. Concordou que não valsava mal.",
@@ -1147,7 +1147,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO LXXII",
+    "chapterName": "CAPÍTULO LXXII",
     "chapterDescription": null,
     "text": [
       "Entre duas frases, sentiu que alguém lhe punha a mão no ombro; era o marido que acabava de tomar café e ia para a cidade. Despediram-se afetuosamente Cristiano recomendou-lhe Maria Benedita, que acordara muito aborrecida.",
@@ -1158,7 +1158,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO LXXIII",
+    "chapterName": "CAPÍTULO LXXIII",
     "chapterDescription": null,
     "text": [
       "\"A noite era clara; fiquei cerca de uma hora entre o mar e a sua casa. A senhor aposto que...”",
@@ -1166,7 +1166,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO LXXIV",
+    "chapterName": "CAPÍTULO LXXIV",
     "chapterDescription": null,
     "text": [
       "Enquanto ela repetia a declaração da véspera, Carlos Maria abria os olhos estirava os membros, e, antes de ir para o banho, vestir-se e dar um passeio  cavalo, reconstruiu a véspera. Tinha esse costume; achava sempre nos sucesso do dia anterior algum fato, algum dito, alguma nota que lhe fazia bem. Aí é que  espírito se demorava; aí eram as estalagens do caminho, onde ele descavalgava para beber vagarosamente um gole d'água fresca. Se não havia sucesso nenhu desses, — ou se os havia só contrários, nem por isso as sensações era desconfortativas; bastava-lhe o sabor de alguma palavra que ele mesmo houvess dito, — de algum gesto que fizesse, a contemplação subjetiva, o gosto de te sentido viver, — para que a véspera não fosse um dia perdido.",
@@ -1175,7 +1175,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO LXXV",
+    "chapterName": "CAPÍTULO LXXV",
     "chapterDescription": null,
     "text": [
       "Outras mulheres vieram ali, — as que o preferiam aos demais homens no trato  na contemplação da pessoa. Se as requestava ou requestara todas? Não se sabe Algumas, vá: é certo, porém, que se deleitava com todas elas. Tais havia d provada honestidade que folgavam de o trazer ao pé de si, para gostar o contat de um belo homem, sem a realidade nem o perigo da culpa, — como o espectado que se regala das paixões de Otelo, e sai do teatro com as mãos limpas da mort de Desdêmona.",
@@ -1187,14 +1187,14 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO LXXVI",
+    "chapterName": "CAPÍTULO LXXVI",
     "chapterDescription": null,
     "text": [
       "Montava bem. Toda a gente que passava, ou estava às portas, não se fartava d mirar a postura do moço, o garbo, a tranqüilidade régia com que se deixava ir Carlos Maria, — e este era o ponto em que cedia à multidão, — recolhia a admirações todas, por ínfimas que fossem. Para adorá-lo, todos os homens fazia parte da humanidade."
     ]
   },
   {
-    "chapter": "CAPÍTULO LXXVII",
+    "chapterName": "CAPÍTULO LXXVII",
     "chapterDescription": null,
     "text": [
       "— Já de pé! repetiu Sofia, ao ver a prima lendo os jornais.",
@@ -1220,7 +1220,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO LXXVIII",
+    "chapterName": "CAPÍTULO LXXVIII",
     "chapterDescription": null,
     "text": [
       "Rubião é que não perdeu a suspeita assim tão facilmente. Pensou em falar  Carlos Maria, interrogá-lo, e chegou a ir à Rua dos Inválidos, no dia seguinte, trê vezes; não o encontrando, mudou de parecer. Encerrou-se por alguns dias;  Major Siqueira arrancou-o à solidão. Ia participar-lhe que se mudara para a Ru Dois de Dezembro. Gostou muito da casa do nosso amigo, das alfaias, do luxo, d todas as minúcias, ouros e bambinelas. Sobre este assunto discorreu longamente relembrando alguns móveis antigos. Parou de repente, para dizer que o achav aborrecido; era natural, faltava-lhe ali um complemento.",
@@ -1231,7 +1231,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO LXXIX",
+    "chapterName": "CAPÍTULO LXXIX",
     "chapterDescription": null,
     "text": [
       "— E por que não? perguntou uma voz, depois que o major saiu.",
@@ -1240,7 +1240,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO LXXX",
+    "chapterName": "CAPÍTULO LXXX",
     "chapterDescription": null,
     "text": [
       "Mas a voz repetiu: — E por que não? — Sim, por que não havia de casar, continuou ele raciocinando. Mataria a paixão que o ia comendo aos poucos, se esperança nem consolação. Demais, era a porta de um mistério. Casar, sim; casa logo e bem.",
@@ -1252,7 +1252,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO LXXXI",
+    "chapterName": "CAPÍTULO LXXXI",
     "chapterDescription": null,
     "text": [
       "Antes de cuidar da noiva, cuidou do casamento. Naquele dia e nos outros, compô de cabeça as pompas matrimoniais, os coches, — se ainda os houvesse antigos  ricos, quais ele via gravados nos livros de usos passados. Oh! grandes e soberbo coches! Como ele gostava de ir esperar o imperador, nos dias de grande gala,  porta do paço da cidade, para ver chegar o préstito imperial, especialmente  coche de Sua Majestade, vastas proporções, fortes molas, finas e velhas pinturas quatro ou cinco parelhas guiadas por um cocheiro grave e digno! Outros vinham menores em grandeza, mas ainda assim tão grandes que enchiam os olhos.",
@@ -1261,7 +1261,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO LXXXII",
+    "chapterName": "CAPÍTULO LXXXII",
     "chapterDescription": null,
     "text": [
       "Esses sonhos iam e vinham. Que misterioso Próspero transformava assim uma ilh banal em mascarada sublime? \"Vai, Ariel, traze aqui os teus companheiros, par que eu mostre a este jovem casal alguns feitiços da minha feitiçaria.” As palavra seriam as mesmas da comédia; a ilha é que era outra, a ilha e a mascarada Aquela era a própria cabeça do nosso amigo; esta não se compunha de deusa nem de versos, mas de gente humana e prosa de sala. Mais rica era. Nã esqueçamos que o Próspero de Shakespeare era um duque de Milão; e eis aí talvez, por que se meteu na ilha do nosso amigo.",
@@ -1279,7 +1279,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO LXXXIII",
+    "chapterName": "CAPÍTULO LXXXIII",
     "chapterDescription": null,
     "text": [
       "Um dia, como houvesse saído mais cedo de casa, e não soubesse onde passar  primeira hora, caminhou para o armazém. Desde uma semana que não ia à Prai do Flamengo, por haver Sofia entrado em um dos seus períodos de sequidão Achou o Palha de luto; morrera a tia da mulher, D. Maria Augusta, na fazenda;  notícia chegara na antevéspera, à tarde.",
@@ -1305,14 +1305,14 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO LXXXIV",
+    "chapterName": "CAPÍTULO LXXXIV",
     "chapterDescription": null,
     "text": [
       "Com que então, Sofia queria casá-lo? saiu pensando o Rubião; era naturalmente  processo mais expedito para descartar-se dele. Casá-lo, fazê-lo seu primo. Rubiã palmilhou muita rua, antes que chegasse a esta outra hipótese: — talvez Sofia nã se houvesse esquecido, mas mentisse de propósito ao marido para não da andamento ao projeto. Neste caso o sentimento era outro. Esta explicação pareceu-lhe lógica: a alma voltou à serenidade anterior."
     ]
   },
   {
-    "chapter": "CAPÍTULO LXXXV",
+    "chapterName": "CAPÍTULO LXXXV",
     "chapterDescription": null,
     "text": [
       "Mas não há serenidade moral que corte uma polegada sequer às abas do tempo quando a pessoa não tem maneira de o fazer mais curto. Ao contrário, a ânsia d ir ao Flamengo, à noite, vinha tornar as horas mais arrastadas. Era cedo, ced para tudo, para ir à Rua do Ouvidor, para voltar a Botafogo. O Dr. Camach estava em Vassouras defendendo um réu no júri. Não havia divertimento algu público, festa nem sermão. Nada. Rubião, profundamente aborrecido, trocava a pernas, à toa, lendo as tabuletas, ou detendo-se ao simples incidente de u atropelo de carros. Em Minas, não se aborrecia tanto, por quê? Não achou soluçã ao enigma, uma vez que o Rio de Janeiro tinha mais em que se distrair, e que  distraía deveras; mas havia aqui horas de um tédio mortal.",
@@ -1322,7 +1322,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO LXXXVI",
+    "chapterName": "CAPÍTULO LXXXVI",
     "chapterDescription": null,
     "text": [
       "Tudo aquilo saiu tão espontaneamente ao Rubião, que ele só teve tempo d refletir, depois que o tílburi começou a andar. Parece que chegou a levantar  cortina do postigo; a velha ia entrando; viu-lhe ainda o resto do braço. Rubiã sentiu toda a vantagem de não estar inválido. Reclinou-se, desabafou o peito co um grande suspiro e olhou para a praia; logo depois inclinou-se. Na vinda, ma pudera vê-la.",
@@ -1338,7 +1338,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO LXXXVII",
+    "chapterName": "CAPÍTULO LXXXVII",
     "chapterDescription": null,
     "text": [
       "Rubião chegou ao fim da Rua da Saúde. Ia à toa com os olhos espraiados  desatentos. Rente com ele, passou uma mulher, não bonita, nem singela se elegância, antes pobre que remediada, mas fresca de feições; contaria vinte  cinco anos, e levava pela mão um menino. Este atrapalhou-se nas pernas d Rubião.",
@@ -1349,7 +1349,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO LXXXVIII ",
+    "chapterName": "CAPÍTULO LXXXVIII ",
     "chapterDescription": null,
     "text": [
       "A vista do tílburi fez-lhe lembrar o doente da Praia Formosa.",
@@ -1359,7 +1359,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO LXXXIX",
+    "chapterName": "CAPÍTULO LXXXIX",
     "chapterDescription": null,
     "text": [
       "Como a idéia tornasse ainda, Rubião atirou-se depressa ao tílburi; entrou  sentou-se, falando ao cocheiro, para fugir a si mesmo.",
@@ -1390,7 +1390,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XC",
+    "chapterName": "CAPÍTULO XC",
     "chapterDescription": null,
     "text": [
       "— Não, não podia ser ela, refletiu Rubião, em casa, vestindo-se de preto. ",
@@ -1402,14 +1402,14 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XCI",
+    "chapterName": "CAPÍTULO XCI",
     "chapterDescription": null,
     "text": [
       "Soou a campainha de jantar; Rubião compôs o rosto, para que os seus habituado (tinha sempre quatro ou cinco) não percebessem nada. Achou-os na sala d visitas, conversando, à espera; ergueram-se todos, foram apertar-lhe a mão alvoroçadamente. Rubião teve aqui um impulso inexplicável, — dar-lhes a mão  beijar. Reteve-se a tempo, espantado de si próprio."
     ]
   },
   {
-    "chapter": "CAPÍTULO XCII",
+    "chapterName": "CAPÍTULO XCII",
     "chapterDescription": null,
     "text": [
       "De noite, correu à Praia do Flamengo. Não pôde falar a Maria Benedita, que estav em cima, no quarto, com duas moças da vizinhança, amigas dela. Sofia vei recebê-lo à porta, e levou-o para o gabinete, onde duas costureiras faziam o vestidos de luto. O marido acabava de chegar; ainda não descera.",
@@ -1426,7 +1426,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XCIII",
+    "chapterName": "CAPÍTULO XCIII",
     "chapterDescription": null,
     "text": [
       "Rubião, ficando só com as duas mulheres, entrou a andar de um lado para outro abafando os passos, para não incomodar ninguém. Da sala vinha uma ou outr palavra do Palha: \"Em todo o caso, pode crer...\" — \"Nem a administração de u banco é coisa de brincadeira...\" — \"Positivamente...\" O diretor falava pouco, sec e baixo.",
@@ -1440,7 +1440,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XCIV",
+    "chapterName": "CAPÍTULO XCIV",
     "chapterDescription": null,
     "text": [
       "Sofia desceu logo, achou Rubião transtornado, fugindo com os olhos. Perguntou-lh o que era; ele respondeu que nada, dor de cabeça. Dondon saiu, o diretor d banco despedia-se; Palha agradecia-lhe a fineza, estimava-lhe a saúde. Ond estava o chapéu? Achou-o; deu-lhe também o sobretudo; e, parecendo que el procurava outra coisa, perguntou se era a bengala.",
@@ -1452,7 +1452,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XCV",
+    "chapterName": "CAPÍTULO XCV",
     "chapterDescription": null,
     "text": [
       "— Vou agarrá-la antes de chegar ao Catete, disse Rubião subindo pela Rua d Príncipe.",
@@ -1460,7 +1460,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XCVI",
+    "chapterName": "CAPÍTULO XCVI",
     "chapterDescription": null,
     "text": [
       "E o homem empurrado, apenas sentiu o empurrão. Caminhava absorto, mas contente, espraiando a alma, desabafado de cuidados e fastios. Era o diretor d banco, o que acabava de fazer a visita de pêsames ao Palha. Sentiu o empurrão,  não se zangou; concertou o sobretudo e a alma, e lá foi andando tranqüilamente.",
@@ -1470,7 +1470,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XCVII",
+    "chapterName": "CAPÍTULO XCVII",
     "chapterDescription": null,
     "text": [
       "Quando Rubião chegou à esquina do Catete, a costureira conversava com u homem, que a esperara, e que lhe deu logo depois o braço; viu-os ir ambos conjugalmente, para o lado da Glória. Casados? amigos? Perderam-se na primeir dobra da rua, enquanto Rubião ficou parado, recordando as palavras do cocheiro a rótula, o moço de bigodes, a senhora de bonito corpo, a Rua da Harmonia... Ru da Harmonia; ela dissera Rua da Harmonia.",
@@ -1482,7 +1482,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XCVIII",
+    "chapterName": "CAPÍTULO XCVIII",
     "chapterDescription": null,
     "text": [
       "Rubião sentou-se na cama estremunhado, não reparou na letra do sobrescrito abriu o bilhete, e leu:",
@@ -1502,7 +1502,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XCIX",
+    "chapterName": "CAPÍTULO XCIX",
     "chapterDescription": null,
     "text": [
       "Saiu o moleque; Rubião ficou passeando no jardim, com as mãos nos bolsos d chambre, e os olhos nas flores. Que tinha que mandasse algumas? Era u presente natural, e até de obrigação para pagar uma cortesia com outra. Fez mal correu ao portão, mas já o moleque ia longe; Rubião advertiu que o luto excluía a lembranças alegres, e ficou tranqüilo.",
@@ -1516,7 +1516,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO C",
+    "chapterName": "CAPÍTULO C",
     "chapterDescription": null,
     "text": [
       "Nenhum dos habituados da casa compareceu ao almoço. Rubião esperou aind uns dez minutos, chegou a mandar um criado ao portão, a ver se vinha alguém Ninguém; teve de almoçar sozinho.",
@@ -1543,7 +1543,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CI",
+    "chapterName": "CAPÍTULO CI",
     "chapterDescription": null,
     "text": [
       "Foi nesse estado que o veio achar a notícia da morte do Freitas. Chorou um lágrima às escondidas; tomou a si custear as despesas do enterro, e acompanho o defunto, na tarde seguinte, ao cemitério. A velha mãe do finado, quando o vi entrar na sala, quis ajoelhar-se aos pés dele; Rubião abraçou-a a tempo d impedir-lhe o gesto. Esse ato do nosso amigo fez grande impressão no convidados. Um deles veio apertar-lhe a mão; depois a um canto, baixinho contou-lhe a injustiça da demissão que recebera, dias antes; demissão acintosa por causa de intrigas...",
@@ -1557,14 +1557,14 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CII",
+    "chapterName": "CAPÍTULO CII",
     "chapterDescription": null,
     "text": [
       "Era noite entrada. Rubião vinha por ali abaixo, recordando o pobre diabo qu enterrara, quando, na Rua de São Cristóvão, cruzou com outro coupé, que levav duas ordenanças atrás. Era um ministro que ia para o despacho imperial. Rubiã pôs a cabeça de fora, recolheu-a e ficou a ouvir os cavalos das ordenanças, tã iguaizinhos, tão distintos, apesar do estrépito dos outros animais. Era tal a tensã do espírito do nosso amigo, que ainda os ouvia, quando já a distância não permiti audiência. Catrapus... catrapus... catrapus..."
     ]
   },
   {
-    "chapter": "CAPÍTULO CIII",
+    "chapterName": "CAPÍTULO CIII",
     "chapterDescription": null,
     "text": [
       "Ao sétimo dia da morte de D. Maria Augusta, rezou-se a missa de uso, em Sã Francisco de Paula; Rubião lá foi, lá viu Carlos Maria. Tanto bastou para precipita a devolução da carta; três dias depois, meteu-a no bolso e correu ao Flamengo Eram duas horas da tarde. Maria Benedita fora visitar as amigas da vizinhança que a tinham acompanhado nos primeiros dias de aflição; Sofia estava só, vestid para sair.",
@@ -1588,7 +1588,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CIV",
+    "chapterName": "CAPÍTULO CIV",
     "chapterDescription": null,
     "text": [
       "Sofia, depois de estar alguns segundos à escuta, tornou à sala, e foi sentar-s com grande rumor de saias, na otomana de cetim azul, compra de poucos dias Rubião voltou-se, e deu com ela, abanando repreensivamente a cabeça. Antes qu ele falasse, Sofia pôs o dedo na boca, pedindo-lhe silêncio; depois chamou-o co a mão; Rubião e obedeceu.",
@@ -1608,7 +1608,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CV",
+    "chapterName": "CAPÍTULO CV",
     "chapterDescription": null,
     "text": [
       "Tão nervosa esteve durante os primeiros instantes, que não cuidou da carta Afinal, virou-a de um lado para outro, sem adivinhar o conteúdo; mas, pouco  pouco, já senhora de si, lembrou-se que devia ser a circular da comissão da Alagoas. Rasgou a sobrecarta: era a circular. Como é que semelhante papel for ter às mãos dele? E donde lhe vinha a suspeita? De si mesmo ou de fora? Correri algum boato? Foi ter com o criado que levara a circular a Carlos Maria  perguntou-lhe se a entregara. Soube que não. Quando o criado chegou à Rua do Inválidos, não achou o papel no bolso e, com medo, não dissera nada à ama.",
@@ -1627,7 +1627,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CVI",
+    "chapterName": "CAPÍTULO CVI",
     "chapterDescription": null,
     "text": [
       "... ou, mais propriamente, capítulo em que o leitor, desorientado, não pod combinar as tristezas de Sofia com a anedota do cocheiro. E pergunta confuso:  Então a entrevista da Rua da Harmonia, Sofia, Carlos Maria, esse chocalho d rimas sonoras e delinqüentes é tudo calúnia? Calúnia do leitor e do Rubião, não d pobre cocheiro, que não proferiu nomes, não chegou sequer a contar uma anedot verdadeira. É o que terias visto, se lesses com pausa. Sim, desgraçado, advert bem que era inverossímil que um homem, indo a uma aventura daquelas, fizess parar o tílburi diante da casa pactuada. Seria pôr uma testemunha ao crime. H entre o céu e a terra muitas mais ruas do que sonha a tua filosofia, — rua transversais, onde o tílburi podia ficar esperando. ",
@@ -1637,14 +1637,14 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CVII",
+    "chapterName": "CAPÍTULO CVII",
     "chapterDescription": null,
     "text": [
       "Das reflexões de Sofia é que não há que explicar. Todas tinham o pé na verdade Era certo e certíssimo que Carlos Maria não correspondera às primeira esperanças, — nem às segundas e terceiras, — porque as houve em quadra diversas, ainda que menos verdes e bastas. Quanto à causa disso, vimos qu Sofia, à míngua de uma, atribuiu-lhe sucessivamente três. Não chegou a pensa em alguns amores que ele porventura trouxesse e lhe tornassem insípido quaisquer outros. Seria uma quarta causa, e talvez a verdadeira."
     ]
   },
   {
-    "chapter": "CAPÍTULO CVIII",
+    "chapterName": "CAPÍTULO CVIII",
     "chapterDescription": null,
     "text": [
       "Durante alguns meses, Rubião deixou de ir ao Flamengo. Não foi resolução fácil d cumprir. Custou-lhe muita hesitação, muito arrependimento; mais de uma ve chegou a sair com o propósito de visitar Sofia e pedir-lhe perdão. De quê? Nã sabia; mas queria ser perdoado. Em todas as tentativas desse gênero,  lembrança de Carlos Maria fazia-o recuar. De certo ponto em diante, foi o própri lapso de tempo que o tolheu; era esquisito aparecer lá um dia, como um trist filho pródigo, unicamente para suplicar o calor dos belos olhos da dona da casa. I ao armazém, visitar o Palha; este, ao fim de cinco semanas, reprochou-lhe  ausência; e, passados dois meses, perguntou-lhe se era formal propósito.",
@@ -1679,7 +1679,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CIX",
+    "chapterName": "CAPÍTULO CIX",
     "chapterDescription": null,
     "text": [
       "Nessa noite, Rubião sonhou com Sofia e Maria Benedita. Viu-as num grand terreiro, apenas vestidas de saia, costas inteiramente despidas; o marido de Sofia armado de um azorrague de cinco pontas de couro, rematando em bicos de ferro castigava-as despiedadamente. Elas gritavam, pediam misericórdia, torciam-se alagadas em sangue, as carnes caíam-lhes aos bocados. Agora, por que razã Sofia era a imperatriz Eugênia, e Maria Benedita uma aia sua, é o que não se dizer com exatidão. \"São sonhos, sonhos, Penseroso!\" exclamava um personage do nosso Álvares de Azevedo. Mas eu prefiro a reflexão do velho Polonius acabando de ouvir uma fala tresloucada de Hamlet: \"Desvario embora, lá tem se método\". Também há método aqui, nessa mistura de Sofia e Eugênia; e ainda h método no que se lhe seguiu, e que parece mais extravagante. ",
@@ -1688,7 +1688,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CX",
+    "chapterName": "CAPÍTULO CX",
     "chapterDescription": null,
     "text": [
       "Rubião fez os dois empréstimos e o negócio. O negócio era uma Empres Melhoradora dos Embarques e Desembarques no Porto do Rio de Janeiro. Um do empréstimos tinha por fim pagar certa conta atrasada de papel da Atalaia, dívid urgente. A folha estava ameaçada de parar.",
@@ -1710,7 +1710,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CXI",
+    "chapterName": "CAPÍTULO CXI",
     "chapterDescription": null,
     "text": [
       "Rubião aplaudiu o artigo; achava-o excelente. Talvez pouco enérgico. Vendilhões por exemplo, era bem dito; mas ficava melhor vis vendilhões.",
@@ -1726,14 +1726,14 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CXII",
+    "chapterName": "CAPÍTULO CXII",
     "chapterDescription": null,
     "text": [
       "Aqui é que eu quisera ter dado a este livro o método de tantos outros, — velho todos, — em que a matéria do capítulo era posta no sumário: \"De como acontece isto assim, e mais assim.” Aí está Bernardim Ribeiro; aí estão outros livro gloriosos. Das línguas estranhas, sem querer subir a Cervantes nem a Rabelais bastavam-me Fielding e Smollet, muitos capítulos dos quais só pelo sumário estã lidos. Pegai em Tom Jones, livro IV, cap. I, lede este título: Contendo cinco folha de papel. É claro, é simples, não engana a ninguém; são cinco folhas, mais nada quem não quer não lê, e quem quer lê, para os últimos é que o autor conclu obsequiosamente: \"E agora, sem mais prefácio, vamos ao seguinte capítulo\"."
     ]
   },
   {
-    "chapter": "CAPÍTULO CXIII",
+    "chapterName": "CAPÍTULO CXIII",
     "chapterDescription": null,
     "text": [
       "Se tal fosse o método deste livro, eis aqui um título que explicaria tudo: \"De com Rubião, satisfeito da emenda feita no artigo, tantas frases compôs e ruminou, qu acabou por escrever todos os livros que lera\".",
@@ -1741,14 +1741,14 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CXIV",
+    "chapterName": "CAPÍTULO CXIV",
     "chapterDescription": null,
     "text": [
       "Ao contrário, não sei se o capítulo que se segue poderia estar todo no título."
     ]
   },
   {
-    "chapter": "CAPÍTULO CXV",
+    "chapterName": "CAPÍTULO CXV",
     "chapterDescription": null,
     "text": [
       "Rubião foi mantendo o propósito de não tornar a ver Sofia; pelo menos, não ia a Flamengo. Viu-a um dia passar de carro, com uma das damas da comissão da Alagoas; ela inclinou-se risonha, dizendo-lhe adeus com a mão. Ele retribuiu  cumprimento, tirando o chapéu, com tal ou qual alvoroço, mas não ficou parad como lhe aconteceria dantes; apenas lançou um olhar ao carro que ia andando Também ele foi andando, — e pensando no lance da carta, não compreendend aquele gesto de mão, sem ódio nem vexame, — como se nada houvesse entr eles. Podia ser que o serviço da comissão e a companheira que levava explicasse a benevolência graciosa de Sofia; mas Rubião não cogitou desta hipótese.",
@@ -1793,7 +1793,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CXVI",
+    "chapterName": "CAPÍTULO CXVI",
     "chapterDescription": null,
     "text": [
       "Iam casar? Mas como é então quê?... Maria Benedita, — era Maria Benedita qu casava com Carlos Maria; mas então Carlos Maria... Compreendia agora; era tud engano, confusão; o que parecia ser com uma pessoa era com outra, e aí est como a gente pode chegar à calúnia e ao crime.",
@@ -1811,7 +1811,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CXVII",
+    "chapterName": "CAPÍTULO CXVII",
     "chapterDescription": null,
     "text": [
       "A história do casamento de Maria Benedita é curta; e, posto Sofia a ache vulgar vale a pena dizê-la. Fique desde já admitido que, se não fosse a epidemia da Alagoas, talvez não chegasse a haver casamento; donde se conclui que a catástrofes são úteis, e até necessárias. Sobejam exemplos; mas basta u contozinho que ouvi em criança, e que aqui lhes dou em duas linhas. Era uma ve uma choupana que ardia na estrada; a dona, — um triste molambo de mulher,  chorava o seu desastre, a poucos passos, sentada no chão. Senão quando, indo  passar um homem ébrio, viu o incêndio, viu a mulher, perguntou-lhe se a casa er dela.",
@@ -1821,7 +1821,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CXVIII",
+    "chapterName": "CAPÍTULO CXVIII",
     "chapterDescription": null,
     "text": [
       "Adeus, Padre Chagas! Vou à história do casamento. Que Maria Benedita gostav de Carlos Maria, é coisa vista ou pressentida desde aquele baile da Rua dos Arcos em que ele e Sofia valsaram tanto. Vimo-la na manhã seguinte, pronta a ir para  roça; a prima apaziguou-a com a promessa de que lhe estava arranjando u noivo. Maria Benedita cuidou que era o valsista da véspera, e ficou esperando Não lhe confessou nada, — por vergonha, a princípio, — e depois, por lhe nã fazer perder o efeito da novidade, quando Sofia houvesse de descobrir o nome d pessoa. Se confessasse desde logo, podia acontecer também que a outr afrouxasse na tarefa, e lá se perdia a causa. Não façamos caso disto; sã pequenos cálculos de moça.",
@@ -1872,7 +1872,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CXIX",
+    "chapterName": "CAPÍTULO CXIX",
     "chapterDescription": null,
     "text": [
       "\"Um marido, ainda mau, é sempre melhor que o melhor dos sonhos.”",
@@ -1890,7 +1890,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CXX",
+    "chapterName": "CAPÍTULO CXX",
     "chapterDescription": null,
     "text": [
       "No domingo seguinte, D. Fernanda foi à igreja de Santo Antônio dos Pobres Acabada a missa, viu surgir do movimento dos fiéis que se cumprimentavam entr si, ou saudavam o altar, nada menos que o primo, ereto, risonho, gravement trajado, estendendo-lhe a mão.",
@@ -1932,7 +1932,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CXXI",
+    "chapterName": "CAPÍTULO CXXI",
     "chapterDescription": null,
     "text": [
       "— Bem, vai casar, tanto melhor! pensou Rubião.",
@@ -1941,7 +1941,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CXXII",
+    "chapterName": "CAPÍTULO CXXII",
     "chapterDescription": null,
     "text": [
       "— Ainda bem que se casa! repetiu o Rubião.",
@@ -1954,14 +1954,14 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CXXIII",
+    "chapterName": "CAPÍTULO CXXIII",
     "chapterDescription": null,
     "text": [
       "Ora bem, aquele quadro, na mesma hora em que aparecia aos olhos d imaginação do noivo, reproduzia-se no espírito da noiva, tal qual. Maria Benedita posta à janela, fitando as ondas que se quebravam ao longe e na praia, via-se a s mesma, ajoelhada aos pés do marido, quieta, contrita, como à mesa da comunhã para receber a hóstia da felicidade. E dizia consigo: \"Oh! como ele me fará feliz! Frase e pensamento eram outros, mas a atitude e a hora eram as mesmas."
     ]
   },
   {
-    "chapter": "CAPÍTULO CXXIV",
+    "chapterName": "CAPÍTULO CXXIV",
     "chapterDescription": null,
     "text": [
       "Casaram-se; três meses depois foram para a Europa. Ao despedir-se deles, D Fernanda estava tão alegre como se viesse recebê-los de volta; não chorava.  prazer de os ver felizes era maior que o desgosto da separação.",
@@ -1972,7 +1972,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CXXV",
+    "chapterName": "CAPÍTULO CXXV",
     "chapterDescription": null,
     "text": [
       "Sofia não foi a bordo, adoeceu e mandou o marido. Não vão crer que era pesa nem dor; por ocasião do casamento, houve-se com grande discrição, cuidou d enxoval da noiva e despediu-se dela com muitos beijos chorados. Mas ir a bord pareceu-lhe vergonha. Adoeceu; e, para não desmentir do pretexto, deixou-s estar no quarto. Pegou de um romance recente; fora-lhe dado pelo Rubião. Outra coisas ali lhe lembravam o mesmo homem, tetéias de toda a sorte, sem conta jóias guardadas. Finalmente, uma singular palavra que lhe ouvira, na noite d casamento da prima, até essa veio ali para o inventário das recordações do noss amigo.",
@@ -1982,7 +1982,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CXXVI",
+    "chapterName": "CAPÍTULO CXXVI",
     "chapterDescription": null,
     "text": [
       "Entretanto, Rubião e Palha desciam do paquete para a lancha e tornavam ao Cai Pharoux. Vinham cuidosos e calados. Palha foi o primeiro que abriu a boca:",
@@ -1990,14 +1990,14 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CXXVII",
+    "chapterName": "CAPÍTULO CXXVII",
     "chapterDescription": null,
     "text": [
       "Rubião acordou. Era a primeira vez que ia a um paquete. Voltava com a alm cheia dos rumores de bordo, a lufa-lufa das gentes que entravam e saíam nacionais, estrangeiros, estes de vária casta, franceses, ingleses, alemães argentinos, italianos, uma confusão de línguas, um cafarnaum de chapéus, d malas, cordoalha, sofás, binóculos a tiracolo, homens que desciam ou subiam po escadas para dentro do navio, mulheres chorosas, outras curiosas, outras cheia de riso, e muitas que traziam de terra flores ou frutas, — tudo aspectos novos. A longe, a barra por onde tinha de ir o paquete. Para lá da barra, o mar imenso,  céu fechado e a solidão. Rubião renovou os sonhos do mundo antigo, criou um Atlântida, sem nada saber da tradição. Não tendo noções de geografia, formav uma idéia confusa dos outros países, e a imaginação rodeava-os de um nimb misterioso. Como não lhe custava viajar assim, navegou de cor algum tempo naquele vapor alto e comprido, sem enjôo, sem vagas, sem ventos, sem nuvens."
     ]
   },
   {
-    "chapter": "CAPÍTULO CXXVIII",
+    "chapterName": "CAPÍTULO CXXVIII",
     "chapterDescription": null,
     "text": [
       "— A mim? perguntou Rubião depois de alguns segundos.",
@@ -2026,7 +2026,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CXXIX",
+    "chapterName": "CAPÍTULO CXXIX",
     "chapterDescription": null,
     "text": [
       "Não havia banco, nem lugar de diretor, nem liquidação; mas como justificaria  Palha a proposta de separação, dizendo a pura verdade? Daí a invenção, tant mais pronta, quanto o Palha tinha amor aos bancos, e morria por um. A carreir daquele homem era cada vez mais próspera e vistosa. O negócio corria-lhe largo um dos motivos da separação era justamente não ter que dividir com outro o lucros futuros. Palha, além do mais, possuía ações de toda a parte, apólices d ouro do empréstimo Itaboraí, e fizera uns dois fornecimentos para a guerra, d sociedade com um poderoso, nos quais ganhou muito. Já trazia apalavrado u arquiteto para lhe construir um palacete. Vagamente pensava em baronia.",
@@ -2049,7 +2049,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CXXXI",
+    "chapterName": "CAPÍTULO CXXXI",
     "chapterDescription": null,
     "text": [
       "Rubião tratou-os com simpatia. Não continuou a defender a gente Palha, para nã desesperar o major. Pouco depois, despediu-se, prometendo, sem convite, que l iria jantar \"um dia destes\".",
@@ -2059,7 +2059,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CXXXII",
+    "chapterName": "CAPÍTULO CXXXII",
     "chapterDescription": null,
     "text": [
       "Logo que Rubião dobrou a esquina da Rua das Mangueiras, D. Tonica entrou e fo ao pai, que se estendera no canapé, para reler o velho Saint-Clair das ilhas ou o desterrados da ilha da Barra. Foi o primeiro romance que conheceu; o exempla tinha mais de vinte anos; era toda a biblioteca do pai e da filha. Siqueira abriu  primeiro volume, e deitou os olhos ao começo do cap. II, que já trazia de cor Achava-lhe agora um sabor particular, por motivo dos seus recentes desgostos:",
@@ -2074,7 +2074,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CXXXIII",
+    "chapterName": "CAPÍTULO CXXXIII",
     "chapterDescription": null,
     "text": [
       "Ainda não disse, — porque os capítulos atropelam-se debaixo da pena, — ma aqui está um para dizer que, por aquele tempo, as relações de Rubião tinha crescido em número. Camacho pusera-o em contato com muitos homens políticos a comissão das Alagoas com várias senhoras, os bancos e companhias co pessoas do comércio e da praça, os teatros com alguns freqüentadores e a Rua d Ouvidor com toda a gente. Já então era um nome repetido. Conhecia-se o homem Quando apareciam as barbas e o par de bigodes longos, uma sobrecasaca be justa, um peito largo, bengala de unicórnio, e um andar firme e senhor, dizia-s logo que era o Rubião, — um ricaço de Minas.",
@@ -2096,7 +2096,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CXXXIV",
+    "chapterName": "CAPÍTULO CXXXIV",
     "chapterDescription": null,
     "text": [
       "Fazer um capítulo só para dizer que, a princípio, os convivas, ausente o Rubião fumavam os próprios charutos, depois do jantar, — parecerá frívolo aos frívolos mas os considerados dirão que algum interesse haverá nesta circunstância e aparência mínima.",
@@ -2107,14 +2107,14 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CXXXV",
+    "chapterName": "CAPÍTULO CXXXV",
     "chapterDescription": null,
     "text": [
       "Rubião protegia largamente as letras. Livros que lhe eram dedicados, entrava para o prelo com a garantia de duzentos e trezentos exemplares. Tinha diplomas  diplomas de sociedades literárias, coreográficas, pias, e era juntamente sócio de uma Congregação Católica e de um Grêmio Protestante, não se tendo lembrado d um quando lhe falaram do outro; o que fazia era pagar regularmente a mensalidades de ambos. Assinava jornais sem os ler. Um dia, ao pagar o semestr de um, que lhe haviam mandado, é que soube, pelo cobrador, que era do partid do governo; mandou o cobrador ao diabo."
     ]
   },
   {
-    "chapter": "CAPÍTULO CXXXVI",
+    "chapterName": "CAPÍTULO CXXXVI",
     "chapterDescription": null,
     "text": [
       "O cobrador não foi ao diabo; recebeu o preço do semestre e, como possuía  observação natural dos cobradores, resmungou na rua:",
@@ -2122,14 +2122,14 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CXXXVII",
+    "chapterName": "CAPÍTULO CXXXVII",
     "chapterDescription": null,
     "text": [
       "Mas — oh lance da fortuna! oh eqüidade da natureza! — os desperdícios do noss amigo, se não tinham remédio, tinham compensação. Já o tempo não passava po ele como por um vadio sem idéias. Rubião, à falta delas, tinha agora imaginação Outrora vivia antes dos outros que de si, não achava equilíbrio interior, e o óci esticava as horas, que não acabavam mais. Tudo ia mudando; agora a imaginaçã tendia a pousar um pouco. Sentado na loja do Bernardo, gastava toda um manhã, sem que o tempo lhe trouxesse fadiga, nem a estreiteza da Rua d Ouvidor lhe tapasse o espaço. Repetiam-se as visões deliciosas, como a das boda (Cap. LXXXI) em termos a que a grandeza não tirava a graça. Houve quem  visse, mais de uma vez, saltar da cadeira e ir até à porta ver bem pelas costa alguma pessoa que passava. Conhecê-la-ia? Ou seria alguém que, casualmente tinha as feições da criatura imaginária que ele estivera mirando? São pergunta demais para um só capítulo; basta dizer que uma dessas vezes nem passo ninguém, ele próprio reconheceu a ilusão, voltou para dentro, comprou uma tetéi de bronze para dar à filha do Camacho, que fazia anos, e ia casar em breve,  saiu."
     ]
   },
   {
-    "chapter": "CAPÍTULO CXXXVIII",
+    "chapterName": "CAPÍTULO CXXXVIII",
     "chapterDescription": null,
     "text": [
       "E Sofia? interroga impaciente a leitora, tal qual Orgon: Et Tartufe? Aí, amig minha, a resposta é naturalmente a mesma, — também ela comia bem, dormi largo e fofo, — coisas que, aliás, não impedem que uma pessoa ame, quando que amar. Se esta última reflexão é o motivo secreto da vossa pergunta, deixai qu vos diga que sois muito indiscreta, e que eu não me quero senão co dissimulados.",
@@ -2144,7 +2144,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CXXXIX",
+    "chapterName": "CAPÍTULO CXXXIX",
     "chapterDescription": null,
     "text": [
       "Rubião ainda quis valer ao major, mas o ar de fastio com que Sofia o interrompe foi tal, que o nosso amigo preferiu perguntar-lhe se, não chovendo na seguint manhã, iriam sempre passear à Tijuca.",
@@ -2159,14 +2159,14 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CXL",
+    "chapterName": "CAPÍTULO CXL",
     "chapterDescription": null,
     "text": [
       "Pois que se trata de cavalos, não fica mal dizer que a imaginação de Sofia er agora um corcel brioso e petulante, capaz de galgar morros e desbaratar matos Outra seria a comparação, se a ocasião fosse diferente; mas corcel é o que va melhor. Traz a idéia do ímpeto, do sangue, da disparada, ao mesmo tempo que  da serenidade com que torna ao caminho reto, e por fim à cavalariça."
     ]
   },
   {
-    "chapter": "CAPÍTULO CXLI",
+    "chapterName": "CAPÍTULO CXLI",
     "chapterDescription": null,
     "text": [
       "— Está dito, vamos amanhã, repetiu Rubião, que espreitava o rosto aceso d Sofia.",
@@ -2185,21 +2185,21 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CXLII",
+    "chapterName": "CAPÍTULO CXLII",
     "chapterDescription": null,
     "text": [
       "Sofia deixou-se estar ouvindo, ouvindo... Interrogou outras plantas, e não lh disseram coisa diferente. Há desses acertos maravilhosos. Quem conhece o solo  o subsolo da vida, sabe muito bem que um trecho de muro, um banco, um tapete um guarda-chuva, são ricos de idéias ou de sentimentos, quando nós também  somos, e que as reflexões de parceria entre os homens e as coisas compõem u dos mais interessantes fenômenos da terra. A expressão: \"Conversar com os seu botões\", parecendo simples metáfora, é frase de sentido real e direto. Os botõe operam sincronicamente conosco; formam uma espécie de senado, cômodo  barato, que vota sempre as nossas moções. "
     ]
   },
   {
-    "chapter": "CAPÍTULO CXLIII",
+    "chapterName": "CAPÍTULO CXLIII",
     "chapterDescription": null,
     "text": [
       "Fez –se o passeio à Tijuca, sem outro incidente mais que uma queda do cavalo, a descerem. Não foi Rubião que caiu, nem o Palha, mas a senhora deste, que vinh pensando em não sei que, e chicoteou o animal com raiva; ele espantou-se  deitou-a em terra. Sofia caiu com graça. Estava singularmente esbelta, vestida d amazona, corpinho tentador de justeza. Otelo exclamaria, se a visse: \"Oh! minh bela guerreira!\" Rubião limitara-se a isto, ao começar o passeio: \"A senhora é u anjo!\""
     ]
   },
   {
-    "chapter": "CAPÍTULO CXLIV",
+    "chapterName": "CAPÍTULO CXLIV",
     "chapterDescription": null,
     "text": [
       "— Fiquei com o joelho dorido, disse ela entrando em casa e coxeando.",
@@ -2221,7 +2221,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CXLV",
+    "chapterName": "CAPÍTULO CXLV",
     "chapterDescription": null,
     "text": [
       "Foi por esse tempo que Rubião pôs em espanto a todos os seus amigos. Na terça-feir seguinte ao domingo do passeio (era então janeiro de 1870) avisou a u barbeiro e cabeleireiro da Rua do Ouvidor que o mandasse barbear à casa, n outro dia, às nove horas da manhã. Lá foi um oficial francês, chamado Lucien, qu entrou para o gabinete de Rubião, segundo as ordens dadas ao criado.",
@@ -2232,7 +2232,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CXLVI",
+    "chapterName": "CAPÍTULO CXLVI",
     "chapterDescription": null,
     "text": [
       "— Senhor...",
@@ -2264,14 +2264,14 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CXLVII",
+    "chapterName": "CAPÍTULO CXLVII",
     "chapterDescription": null,
     "text": [
       "Ficando só, Rubião atirou-se a uma poltrona, e viu passar muitas coisa suntuosas. Estava em Biarritz ou Compiègne, não se sabe bem; Compiègne parece. Governou um grande Estado, ouviu ministros e embaixadores, dançou jantou, — e assim outras ações narradas em correspondências de jornais, que el lera e lhe ficaram de memória. Nem os ganidos de Quincas Borba lograva espertá-lo. Estava longe e alto. Compiègne era no caminho da lua. Em march para a lua!"
     ]
   },
   {
-    "chapter": "CAPÍTULO CXLVIII",
+    "chapterName": "CAPÍTULO CXLVIII",
     "chapterDescription": null,
     "text": [
       "Quando desceu da lua, ouviu os ganidos do cachorro e sentiu frio nos queixos Correu ao espelho e verificou que a diferença entre a cara barbada e a cara lis era grande, mas que, assim lisa, não lhe ficava mal. Os comensais chegaram  mesma conclusão.",
@@ -2283,7 +2283,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CXLIX",
+    "chapterName": "CAPÍTULO CXLIX",
     "chapterDescription": null,
     "text": [
       "— Que mudança é essa? perguntou Sofia, quando ele lhe apareceu no fim d semana.",
@@ -2304,7 +2304,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CL",
+    "chapterName": "CAPÍTULO CL",
     "chapterDescription": null,
     "text": [
       "Teso, descoberto, o lacaio abriu a portinhola do coupé, quando Sofia assomou  porta. Rubião ofereceu a mão para ajudá-la a entrar, ela aceitou o obséquio e entrou.",
@@ -2313,7 +2313,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CLI",
+    "chapterName": "CAPÍTULO CLI",
     "chapterDescription": null,
     "text": [
       "Tão rápido foi tudo, que Sofia perdeu a voz e o movimento; mas, ao cabo d alguns segundos:",
@@ -2327,7 +2327,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CLII",
+    "chapterName": "CAPÍTULO CLII",
     "chapterDescription": null,
     "text": [
       "Sofia encolhera-se muito ao canto. Podia ser estranheza da situação, podia se medo; mas era principalmente repugnância. Nunca esse homem lhe fez senti tanta aversão, asco, ou outra coisa menos dura, se querem, mas que se reduzia  incompatibilidade, — como direi que não agrave os ouvidos? — à incompatibilidad da epiderme. Onde iam os sonhos de há poucos dias? Ao simples convite de u passeio, a sós, à Tijuca, subiu com ele a montanha, a galope, desmontou, ouvi palavras de adoração, e sentiu um beijo na nuca. Onde iam essas imaginações Onde iam os olhos fixos e grandes, as mãos amigas e longas, os pés inquietos, a palavras meigas e os ouvidos cheios de misericórdia? Tudo esqueceu, tud desapareceu, agora que ambos se achavam deveras sós, insulados pelo carro  pelo escândalo.",
@@ -2356,7 +2356,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CLIII",
+    "chapterName": "CAPÍTULO CLIII",
     "chapterDescription": null,
     "text": [
       "— Sofia... disse de repente Rubião; e continuou com pausa: — Sofia, os dia passam, mas nenhum homem esquece a mulher que verdadeiramente gosto dele, ou então não merece o nome de homem. Os nossos amores não serã esquecidos nunca, — por mim, está claro, e estou certo que nem por ti. Tudo m deste, Sofia; a tua própria vida correu perigo. Verdade é que eu te vingaria, minh bela. Se a vingança pode alegrar os mortos, terias o maior prazer possível Felizmente, o meu destino protegeu-nos, e pudemos amar sem peias ne sangue...",
@@ -2384,7 +2384,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CLIV",
+    "chapterName": "CAPÍTULO CLIV",
     "chapterDescription": null,
     "text": [
       "Apenas separados, deu-se em ambos um contraste.",
@@ -2395,7 +2395,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CLVI",
+    "chapterName": "CAPÍTULO CLVI",
     "chapterDescription": null,
     "text": [
       "Passaram-se alguns meses, veio a guerra franco-prussiana, e as crises de Rubiã tornaram-se mais agudas e menos espaçadas. Quando as malas da Europ chegavam cedo, Rubião saía de Botafogo, antes do almoço, e corria a esperar o jornais; comprava a Correspondência de Portugal, e ia lê-la no Carceler. Quaisque que fossem as notícias, dava-lhes o sentido da vitória. Fazia a conta dos mortos  feridos, e achava sempre um grande saldo a seu favor. A queda de Napoleão II foi para ele a captura do rei Guilherme, a revolução de 4 de Setembro u banquete de bonapartistas.",
@@ -2403,14 +2403,14 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CLVII",
+    "chapterName": "CAPÍTULO CLVII",
     "chapterDescription": null,
     "text": [
       "A compaixão de Sofia, — explicado o mal de Rubião pelo amor que ele lhe tinha — era um sentimento médio, não simpatia pura nem egoísmo ferrenho, ma participando de ambos. Uma vez que evitasse alguma situação idêntica à d coupé, tudo ia bem. Nas horas em que Rubião estava lúcido, escutava-o e falava-lh com interesse, — até porque a doença, dando-lhe audácia nos momentos d crise, dobrava-lhe a timidez nas horas normais. Não sorria, como o Palha, quand Rubião subia ao trono ou comandava um exército. Crendo-se autora do mal perdoava-lho; a idéia de ter sido amada até à loucura, sagrava-lhe o homem."
     ]
   },
   {
-    "chapter": "CAPÍTULO CLVIII",
+    "chapterName": "CAPÍTULO CLVIII",
     "chapterDescription": null,
     "text": [
       "— Por que não o tratam? perguntou uma noite D. Fernanda, que ali o conhecer no ano anterior; pode ser que se cure.",
@@ -2436,7 +2436,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CLX ",
+    "chapterName": "CAPÍTULO CLX ",
     "chapterDescription": null,
     "text": [
       "Nisto, a chuva cessou um pouco, e um raio de sol logrou romper o nevoeiro, — u desses raios úmidos que parecem vir de olhos que choraram. Sofia cuidou qu ainda podia sair; estava inquieta por ver, por andar, por sacudir aquele torpor,  esperou que o sol varresse a chuva e tomasse conta do céu e da terra; mas  grande astro percebeu que a intenção dela era constituí-lo lanterna de Diógenes,  disse ao raio úmido: \"Volta, volta ao meu seio, raio casto e virtuoso; não vás t conduzi-la onde o seu desejo a quer levar. Que ame, se lhe parece; que respond aos bilhetes namorados, — se os recebe e não queima, — não lhe sirvas tu d archote, luz do meu seio, filho das minhas entranhas, raio, irmão dos meu raios...\"",
@@ -2444,7 +2444,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CLXI",
+    "chapterName": "CAPÍTULO CLXI",
     "chapterDescription": null,
     "text": [
       "Sofia resignou-se à reclusão. Já agora tinha a alma tão confusa e difusa como  espetáculo exterior. Todas as imagens e nomes perdiam-se no mesmo desejo d amar. É justo dizer que ela, quando regressava desses estados de consciênci vagos e obscuros, tentava fugir-lhes e guiava o espírito para diverso assunto; ma sucedia-lhe como aos que têm sono e forcejam por velar: os olhos fecham-se d cada vez que espertam e tornam a espertar para se fecharem outra vez. Afinal deixou a vista da chuva e do nevoeiro; estava cansada, e para repousar, foi abri as folhas do último número da Revista dos Dois Mundos. Um dia, no melhor do trabalhos da comissão das Alagoas, perguntara-lhe uma das elegantes do tempo casada com um senador.",
@@ -2459,21 +2459,21 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CLXII",
+    "chapterName": "CAPÍTULO CLXII",
     "chapterDescription": null,
     "text": [
       "No dia seguinte, o sol apareceu claro e quente, o céu límpido, e o ar fresco. Sofi meteu-se no carro e saiu a visitas e a passeio para desforrar-se da reclusão. Já  próprio dia lhe fez bem. Vestiu-se cantarolando. O trato das senhoras que  receberam em suas casas, — e das que achou na Rua do Ouvidor, a agitaçã externa, as notícias da sociedade, a boa feição de tanta gente fina e amiga bastaram a espancar-lhe da alma os cuidados da véspera."
     ]
   },
   {
-    "chapter": "CAPÍTULO CLXIII",
+    "chapterName": "CAPÍTULO CLXIII",
     "chapterDescription": null,
     "text": [
       "Assim, pois, o que parecia vontade imperiosa reduzia-se a veleidade pura, e, co algumas horas de intervalo, todos os maus pensamentos se recolheram às sua alcovas. Se me perguntardes por algum remorso de Sofia, não sei que vos diga Há uma escala de ressentimento e de reprovação. Não é só nas ações que  consciência passa gradualmente da novidade ao costume, e do temor  indiferença. Os simples pecados de pensamento são sujeitos a essa mesm alteração, e o uso de cuidar nas coisas afeiçoa tanto a elas, — que, afinal,  espírito não as estranha, nem as repele. E nestes casos há sempre um refúgi moral na isenção exterior, que é, por outros termos mais explicativos, o corpo se mácula."
     ]
   },
   {
-    "chapter": "CAPÍTULO CLXIV",
+    "chapterName": "CAPÍTULO CLXIV",
     "chapterDescription": null,
     "text": [
       "Um só incidente afligiu Sofia naquele dia puro e brilhante, — foi um encontro co Rubião. Tinha entrado em uma livraria da Rua do Ouvidor para comprar u romance; enquanto esperava o troco, viu entrar o amigo. Rapidamente voltou  rosto e percorreu com os olhos os livros da prateleira, — uns livros de anatomia  de estatística; — recebeu o dinheiro, guardou-o, e, de cabeça baixa, rápida com uma flecha, saiu à rua, e enfiou para cima. O sangue só lhe sossegou, quando  Rua dos Ourives ficou para trás.",
@@ -2490,7 +2490,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CLXV",
+    "chapterName": "CAPÍTULO CLXV",
     "chapterDescription": null,
     "text": [
       "Tudo se fez sossegadamente. Palha alugou uma casinha na Rua do Príncipe, cerc do mar, onde meteu o nosso Rubião, alguns trastes, e o cachorro amigo. Rubiã adotou a mudança sem desgosto, e, desde que lhe tornou o delírio, co entusiasmo. Estava nos seus paços de Saint-Cloud.",
@@ -2502,14 +2502,14 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CLXVI",
+    "chapterName": "CAPÍTULO CLXVI",
     "chapterDescription": null,
     "text": [
       "Rubião notou que eles não o acompanharam à casa nova, e mandou-os chamar nenhum veio, e a ausência encheu de tristeza o nosso amigo, — durante a primeiras semanas. Era a família que o abandonava. Rubião procurou recordar s lhes fizera algum mal, por obra ou por palavra, e não achou nada."
     ]
   },
   {
-    "chapter": "CAPÍTULO CLXVII",
+    "chapterName": "CAPÍTULO CLXVII",
     "chapterDescription": null,
     "text": [
       "— Conversei com o homem; achei-lhe idéias delirantes. Conquanto não sej alienista, acho que pode ficar bom... Mas quer saber uma descoberta interessante?",
@@ -2533,14 +2533,14 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CLXVIII",
+    "chapterName": "CAPÍTULO CLXVIII",
     "chapterDescription": null,
     "text": [
       "E daí, quem sabe? repetiu o Dr. Falcão na manhã seguinte. A noite não apagara  desconfiança do homem. E daí, quem sabe? Sim, não seria só simpatia mórbida Sem conhecer Shakespeare, ele emendou Hamlet: \"Há entre o céu e a terra Horácio, muitas coisas mais do que sonha a vossa vã filantropia\". Ali andou ded de amor. E não chasqueava nem lastimava nada. Já disse que era cético; mas como era também discreto, não transmitiu a ninguém a sua conclusão."
     ]
   },
   {
-    "chapter": "CAPÍTULO CLXIX",
+    "chapterName": "CAPÍTULO CLXIX",
     "chapterDescription": null,
     "text": [
       "A volta de Carlos Maria e da mulher interrompeu as preocupações de D. Fernanda relativamente a Rubião. Esta foi a bordo recebê-los, conduziu-os à Tijuca onde u velho amigo da família de Carlos Maria alugara e trastejara uma casa, por orde dele. Sofia não foi a bordo; mandou o coupé esperá-los no Cais Pharoux, mas D Fernanda já ali tinha uma caleça, que os levou, e mais a ela e ao Palha. De tarde Sofia foi visitar os recém-chegados.",
@@ -2557,7 +2557,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CLXX",
+    "chapterName": "CAPÍTULO CLXX",
     "chapterDescription": null,
     "text": [
       "— Você que tem? perguntou Maria Benedita ao marido, logo que ficaram sós.",
@@ -2573,7 +2573,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CLXXI",
+    "chapterName": "CAPÍTULO CLXXI",
     "chapterDescription": null,
     "text": [
       "— Perfeitamente! Assim é que eu os quero ver! bradou uma voz do lado d varanda.",
@@ -2591,7 +2591,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CLXXII",
+    "chapterName": "CAPÍTULO CLXXII",
     "chapterDescription": null,
     "text": [
       "— Mas se a queda do Ministério é verdadeira, disse ela, sabe você quem est ministro?",
@@ -2602,7 +2602,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CLXXIII",
+    "chapterName": "CAPÍTULO CLXXIII",
     "chapterDescription": null,
     "text": [
       "— Com quê, o Teófilo está ministro! exclamou Carlos Maria.",
@@ -2621,7 +2621,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CLXXIV",
+    "chapterName": "CAPÍTULO CLXXIV",
     "chapterDescription": null,
     "text": [
       "Quando Rubião foi à casa de D. Fernanda, à tardinha, ouviu do criado que nã podia subir. A senhora estava incomodada; o senhor estava com ela; parece qu esperavam o médico. O nosso amigo não teimou, e retirou-se.",
@@ -2633,7 +2633,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CLXXV",
+    "chapterName": "CAPÍTULO CLXXV",
     "chapterDescription": null,
     "text": [
       "— Anda, vamos jantar, repetiu D. Fernanda.",
@@ -2669,7 +2669,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CLXXVI",
+    "chapterName": "CAPÍTULO CLXXVI",
     "chapterDescription": null,
     "text": [
       "Ao almoço, no dia seguinte, Teófilo recebeu uma carta por uma ordenança.",
@@ -2688,7 +2688,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CLXXVII",
+    "chapterName": "CAPÍTULO CLXXVII",
     "chapterDescription": null,
     "text": [
       "D. Fernanda esperou, cheia de ânsias, como se o Ministério fosse para ela, e lh viesse dar qualquer gosto, que não fosse amargo e complicado. Uma vez, porém que satisfizesse o marido, tudo iria pelo melhor. Teófilo tornou às cinco horas  meia. Pelo aspecto reconheceu que vinha satisfeito. Correu a apertar-lhe as mãos.",
@@ -2705,7 +2705,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CLXXVIII",
+    "chapterName": "CAPÍTULO CLXXVIII",
     "chapterDescription": null,
     "text": [
       "D. Fernanda anuiu à proposta; não interrompia a educação do filho; era um separação de quatro meses. Teófilo partiu daí a dias. Na manhã do dia d embarque, logo cedo, foi despedir-se do gabinete de trabalho. Deitou os último olhos aos livros, relatórios, orçamentos, manuscritos, a toda essa parte da família que só tinha língua e interesse para ele. Havia atado os papéis e os folhetos par que se não extraviassem, e fez à mulher grandes recomendações. Parado n centro, circulou a vista pelas estantes, e dispersou a alma por todas elas Despedia-se assim dos seus santos e amigos, com verdadeiras saudades. D Fernanda, que estava ao pé dele, não viveu ali mais que os dez minutos d despedida. Teófilo viveu muitos anos.",
@@ -2714,7 +2714,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CLXXIX",
+    "chapterName": "CAPÍTULO CLXXIX",
     "chapterDescription": null,
     "text": [
       "Rubião, desde o dia da crise ministerial, não tornou à casa de D. Fernanda; nad soube, nem da presidência, nem do embarque de Teófilo. Vivia entre o cão e u criado, sem grandes crises, nem longos repousos. O criado fazia o serviç irregularmente, comia gratificações, e recebia, amiúde, o título de marquês. A demais, divertia-se. Quando lhe dava ao amo para conversar com as paredes,  criado corria a espiá-lo; assistia ao diálogo, porque o Rubião incumbia-se da palavras delas, respondendo como se houvessem feito alguma pergunta. De noite ia à palestra com os amigos da vizinhança.",
@@ -2735,7 +2735,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CLXXX",
+    "chapterName": "CAPÍTULO CLXXX",
     "chapterDescription": null,
     "text": [
       "Daquela vez, teve a fortuna de encontrar o Major Siqueira.",
@@ -2762,7 +2762,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CLXXXI",
+    "chapterName": "CAPÍTULO CLXXXI",
     "chapterDescription": null,
     "text": [
       "Rubião escutou calado um discurso do major. O casamento era dali a mês e meio o noivo tinha que perfazer os arranjos da casa, não era capitalista, vivia d ordenado e recorrera a empréstimos. A casa era a mesma e não exigia traste novos nem ricos; mas, há sempre algumas necessidades... Em suma, dali a mês  meio, ou pelo menos, cinco semanas, estariam unidos pelos santos laços d matrimônio.",
@@ -2801,7 +2801,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CLXXXII",
+    "chapterName": "CAPÍTULO CLXXXII",
     "chapterDescription": null,
     "text": [
       "Rubião não cuidou mais do coche nem do esquadrão de cavalaria. Foi dar consig abaixo, andou por várias ruas, até que subiu pela de São José. Desde o paç imperial, vinha gesticulando e falando a alguém que supunha trazer pelo braço,  era a imperatriz. Eugênia ou Sofia? Ambas em uma só criatura, — ou antes  segunda com o nome da primeira. Homens que iam passando, paravam; d interior das lojas corria gente às portas. Uns riam-se, outros ficavam indiferentes alguns, depois de verem o que era, desviavam os olhos para poupá-los à afliçã que lhes dava o espetáculo do delírio. Uma turba de moleques acompanhava  Rubião, alguns tão próximos, que lhe ouviam as palavras. Crianças de toda a sort vinham juntar-se ao grupo. Quando eles viram a curiosidade geral, entendera dar voz à multidão, e começou a surriada:",
@@ -2823,7 +2823,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CLXXXIII",
+    "chapterName": "CAPÍTULO CLXXXIII",
     "chapterDescription": null,
     "text": [
       "A vizinha riu-se. A mãe riu-se também. Confessou que o filho era uma pestezinha um endiabrado, que não sossegava; não podia perdê-lo de vista. Qualque distração, estava na rua. E isto desde pequenino; tinha ainda dois anos, quand escapou de morrer embaixo de um carro, ali mesmo; esteve por um fio. Se nã fosse um homem que passava, um senhor bem vestido, que acudiu depressa, at com perigo de vida, estaria morto e bem morto. Nisto o marido, que vinha pel calçada oposta, atravessou a rua, e interrompeu a conversação. Trazia o cenh carregado, mal cumprimentou a vizinha, e entrou; a mulher foi ter com ele. Qu era? O marido contou a surriada. ",
@@ -2843,7 +2843,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CLXXXIV",
+    "chapterName": "CAPÍTULO CLXXXIV",
     "chapterDescription": null,
     "text": [
       "Duas horas depois da cena da Rua da Ajuda chegou Rubião à casa de D. Fernanda Os vadios foram-se dispersando, a pouco e pouco, e os claros não se preenchiam os três últimos juntaram os seus adeuses em um berro único e formidável. Rubiã continuou sozinho, mal percebido pelos moradores das casas, porque  gesticulação diminuía ou mudava de feitio. Não se dirigia à parede, à supost imperatriz; mas era ainda imperador. Caminhava, parava, murmurava, se grandes gestos, sonhando sempre, sempre, sempre, envolvido naquele véu através do qual todas as coisas eram outras, contrárias e melhores; cada lampiã tinha um aspecto de camarista, cada esquina uma feição de reposteiro. Rubiã seguia direito à sala do trono, para receber um embaixador qualquer, mas o paç era interminável, cumpria atravessar muitas salas e galerias, verdade é que sobr tapetes, — e por entre alabardeiros, altos e robustos.",
@@ -2851,7 +2851,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CLXXXV",
+    "chapterName": "CAPÍTULO CLXXXV",
     "chapterDescription": null,
     "text": [
       "Rubião foi recolhido a uma casa de saúde. Palha esquecera a obrigação que Sofi lhe impôs, e Sofia não se lembrou mais da promessa feita à rio-grandense Cuidavam ambos de outra casa, um palacete em Botafogo, cuja reconstruçã estava prestes a acabar, e que eles queriam inaugurar, no inverno, quando a Câmaras trabalhassem, e toda a gente houvesse descido de Petrópolis. Mas agor a promessa foi cumprida; Rubião deu entrada no estabelecimento, onde fico ocupando uma sala e um quarto especiais, recomendado pelo Dr. Falcão e pel Palha. Não resistiu a nada; acompanhou-os com satisfação, e entrou nos seu aposentos, como se os conhecesse desde muito. Quando eles se despediram dizendo que já voltavam, Rubião convidou-os para uma revista militar, no sábado.",
@@ -2862,21 +2862,21 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CLXXXVI",
+    "chapterName": "CAPÍTULO CLXXXVI",
     "chapterDescription": null,
     "text": [
       "— Para mim, é claro, saiu pensando o Dr. Falcão, aquele homem foi amante d mulher deste sujeito."
     ]
   },
   {
-    "chapter": "CAPÍTULO CLXXXVII",
+    "chapterName": "CAPÍTULO CLXXXVII",
     "chapterDescription": null,
     "text": [
       "Lá ficou o homem. Quincas Borba tentara entrar na carruagem que levou o amigo e porfiou em acompanhá-la, correndo; foi necessária toda a força do criado par agarrá-lo, contê-lo e trancá-lo em casa. Era a mesma situação de Barbacena; ma a vida, meu rico senhor, compõe-se rigorosamente de quatro ou cinco situações que as circunstâncias variam e multiplicam aos olhos. Rubião pediu instantement que lhe mandassem o cão. D. Fernanda, alcançado o consentimento do diretor cuidou de satisfazer o desejo do doente. Quis escrever a Sofia, mas foi ela própri ao Flamengo."
     ]
   },
   {
-    "chapter": "CAPÍTULO CLXXXVIII",
+    "chapterName": "CAPÍTULO CLXXXVIII",
     "chapterDescription": null,
     "text": [
       " — Mando ver, é aqui perto, propôs Sofia.",
@@ -2907,7 +2907,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CLXXXIX",
+    "chapterName": "CAPÍTULO CLXXXIX",
     "chapterDescription": null,
     "text": [
       "Saíram. Sofia, antes de pôr o pé na rua, olhou para um e outro lado, espreitand se vinha alguém; felizmente, a rua estava deserta. Ao ver-se livre da pocilga Sofia readquiriu o uso das boas palavras, a arte maviosa e delicada de captar o outros, e enfiou amorosamente o braço no de D. Fernanda. Falou-lhe de Rubião  da grande desgraça da loucura; assim também do palacete de Botafogo. Por qu não ia com ela ver as obras? Era só lanchar um pouco, e partiriam imediatamente.",
@@ -2919,7 +2919,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CXCI",
+    "chapterName": "CAPÍTULO CXCI",
     "chapterDescription": null,
     "text": [
       "\"Conto restituí-lo à razão no fim de seis ou oito meses. Vai muito bem.”",
@@ -2927,7 +2927,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CXCII",
+    "chapterName": "CAPÍTULO CXCII",
     "chapterDescription": null,
     "text": [
       "— Seis meses, oito meses passam depressa, reflexionou D. Fernanda.",
@@ -2936,7 +2936,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CXCIII",
+    "chapterName": "CAPÍTULO CXCIII",
     "chapterDescription": null,
     "text": [
       "No dia seguinte ao baile, D. Fernanda acordou tarde. Foi ao gabinete do marido que já devorara cinco ou seis jornais, escrevera dez cartas e retificava a posiçã de alguns livros nas estantes. ",
@@ -2946,7 +2946,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CXCIV",
+    "chapterName": "CAPÍTULO CXCIV",
     "chapterDescription": null,
     "text": [
       "Como achar, porém, o nosso Rubião nem o cachorro, se ambos haviam partid para Barbacena? Oito dias antes, Rubião escrevera ao Palha que o procurasse este acudiu à casa de saúde, viu que ele raciocinava claramente, sem a meno sombra de delírio.",
@@ -2957,7 +2957,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CXCV",
+    "chapterName": "CAPÍTULO CXCV",
     "chapterDescription": null,
     "text": [
       "Rubião, logo que chegou a Barbacena e começou a subir a rua que ora se cham de Tiradentes, exclamou parando:",
@@ -2968,14 +2968,14 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CXCVI",
+    "chapterName": "CAPÍTULO CXCVI",
     "chapterDescription": null,
     "text": [
       "Súbito, relampejou; as nuvens amontoavam-se às pressas. Relampejou mai forte, e estalou um trovão. Começou a chuviscar grosso, mais grosso, até qu desabou a tempestade. Rubião, que aos primeiros pingos, deixara a igreja, fo andando rua abaixo, seguido sempre do cão, faminto e fiel, ambos tontos, debaix do aguaceiro, sem destino, sem esperança de pouso ou de comida... A chuv batia-lhes sem misericórdia. Não podiam correr, porque Rubião temia escorregar  cair, e o cão não queria perdê-lo. A meia rua, acudiu à memória do Rubião  farmácia, voltou para trás, subindo contra o vento, que lhe dava de cara; mas, a fim de vinte passos, varreu-se-lhe a idéia da cabeça; adeus, farmácia! adeus pouso! Já se não lembrava do motivo que o fizera mudar de rumo, e desceu outr vez, e o cão atrás, sem entender nem fugir, um e outro alagados, confusos, a som da trovoada rija e contínua."
     ]
   },
   {
-    "chapter": "CAPÍTULO CXCVII",
+    "chapterName": "CAPÍTULO CXCVII",
     "chapterDescription": null,
     "text": [
       "Vagaram sem destino. O estômago de Rubião interrogava, exclamava, intimava por fortuna, o delírio vinha enganar a necessidade com os seus banquetes da Tulherias. Quincas Borba é que não tinha igual recurso. E toca a andar acima  abaixo. Rubião, de quando em quando, sentava-se no lajedo, e o cão trepava-lh às pernas, para dormir a fome; achava as calças molhadas, e descia; mas tornav logo a subir, tão frio era o ar da noite, já noite alta, já noite morta. Rubiã passava-lhe as mãos por cima, resmungando algumas palavras magras.",
@@ -2983,14 +2983,14 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CXCVIII",
+    "chapterName": "CAPÍTULO CXCVIII",
     "chapterDescription": null,
     "text": [
       "— Ao vencedor, as batatas! exclamou Rubião quando deu com os olhos na rua sem noite, sem água, beijada do sol."
     ]
   },
   {
-    "chapter": "CAPÍTULO CXCIX",
+    "chapterName": "CAPÍTULO CXCIX",
     "chapterDescription": null,
     "text": [
       "Foi a comadre do Rubião, que o agasalhou e mais ao cachorro, vendo-os passa defronte da porta. Rubião conheceu-a, aceitou o abrigo e o almoço.",
@@ -3005,7 +3005,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CC",
+    "chapterName": "CAPÍTULO CC",
     "chapterDescription": null,
     "text": [
       "Poucos dias depois morreu... Não morreu súdito nem vencido. Antes de principia a agonia, que foi curta, pôs a coroa na cabeça, — uma coroa que não era, a menos, um chapéu velho ou uma bacia, onde os espectadores palpassem a ilusão Não, senhor; ele pegou em nada, levantou nada e cingiu nada; só ele via  insígnia imperial, pesada de ouro, rútila de brilhantes e outras pedras preciosas.  esforço que fizera para erguer meio corpo não durou muito; o corpo caiu outr vez; o rosto conservou porventura uma expressão gloriosa.",
@@ -3014,7 +3014,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO CCI",
+    "chapterName": "CAPÍTULO CCI",
     "chapterDescription": null,
     "text": [
       "Queria dizer aqui o fim do Quincas Borba, que adoeceu também, gani infinitamente, fugiu desvairado em busca do dono, e amanheceu morto na rua três dias depois. Mas, vendo a morte do cão narrada em capítulo especial,  provável que me perguntes se ele, se o seu defunto homônimo é que dá o títul ao livro, e por que antes um que outro, — questão prenhe de questões, que no levariam longe... Eia! chora os dois recentes mortos, se tens lágrimas. Se só ten riso ri-te! É a mesma coisa. O Cruzeiro, que a linda Sofia não quis fitar, como lh pedia Rubião, está assaz alto para não discernir os risos e as lágrimas do homens.",

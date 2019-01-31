@@ -1,0 +1,29 @@
+.Book {
+  
+}
+.Book-actions {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 25px 0 12.5px 0;
+}
+.Book-select,
+.Book-selectSpecial {
+  padding: 8px 10px;
+  /*font-size: 1em;*/
+  border-radius: 3px;
+  text-transform: uppercase;
+  background-image: linear-gradient(to top, #ddd, #eee);
+}
+.Book-select:not(:last-child) {
+  margin-right: 10px;
+}
+.Book-selectSpecial {
+  border: solid 1px #d85127;
+  background-image: linear-gradient(to top, #ec4d1b, #ff5722);
+  color: white;
+}
+.Book-select-option {
+  text-transform: uppercase;
+  color: black;
+}

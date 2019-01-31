@@ -29,10 +29,9 @@ const Header = ({
               <a
                 className='Header-btn'
                 href='javascript:null'
-                onSignOut={() => onSignOut}
               >
                 Encerrar sessão
-                <i class='Header-btn-icon fas fa-sign-out-alt'></i>
+                <i className='Header-btn-icon fas fa-sign-out-alt'></i>
               </a>
             </Fragment>
           ) : (
@@ -40,10 +39,9 @@ const Header = ({
               <a
                 className='Header-btn'
                 href='javascript:null'
-                onSignOut={() => onSignIn}
               >
                 Entrar na sua conta
-                <i class='Header-btn-icon fas fa-sign-in-alt'></i>
+                <i className='Header-btn-icon fas fa-sign-in-alt'></i>
               </a>
             </Fragment>
           )}

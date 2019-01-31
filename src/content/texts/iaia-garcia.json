@@ -1,6 +1,6 @@
 [
   {
-    "chapter": "CAPÍTULO PRIMEIRO",
+    "chapterName": "CAPÍTULO PRIMEIRO",
     "chapterDescription": null,
     "text": [
       "Luís Garcia transpunha a soleira da porta, para sair, quando apareceu um criado  lhe entregou esta carta:",
@@ -53,7 +53,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO II",
+    "chapterName": "CAPÍTULO II",
     "chapterDescription": null,
     "text": [
       "A hora aprazada era incômoda para Luís Garcia, cujos hábitos de trabalho ma sofriam interrupção. Não obstante, foi à Rua dos Inválidos.",
@@ -160,7 +160,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO III",
+    "chapterName": "CAPÍTULO III",
     "chapterDescription": null,
     "text": [
       "Luís Garcia pouco trabalho teve no ânimo de Jorge. A resolução deste, uma ve declarada, não recuou mais. Não desconhecia o moço que a empresa a que meti ombros era crespa de dificuldades. A guerra, sobretudo depois do desastre d Curupaiti, prometia durar muito; não havia desânimo, e o governo era auxiliad eficazmente pela população. Jorge obteve uma patente de capitão de voluntários.",
@@ -250,7 +250,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO IV",
+    "chapterName": "CAPÍTULO IV",
     "chapterDescription": null,
     "text": [
       "Era noite fechada, quando Jorge chegou à casa de Estela. O Sr. Antunes estava  porta e talvez contava com a visita; recebeu-o com alvoroço e tristeza.",
@@ -296,7 +296,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO V",
+    "chapterName": "CAPÍTULO V",
     "chapterDescription": null,
     "text": [
       "As primeiras cartas de Jorge foram todas à mãe. Eram longas e derramadas entusiásticas, descuidosas e até pueris. Descontada a escassa porção de realidad que podia haver nelas, ficava um cálculo, que o coração de Valéria compreendeu era adoçar-lhe a ausência e dissipar-lhe as apreensões.",
@@ -341,7 +341,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO VI",
+    "chapterName": "CAPÍTULO VI",
     "chapterDescription": null,
     "text": [
       "Antes de irmos direito ao centro da ação, vejamos por que evolução do destino s operou o casamento de Estela.",
@@ -444,7 +444,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO VII",
+    "chapterName": "CAPÍTULO VII",
     "chapterDescription": null,
     "text": [
       "Três meses depois da chegada ao Rio de Janeiro, tinha Jorge liquidado todos o negócios de família. Os haveres herdados podiam dispensá-lo de advogar ou d seguir qualquer outra profissão, uma vez que não fosse ambicioso e regesse co critério o uso de suas rendas. Tinha as qualidades precisas para isso, uma naturais, outras obtidas com o tempo. Os quatro anos de guerra, de mãos dada com os sucessos imediatamente anteriores, fizeram-lhe perder certa preocupações que eram, em 1866, as únicas de seu espírito. A vida à rédea solta o desperdício elegante, todas as seduções juvenis eram inteiramente passadas.",
@@ -517,7 +517,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO VIII",
+    "chapterName": "CAPÍTULO VIII",
     "chapterDescription": null,
     "text": [
       "Chegando ao Rio, Jorge teve notícia de que Luís Garcia estava a enfermo. Nã contava com o incidente, que o pôs em grande perplexidade. Não queria visitá-lo e mal poderia deixar de o fazer. Luís Garcia fora prezado de seus pais; ele própri lhe tinha estima e consideração: motivos bastantes a aconselhar o desempenho d um dever de cortesia. Mas, por outro lado, ir a Santa Teresa era arriscar-se  suspeita de Estela. Jorge vacilou durante dois longos dias. Certo, ele sentiu algu alvoroço, com a idéia de a ver; idéia que, se buscou rejeitar do espírito, lá fico latente e dissimulada. Mas a razão que confessava a si próprio era a d conveniência.",
@@ -606,7 +606,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO IX",
+    "chapterName": "CAPÍTULO IX",
     "chapterDescription": null,
     "text": [
       "A nova ordem de coisas perturbou profundamente o ânimo de Estela.  procedimento de Jorge, por ocasião da moléstia do marido, não lhe parece esconder nenhuma intenção particular; mas durante a convalescença, e sobretud depois dela, afigurou-se-lhe que a idéia do moço era insinuar-se na família. Par quê? Estela supunha que o amor de Jorge, ao fim de tão longo período, estari acabado de todo, como produto da primeira estação. Não lhe negou um pouco d gratidão, quando viu os obséquios que prestara ao marido enfermo, com tant solicitude, discrição e dignidade. Agora, porém, ao ver a freqüência e  convivência, supôs alguma coisa mais do que a simples afeição tradicional. Qu encanto podia oferecer a casa de uma família retirada e obscura a um home criado em mais aparente plana social? Seu meio era outro; tendências de espírit ou ambições de futuro o deviam levar a outra esfera. Esta consideração lh pareceu decisiva. Concluiu que a paixão, vencida ou comprimida, soltava outra ve o brado da revolta; e se assim era, Jorge devia estar pior que em 1866, porqu então os sentimentos rompiam com violência e sinceridade, ao passo que agora  seu principal aspecto era a dissimulação. O amor, se amor havia, trazia já os olho abertos e dispunha da razão; de estouvado, tornava-se cauteloso e sutil.",
@@ -648,7 +648,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO X",
+    "chapterName": "CAPÍTULO X",
     "chapterDescription": null,
     "text": [
       "Ora, quatro ou cinco dias depois, Luís Garcia que, na previsão de viagem começara a arranjar alguns papéis esparsos e antigos, dispôs-se a concluir ess trabalho, não obstante haver sido dispensada a comissão. Era dia de ano-bom,  uma bela manhã, fresca, límpida, azul. Tinham ido à missa na capela do convento almoçaram em família, com a presença do Sr. Antunes, que inaugurara um sobrecasaca, e trazia nessa manhã um aspecto, não somente venerador, mas at venerável.",
@@ -752,7 +752,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XI",
+    "chapterName": "CAPÍTULO XI",
     "chapterDescription": null,
     "text": [
       "Entrados em casa, Procópio Dias não se apressou a dar ou pedir a explicação Ceou primeiro, porque confessou haver adquirido esse costume, e Jorge não s demorou em obsequiá-lo. A ceia improvisada, composta de viandas frias e dois o três cálices de vinho puro, deixou-o em paz com a natureza. Satisfeita esta, era  hora da explicação.",
@@ -850,7 +850,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XII",
+    "chapterName": "CAPÍTULO XII",
     "chapterDescription": null,
     "text": [
       "Quinze dias depois, Procópio Dias apareceu em casa de Jorge com luto n vestuário e no rosto. De Buenos Aires chegara-lhe na véspera, à tarde, a notíci da morte de um irmão, seu último parente, notícia que o obrigava a embarcar n dia seguinte e demorar-se no Rio da Prata cinco a seis semanas. Não se pode dize que ele estivesse triste; estava sério, — sério e preocupado. A viagem a Bueno Aires não tinha por fim o cadáver do irmão, mas a herança, que posto não foss grande, valia alguma coisa.",
@@ -979,7 +979,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XIII",
+    "chapterName": "CAPÍTULO XIII",
     "chapterDescription": null,
     "text": [
       "Jorge achou em casa, nessa mesma noite, uma carta de Buenos Aires. Procópi Dias narrava-lhe a viagem e os primeiros passos, e dizia ter toda a esperança d se demorar pouco tempo. Tudo isso era a terça parte da carta. As duas outra terças partes eram saudades, protestos, expressões de sentimento, e um nome n fim, um nome único, e que era a chave do escrito. Jorge leu atentamente essa confidências, e na mesma noite esboçou uma resposta. Não era fácil combinar  discrição que quisera conservar em suas relações com Procópio Dias e  necessidade de lhe mandar algumas esperanças. Embora com esforço, redigiu  resposta conveniente, contando-lhe as boas impressões que tinha; só as boas, nã lhe disse as duvidosas; sobretudo não desceu a nenhuma realidade, a nenhu nome próprio; nada mais que uma extensa série de locuções igualment animadoras e vagas.",
@@ -1137,7 +1137,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XIV",
+    "chapterName": "CAPÍTULO XIV",
     "chapterDescription": null,
     "text": [
       "Guiando para casa, Jorge ia agitado e inquieto; recapitulava a conversação qu acabava de ter com a filha de Luís Garcia. O acaso propusera-lhe um enigma;  tempo dava-lhe a decifração. Seria a decifração? O espírito do moço recuava, nã dava crédito à realidade, pelo menos à realidade aparente; mas esta impunha-se lhe de quando em quando, e Jorge recompunha todas as circunstâncias daquela últimas semanas e ainda dos meses anteriores. Que era a esquivança, a rispidez a hostilidade de Iaiá, senão a máscara de um sentimento contrário, a vingança d um coração atordoado pelo suposto desdém de outro? Esta reflexão vinha tão d molde com os fatos dos últimos tempos, que era difícil achar mais ajustad explicação. Logo depois, considerava que seria absurdo atribuir à moça um ligeireza e um desgarre inconciliáveis com a prudência que reconhecia nela,  despeito dos assomos de travessura intermitente.",
@@ -1204,7 +1204,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XV",
+    "chapterName": "CAPÍTULO XV",
     "chapterDescription": null,
     "text": [
       "A fronte de Estela não tinha a tristeza dos vencidos. O amor persistia no coração como um mau hóspede; e o espetáculo daqueles últimos meses não fizera mais d que irritá-lo. Mas a força moral de Estela subjugou-o. A luta fora longa, violenta  cruel; a consciência do dever e o respeito de si própria acabaram vencendo. Talve não fosse difícil perceber, por baixo da serenidade do rosto, o cansaço que deixa as grandes tempestades morais. A tempestade ninguém lha viu.",
@@ -1285,7 +1285,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XVI",
+    "chapterName": "CAPÍTULO XVI",
     "chapterDescription": null,
     "text": [
       "A morte de Luís Garcia foi uma complicação mais. Passados os primeiros doi meses, Jorge pensou em realizar o casamento, sem aparato, como um simples at de interesse doméstico, aliás necessário pela situação em que se achavam as dua senhoras. O Sr. Antunes fora morar com elas, e era o chefe natural da família mas Jorge não esquecera que Luís Garcia nenhuma confiança tinha na pessoa d sogro; demais, entregara diretamente a Jorge a chefia da casa. Ora, cumpri legalizar e santificar a designação do moribundo.",
@@ -1393,7 +1393,7 @@
     ]
   },
   {
-    "chapter": "CAPÍTULO XVII",
+    "chapterName": "CAPÍTULO XVII",
     "chapterDescription": null,
     "text": [
       "Iaiá foi ter com Raimundo.",
