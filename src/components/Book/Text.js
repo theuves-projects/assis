@@ -3,8 +3,20 @@ import React from 'react'
 // Styles
 import './Text.css'
 
-const Text = ({ book }) => (
-  <article className='Book_Text'>
+const cn = (classes) => classes.join(' ')
+
+const Text = ({
+  book,
+  fontSize,
+  fontFamily
+}) => (
+  <article
+    className={cn([
+      'Book_Text',
+      `Book_Text-fontSize-${fontSize}`,
+      `Book_Text-fontFamily-${fontFamily}`
+    ])}
+  >
     <header className='Book_Text-header'>
       <h1 className='Book_Text-title'>
         {book.chapterName}

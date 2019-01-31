@@ -4,10 +4,13 @@
   border: solid 1px #ddd;
   border-radius: 5px;
   box-shadow: 1px 1px 0 0 #ccc;
-  font-size: 1.25em;
   text-align: justify;
   line-height: 180%;
 }
+
+/**
+ * Header do texto.
+ */
 .Book_Text-header {
   text-align: center;
   text-transform: uppercase;
@@ -22,9 +25,39 @@
   font-style: italic;
   color: gray;
 }
+
+/**
+ * Parágrafo.
+ */
 .Book_Text-p {
   margin-bottom: 15px;
 }
 .Book_Text-pCenter {
   text-align: center;
+}
+
+/**
+ * Relativo ao tamanho da fonte.
+ */
+.Book_Text-fontSize-small {
+  font-size: 1em;
+}
+.Book_Text-fontSize-normal {
+  font-size: 1.25em;
+}
+.Book_Text-fontSize-big {
+  font-size: 1.5em;
+}
+
+/**
+ * Relativo à família da fonte.
+ */
+.Book_Text-fontFamily-serif {
+  font-family: Georgia, Times, 'Times New Roman', serif;
+}
+.Book_Text-fontFamily-sans-serif {
+  font-family: Roboto, Helvetica, Verdana, Arial, sans-serif;
+}
+.Book_Text-fontFamily-monospace {
+  font-family: Consolas, 'Lucida Console', monospace;
 }

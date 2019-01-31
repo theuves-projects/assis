@@ -13,14 +13,30 @@ import book from '../../content/texts/dom-casmurro.json'
 class Book extends Component {
   constructor(props) {
     super(props)
+    
     this.changeChapter = this.changeChapter.bind(this)
+    this.changeFontSize = this.changeFontSize.bind(this)
+    this.changeFontFamily = this.changeFontFamily.bind(this)
+
     this.state = {
-      currentChapter: 0
+      currentChapter: 0,
+      fontSize: 'normal',
+      fontFamily: 'serif'
     }
   }
   changeChapter(event) {
     this.setState({
       currentChapter: parseInt(event.target.value)
+    })
+  }
+  changeFontSize(event) {
+    this.setState({
+      fontSize: event.target.value
+    })
+  }
+  changeFontFamily(event) {
+    this.setState({
+      fontFamily: event.target.value
     })
   }
   nextChapter() {
@@ -32,7 +48,7 @@ class Book extends Component {
     return (
       <section className='Book'>
         <div className='container'>
-          <div className="Book-actions">
+          <div className='Book-actions'>
 
             {/* Na esquerda. */}
             <div>
@@ -59,22 +75,32 @@ class Book extends Component {
             <div>
 
               {/* Seleção do tamanho da fonte. */}
-              <select className='Book-select'>
-                <option value="big">Fonte grande</option>
-                <option value="medium" default>Fonte média</option>
-                <option value="little">Fonte pequena</option>
+              <select
+                className='Book-select'
+                value={this.state.fontSize}
+                onChange={this.changeFontSize}
+              >
+                <option value='small'>Fonte pequena</option>
+                <option value='normal'>Fonte normal</option>
+                <option value='big'>Fonte grande</option>
               </select>
 
               {/* Seleção da família da fonte. */}
-              <select className='Book-select'>
-                <option value="serif">Fonte serifada</option>
-                <option value="sans-serif">Fonte sem serifa</option>
-                <option value="monospace">Fonte mono-espaçada</option>
+              <select
+                className='Book-select'
+                value={this.state.fontFamily}
+                onChange={this.changeFontFamily}
+              >
+                <option value='serif'>Fonte serifada</option>
+                <option value='sans-serif'>Fonte sem serifa</option>
+                <option value='monospace'>Fonte mono-espaçada</option>
               </select>
             </div>
           </div>
           <Text
             book={book[this.state.currentChapter]}
+            fontSize={this.state.fontSize}
+            fontFamily={this.state.fontFamily}
           />
         </div>
       </section>
