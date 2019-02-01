@@ -10,13 +10,9 @@
 .Book-select,
 .Book-selectSpecial {
   padding: 8px 10px;
-  /*font-size: 1em;*/
   border-radius: 3px;
   text-transform: uppercase;
   background-image: linear-gradient(to top, #ddd, #eee);
-}
-.Book-select:not(:last-child) {
-  margin-right: 10px;
 }
 .Book-selectSpecial {
   border: solid 1px #d85127;
@@ -26,4 +22,19 @@
 .Book-select-option {
   text-transform: uppercase;
   color: black;
+}
+
+/**
+ * Fieldset
+ */
+.Book-fieldset {
+  display: inline-block;
+  border: none;
+}
+.Book-fieldset:not(:last-child) {
+  margin-right: 10px;
+}
+.Book-legend {
+  margin-bottom: 5px;
+  color: gray;
 }

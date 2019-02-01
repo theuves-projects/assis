@@ -27,6 +27,29 @@
 }
 
 /**
+ * Outros.
+ */
+.Book_Text-content {
+  margin-bottom: 50px;
+}
+.Book_Text-btn {
+  padding: 15px;
+  font-size: 1.25em;
+  cursor: pointer;
+  border: solid 1px #d85127;
+  border-radius: 50%;
+  box-shadow: 1px 1px 0 0 #ccc;
+  background-color: #ff5722;
+  color: white;
+}
+.Book_Text-btn:hover {
+  opacity: .95;
+}
+.Book_Text-btn:active {
+  opacity: .9;
+}
+
+/**
  * Parágrafo.
  */
 .Book_Text-p {

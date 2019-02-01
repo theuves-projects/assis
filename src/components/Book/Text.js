@@ -7,6 +7,7 @@ const cn = (classes) => classes.join(' ')
 
 const Text = ({
   book,
+  onReqNextChapter,
   fontSize,
   fontFamily
 }) => (
@@ -30,23 +31,34 @@ const Text = ({
       )}
     </header>
 
-    {book.text.map((paragraph, index) => {
+    <div className='Book_Text-content'>
+      {book.text.map((paragraph, index) => {
 
-      // Centralizar partes específicas.
-      if (/^(M\.?(\sde\s)?A\.?|FIM)$/i.test(paragraph)) {
+        // Centralizar partes específicas.
+        if (/^(M\.?(\sde\s)?A\.?|FIM)$/i.test(paragraph)) {
+          return (
+            <p key={index} className='Book_Text-p Book_Text-pCenter'>
+              {paragraph}
+            </p>
+          )
+        }
+
         return (
-          <p key={index} className='Book_Text-p Book_Text-pCenter'>
+          <p key={index} className='Book_Text-p'>
             {paragraph}
           </p>
         )
-      }
+      })}
+    </div>
 
-      return (
-        <p key={index} className='Book_Text-p'>
-          {paragraph}
-        </p>
-      )
-    })}
+    <div className='Book_Text-pCenter'>
+      <button
+        className='Book_Text-btn'
+        onClick={onReqNextChapter}
+      >
+        <i className='fas fa-hand-point-right'></i>
+      </button>
+    </div>
   </article>
 )
 
