@@ -1,12 +1,11 @@
-import React from 'react'
+import React, { Fragment } from 'react'
 import Header from './Header.js'
-import Book from './Book/Book'
 
-const Layout = () => (
-  <div>
+const Layout = ({ children }) => (
+  <Fragment>
     <Header />
-    <Book />
-  </div>
+    {children}
+  </Fragment>
 )
 
 export default Layout
