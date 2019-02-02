@@ -6,9 +6,9 @@ import Books from './Books/Books'
 import Bio from './Bio'
 import Footer from './Footer'
 
-const Home = () => (
+const Home = ({ history }) => (
   <Fragment>
-    <Apresentation />
+    <Apresentation redirectTo={history.push} />
     <Books />
     <Bio />
     <Footer />

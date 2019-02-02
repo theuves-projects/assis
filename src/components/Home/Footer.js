@@ -29,8 +29,11 @@ const Footer = () => (
         <div className='Home_Footer-item'>
           <h3 className='Home_Footer-title'>Links</h3>
           <ul className='Home_Footer-list'>
-            {links.map((link) => (
-              <li className='Home_Footer-list-item'>
+            {links.map((link, index) => (
+              <li
+                key={index}
+                className='Home_Footer-list-item'
+              >
                 <a
                   className='Home_Footer-link'
                   href={link.url}
@@ -53,11 +56,11 @@ const Footer = () => (
 
         {/* Item 3 */}
         <div className='Home_Footer-item'>
-          <adress className='Home_Footer-adress'>
+          <address className='Home_Footer-address'>
             Copyright &copy; 2019 by <a href='mailto:theuves@gmail.com'>Matheus Alves</a>.<br />
             Desenvolvido em Dourados-MS, Brasil.<br />
             Veja o <a href='https://github.com/thevues/assis'>código-fonte</a>.
-          </adress>
+          </address>
         </div>
       </div>
     </div>

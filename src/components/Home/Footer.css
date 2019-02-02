@@ -32,18 +32,18 @@
 .Home_Footer-img--public-domain {
   width: 150px;
 }
-.Home_Footer-adress {
+.Home_Footer-address {
   line-height: 200%;
 }
-.Home_Footer-adress a {
+.Home_Footer-address a {
   border-bottom: solid 1px black;
   text-decoration: none;
   color: currentColor;
 }
-.Home_Footer-adress a:hover {
+.Home_Footer-address a:hover {
   background-color: black;
   color: white;
 }
-.Home_Footer-adress a:active {
+.Home_Footer-address a:active {
   background-color: #333;
 }
