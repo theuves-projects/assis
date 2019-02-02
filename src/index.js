@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import ReactDOM from 'react-dom'
-import { BrowserRouter as Router, Route } from 'react-router-dom'
+import { BrowserRouter as Router, Route, Redirect } from 'react-router-dom'
 import { hot } from 'react-hot-loader/root'
 import firebase, { auth } from 'firebase'
 
@@ -29,13 +29,33 @@ if (firebase.apps.length === 0) {
   })
 }
 
+const PrivateRoute = ({ component: Component, ...rest }) => (
+  <Route
+    {...rest}
+    render={(props) => (
+      (auth().currentUser) ? (
+        <Component {...props} />
+      ) : (
+        <Redirect
+          to={{
+            pathname: '/',
+            state: {
+              from: props.location
+            }
+          }}
+        />
+      )
+    )}
+  />
+)
+
 class App extends Component {
   render() {
     return (
       <Router>
         <Layout>
           <Route exact path='/' component={Home} />
-          <Route exact path='/dashboard' component={Dashboard} />
+          <PrivateRoute exact path='/dashboard' component={Dashboard} />
         </Layout>
       </Router>
     )
