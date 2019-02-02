@@ -1,12 +1,9 @@
 import React, { Fragment } from 'React'
-
-// Styles
+import { Link } from 'react-router-dom'
 import './Header.css'
 
 const Header = ({
   isLoggedIn = false,
-  onSignIn = () => {},
-  onSignOut = () => {},
   user = {}
 }) => (
   <header className='Header'>
@@ -36,13 +33,13 @@ const Header = ({
             </Fragment>
           ) : (
             <Fragment>
-              <a
+              <Link
                 className='Header-btn'
-                href='javascript:null'
+                to='/login'
               >
                 Entrar na sua conta
                 <i className='Header-btn-icon fas fa-sign-in-alt'></i>
-              </a>
+              </Link>
             </Fragment>
           )}
         </div>

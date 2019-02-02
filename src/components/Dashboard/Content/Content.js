@@ -14,19 +14,19 @@ const Content = () => (
     <header className='Dashboard_Content-header'>
       <div>
         <button className='Dashboard_Content-btn'>
-          <i class="fas fa-bookmark"></i>
+          <i className="fas fa-bookmark"></i>
           {` `}
           Lendo....
         </button>
         <button className='Dashboard_Content-btn'>
-          <i class="fas fa-book"></i>
+          <i className="fas fa-book"></i>
           {` `}
           Lidos!
         </button>
       </div>
       <div>
         <button className="Dashboard_Content-btn-new">
-          <i class="fas fa-plus-circle"></i>
+          <i className="fas fa-plus-circle"></i>
           {` `}
           Novo
         </button>

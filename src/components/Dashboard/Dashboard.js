@@ -14,8 +14,12 @@ class Dashboard extends Component {
 
     const userId = auth().currentUser.uid
 
+    this.state = {
+      uid: userId
+    }
+
     database().ref(`users/${userId}`).on('value', (snapshot) => {
-      console.log(snapshot)
+      this.setState(snapshot.val())
     })
   }
   render() {
@@ -24,7 +28,11 @@ class Dashboard extends Component {
         <div className='container'>
           <div className="Dashboard-row">
             <div className="Dashboard-profile">
-              <Profile />
+              <Profile
+                uid={this.state.uid}
+                name={this.state.name}
+                username={this.state.username}
+              />
             </div>
             <div className="Dashboard-content">
               <Content />

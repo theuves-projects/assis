@@ -5,17 +5,17 @@ import { hot } from 'react-hot-loader/root'
 import firebase, { auth } from 'firebase'
 
 // Components
-import Layout from './components/Layout.js'
+import Layout from './components/Layout'
+import Home from './components/Home/Home'
+import Login from './components/Login/Login'
 import Dashboard from './components/Dashboard/Dashboard'
 import Book from './components/Book/Book'
-import Home from './components/Home/Home'
 
 // Global styles
 import './styles/index.css'
 import './styles/container.css'
 
 /**
- * Se ainda não foi criado.
  * Para evitar erro com Hot Module Replacement.
  */
 if (firebase.apps.length === 0) {
@@ -55,6 +55,7 @@ class App extends Component {
       <Router>
         <Layout>
           <Route exact path='/' component={Home} />
+          <Route exact path='/login' component={Login} />
           <PrivateRoute exact path='/dashboard' component={Dashboard} />
         </Layout>
       </Router>

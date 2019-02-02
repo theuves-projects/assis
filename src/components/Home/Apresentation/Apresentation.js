@@ -30,8 +30,7 @@ class Apresentation extends Component {
           database().ref(`users/${uid}`).set({
             name: userName,
             username: userUsername,
-            email: userEmail,
-            password: userPassword
+            email: userEmail
           })
 
           redirectTo('/dashboard')

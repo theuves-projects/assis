@@ -1,6 +1,4 @@
 import React, { Component } from 'react'
-
-// Styles
 import './Form.css'
 
 class Form extends Component {
@@ -23,9 +21,7 @@ class Form extends Component {
   onSubmit(event) {
     event.preventDefault()
 
-    /**
-     * Função para limpar o formulário no outro componente.
-     */
+    // Função para limpar o formulário.
     const clearForm = () => {
       this.setState(this.defaultState)
     }
@@ -47,11 +43,8 @@ class Form extends Component {
         onSubmit={this.onSubmit}
       >
         <dl>
-          {/* Nome completo */}
           <dt>
-            <label htmlFor='#userName'>
-              Nome completo:
-            </label>
+            <label htmlFor='#userName'>Nome completo:</label>
           </dt>
           <dd>
             <input
@@ -63,12 +56,8 @@ class Form extends Component {
               required
             />
           </dd>
-
-          {/* Nome de usuário */}
           <dt>
-            <label htmlFor='#userUsername'>
-              Nome de usuário:
-            </label>
+            <label htmlFor='#userUsername'>Nome de usuário:</label>
           </dt>
           <dd>
             <input
@@ -80,12 +69,8 @@ class Form extends Component {
               required
             />
           </dd>
-
-          {/* E-mail */}
           <dt>
-            <label htmlFor='#userEmail'>
-              E-mail:
-            </label>
+            <label htmlFor='#userEmail'>E-mail:</label>
           </dt>
           <dd>
             <input
@@ -97,12 +82,8 @@ class Form extends Component {
               required
             />
           </dd>
-
-          {/* Senha */}
           <dt>
-            <label htmlFor='#userPassword'>
-              Senha:
-            </label>
+            <label htmlFor='#userPassword'>Senha:</label>
           </dt>
           <dd>
             <input
