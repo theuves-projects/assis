@@ -24,22 +24,28 @@ class Login extends Component {
     const { userEmail, userPassword } = this.state
     const redirectTo = this.props.history.push
 
-    auth()
-      .signInWithEmailAndPassword(userEmail, userPassword)
-      .then((data) => {
-        redirectTo('/dashboard')
+    auth().setPersistence(auth.Auth.Persistence.LOCAL)
+      .then(() => {
+        auth()
+          .signInWithEmailAndPassword(userEmail, userPassword)
+          .then((data) => {
+            redirectTo('/dashboard')
+          })
+          .catch((err) => {
+            switch (err.code) {
+              case 'auth/user-not-found':
+                window.alert('Usuário não existe.')
+                break
+              case 'auth/wrong-password':
+                window.alert('Senha inválida.')
+                break
+              default:
+                window.alert('Algo deu errado!')
+            }
+          })
       })
-      .catch((err) => {
-        switch (err.code) {
-          case 'auth/user-not-found':
-            window.alert('Usuário não existe.')
-            break
-          case 'auth/wrong-password':
-            window.alert('Senha inválida.')
-            break
-          default:
-            window.alert('Algo deu errado!')
-        }
+      .catch(() => {
+        alert('Algo deu errado!')
       })
   }
   onChange(event) { 

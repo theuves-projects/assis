@@ -10,6 +10,7 @@ import Home from './components/Home/Home'
 import Login from './components/Login/Login'
 import Dashboard from './components/Dashboard/Dashboard'
 import Book from './components/Book/Book'
+import Loading from './components/Loading'
 
 // Global styles
 import './styles/index.css'
@@ -29,34 +30,114 @@ if (firebase.apps.length === 0) {
   })
 }
 
-const PrivateRoute = ({ component: Component, ...rest }) => (
-  <Route
-    {...rest}
-    render={(props) => (
-      (auth().currentUser) ? (
-        <Component {...props} />
-      ) : (
-        <Redirect
-          to={{
-            pathname: '/',
-            state: {
-              from: props.location
-            }
-          }}
-        />
-      )
-    )}
-  />
-)
+/**
+ * O usuário será redirecionado para '/' se não tiver logado ainda.
+ */
+class PrivateRoute extends Component {
+  constructor(props) {
+    super(props)
+
+    this.state = {}
+
+    auth().onAuthStateChanged((user) => {
+      this.setState({
+        isLoggedIn: !!user
+      })
+    })
+  }
+  render() {
+    const { component: Component, ...rest } = this.props
+
+    return (
+      <Route
+        {...rest}
+        exact
+        render={(props) => {
+          switch (this.state.isLoggedIn) {
+            case true:
+              return (
+                <Component {...props} />
+              )
+            case false:
+              return (
+                <Redirect
+                  to={{
+                    pathname: '/',
+                    state: {
+                      from: props.location
+                    }
+                  }}
+                />
+              )
+            default:
+              return (
+                <Loading />
+              )
+          }
+        }}
+      />
+    )
+  }
+}
+
+/**
+ * O usuário será redirecionado para '/dashboard' se o usuário estiver logado.
+ */
+class PublicRoute extends Component {
+  constructor(props) {
+    super(props)
+
+    this.state = {}
+
+    auth().onAuthStateChanged((user) => {
+      this.setState({
+        isLoggedIn: !!user
+      })
+    })
+  }
+  render() {
+    const { component: Component, ...rest } = this.props
+
+    return (
+      <Route
+        {...rest}
+        exact
+        render={(props) => {
+          switch (this.state.isLoggedIn) {
+            case false:
+              return (
+                <Component {...props} />
+              )
+            case true:
+              return (
+                <Redirect
+                  to={{
+                    pathname: '/dashboard',
+                    state: {
+                      from: props.location
+                    }
+                  }}
+                />
+              )
+            default:
+              return (
+                <Loading />
+              )
+          }
+        }}
+      />
+    )
+  }
+}
 
 class App extends Component {
   render() {
     return (
       <Router>
         <Layout>
-          <Route exact path='/' component={Home} />
-          <Route exact path='/login' component={Login} />
-          <PrivateRoute exact path='/dashboard' component={Dashboard} />
+          <PublicRoute path='/' component={Home} />
+          <PublicRoute path='/login' component={Login} />
+          <PrivateRoute path='/dashboard' component={Dashboard} />
         </Layout>
       </Router>
     )

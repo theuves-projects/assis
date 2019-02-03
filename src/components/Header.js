@@ -12,7 +12,9 @@ class Header extends Component {
     this.refreshData = this.refreshData.bind(this)
 
     auth().onAuthStateChanged((user) => {
-      this.refreshData()
+      if (user) {
+        this.refreshData()
+      }
     })
   }
   refreshData() {
