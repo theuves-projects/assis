@@ -1,51 +1,85 @@
-import React, { Fragment } from 'React'
+import React, { Fragment, Component } from 'React'
 import { Link } from 'react-router-dom'
+import { auth, database } from 'firebase'
 import './Header.css'
 
-const Header = ({
-  isLoggedIn = false,
-  user = {}
-}) => (
-  <header className='Header'>
-    <div className='container'>
-      <div className='Header-flex'>
-        <h1>
-          <a href='javascript:null' className='Header-brand'>Assis</a>
-        </h1>
-        <div className='Header-actions'>
-          {isLoggedIn ? (
-            <Fragment>
-              <div className='Header-user'>
-                <span className='Header-user-name'>{user.name}</span>
-                <img
-                  className='Header-user-avatar'
-                  src={user.avatarUrl}
-                  alt='Avatar'
-                />
-              </div>
-              <a
-                className='Header-btn'
-                href='javascript:null'
-              >
-                Encerrar sessão
-                <i className='Header-btn-icon fas fa-sign-out-alt'></i>
-              </a>
-            </Fragment>
-          ) : (
-            <Fragment>
-              <Link
-                className='Header-btn'
-                to='/login'
-              >
-                Entrar na sua conta
-                <i className='Header-btn-icon fas fa-sign-in-alt'></i>
-              </Link>
-            </Fragment>
-          )}
+class Header extends Component {
+  constructor(props) {
+    super(props)
+
+    this.state = {}
+    
+    this.refreshData = this.refreshData.bind(this)
+
+    auth().onAuthStateChanged((user) => {
+      this.refreshData()
+    })
+  }
+  refreshData() {
+    const isLoggedIn = !!auth().currentUser
+
+    if (isLoggedIn) {
+      const uid = auth().currentUser.uid
+      
+      database().ref(`users/${uid}`).once('value', (snapshot) => {
+        const data = snapshot.val()
+
+        this.setState({
+          isLoggedIn,
+          uid,
+          ...data
+        })
+      })
+    } else {
+      this.setState({
+        isLoggedIn
+      })
+    }
+  }
+  render() {
+    return (
+      <header className='Header'>
+        <div className='container'>
+          <div className='Header-flex'>
+            <h1>
+              <Link to='/' className='Header-brand'>Assis</Link>
+            </h1>
+            <div className='Header-actions'>
+              {this.state.isLoggedIn ? (
+                <Fragment>
+                  <div className='Header-user'>
+                    <span className='Header-user-name'>{this.state.name}</span>
+                    <img
+                      className='Header-user-avatar'
+                      src={`https://api.adorable.io/avatars/200/${this.state.uid}.png`}
+                      alt='Avatar'
+                    />
+                  </div>
+                  <a
+                    className='Header-btn'
+                    href='javascript:null'
+                  >
+                    Encerrar sessão
+                    <i className='Header-btn-icon fas fa-sign-out-alt'></i>
+                  </a>
+                </Fragment>
+              ) : (
+                <Fragment>
+                  <Link
+                    className='Header-btn'
+                    to='/login'
+                  >
+                    Entrar na sua conta
+                    <i className='Header-btn-icon fas fa-sign-in-alt'></i>
+                  </Link>
+                </Fragment>
+              )}
+            </div>
+          </div>
         </div>
-      </div>
-    </div>
-  </header>
-)
+      </header>
+    )
+  }
+}
 
 export default Header

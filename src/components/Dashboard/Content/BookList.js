@@ -1,13 +1,7 @@
 import React from 'react'
-
-// Utils
 import { findBook } from '../../../books'
-
-// Styles
-import './BookList.css'
-
-// Components
 import BookListItem from './BookListItem'
+import './BookList.css'
 
 const BookList = ({ booksCode }) => {
   if (!booksCode || booksCode.length === 0) {
@@ -15,7 +9,7 @@ const BookList = ({ booksCode }) => {
   }
 
   return (
-    <ul class='Dashboard_Content_BookList'>
+    <ul className='Dashboard_Content_BookList'>
       {booksCode.map((code) => {
         const bookInfo = findBook(code)
         return (

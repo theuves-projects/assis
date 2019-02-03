@@ -18,7 +18,7 @@ class Dashboard extends Component {
       uid: userId
     }
 
-    database().ref(`users/${userId}`).on('value', (snapshot) => {
+    database().ref(`users/${userId}`).once('value', (snapshot) => {
       this.setState(snapshot.val())
     })
   }

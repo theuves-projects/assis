@@ -7,7 +7,7 @@ import './NewBooks.css'
 import books from '../../../books'
 
 // Componente a ser exibido quando o usuário
-// clicar para adicionar mais livros as lista de
+// clicar para adicionar mais livros à lista de
 // livros "Lendo..." ou "Lidos!".
 
 const NewBooks = () => (
