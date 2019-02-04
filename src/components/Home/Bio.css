@@ -1,12 +1,11 @@
 .Home_Bio {
   padding: 100px 0;
-  font-family: Helvetica, Verdana, Arial, sans-serif;
   text-align: center;
   background-image: linear-gradient(to bottom, #47484e, #30323c);
   color: white;
 }
 .Home_Bio-header {
-  text-align: center;;
+  text-align: center;
 }
 .Home_Bio-title {
   font-size: 3em;

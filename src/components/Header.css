@@ -5,6 +5,7 @@
   border-bottom: 2px dashed #351e18;
 }
 .Header-brand {
+  font-family: Georgia, Times, 'Times New Roman', serif;
   font-style: italic;
   text-decoration: none;
   color: currentColor;
@@ -32,10 +33,11 @@
 }
 .Header-btn {
   display: flex;
+  padding: none;
+  border: none;
+  text-decoration: none;
   align-items: center;
   color: currentColor;
-  text-decoration: none;
-  border: none;
   background-color: transparent;
 }
 .Header-btn-icon {

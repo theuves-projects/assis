@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 body {
-  font-family: Georgia, Times, 'Times New Roman', serif;
+  font-family: Roboto, Helvetica, Verdana, Arial, sans-serif;
 }
 ::selection {
   background-color: #9b583b;
