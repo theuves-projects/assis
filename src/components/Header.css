@@ -35,6 +35,8 @@
   align-items: center;
   color: currentColor;
   text-decoration: none;
+  border: none;
+  background-color: transparent;
 }
 .Header-btn-icon {
   margin-left: 10px;

@@ -22,15 +22,11 @@ class Login extends Component {
     event.preventDefault()
 
     const { userEmail, userPassword } = this.state
-    const redirectTo = this.props.history.push
 
     auth().setPersistence(auth.Auth.Persistence.LOCAL)
       .then(() => {
         auth()
           .signInWithEmailAndPassword(userEmail, userPassword)
-          .then((data) => {
-            redirectTo('/dashboard')
-          })
           .catch((err) => {
             switch (err.code) {
               case 'auth/user-not-found':

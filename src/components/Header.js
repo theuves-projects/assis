@@ -12,9 +12,7 @@ class Header extends Component {
     this.refreshData = this.refreshData.bind(this)
 
     auth().onAuthStateChanged((user) => {
-      if (user) {
-        this.refreshData()
-      }
+      this.refreshData()
     })
   }
   refreshData() {
@@ -38,6 +36,13 @@ class Header extends Component {
       })
     }
   }
+  signOut() {
+    if (window.confirm('Deseja realmente finalizar a sessão?')) {
+      auth().signOut().catch(() => {
+        window.alert('Algo deu errado!')
+      })
+    }
+  }
   render() {
     return (
       <header className='Header'>
@@ -57,13 +62,13 @@ class Header extends Component {
                       alt='Avatar'
                     />
                   </div>
-                  <a
+                  <button
                     className='Header-btn'
-                    href='javascript:null'
+                    onClick={this.signOut}
                   >
                     Encerrar sessão
                     <i className='Header-btn-icon fas fa-sign-out-alt'></i>
-                  </a>
+                  </button>
                 </Fragment>
               ) : (
                 <Fragment>

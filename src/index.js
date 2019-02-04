@@ -53,7 +53,7 @@ class PrivateRoute extends Component {
         {...rest}
         exact
         render={(props) => {
-          switch (this.state.isLoggedIn) {
+          switch (this.state.isLoggedIn || !!auth().currentUser) {
             case true:
               return (
                 <Component {...props} />
@@ -103,7 +103,7 @@ class PublicRoute extends Component {
         {...rest}
         exact
         render={(props) => {
-          switch (this.state.isLoggedIn) {
+          switch (this.state.isLoggedIn || !!auth().currentUser) {
             case false:
               return (
                 <Component {...props} />
