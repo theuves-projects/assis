@@ -1,4 +1,4 @@
-.Dashboard_Content_BookListItem {
+.Dashboard_BookList_BookListItem {
   position: relative;
   padding: 10px;
   border-radius: 3px;
@@ -6,7 +6,7 @@
   background-color: #eee;
   user-select: none;
 }
-.Dashboard_Content_BookListItem::before {
+.Dashboard_BookList_BookListItem::before {
   content: '';
   position: absolute;
   display: block;
@@ -16,17 +16,17 @@
   left: 0;
   cursor: pointer;
 }
-.Dashboard_Content_BookListItem:hover {
+.Dashboard_BookList_BookListItem:hover {
   opacity: .95;
 }
-.Dashboard_Content_BookListItem:active {
+.Dashboard_BookList_BookListItem:active {
   opacity: .9;
 }
-.Dashboard_Content_BookListItem-cover {
+.Dashboard_BookList_BookListItem-cover {
   width: 100%;
   margin-bottom: 10px;
   border-radius: 3px;
 }
-.Dashboard_Content_BookListItem-title {
+.Dashboard_BookList_BookListItem-title {
   font-style: normal;
 }

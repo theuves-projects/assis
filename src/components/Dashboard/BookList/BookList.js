@@ -9,9 +9,10 @@ const BookList = ({ booksCode }) => {
   }
 
   return (
-    <ul className='Dashboard_Content_BookList'>
+    <ul className='Dashboard_BookList'>
       {booksCode.map((code) => {
         const bookInfo = findBook(code)
+
         return (
           <BookListItem
             title={bookInfo.title}

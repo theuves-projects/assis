@@ -3,7 +3,9 @@ import { auth, database } from 'firebase'
 
 // Components
 import Profile from './Profile'
-import Content from './Content/Content'
+import Content from './Content'
+import NewBooks from './NewBooks'
+import BookList from './BookList/BookList'
 
 // Styles
 import './Dashboard.css'
@@ -19,6 +21,8 @@ class Dashboard extends Component {
     }
 
     database().ref(`users/${userId}`).once('value', (snapshot) => {
+      if (!this.state) return
+
       this.setState(snapshot.val())
     })
   }
@@ -35,7 +39,20 @@ class Dashboard extends Component {
               />
             </div>
             <div className="Dashboard-content">
-              <Content />
+              <Content>
+                {(() => {
+                  switch (this.props.match.params.option) {
+                    case 'new':
+                      return <NewBooks />
+                    case 'read':
+                      return <BookList />
+                    case 'reading':
+                      return <BookList />
+                    default:
+                      return <BookList />
+                  }
+                })()}
+              </Content>
             </div>
           </div>
         </div>

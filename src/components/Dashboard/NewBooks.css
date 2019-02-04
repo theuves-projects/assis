@@ -1,0 +1,20 @@
+.Dashboard_NewBooks-items {
+  display: flex;
+  padding: 10px 10px;
+  align-items: center;
+}
+.Dashboard_NewBooks-items:not(:last-child) {
+  border-bottom: solid 1px #ddd;
+}
+.Dashboard_NewBooks-items:hover {
+  background-color: #eee;
+}
+.Dashboard_NewBooks-name {
+  flex: 1;
+}
+.Dashboard_NewBooks-checkbox {
+  user-select: none;
+}
+.Dashboard_NewBooks-checkbox:last-child {
+  margin-left: 10px;
+}

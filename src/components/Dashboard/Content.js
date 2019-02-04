@@ -1,40 +1,46 @@
 import React from 'react'
-
-// Styles
+import { Link } from 'react-router-dom'
 import './Content.css'
 
 // Components
-import BookList from './BookList'
-import NewBooks from './NewBooks'
+import BookList from './BookList/BookList'
 
-const Content = () => (
+const Content = ({ children, history }) => (
   <div className='Dashboard_Content'>
 
     {/* Header */}
     <header className='Dashboard_Content-header'>
       <div>
-        <button className='Dashboard_Content-btn'>
+        <Link
+          className='Dashboard_Content-btn'
+          to='/dashboard/reading'
+        >
           <i className="fas fa-bookmark"></i>
           {` `}
           Lendo....
-        </button>
-        <button className='Dashboard_Content-btn'>
+        </Link>
+        <Link
+          className='Dashboard_Content-btn'
+          to='/dashboard/read'
+        >
           <i className="fas fa-book"></i>
           {` `}
           Lidos!
-        </button>
+        </Link>
       </div>
       <div>
-        <button className="Dashboard_Content-btn-new">
+        <Link
+          className="Dashboard_Content-btn-new"
+          to='/dashboard/new'
+        >
           <i className="fas fa-plus-circle"></i>
           {` `}
           Novo
-        </button>
+        </Link>
       </div>
     </header>
 
-    {/* <BookList /> */}
-    <NewBooks />
+    {children}
   </div>
 )
 

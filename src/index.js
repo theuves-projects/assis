@@ -53,27 +53,29 @@ class PrivateRoute extends Component {
         {...rest}
         exact
         render={(props) => {
-          switch (this.state.isLoggedIn || !!auth().currentUser) {
-            case true:
-              return (
-                <Component {...props} />
-              )
-            case false:
-              return (
-                <Redirect
-                  to={{
-                    pathname: '/',
-                    state: {
-                      from: props.location
-                    }
-                  }}
-                />
-              )
-            default:
-              return (
-                <Loading />
-              )
+          if (
+            this.state.isLoggedIn === undefined &&
+            auth().currentUser === null
+          ) {
+            return <Loading />
           }
+          if (
+            this.state.isLoggedIn ||
+            !!auth().currentUser
+          ) {
+            return <Component {...props} />
+          }
+
+          return (
+            <Redirect
+              to={{
+                pathname: '/',
+                state: {
+                  from: props.location
+                }
+              }}
+            />
+          )
         }}
       />
     )
@@ -103,27 +105,29 @@ class PublicRoute extends Component {
         {...rest}
         exact
         render={(props) => {
-          switch (this.state.isLoggedIn || !!auth().currentUser) {
-            case false:
-              return (
-                <Component {...props} />
-              )
-            case true:
-              return (
-                <Redirect
-                  to={{
-                    pathname: '/dashboard',
-                    state: {
-                      from: props.location
-                    }
-                  }}
-                />
-              )
-            default:
-              return (
-                <Loading />
-              )
+          if (
+            this.state.isLoggedIn === undefined &&
+            auth().currentUser === null
+          ) {
+            return <Loading />
           }
+          if (
+            !this.state.isLoggedIn ||
+            !auth().currentUser
+          ) {
+            return <Component {...props} />
+          }
+
+          return (
+            <Redirect
+              to={{
+                pathname: '/dashboard',
+                state: {
+                  from: props.location
+                }
+              }}
+            />
+          )
         }}
       />
     )
@@ -138,6 +142,7 @@ class App extends Component {
           <PublicRoute path='/' component={Home} />
           <PublicRoute path='/login' component={Login} />
           <PrivateRoute path='/dashboard' component={Dashboard} />
+          <PrivateRoute path='/dashboard/:option' component={Dashboard} />
         </Layout>
       </Router>
     )

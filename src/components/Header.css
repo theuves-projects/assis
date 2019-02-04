@@ -33,8 +33,9 @@
 }
 .Header-btn {
   display: flex;
-  padding: none;
+  padding: 0;
   border: none;
+  font-size: 1em;
   text-decoration: none;
   align-items: center;
   color: currentColor;

@@ -17,7 +17,7 @@ const Profile = ({
       {name}
     </h1>
     <p className='Dashboard_Profile-username'>
-      {username}
+      @{username}
     </p>
   </div>
 )
