@@ -1,14 +1,7 @@
 import React, { Component } from 'react'
-
-// Styles
-import './Book.css'
-
-// Components
 import Text from './Text'
-
-// !!! Só para teste !!!
-import book from '../../content/texts/dom-casmurro.json'
-// !!! Só para teste !!!
+import { findBook } from '../../books'
+import './Book.css'
 
 class Book extends Component {
   constructor(props) {
@@ -46,6 +39,8 @@ class Book extends Component {
     })
   }
   render() {
+    const book = findBook(parseInt(this.props.match.params.code)).text
+
     return (
       <section className='Book'>
         <div className='container'>

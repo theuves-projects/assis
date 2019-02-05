@@ -1,6 +1,6 @@
 .Dashboard_BookList {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(3, calc((100% - 2 * 10px) / 3));
   grid-gap: 10px;
   list-style: none;
 }

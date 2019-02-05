@@ -160,6 +160,7 @@ class App extends Component {
           <PublicRoute path='/login' component={Login} />
           <PrivateRoute path='/dashboard' component={Dashboard} />
           <PrivateRoute path='/dashboard/:option' component={Dashboard} />
+          <PrivateRoute path='/book/:code' component={Book} />
         </Layout>
       </Router>
     )

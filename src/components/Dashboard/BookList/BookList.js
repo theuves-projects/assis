@@ -10,12 +10,13 @@ const BookList = ({ booksCode }) => {
 
   return (
     <ul className='Dashboard_BookList'>
-      {booksCode.map((code, index) => {
+      {booksCode.map((code) => {
         const bookInfo = findBook(code)
 
         return (
           <BookListItem
-            key={index}
+            key={code}
+            code={code}
             title={bookInfo.title}
             coverUrl={bookInfo.coverUrl}
           />

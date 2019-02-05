@@ -10,12 +10,15 @@ class NewBooks extends Component {
     this.onChange = this.onChange.bind(this)
     this.resolveBooksCode = this.resolveBooksCode.bind(this)
 
-    this.state = this.props.books || {
-      reading: [],
-      read: []
-    }
+    this.state = {}
   }
   componentWillUpdate(_, nextState) {
+    if (!nextState.reading && !nextState.read) {
+      this.setState({
+        reading: [],
+        read: []
+      })
+    }
     if (nextState.reading.length === 0 && nextState.read.length === 0) {
       return
     }
@@ -25,7 +28,7 @@ class NewBooks extends Component {
   getUserId() {
     return auth().currentUser.uid
   }
-  resolveBooksCode(data, check, bookCode) {
+  resolveBooksCode(data = [], check, bookCode) {
     data = [...data]
 
     if (check) {
