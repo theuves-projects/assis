@@ -1,14 +1,13 @@
 import React, { Fragment, Component } from 'React'
 import { Link } from 'react-router-dom'
 import { auth, database } from 'firebase'
+import getAvatar from '../utils/getAvatar'
 import './Header.css'
 
 class Header extends Component {
   constructor(props) {
     super(props)
-
     this.state = {}
-    
     this.refreshData = this.refreshData.bind(this)
 
     auth().onAuthStateChanged((user) => {
@@ -58,7 +57,7 @@ class Header extends Component {
                     <span className='Header-user-name'>{this.state.name}</span>
                     <img
                       className='Header-user-avatar'
-                      src={`https://api.adorable.io/avatars/200/${this.state.uid}.png`}
+                      src={getAvatar(this.state.uid)}
                       alt='Avatar'
                     />
                   </div>

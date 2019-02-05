@@ -1,4 +1,5 @@
 import React from 'react'
+import getAvatar from '../../utils/getAvatar'
 import './Profile.css'
 
 const Profile = ({
@@ -8,7 +9,7 @@ const Profile = ({
 }) => (
   <div className='Dashboard_Profile'>
     <img
-      src={`https://api.adorable.io/avatars/200/${uid}.png`}
+      src={getAvatar(uid)}
       className='Dashboard_Profile-avatar'
     />
     <h1 className='Dashboard_Profile-name'>

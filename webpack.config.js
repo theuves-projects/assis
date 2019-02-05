@@ -1,8 +1,10 @@
 const HtmlWebpackPlugin = require('html-webpack-plugin')
+const CopyWebpackPlugin = require('copy-webpack-plugin')
 const path = require('path')
 
 module.exports = {
   output: {
+    path: path.resolve(__dirname, 'dist'),
     publicPath: '/'
   },
   mode: process.env.NODE_ENV === 'production' ? 'production' : 'development',
@@ -50,6 +52,9 @@ module.exports = {
     historyApiFallback: true
   },
   plugins: [
+    new CopyWebpackPlugin([
+      { from: 'src/content/texts', to: 'src/content/'}
+    ]),
     new HtmlWebpackPlugin({
       inject: false,
       hash: true,

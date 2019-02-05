@@ -10,19 +10,12 @@ class NewBooks extends Component {
     this.onChange = this.onChange.bind(this)
     this.resolveBooksCode = this.resolveBooksCode.bind(this)
 
-    this.state = {}
+    this.state = Object.assign({
+      reading: [],
+      read: []
+    }, this.props.books)
   }
   componentWillUpdate(_, nextState) {
-    if (!nextState.reading && !nextState.read) {
-      this.setState({
-        reading: [],
-        read: []
-      })
-    }
-    if (nextState.reading.length === 0 && nextState.read.length === 0) {
-      return
-    }
-
     database().ref(`users/${this.getUserId()}/books`).set(nextState)
   }
   getUserId() {
