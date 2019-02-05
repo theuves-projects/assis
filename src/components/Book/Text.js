@@ -1,6 +1,4 @@
 import React from 'react'
-
-// Styles
 import './Text.css'
 
 const cn = (classes) => classes.join(' ')

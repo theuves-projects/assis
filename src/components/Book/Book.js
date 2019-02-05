@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import Text from './Text'
-import { findBook } from '../../books'
+import { findBook } from '../../utils/books'
 import './Book.css'
 
 class Book extends Component {

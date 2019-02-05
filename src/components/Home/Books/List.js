@@ -1,9 +1,5 @@
 import React from 'react'
-
-// Components
 import ListItem from './ListItem'
-
-// Styles
 import './List.css'
 
 const bookInformations = [{

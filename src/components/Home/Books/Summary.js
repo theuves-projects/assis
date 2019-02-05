@@ -1,6 +1,4 @@
 import React, { Component } from 'react'
-
-// Styles
 import './Summary.css'
 
 const summaries = [{

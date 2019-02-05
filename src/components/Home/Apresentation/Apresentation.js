@@ -1,10 +1,6 @@
 import React, { Component } from 'react'
 import { auth, database } from 'firebase'
-
-// Components
 import Form from './Form.js'
-
-// Styles
 import './Apresentation.css'
 
 class Apresentation extends Component {

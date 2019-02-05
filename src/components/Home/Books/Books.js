@@ -1,10 +1,6 @@
 import React, { Component } from 'react'
-
-// Components
 import Summary from './Summary'
 import List from './List'
-
-// Styles
 import './Books.css'
 
 class Books extends Component {

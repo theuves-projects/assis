@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import { auth, database } from 'firebase'
-import bookList from '../../books'
+import bookList from '../../utils/books'
 import './NewBooks.css'
 
 class NewBooks extends Component {

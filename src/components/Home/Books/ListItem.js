@@ -1,6 +1,4 @@
 import React from 'react'
-
-// Styles
 import './ListItem.css'
 
 const ListItem = ({

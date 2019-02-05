@@ -1,9 +1,6 @@
 import React from 'react'
-
-// Styles
 import './Footer.css'
 
-// Images
 import imgPublicDomain from '../../images/Home_Footer-public-domain.png'
 
 const links = [{

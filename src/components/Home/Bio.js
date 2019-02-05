@@ -1,17 +1,14 @@
 import React from 'react'
-
-// Styles
 import './Bio.css'
 
-// Images
-import author from '../../images/Home_Bio-author.jpg'
+import imgAuthor from '../../images/Home_Bio-author.jpg'
 
 const Bio = () => (
   <section className='Home_Bio'>
     <div className="container">
       <article>
         <header className='Home_Bio-header'>
-          <img className='Home_Bio-author' src={author} />
+          <img className='Home_Bio-author' src={imgAuthor} />
           <h1 className='Home_Bio-title'>Quem é Machado de Assis?</h1>
         </header>
         <p className='Home_Bio-text'>

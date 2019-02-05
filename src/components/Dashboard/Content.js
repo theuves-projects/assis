@@ -1,9 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-import './Content.css'
-
-// Components
 import BookList from './BookList/BookList'
+import './Content.css'
 
 const Content = ({ children, history }) => (
   <div className='Dashboard_Content'>

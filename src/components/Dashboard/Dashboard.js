@@ -1,8 +1,8 @@
 import React, { Component } from 'react'
 import { auth, database } from 'firebase'
-import Loading from '../Loading'
 
 // Components
+import Loading from '../Loading'
 import Profile from './Profile'
 import Content from './Content'
 import NewBooks from './NewBooks'

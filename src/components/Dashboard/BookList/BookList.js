@@ -1,5 +1,5 @@
 import React from 'react'
-import { findBook } from '../../../books'
+import { findBook } from '../../../utils/books'
 import BookListItem from './BookListItem'
 import './BookList.css'
 
