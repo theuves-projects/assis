@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import { auth, database } from 'firebase'
+import Loading from '../Loading'
 
 // Components
 import Profile from './Profile'
@@ -14,17 +15,9 @@ class Dashboard extends Component {
   constructor(props) {
     super(props)
 
-    const userId = auth().currentUser.uid
-
     this.state = {
-      uid: userId
+      uid: auth().currentUser.uid
     }
-
-    database().ref(`users/${userId}`).once('value', (snapshot) => {
-      if (!this.state) return
-
-      this.setState(snapshot.val())
-    })
   }
   render() {
     return (
@@ -34,8 +27,8 @@ class Dashboard extends Component {
             <div className="Dashboard-profile">
               <Profile
                 uid={this.state.uid}
-                name={this.state.name}
-                username={this.state.username}
+                name={this.props.data.name}
+                username={this.props.data.username}
               />
             </div>
             <div className="Dashboard-content">
@@ -43,13 +36,13 @@ class Dashboard extends Component {
                 {(() => {
                   switch (this.props.match.params.option) {
                     case 'new':
-                      return <NewBooks />
+                      return <NewBooks books={this.props.data.books} />
                     case 'read':
-                      return <BookList />
+                      return <BookList booksCode={this.props.data.books.read} />
                     case 'reading':
-                      return <BookList />
+                      return <BookList booksCode={this.props.data.books.reading} />
                     default:
-                      return <BookList />
+                      return <BookList booksCode={this.props.data.books.reading} />
                   }
                 })()}
               </Content>

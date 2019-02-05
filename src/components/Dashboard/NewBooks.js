@@ -10,15 +10,10 @@ class NewBooks extends Component {
     this.onChange = this.onChange.bind(this)
     this.resolveBooksCode = this.resolveBooksCode.bind(this)
 
-    this.state = {
+    this.state = this.props.books || {
       reading: [],
       read: []
     }
-
-    database().ref(`users/${this.getUserId()}/books`).once('value', (snapshot) => {
-      if (!this.state) return
-      if (snapshot.val()) this.setState(snapshot.val())
-    })
   }
   componentWillUpdate(_, nextState) {
     if (nextState.reading.length === 0 && nextState.read.length === 0) {

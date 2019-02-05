@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import ReactDOM from 'react-dom'
 import { BrowserRouter as Router, Route, Redirect } from 'react-router-dom'
 import { hot } from 'react-hot-loader/root'
-import firebase, { auth } from 'firebase'
+import firebase, { auth, database } from 'firebase'
 
 // Components
 import Layout from './components/Layout'
@@ -43,7 +43,20 @@ class PrivateRoute extends Component {
       this.setState({
         isLoggedIn: !!user
       })
+
+      if (user) {
+        const userId = auth().currentUser.uid
+
+        database().ref(`users/${userId}`).once('value', (snapshot) => {
+          if (!this.state) return
+
+          this.setState({
+            data: snapshot.val()
+          })
+        })
+      }
     })
+
   }
   render() {
     const { component: Component, ...rest } = this.props
@@ -63,7 +76,11 @@ class PrivateRoute extends Component {
             this.state.isLoggedIn ||
             !!auth().currentUser
           ) {
-            return <Component {...props} />
+            if (!this.state.data) {
+              return <Loading />
+            }
+
+            return <Component {...props} data={this.state.data} />
           }
 
           return (
