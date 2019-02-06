@@ -31,7 +31,7 @@ class Dashboard extends Component {
               />
             </div>
             <div className="Dashboard-content">
-              <Content>
+              <Content option={this.props.match.params.option}>
                 {(() => {
                   switch (this.props.match.params.option) {
                     case 'new':

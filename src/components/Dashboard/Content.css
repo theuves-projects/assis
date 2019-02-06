@@ -26,9 +26,14 @@
   border: solid 1px #d07f08;
   background-image: linear-gradient(to top, #ff9800, #ffc107);
 }
-/*.Dashboard_Content-btn:first-child {
-  margin-left: 0;
+.Dashboard_Content-btn.active,
+.Dashboard_Content-btn-new.active {
+  color: #eee;
+  font-style: italic;
 }
-.Dashboard_Content-btn:last-child {
-  margin-right: 0;
-}*/
+.Dashboard_Content-btn.active {
+  background-image: linear-gradient(to bottom, #ec4d1b, #ff5722);
+}
+.Dashboard_Content-btn-new.active {
+  background-image: linear-gradient(to bottom, #ff9800, #ffc107);
+}
