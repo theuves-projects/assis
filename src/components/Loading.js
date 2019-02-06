@@ -1,11 +1,11 @@
 import React from 'react'
 import './Loading.css'
 
-const Loading = () => (
+const Loading = ({ children }) => (
   <div>
     <div className='Loading-icon'></div>
     <p className='Loading-text'>
-      Aguarde...
+      {children || 'Carregando...'}
     </p>
   </div>
 )

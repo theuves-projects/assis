@@ -1,6 +1,8 @@
 import React, { Component } from 'react'
 import Text from './Text'
+import axios from 'axios'
 import { findBook } from '../../utils/books'
+import Loading from '../Loading'
 import './Book.css'
 
 class Book extends Component {
@@ -17,6 +19,18 @@ class Book extends Component {
       fontSize: 'normal',
       fontFamily: 'serif'
     }
+
+    const dataPath = findBook(parseInt(this.props.match.params.code)).dataPath
+  
+    axios.get(dataPath)
+      .then((response) => {
+        this.setState({
+          data: response.data
+        })
+      })
+      .catch((err) => {
+        alert('Houve algum erro! Não foi possível obter o livro.')
+      })
   }
   changeChapter(event) {
     this.setState({
@@ -39,7 +53,11 @@ class Book extends Component {
     })
   }
   render() {
-    const book = findBook(parseInt(this.props.match.params.code)).text
+    if (!this.state.data) return (
+      <Loading>
+        Carregando o livro...
+      </Loading>
+    )
 
     return (
       <section className='Book'>
@@ -57,7 +75,7 @@ class Book extends Component {
                   value={this.state.currentChapter}
                   onChange={this.changeChapter}
                 >
-                  {book.map((chapter, index) => (
+                  {this.state.data.map((chapter, index) => (
                     <option
                       className='Book-select-option'
                       key={index}
@@ -103,7 +121,7 @@ class Book extends Component {
             </div>
           </div>
           <Text
-            book={book[this.state.currentChapter]}
+            book={this.state.data[this.state.currentChapter]}
             fontSize={this.state.fontSize}
             fontFamily={this.state.fontFamily}
             onReqNextChapter={this.nextChapter}
