@@ -78,7 +78,7 @@ class Book extends Component {
     this.setState({
       config: {
         ...this.state.config,
-        currentChapter: this.state.currentChapter + 1,
+        currentChapter: this.state.config.currentChapter + 1,
       }
     })
   }
