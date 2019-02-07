@@ -12,10 +12,7 @@ class Books extends Component {
     }
   }
   onSelectBook(index) {
-    if (this.state.index === index) {
-      return
-    }
-
+    if (this.state.index === index) return
     this.setState({
       bookIndex: index
     })
