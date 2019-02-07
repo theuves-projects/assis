@@ -44,6 +44,8 @@ class Book extends Component {
       })
   }
   componentWillUpdate(nextProps, nextState) {
+    window.scrollTo(0, 0)
+
     if (JSON.stringify(this.state) !== JSON.stringify(nextState)) {
       const uid = auth().currentUser.uid
       const bookCode = this.props.match.params.code
