@@ -2,6 +2,7 @@ import React, { Fragment, Component } from 'React'
 import { Link } from 'react-router-dom'
 import { auth, database } from 'firebase'
 import getAvatar from '../utils/getAvatar'
+import getFirstName from '../utils/getFirstName'
 import './Header.css'
 
 class Header extends Component {
@@ -54,7 +55,7 @@ class Header extends Component {
               {this.state.isLoggedIn ? (
                 <Fragment>
                   <div className='Header-user'>
-                    <span className='Header-user-name'>{this.state.name}</span>
+                    <span className='Header-user-name'>{getFirstName(this.state.name)}</span>
                     <img
                       className='Header-user-avatar'
                       src={getAvatar(this.state.uid)}
