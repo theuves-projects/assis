@@ -1,15 +1,16 @@
 .Dashboard_Content {
-
+  /* ... */
 }
 .Dashboard_Content-header {
   display: flex;
   justify-content: space-between;
   margin-bottom: 20px;
-  padding-bottom: 10px;
+  padding-bottom: 8px;
   border-bottom: solid 1px #ddd;
 }
 .Dashboard_Content-btn,
 .Dashboard_Content-btn-new {
+  display: inline-block;
   padding: 6px 20px;
   margin: 0 5px;
   border-radius: 3px;
