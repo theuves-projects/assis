@@ -49,7 +49,12 @@ class Header extends Component {
         <div className='container'>
           <div className='Header-flex'>
             <h1>
-              <Link to='/' className='Header-brand'>Assis</Link>
+              <Link
+                to={this.state.isLoggedIn ? '/dashboard' : '/'}
+                className='Header-brand'
+              >
+                Assis
+              </Link>
             </h1>
             <div className='Header-actions'>
               {this.state.isLoggedIn ? (
