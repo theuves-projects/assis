@@ -14,11 +14,47 @@ import './Dashboard.css'
 class Dashboard extends Component {
   constructor(props) {
     super(props)
-    this.state = {
-      uid: auth().currentUser.uid
+    const isLoggedIn = !!auth().currentUser
+    const uid = isLoggedIn ? uid : null
+
+    if (isLoggedIn) {
+      this.state = {
+        isLoggedIn: true,
+        userExists: true,
+        uid: auth().currentUser.uid,
+        data: this.props.data
+      }
+    } else {
+      this.state = {}
+      const username = this.props.match.params.username
+
+      database().ref(`users`).once('value', (snapshot) => {
+        if (!this.state) return
+
+        const data = snapshot.val()
+        const userData = Object
+          .values(data)
+          .find((user) => user.username === username) || {}
+
+        this.setState({
+          userExists: Object.keys(userData).length !== 0,
+          isLoggedIn: false,
+          uid: userData.uid,
+          data: userData
+        })
+      })
     }
   }
   render() {
+    if (!this.state.data) return <Loading msg='Carregando usuário...' />
+    if (!this.state.userExists) return (
+      <div className='container'>
+        <h1 className='Dashboard-userNotFound'>
+          Usuário não existe!
+        </h1>
+      </div>
+    )
+
     return (
       <section className='Dashboard'>
         <div className='container'>
@@ -26,22 +62,26 @@ class Dashboard extends Component {
             <div className="Dashboard-profile">
               <Profile
                 uid={this.state.uid}
-                name={this.props.data.name}
-                username={this.props.data.username}
+                name={this.state.data.name}
+                username={this.state.data.username}
               />
             </div>
             <div className="Dashboard-content">
-              <Content option={this.props.match.params.option}>
+              <Content
+                isLoggedIn={this.state.isLoggedIn}
+                option={this.props.match.params.option}
+              >
                 {(() => {
                   switch (this.props.match.params.option) {
                     case 'new':
-                      return <NewBooks books={this.props.data.books} />
+                      // Se não estiver logado então nào pula para próxima verificação.
+                      if (this.state.isLoggedIn) return <NewBooks books={this.state.data.books} />
                     case 'read':
-                      return <BookList booksCode={this.props.data.books.read} />
+                      return <BookList booksCode={this.state.data.books.read} />
                     case 'reading':
-                      return <BookList booksCode={this.props.data.books.reading} />
+                      return <BookList booksCode={this.state.data.books.reading} />
                     default:
-                      return <BookList booksCode={this.props.data.books.reading} />
+                      return <BookList booksCode={this.state.data.books.reading} />
                   }
                 })()}
               </Content>

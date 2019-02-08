@@ -1,6 +1,10 @@
 .Dashboard {
   margin-bottom: 100px;
 }
+.Dashboard-userNotFound {
+  margin-top: 75px;
+  text-align: center;
+}
 .Dashboard-row {
   margin-top: 50px;
   display: flex;

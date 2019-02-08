@@ -1,41 +1,58 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
+import createClassName from '../../utils/createClassName'
 import BookList from './BookList/BookList'
 import './Content.css'
 
-const Content = ({ children, option, history }) => (
+const Content = ({
+  isLoggedIn,
+  option,
+  history,
+  children
+}) => (
   <div className='Dashboard_Content'>
 
     {/* Header */}
     <header className='Dashboard_Content-header'>
       <div>
         <Link
-          className={'Dashboard_Content-btn' + ((!option || option === 'reading') ? ' active' : '')}
-          to='/dashboard/reading'
+          className={createClassName([
+            'Dashboard_Content-btn',
+             !option || option === 'reading' ? 'active' : null
+          ])}
+          to='reading'
         >
           <i className='fas fa-bookmark'></i>
           {` `}
           Lendo....
         </Link>
         <Link
-          className={'Dashboard_Content-btn' + (option === 'read' ? ' active' : '')}
-          to='/dashboard/read'
+          className={createClassName([
+            'Dashboard_Content-btn',
+            option === 'read' ? 'active' : null
+          ])}
+          to='read'
         >
           <i className='fas fa-book'></i>
           {` `}
           Lidos!
         </Link>
       </div>
-      <div>
-        <Link
-          className={'Dashboard_Content-btn-new' + (option === 'new' ? ' active' : '')}
-          to='/dashboard/new'
-        >
-          <i className='fas fa-plus-circle'></i>
-          {` `}
-          Novo
-        </Link>
-      </div>
+      {isLoggedIn ? (
+        <div>
+          <Link
+            className={createClassName([
+              'Dashboard_Content-btn-new',
+              option === 'new' ? ' active' : null
+            ])}
+            to='new'
+          >
+            <i className='fas fa-plus-circle'></i>
+            {` `}
+            Novo
+          </Link>
+        </div>
+      ) : null}
     </header>
 
     {children}

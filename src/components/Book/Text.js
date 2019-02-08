@@ -1,7 +1,6 @@
 import React from 'react'
+import createClassName from '../../utils/createClassName'
 import './Text.css'
-
-const cn = (classes) => classes.join(' ')
 
 const Text = ({
   book,
@@ -10,7 +9,7 @@ const Text = ({
   fontFamily
 }) => (
   <article
-    className={cn([
+    className={createClassName([
       'Book_Text',
       `Book_Text-fontSize-${fontSize}`,
       `Book_Text-fontFamily-${fontFamily}`

@@ -7,10 +7,6 @@
   text-align: justify;
   line-height: 180%;
 }
-
-/**
- * Header do texto.
- */
 .Book_Text-header {
   text-align: center;
   text-transform: uppercase;
@@ -25,10 +21,6 @@
   font-style: italic;
   color: gray;
 }
-
-/**
- * Outros.
- */
 .Book_Text-content {
   margin-bottom: 50px;
 }
@@ -48,10 +40,6 @@
 .Book_Text-btn:active {
   opacity: .9;
 }
-
-/**
- * Parágrafo.
- */
 .Book_Text-p {
   margin-bottom: 15px;
 }
@@ -59,8 +47,12 @@
   text-align: center;
 }
 
+/*****************
+ * CONFIGURAÇÕES *
+ *****************/
+
 /**
- * Relativo ao tamanho da fonte.
+ * Tamanho da fonte.
  */
 .Book_Text-fontSize-small {
   font-size: 1em;
@@ -73,7 +65,7 @@
 }
 
 /**
- * Relativo à família da fonte.
+ * Família da fonte.
  */
 .Book_Text-fontFamily-serif {
   font-family: Georgia, Times, 'Times New Roman', serif;
