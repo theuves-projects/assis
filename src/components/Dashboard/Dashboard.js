@@ -69,7 +69,7 @@ class Dashboard extends Component {
             <div className="Dashboard-content">
               <Content
                 isLoggedIn={this.state.isLoggedIn}
-                option={this.props.match.params.option || 'reading'}
+                option={this.props.match.params.option}
                 url={this.props.match.url}
               >
                 {(() => {

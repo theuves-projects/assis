@@ -21,7 +21,7 @@ const Content = ({
             'Dashboard_Content-btn',
              !option || option === 'reading' ? 'active' : null
           ])}
-          to={url.replace(/\w+$/, 'reading')}
+          to={!option ? `${url}/reading` : url.replace(/\w+$/, 'reading')}
         >
           <i className='fas fa-bookmark'></i>
           {` `}
@@ -32,7 +32,7 @@ const Content = ({
             'Dashboard_Content-btn',
             option === 'read' ? 'active' : null
           ])}
-          to={url.replace(/\w+$/, 'read')}
+          to={!option ? `${url}/read` : url.replace(/\w+$/, 'read')}
         >
           <i className='fas fa-book'></i>
           {` `}
@@ -46,7 +46,7 @@ const Content = ({
               'Dashboard_Content-btn-new',
               option === 'new' ? ' active' : null
             ])}
-            to={url.replace(/\w+$/, 'new')}
+            to={!option ? `${url}/new` : url.replace(/\w+$/, 'new')}
           >
             <i className='fas fa-plus-circle'></i>
             {` `}
