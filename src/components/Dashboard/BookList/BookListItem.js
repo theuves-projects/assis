@@ -1,20 +1,45 @@
-import React from 'react'
+import React, { Fragment } from 'react'
 import { Link } from 'react-router-dom'
 import './BookListItem.css'
 
-const BookListItem = ({ code, title, coverUrl }) => (
+const Book = ({ title, coverUrl }) => (
+  <Fragment>
+    <img
+      className='Dashboard_BookList_BookListItem-cover'
+      src={coverUrl}
+      alt={`Capa do livro ${title}`}
+    />
+    <cite className='Dashboard_BookList_BookListItem-title'>
+      {title}
+    </cite>
+  </Fragment>
+)
+
+const BookListItem = ({
+  code,
+  isLoggedIn,
+  title,
+  coverUrl
+}) => (
   <li>
-    <Link
-      className='Dashboard_BookList_BookListItem'
-      to={`/book/${code}`}
-    >
-      <img
-        className='Dashboard_BookList_BookListItem-cover'
-        src={coverUrl}
-        alt={`Capa do livro ${title}`}
-      />
-      <cite className='Dashboard_BookList_BookListItem-title'>{title}</cite>
-    </Link>
+    {isLoggedIn ? (
+      <Link
+        className='Dashboard_BookList_BookListItem'
+        to={`/book/${code}`}
+      >
+        <Book
+          title={title}
+          coverUrl={coverUrl}
+        />
+      </Link>
+    ) : (
+      <div className='Dashboard_BookList_BookListItem'>
+        <Book
+          title={title}
+          coverUrl={coverUrl}
+        />
+      </div>
+    )}
   </li>
 )
 

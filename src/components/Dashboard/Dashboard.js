@@ -69,19 +69,30 @@ class Dashboard extends Component {
             <div className="Dashboard-content">
               <Content
                 isLoggedIn={this.state.isLoggedIn}
-                option={this.props.match.params.option}
+                option={this.props.match.params.option || 'reading'}
+                url={this.props.match.url}
               >
                 {(() => {
-                  switch (this.props.match.params.option) {
+                  switch (this.props.match.params.option || 'reading') {
                     case 'new':
                       // Se não estiver logado então nào pula para próxima verificação.
                       if (this.state.isLoggedIn) return <NewBooks books={this.state.data.books} />
                     case 'read':
-                      return <BookList booksCode={this.state.data.books.read} />
+                      return (
+                        <BookList
+                          isLoggedIn={this.state.isLoggedIn}
+                         booksCode={this.state.data.books.read}
+                        />
+                      )
                     case 'reading':
-                      return <BookList booksCode={this.state.data.books.reading} />
+                      return (
+                        <BookList
+                          isLoggedIn={this.state.isLoggedIn}
+                          booksCode={this.state.data.books.reading}
+                        />
+                      )
                     default:
-                      return <BookList booksCode={this.state.data.books.reading} />
+                      return <h1>Não encontrado!</h1>
                   }
                 })()}
               </Content>

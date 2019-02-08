@@ -32,8 +32,8 @@ class App extends Component {
         <Layout>
           <PublicRoute path='/' component={Home} />
           <PublicRoute path='/login' component={Login} />
-          <PublicRoute path='/u/:username' component={Dashboard} />
-          <PublicRoute path='/u/:username/:option' component={Dashboard} />
+          {/* <PublicRoute path='/u/:username' component={Dashboard} /> */}
+          <PublicRoute path='/u/:username/:option?' component={Dashboard} />
           <PrivateRoute path='/dashboard' component={Dashboard} />
           <PrivateRoute path='/dashboard/:option' component={Dashboard} />
           <PrivateRoute path='/book/:code' component={Book} />

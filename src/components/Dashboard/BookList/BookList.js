@@ -3,7 +3,7 @@ import { findBook } from '../../../utils/books'
 import BookListItem from './BookListItem'
 import './BookList.css'
 
-const BookList = ({ booksCode }) => {
+const BookList = ({ isLoggedIn, booksCode }) => {
   if (!booksCode || booksCode.length === 0) {
     return <p>Você não escolheu nenhum livro ainda.</p>
   }
@@ -17,6 +17,7 @@ const BookList = ({ booksCode }) => {
           <BookListItem
             key={code}
             code={code}
+            isLoggedIn={isLoggedIn}
             title={bookInfo.title}
             coverUrl={bookInfo.coverUrl}
           />

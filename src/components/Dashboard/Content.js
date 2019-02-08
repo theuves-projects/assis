@@ -8,6 +8,7 @@ const Content = ({
   isLoggedIn,
   option,
   history,
+  url,
   children
 }) => (
   <div className='Dashboard_Content'>
@@ -20,7 +21,7 @@ const Content = ({
             'Dashboard_Content-btn',
              !option || option === 'reading' ? 'active' : null
           ])}
-          to='reading'
+          to={url.replace(/\w+$/, 'reading')}
         >
           <i className='fas fa-bookmark'></i>
           {` `}
@@ -31,7 +32,7 @@ const Content = ({
             'Dashboard_Content-btn',
             option === 'read' ? 'active' : null
           ])}
-          to='read'
+          to={url.replace(/\w+$/, 'read')}
         >
           <i className='fas fa-book'></i>
           {` `}
@@ -45,7 +46,7 @@ const Content = ({
               'Dashboard_Content-btn-new',
               option === 'new' ? ' active' : null
             ])}
-            to='new'
+            to={url.replace(/\w+$/, 'new')}
           >
             <i className='fas fa-plus-circle'></i>
             {` `}
