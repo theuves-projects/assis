@@ -1,11 +1,11 @@
 import React from 'react'
 import './Loading.css'
 
-const Loading = ({ children }) => (
+const Loading = ({ msg }) => (
   <div>
     <div className='Loading-icon'></div>
     <p className='Loading-text'>
-      {children || 'Carregando...'}
+      {msg || 'Carregando...'}
     </p>
   </div>
 )

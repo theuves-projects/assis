@@ -85,11 +85,7 @@ class Book extends Component {
     })
   }
   render() {
-    if (!this.state.data) return (
-      <Loading>
-        Carregando o livro...
-      </Loading>
-    )
+    if (!this.state.data) return <Loading msg='Carregando o livro...' />
 
     return (
       <section className='Book'>
