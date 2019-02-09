@@ -1,13 +1,14 @@
 import React, { Component } from 'react'
 import { auth, database } from 'firebase'
 import bookList from '../../utils/books'
+import Checkbox from './Checkbox'
 import './NewBooks.css'
 
 class NewBooks extends Component {
   constructor(props) {
     super(props)
 
-    this.onChange = this.onChange.bind(this)
+    this.handleCheckbox = this.handleCheckbox.bind(this)
     this.resolveBooksCode = this.resolveBooksCode.bind(this)
 
     this.state = Object.assign({
@@ -21,21 +22,19 @@ class NewBooks extends Component {
   getUserId() {
     return auth().currentUser.uid
   }
-  resolveBooksCode(data = [], check, bookCode) {
+  resolveBooksCode(data = [], isChecked, bookCode) {
     data = [...data]
 
-    if (check) {
-      if (data.includes(bookCode)) {
-        return data
-      }
-
+    if (!isChecked) {
+      if (data.includes(bookCode)) return data
       return data.concat(bookCode)
     }
 
-    return data.filter((_bookCode) => _bookCode !== bookCode)
+    return data.filter((bookCode_) => bookCode_ !== bookCode)
   }
-  onChange(value, bookCode, type) {
+  handleCheckbox(value, bookCode, type) {
     if (!this.state) return
+    value = value === 'true' ? true : false
 
     switch (type) {
       case 'reading': {
@@ -64,28 +63,32 @@ class NewBooks extends Component {
               <cite>{book.title}</cite> (<time>{book.year}</time>)
             </div>
             <div className='Dashboard_NewBooks-checkbox'>
-              <label htmlFor={`checkerReading${bookCode}`}>
-                <input
-                  id={`checkerReading${bookCode}`}
-                  type='checkbox'
-                  checked={this.state.reading.includes(bookCode)}
-                  onChange={(event) => this.onChange(event.target.checked, bookCode, 'reading')}
-                />
-                {` `}
-                Lendo?
-              </label>
+              <Checkbox
+                checked={this.state.reading.includes(bookCode)}
+                onClick={
+                  (event) =>
+                    this.handleCheckbox(
+                      event.target.dataset.checked,
+                      bookCode,
+                      'reading'
+                    )
+                }
+              />
+              <span>Lendo?</span>
             </div>
             <div className='Dashboard_NewBooks-checkbox'>
-              <label htmlFor={`checkerRead${bookCode}`}>
-                <input
-                  id={`checkerRead${bookCode}`}
-                  type='checkbox'
-                  checked={this.state.read.includes(bookCode)}
-                  onChange={(event) => this.onChange(event.target.checked, bookCode, 'read')}
-                />
-                {` `}
-                Lido?
-              </label>
+              <Checkbox
+                checked={this.state.read.includes(bookCode)}
+                onClick={
+                  (event) =>
+                    this.handleCheckbox(
+                      event.target.dataset.checked,
+                      bookCode,
+                      'read'
+                    )
+                }
+              />
+              <span>Lido!</span>
             </div>
           </div>
         ))}

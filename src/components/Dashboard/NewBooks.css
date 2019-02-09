@@ -13,8 +13,11 @@
   flex: 1;
 }
 .Dashboard_NewBooks-checkbox {
+  display: flex;
+  align-items: center;
   user-select: none;
 }
-.Dashboard_NewBooks-checkbox:last-child {
-  margin-left: 10px;
+
+.Dashboard_NewBooks-checkbox > div {
+  margin: 0 8px !important;
 }
