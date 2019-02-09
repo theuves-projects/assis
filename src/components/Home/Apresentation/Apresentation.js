@@ -17,29 +17,49 @@ class Apresentation extends Component {
   }) {
     const { redirectTo } = this.props
 
-    if (!auth().currentUser) {
-      auth()
-        .createUserWithEmailAndPassword(userEmail, userPassword)
-        .then((data) => {
-          const uid = data.user.uid
+    database().ref('users').once('value', (snapshot) => {
+      const val = snapshot.val()
+      const users = Object.values(val) || []
+      const hasUser = !!users.find((user) => user.username === userUsername)
 
-          database().ref(`users/${uid}`).set({
-            name: userName,
-            username: userUsername,
-            email: userEmail,
-            books: {
-              reading: [],
-              read: []
-            }
-          })
+      if (hasUser) {
+        window.alert('Esse nome de usuário já existe!')
+      } else {
+        if (!auth().currentUser) {
+          auth()
+            .createUserWithEmailAndPassword(userEmail, userPassword)
+            .then((data) => {
+              const uid = data.user.uid
 
-          redirectTo('/dashboard')
-        })
-        .catch((err) => {
-          window.alert('Algo deu errado!')
-          console.error(err.message)
-        })
-    }
+              database().ref(`users/${uid}`).set({
+                name: userName,
+                username: userUsername,
+                email: userEmail,
+                books: {
+                  reading: [],
+                  read: []
+                }
+              })
+
+              redirectTo('/dashboard')
+            })
+            .catch((err) => {
+              switch (err.code) {
+                case 'auth/email-already-in-use':
+                  window.alert('Esse e-mail já está em uso!')
+                  break
+                case 'auth/weak-password':
+                  window.alert('Senha muito fraca!')
+                  break
+                default:
+                  window.alert('Algo deu errado!')
+              }
+            })
+        }
+      }
+    })
+
+
   }
   render() {
     return (
