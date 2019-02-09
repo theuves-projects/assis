@@ -5,7 +5,7 @@
 }
 *:focus {
   outline: none;
-  box-shadow: 0 0 2px 1px cornflowerblue;
+  box-shadow: 0 0 2px 1px cornflowerblue !important;
 }
 body {
   font-family: Roboto, Helvetica, Verdana, Arial, sans-serif;
