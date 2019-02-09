@@ -88,7 +88,7 @@ class NewBooks extends Component {
                     )
                 }
               />
-              <span>Lido!</span>
+              <span>Lido?</span>
             </div>
           </div>
         ))}
