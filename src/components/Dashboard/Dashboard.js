@@ -46,8 +46,12 @@ class Dashboard extends Component {
     }
   }
   render() {
-    if (!this.state.data) return <Loading msg='Carregando usuário...' />
-    if (!this.state.userExists) return (
+    const { uid, data, userExists, isLoggedIn } = this.state
+    const { option } = this.props.match.params
+    const { url } = this.props.match
+
+    if (!data) return <Loading msg='Carregando usuário...' />
+    if (!userExists) return (
       <div className='container'>
         <h1 className='Dashboard-userNotFound'>
           Usuário não existe!
@@ -61,38 +65,37 @@ class Dashboard extends Component {
           <div className="Dashboard-row">
             <div className="Dashboard-profile">
               <Profile
-                uid={this.state.uid}
-                name={this.state.data.name}
-                username={this.state.data.username}
+                uid={uid}
+                name={data.name}
+                username={data.username}
               />
             </div>
             <div className="Dashboard-content">
+              {/(read|reading)/.test(option)}
               <Content
-                isLoggedIn={this.state.isLoggedIn}
-                option={this.props.match.params.option}
-                url={this.props.match.url}
+                isLoggedIn={isLoggedIn}
+                option={option}
+                url={url}
               >
                 {(() => {
-                  switch (this.props.match.params.option || 'reading') {
+                  switch (option || 'reading') {
                     case 'new':
                       // Se não estiver logado então nào pula para próxima verificação.
-                      if (this.state.isLoggedIn) return <NewBooks books={this.state.data.books} />
+                      if (isLoggedIn) return <NewBooks books={data.books} />
                     case 'read':
                       return (
                         <BookList
-                          isLoggedIn={this.state.isLoggedIn}
-                         booksCode={this.state.data.books.read}
+                          isLoggedIn={isLoggedIn}
+                          booksCode={data.books.read}
                         />
                       )
                     case 'reading':
                       return (
                         <BookList
-                          isLoggedIn={this.state.isLoggedIn}
-                          booksCode={this.state.data.books.reading}
+                          isLoggedIn={isLoggedIn}
+                          booksCode={data.books.reading}
                         />
                       )
-                    default:
-                      return <h1>Não encontrado!</h1>
                   }
                 })()}
               </Content>

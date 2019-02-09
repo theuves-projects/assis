@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import ReactDOM from 'react-dom'
-import { BrowserRouter as Router } from 'react-router-dom'
+import { BrowserRouter as Router, Route } from 'react-router-dom'
 import { hot } from 'react-hot-loader/root'
 import firebase, { auth, database } from 'firebase'
 import firebaseConfig from '../firebaseConfig.json'
@@ -32,8 +32,7 @@ class App extends Component {
         <Layout>
           <PublicRoute path='/' component={Home} />
           <PublicRoute path='/login' component={Login} />
-          {/* <PublicRoute path='/u/:username' component={Dashboard} /> */}
-          <PublicRoute path='/u/:username/:option?' component={Dashboard} />
+          <Route path='/u/:username/:option?' component={Dashboard} />
           <PrivateRoute path='/dashboard' component={Dashboard} />
           <PrivateRoute path='/dashboard/:option' component={Dashboard} />
           <PrivateRoute path='/book/:code' component={Book} />

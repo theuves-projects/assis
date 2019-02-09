@@ -2,7 +2,7 @@
   padding: 10px 0;
   color: black;
   background-image: linear-gradient(to top, #d2c86c, #f0e583);
-  border-bottom: 2px dashed #351e18;
+  border-bottom: 2px solid black;
 }
 .Header-brand {
   font-family: Georgia, Times, 'Times New Roman', serif;
