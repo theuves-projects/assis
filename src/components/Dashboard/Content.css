@@ -29,6 +29,7 @@
 }
 .Dashboard_Content-btn.active,
 .Dashboard_Content-btn-new.active {
+  filter: grayscale(.175);
   color: #eee;
   font-style: italic;
 }
