@@ -28,7 +28,7 @@ class Dashboard extends Component {
       this.state = {}
       const username = this.props.match.params.username
 
-      database().ref(`users`).once('value', (snapshot) => {
+      database().ref('users').once('value', (snapshot) => {
         if (!this.state) return
 
         const data = snapshot.val()
@@ -43,6 +43,13 @@ class Dashboard extends Component {
           data: userData
         })
       })
+    }
+  }
+  componentWillUpdate(nextProps) {
+    if (JSON.stringify(this.props.data) !== JSON.stringify(nextProps.data)) {
+       this.setState({
+         data: nextProps.data
+       })
     }
   }
   render() {
