@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import { auth, database } from 'firebase'
+import resolveBooksCode from '../../utils/resolveBooksCode'
 
 // Components
 import Loading from '../Loading'
@@ -11,22 +12,31 @@ import BookList from './BookList/BookList'
 // Styles
 import './Dashboard.css'
 
+const READ = 'read'
+const READING = 'reading'
+const ADD = 'add'
+const REMOVE = 'remove'
+const NEW = 'new'
+
 class Dashboard extends Component {
   constructor(props) {
     super(props)
-    const isLoggedIn = !!auth().currentUser
-    const uid = isLoggedIn ? uid : null
+    this.updateBookStatus = this.updateBookStatus.bind(this)
 
-    if (isLoggedIn) {
+    const isLoggedIn = !!auth().currentUser
+    const uid = (auth().currentUser || {}).uid
+    const username = this.props.match.params.username
+
+    if (isLoggedIn && !username) {
       this.state = {
         isLoggedIn: true,
         userExists: true,
-        uid: auth().currentUser.uid,
+        uid: uid,
+        authUid: uid,
         data: this.props.data
       }
     } else {
       this.state = {}
-      const username = this.props.match.params.username
 
       database().ref('users').once('value', (snapshot) => {
         if (!this.state) return
@@ -40,11 +50,13 @@ class Dashboard extends Component {
           userExists: Object.keys(userData).length !== 0,
           isLoggedIn: false,
           uid: userData.uid,
+          authUid: isLoggedIn ? uid : null,
           data: userData
         })
       })
     }
   }
+  // Ver `componentWillReceiveProps()`
   componentWillUpdate(nextProps) {
     if (JSON.stringify(this.props.data) !== JSON.stringify(nextProps.data)) {
        this.setState({
@@ -52,8 +64,38 @@ class Dashboard extends Component {
        })
     }
   }
+  getUserId() {
+    return auth().currentUser.uid
+  }
+  /**
+   * Faz a atualização do status dum livro, ou seja, quando o usuário altera a
+   * infomação de que está lendo ou já leu determinado livro.
+   * 
+   * Altera o banco de dados e o estado (state) do componente.
+   *
+   * @param {number} bookCode Código do livro.
+   * @param {string} status Status do livro: 'read' ou 'reading'.
+   * @param {string} action Ação a ser executada: remover ou adicionar livro na lista.
+   * @returns {undefined}
+   */
+   updateBookStatus(bookCode, status, action) {
+      if (!this.state) return
+      if (!RegExp(`^(${READ}|${READING})$`).test(status)) {
+        throw new Error(`O status "${status}" é inválido`)
+      }
+      if (!RegExp(`^(${ADD}|${REMOVE})$`).test(action)) {
+        throw new Error(`A ação "${action}" é inválida`)
+      }
+
+      const books = this.state.data.books
+      const newBooksState = Object.assign({}, books, {
+        [status]: resolveBooksCode(books[status], bookCode, action)
+      })
+
+      database().ref(`users/${this.getUserId()}/books`).set(newBooksState)
+   }
   render() {
-    const { uid, data, userExists, isLoggedIn } = this.state
+    const { uid, authUid, data, userExists, isLoggedIn } = this.state
     const { option } = this.props.match.params
     const { url } = this.props.match
 
@@ -78,29 +120,26 @@ class Dashboard extends Component {
               />
             </div>
             <div className="Dashboard-content">
-              {/(read|reading)/.test(option)}
               <Content
                 isLoggedIn={isLoggedIn}
                 option={option}
                 url={url}
               >
                 {(() => {
-                  switch (option || 'reading') {
-                    case 'new':
+                  switch (option || READING) {
+                    case NEW:
                       // Se não estiver logado então nào pula para próxima verificação.
                       if (isLoggedIn) return <NewBooks books={data.books} />
-                    case 'read':
+                    case READ:
+                    case READING:
                       return (
                         <BookList
+                          status={option || READING}
                           isLoggedIn={isLoggedIn}
-                          booksCode={data.books.read}
-                        />
-                      )
-                    case 'reading':
-                      return (
-                        <BookList
-                          isLoggedIn={isLoggedIn}
-                          booksCode={data.books.reading}
+                          uid={uid}
+                          authUid={authUid}
+                          booksInformation={data.books}
+                          onChangeConfig={this.updateBookStatus}
                         />
                       )
                   }

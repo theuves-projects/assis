@@ -32,6 +32,7 @@ class Apresentation extends Component {
               const uid = data.user.uid
 
               database().ref(`users/${uid}`).set({
+                uid,
                 name: userName,
                 username: userUsername,
                 email: userEmail,

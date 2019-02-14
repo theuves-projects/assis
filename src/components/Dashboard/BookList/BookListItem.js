@@ -3,16 +3,24 @@ import { Link } from 'react-router-dom'
 import Dropdown from './Dropdown'
 import './BookListItem.css'
 
+const getAction = (bool) => bool ? 'add' : 'remove'
+
 const BookListItem = ({
   code,
+  uid,
+  authUid,
+  status,
   isLoggedIn,
+  isRead,
+  isReading,
   title,
-  coverUrl
+  coverUrl,
+  onChangeConfig
 }) => (
   <li>
     <div className='Dashboard_BookList_BookListItem'>
       <div className='Dashboard_BookList_BookListItem-body'>
-        {isLoggedIn ? (
+        {isLoggedIn && authUid === uid ? (
           <Link
             className='Dashboard_BookList_BookListItem-link'
             to={`/book/${code}`}
@@ -35,21 +43,31 @@ const BookListItem = ({
         <cite className='Dashboard_BookList_BookListItem-title'>
           {title}
         </cite>
-        <Dropdown
-          bookCode={code}
-          icon='cogs'
-        >
-          <label className='Dashboard_BookList_BookListItem-checkbox'>
-            <input type="checkbox"/>
-            {` `}
-            Lido
-          </label>
-          <label className='Dashboard_BookList_BookListItem-checkbox'>
-            <input type="checkbox"/>
-            {` `}
-            Lendo
-          </label>
-        </Dropdown>
+        {isLoggedIn  ? (
+          <Dropdown
+            bookCode={code}
+            icon='cogs'
+          >
+            <label className='Dashboard_BookList_BookListItem-checkbox'>
+              <input
+                type='checkbox'
+                checked={isRead}
+                onChange={(event) => onChangeConfig(code, 'read', getAction(event.target.checked))}
+              />
+              {` `}
+              Lido
+            </label>
+            <label className='Dashboard_BookList_BookListItem-checkbox'>
+              <input
+                type='checkbox'
+                checked={isReading}
+                onChange={(event) => onChangeConfig(code, 'reading', getAction(event.target.checked))}
+              />
+              {` `}
+              Lendo
+            </label>
+          </Dropdown>
+        ) : null}
       </div>
     </div>
   </li>

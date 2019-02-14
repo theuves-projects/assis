@@ -26,13 +26,10 @@ class Dropdown extends Component {
   // dropdown será automaticamente fechado.
   handleClick(event) {
     if (!this.state) return
-
     const { id } = this.state
     const { target } = event
     const el = document.getElementById(id)
-
     if (!target || !el) return
-
     if (!el.contains(target) && target.id !== id) {
       this.setState({
         isOpen: false

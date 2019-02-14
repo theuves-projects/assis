@@ -1,7 +1,14 @@
 import React, { Component } from 'react'
 import { auth, database } from 'firebase'
+
+// Utils
 import bookList from '../../utils/books'
+import resolveBooksCode from '../../utils/resolveBooksCode'
+
+// Components
 import Checkbox from './Checkbox'
+
+// Styles
 import './NewBooks.css'
 
 class NewBooks extends Component {
@@ -9,7 +16,6 @@ class NewBooks extends Component {
     super(props)
 
     this.handleCheckbox = this.handleCheckbox.bind(this)
-    this.resolveBooksCode = this.resolveBooksCode.bind(this)
 
     this.state = Object.assign({
       reading: [],
@@ -22,34 +28,12 @@ class NewBooks extends Component {
   getUserId() {
     return auth().currentUser.uid
   }
-  resolveBooksCode(data = [], isChecked, bookCode) {
-    data = [...data]
-
-    if (!isChecked) {
-      if (data.includes(bookCode)) return data
-      return data.concat(bookCode)
-    }
-
-    return data.filter((bookCode_) => bookCode_ !== bookCode)
-  }
-  handleCheckbox(value, bookCode, type) {
+  handleCheckbox(value, bookCode, status) {
     if (!this.state) return
-    value = value === 'true' ? true : false
-
-    switch (type) {
-      case 'reading': {
-        this.setState({
-          reading: this.resolveBooksCode(this.state.reading, value, bookCode)
-        })
-        break
-      }
-      case 'read': {
-        this.setState({
-          read: this.resolveBooksCode(this.state.read, value, bookCode)
-        })
-        break
-      }
-    }
+    const action = value === 'true' ? 'remove' : 'add'
+    this.setState({
+      [status]: resolveBooksCode(this.state[status], bookCode, action)
+    })
   }
   render() {
     return (
