@@ -103,6 +103,8 @@ class Dashboard extends Component {
     if (!userExists) return (
       <div className='container'>
         <h1 className='Dashboard-userNotFound'>
+          <i className='fas fa-user-times'></i>
+          <br/>
           Usuário não existe!
         </h1>
       </div>

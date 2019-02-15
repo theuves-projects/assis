@@ -1,13 +1,22 @@
 .Dashboard {
-  margin-bottom: 100px;
+  padding: 50px 0 100px 0;
+  background-color: #f7f7f7;
 }
 .Dashboard-userNotFound {
   margin-top: 75px;
   text-align: center;
 }
+.Dashboard-userNotFound i {
+  margin-bottom: 20px;
+  font-size: 3em;
+  color: #aaa;
+}
 .Dashboard-row {
-  margin-top: 50px;
   display: flex;
+  padding: 30px;
+  border-radius: 3px;
+  box-shadow: 1px 1px 1px 0 #ddd;
+  background-color: white;
 }
 .Dashboard-profile {
   width: 250px;
