@@ -1,9 +1,10 @@
 import React, { Fragment } from 'react'
 import { Link } from 'react-router-dom'
 import Dropdown from './Dropdown'
+import Checkbox from '../../Checkbox'
 import './BookListItem.css'
 
-const getAction = (bool) => bool ? 'add' : 'remove'
+const getAction = (bool) => bool === 'true' ? 'remove' : 'add'
 
 const BookListItem = ({
   code,
@@ -49,19 +50,29 @@ const BookListItem = ({
             icon='cogs'
           >
             <label className='Dashboard_BookList_BookListItem-checkbox'>
-              <input
-                type='checkbox'
+              <Checkbox
                 checked={isRead}
-                onChange={(event) => onChangeConfig(code, 'read', getAction(event.target.checked))}
+                onClick={(event) =>
+                  onChangeConfig(
+                    code,
+                    'read',
+                    getAction(event.target.dataset.checked)
+                  )
+                }
               />
               {` `}
               Lido
             </label>
             <label className='Dashboard_BookList_BookListItem-checkbox'>
-              <input
-                type='checkbox'
+              <Checkbox
                 checked={isReading}
-                onChange={(event) => onChangeConfig(code, 'reading', getAction(event.target.checked))}
+                onClick={(event) =>
+                  onChangeConfig(
+                    code,
+                    'reading',
+                    getAction(event.target.dataset.checked)
+                  )
+                }
               />
               {` `}
               Lendo

@@ -6,7 +6,7 @@ import bookList from '../../utils/books'
 import resolveBooksCode from '../../utils/resolveBooksCode'
 
 // Components
-import Checkbox from './Checkbox'
+import Checkbox from '../Checkbox'
 
 // Styles
 import './NewBooks.css'
@@ -17,10 +17,12 @@ class NewBooks extends Component {
 
     this.handleCheckbox = this.handleCheckbox.bind(this)
 
-    this.state = Object.assign({
+    const defaultState = {
       reading: [],
       read: []
-    }, this.props.books)
+    }
+
+    this.state = Object.assign(defaultState, this.props.books)
   }
   componentWillUpdate(_, nextState) {
     database().ref(`users/${this.getUserId()}/books`).set(nextState)

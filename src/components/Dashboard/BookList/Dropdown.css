@@ -8,7 +8,6 @@
 .Dashboard_BookList_Dropdown-content {
   position: absolute;
   padding: 10px 15px;
-  width: 100px;
   display: block;
   z-index: 1;
   border-radius: 3px;

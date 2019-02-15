@@ -1,11 +1,10 @@
 import React from 'react'
-import createClassName from '../../utils/createClassName'
+import createClassName from '../utils/createClassName'
 import './Checkbox.css'
 
-const Checkbox = ({ id, checked, onClick }) => (
+const Checkbox = ({ checked, ...props }) => (
   <div
-    id={id}
-    onClick={onClick} 
+    {...props}
     data-checked={checked}
     className={createClassName([
       'Dashboard_Checkbox',
