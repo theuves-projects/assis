@@ -1,5 +1,6 @@
 import React from 'react'
 import createClassName from '../../utils/createClassName'
+import TextWithDictionary from '../TextWithDictionary'
 import './Text.css'
 
 const Text = ({
@@ -28,11 +29,14 @@ const Text = ({
       )}
     </header>
 
-    <div className='Book_Text-content'>
+    <TextWithDictionary className='Book_Text-content'>
       {book.text.map((paragraph, index) => {
 
         // Centralizar partes específicas.
-        if (/^(M\.?(\sde\s)?A\.?|FIM)$/i.test(paragraph)) {
+        // - Abreviação do nome de Machado de Assis
+        // - A palavra FIM.
+        // - Um ano.
+        if (/^(M\.?(\sde\s)?A\.?|FIM|\d{4}\.?)$/i.test(paragraph)) {
           return (
             <p key={index} className='Book_Text-p Book_Text-pCenter'>
               {paragraph}
@@ -46,7 +50,7 @@ const Text = ({
           </p>
         )
       })}
-    </div>
+    </TextWithDictionary>
 
     <div className='Book_Text-pCenter'>
       <button

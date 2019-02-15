@@ -23,10 +23,6 @@
   text-transform: uppercase;
   color: black;
 }
-
-/**
- * Fieldset
- */
 .Book-fieldset {
   display: inline-block;
   border: none;

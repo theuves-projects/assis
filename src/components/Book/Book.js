@@ -3,6 +3,7 @@ import Text from './Text'
 import axios from 'axios'
 import { auth, database } from 'firebase'
 import { findBook } from '../../utils/books'
+import canBePtWord from '../../utils/canBePtWord'
 import Loading from '../Loading'
 import './Book.css'
 
@@ -14,6 +15,7 @@ class Book extends Component {
     this.changeFontSize = this.changeFontSize.bind(this)
     this.changeFontFamily = this.changeFontFamily.bind(this)
     this.nextChapter = this.nextChapter.bind(this)
+    this.onSelectText = this.onSelectText.bind(this)
 
     const bookCode = this.props.match.params.code
 
@@ -35,6 +37,7 @@ class Book extends Component {
   
     axios.get(dataPath)
       .then((response) => {
+        if (!this.state) return
         this.setState({
           data: response.data
         })
@@ -43,16 +46,19 @@ class Book extends Component {
         alert('Houve algum erro! Não foi possível obter o livro.')
       })
   }
-  componentWillUpdate(nextProps, nextState) {
-    window.scrollTo(0, 0)
-
+  componentWillUpdate(_, nextState) {
     if (JSON.stringify(this.state) !== JSON.stringify(nextState)) {
+      if (this.state.config.currentChapter !== nextState.config.currentChapter) {
+        window.scrollTo(0, 0)
+      }
+
       const uid = auth().currentUser.uid
       const bookCode = this.props.match.params.code
       database().ref(`users/${uid}/booksConfig/${bookCode}`).set(nextState.config)
     }
   }
   changeChapter(event) {
+    if (!this.state) return
     this.setState({
       config: {
         ...this.state.config,
@@ -61,6 +67,7 @@ class Book extends Component {
     })
   }
   changeFontSize(event) {
+    if (!this.state) return
     this.setState({
       config: {
         ...this.state.config,
@@ -69,12 +76,16 @@ class Book extends Component {
     })
   }
   changeFontFamily(event) {
+    if (!this.state) return
     this.setState({
       config: {
         ...this.state.config,
         fontFamily: event.target.value
       }
     })
+  }
+  onSelectText() {
+    return 0
   }
   nextChapter() {
     this.setState({
@@ -89,6 +100,7 @@ class Book extends Component {
 
     return (
       <section className='Book'>
+
         <div className='container'>
           <div className='Book-actions'>
 
