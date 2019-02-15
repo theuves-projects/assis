@@ -68,7 +68,7 @@
  * Família da fonte.
  */
 .Book_Text-fontFamily-serif {
-  font-family: Georgia, Times, 'Times New Roman', serif;
+  font-family: Merriweather, Georgia, Times, 'Times New Roman', serif;
 }
 .Book_Text-fontFamily-sans-serif {
   font-family: Roboto, Helvetica, Verdana, Arial, sans-serif;
