@@ -33,6 +33,10 @@
   color: #eee;
   font-style: italic;
 }
+.Dashboard_Content-btn:hover,
+.Dashboard_Content-btn-new:hover {
+  opacity: .9;
+}
 .Dashboard_Content-btn.active {
   background-image: linear-gradient(to bottom, #ec4d1b, #ff5722);
 }
