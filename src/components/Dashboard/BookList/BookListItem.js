@@ -4,6 +4,38 @@ import Dropdown from './Dropdown'
 import Checkbox from '../../Checkbox'
 import './BookListItem.css'
 
+const DropdownItem = ({
+  title,
+  checkboxValue,
+  bookCode,
+  status
+}) => (
+  <label className='Dashboard_BookList_BookListItem-checkbox'>
+    <Checkbox
+      isChecked={checkboxValue}
+      onChange={(isChecked) => onChangeConfig(
+        bookCode,
+        status,
+        isChecked
+      )
+    }
+    />
+    {` `}
+    { title }
+  </label>
+)
+
+const BookCover = ({
+  src,
+  title
+}) => (
+  <img
+    className='Dashboard_BookList_BookListItem-cover'
+    src={src}
+    alt={`Capa do livro ${title}`}
+  />
+)
+
 const BookListItem = ({
   code,
   uid,
@@ -24,17 +56,15 @@ const BookListItem = ({
             className='Dashboard_BookList_BookListItem-link'
             to={`/book/${code}`}
           >
-            <img
-              className='Dashboard_BookList_BookListItem-cover'
+            <BookCover
               src={coverUrl}
-              alt={`Capa do livro ${title}`}
+              title={title}
             />
           </Link>
         ) : (
-          <img
-            className='Dashboard_BookList_BookListItem-cover'
+          <BookCover
             src={coverUrl}
-            alt={`Capa do livro ${title}`}
+            title={title}
           />
         )}
       </div>
@@ -47,22 +77,18 @@ const BookListItem = ({
             bookCode={code}
             icon='cogs'
           >
-            <label className='Dashboard_BookList_BookListItem-checkbox'>
-              <Checkbox
-                isChecked={isRead}
-                onChange={(isChecked) => onChangeConfig(code, 'read', isChecked)}
-              />
-              {` `}
-              Lido
-            </label>
-            <label className='Dashboard_BookList_BookListItem-checkbox'>
-              <Checkbox
-                isChecked={isReading}
-                onChange={(isChecked) => onChangeConfig(code, 'reading', isChecked)}
-              />
-              {` `}
-              Lendo
-            </label>
+            <DropdownItem
+              title='Lido?'
+              checkboxValue={isRead}
+              bookCode={code}
+              status='read'
+            />
+            <DropdownItem
+              title='Lido?'
+              checkboxValue={isReading}
+              bookCode={code}
+              status='reading'
+            />
           </Dropdown>
         ) : null}
       </div>
