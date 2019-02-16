@@ -1,54 +1,73 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
+
+// Utils
 import createClassName from '../../utils/createClassName'
+
+// Components
 import BookList from './BookList/BookList'
+
+// Styles
 import './Content.css'
+
+const READ = 'read'
+const READING = 'reading'
+const NEW = 'new' 
+
+const Tab = ({
+  url,
+  hasNotOption,
+  title,
+  condition,
+  linkTo,
+  icon
+}) => (
+  <Link
+    className={createClassName([
+      'Dashboard_Content-tab',
+      condition ? 'active' : null
+    ])}
+    to={hasNotOption ? `${url}/${linkTo}` : url.replace(/\w+$/, linkTo)}
+  >
+    <i className={`fas fa-${icon}`}></i>
+    { ` ` }
+    { title }
+  </Link>  
+)
 
 const Content = ({
   isLoggedIn,
   option,
-  history,
   url,
   children
 }) => (
   <div className='Dashboard_Content'>
-
-    {/* Header */}
     <nav className='Dashboard_Content-tabs'>
-      <Link
-        className={createClassName([
-          'Dashboard_Content-tab',
-           !option || option === 'reading' ? 'active' : null
-        ])}
-        to={!option ? `${url}/reading` : url.replace(/\w+$/, 'reading')}
-      >
-        <i className='fas fa-bookmark'></i>
-        {` `}
-        Lendo....
-      </Link>
-      <Link
-        className={createClassName([
-          'Dashboard_Content-tab',
-          option === 'read' ? 'active' : null
-        ])}
-        to={!option ? `${url}/read` : url.replace(/\w+$/, 'read')}
-      >
-        <i className='fas fa-book'></i>
-        {` `}
-        Lidos!
-      </Link>
+      <Tab
+        url={url}
+        hasNotOption={!option}
+        title='Lendo...'
+        condition={!option || option === READING}
+        linkTo={READING}
+        icon='bookmark'
+      />
+      <Tab
+        url={url}
+        hasNotOption={!option}
+        title='Lidos!'
+        condition={option === READ}
+        linkTo={READ}
+        icon='book'
+      />
       {isLoggedIn ? (
-        <Link
-          className={createClassName([
-            'Dashboard_Content-tab',
-            option === 'new' ? ' active' : null
-          ])}
-          to={!option ? `${url}/new` : url.replace(/\w+$/, 'new')}
-        >
-          <i className='fas fa-plus-circle'></i>
-          {` `}
-          Novo
-        </Link>
+        <Tab
+          url={url}
+          hasNotOption={!option}
+          title='Novo'
+          condition={option === NEW}
+          linkTo={NEW}
+          icon='plus-circle'
+        />
       ) : null}
     </nav>
 

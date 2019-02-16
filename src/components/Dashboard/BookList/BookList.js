@@ -12,7 +12,7 @@ const BookList = ({
   const booksCode = booksInformation[status]
 
   if (!booksCode || booksCode.length === 0) {
-    return <p>Você não escolheu nenhum livro ainda.</p>
+    return 'Nenhum livro selecionado ainda.'
   }
 
   return (
