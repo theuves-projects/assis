@@ -14,8 +14,6 @@ import './Dashboard.css'
 
 const READ = 'read'
 const READING = 'reading'
-const ADD = 'add'
-const REMOVE = 'remove'
 const NEW = 'new'
 
 class Dashboard extends Component {
