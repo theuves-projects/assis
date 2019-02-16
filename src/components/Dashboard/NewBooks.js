@@ -30,11 +30,18 @@ class NewBooks extends Component {
   getUserId() {
     return auth().currentUser.uid
   }
-  handleCheckbox(value, bookCode, status) {
+  handleCheckbox(isChecked, bookCode, status) {
     if (!this.state) return
-    const action = value === 'true' ? 'remove' : 'add'
+
+    // Se estiver ativado, o livro vai ser adicionado, senão, será removido.
+    const isAdding = isChecked
+
+    console.log(this.state[status])
+    console.log(bookCode)
+    console.log(isChecked)
+
     this.setState({
-      [status]: resolveBooksCode(this.state[status], bookCode, action)
+      [status]: resolveBooksCode(this.state[status], bookCode, isAdding)
     })
   }
   render() {
@@ -50,28 +57,26 @@ class NewBooks extends Component {
             </div>
             <div className='Dashboard_NewBooks-checkbox'>
               <Checkbox
-                checked={this.state.reading.includes(bookCode)}
-                onClick={
-                  (event) =>
-                    this.handleCheckbox(
-                      event.target.dataset.checked,
-                      bookCode,
-                      'reading'
-                    )
+                isChecked={this.state.reading.includes(bookCode)}
+                onChange={(isChecked) =>
+                  this.handleCheckbox(
+                    isChecked,
+                    bookCode,
+                    'reading'
+                  )
                 }
               />
               <span>Lendo?</span>
             </div>
             <div className='Dashboard_NewBooks-checkbox'>
               <Checkbox
-                checked={this.state.read.includes(bookCode)}
-                onClick={
-                  (event) =>
-                    this.handleCheckbox(
-                      event.target.dataset.checked,
-                      bookCode,
-                      'read'
-                    )
+                isChecked={this.state.read.includes(bookCode)}
+                onChange={(isChecked) =>
+                  this.handleCheckbox(
+                    isChecked,
+                    bookCode,
+                    'read'
+                  )
                 }
               />
               <span>Lido?</span>

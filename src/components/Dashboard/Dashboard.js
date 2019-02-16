@@ -75,21 +75,20 @@ class Dashboard extends Component {
    *
    * @param {number} bookCode Código do livro.
    * @param {string} status Status do livro: 'read' ou 'reading'.
-   * @param {string} action Ação a ser executada: remover ou adicionar livro na lista.
+   * @param {string} isAdding Se estiver adicionando um livro à lista.
    * @returns {undefined}
    */
-   updateBookStatus(bookCode, status, action) {
+   updateBookStatus(bookCode, status, isAdding) {
       if (!this.state) return
-      if (!RegExp(`^(${READ}|${READING})$`).test(status)) {
+
+      // Verifica se o status é válido.
+      if (!RegExp(`^(${[READ, READING].join('|')})$`).test(status)) {
         throw new Error(`O status "${status}" é inválido`)
-      }
-      if (!RegExp(`^(${ADD}|${REMOVE})$`).test(action)) {
-        throw new Error(`A ação "${action}" é inválida`)
       }
 
       const books = this.state.data.books
       const newBooksState = Object.assign({}, books, {
-        [status]: resolveBooksCode(books[status], bookCode, action)
+        [status]: resolveBooksCode(books[status], bookCode, isAdding)
       })
 
       database().ref(`users/${this.getUserId()}/books`).set(newBooksState)

@@ -4,8 +4,6 @@ import Dropdown from './Dropdown'
 import Checkbox from '../../Checkbox'
 import './BookListItem.css'
 
-const getAction = (bool) => bool === 'true' ? 'remove' : 'add'
-
 const BookListItem = ({
   code,
   uid,
@@ -51,28 +49,16 @@ const BookListItem = ({
           >
             <label className='Dashboard_BookList_BookListItem-checkbox'>
               <Checkbox
-                checked={isRead}
-                onClick={(event) =>
-                  onChangeConfig(
-                    code,
-                    'read',
-                    getAction(event.target.dataset.checked)
-                  )
-                }
+                isChecked={isRead}
+                onChange={(isChecked) => onChangeConfig(code, 'read', isChecked)}
               />
               {` `}
               Lido
             </label>
             <label className='Dashboard_BookList_BookListItem-checkbox'>
               <Checkbox
-                checked={isReading}
-                onClick={(event) =>
-                  onChangeConfig(
-                    code,
-                    'reading',
-                    getAction(event.target.dataset.checked)
-                  )
-                }
+                isChecked={isReading}
+                onChange={(isChecked) => onChangeConfig(code, 'reading', isChecked)}
               />
               {` `}
               Lendo
