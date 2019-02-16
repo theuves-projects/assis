@@ -3,7 +3,7 @@
   padding: 0;
   box-sizing: border-box;
 }
-*:focus {
+*:active {
   outline: none;
   box-shadow: 0 0 2px 1px cornflowerblue !important;
 }

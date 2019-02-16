@@ -1,45 +1,32 @@
 .Dashboard_Content {
   /* ... */
 }
-.Dashboard_Content-header {
-  display: flex;
-  justify-content: space-between;
+.Dashboard_Content-tabs {
   margin-bottom: 20px;
-  padding-bottom: 8px;
   border-bottom: solid 1px #ddd;
 }
-.Dashboard_Content-btn,
-.Dashboard_Content-btn-new {
+.Dashboard_Content-tab {
   display: inline-block;
-  padding: 6px 20px;
-  margin: 0 5px;
-  border-radius: 3px;
-  font-size: 1em;
+  padding: 10px 25px 10px 25px;
   text-decoration: none;
-  cursor: pointer;
-  color: white;
+  color: gray;
 }
-.Dashboard_Content-btn {
-  border: solid 1px #d85127;
-  background-image: linear-gradient(to top, #ec4d1b, #ff5722);
+.Dashboard_Content-tab.active {
+  position: relative;
+  border-radius: 3px 3px 0 0;
+  border: solid 1px #ddd;
+  border-top: solid 3px #ec4d1b;
+  border-bottom: none;
+  color: black;
 }
-.Dashboard_Content-btn-new {
-  border: solid 1px #d07f08;
-  background-image: linear-gradient(to top, #ff9800, #ffc107);
-}
-.Dashboard_Content-btn.active,
-.Dashboard_Content-btn-new.active {
-  filter: grayscale(.175);
-  color: #eee;
-  font-style: italic;
-}
-.Dashboard_Content-btn:hover,
-.Dashboard_Content-btn-new:hover {
-  opacity: .9;
-}
-.Dashboard_Content-btn.active {
-  background-image: linear-gradient(to bottom, #ec4d1b, #ff5722);
-}
-.Dashboard_Content-btn-new.active {
-  background-image: linear-gradient(to bottom, #ff9800, #ffc107);
+.Dashboard_Content-tab.active::after {
+  content: '';
+  position: absolute;
+  display: block;
+  height: 1px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  transform: translateY(100%);
+  background-color: white;
 }
