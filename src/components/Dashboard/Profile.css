@@ -10,7 +10,7 @@
   margin-bottom: 25px;
   width: 100%;
   border-radius: 3px;
-  background-color: #eee;
+  animation: 1s loadingEffect infinite;
 }
 .Dashboard_Profile-name {
   margin-bottom: 5px;

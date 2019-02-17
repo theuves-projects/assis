@@ -30,6 +30,7 @@ const BookCover = ({
   title
 }) => (
   <img
+    ref={(el) => { if (el) el.style.height = 1.65 * el.offsetWidth / 1  }}
     className='Dashboard_BookList_BookListItem-cover'
     src={src}
     alt={`Capa do livro ${title}`}

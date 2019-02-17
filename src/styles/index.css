@@ -18,3 +18,20 @@ body {
   background-color: #9b583b;
   color: white;
 }
+
+/**
+ * Faz efeito de carregamento com background.
+ */
+@keyframes loadingEffect {
+  0% { background-image: linear-gradient(to left, #ddd 0%, #ccc 0%, #ddd 0%, #ddd 100%); }
+  10% { background-image: linear-gradient(to left, #ddd 0%, #ccc 10%, #ddd 10%, #ddd 100%); }
+  20% { background-image: linear-gradient(to left, #ddd 0%, #ccc 20%, #ddd 20%, #ddd 100%); }
+  30% { background-image: linear-gradient(to left, #ddd 0%, #ccc 30%, #ddd 30%, #ddd 100%); }
+  40% { background-image: linear-gradient(to left, #ddd 0%, #ccc 40%, #ddd 40%, #ddd 100%); }
+  50% { background-image: linear-gradient(to left, #ddd 0%, #ccc 50%, #ddd 50%, #ddd 100%); }
+  60% { background-image: linear-gradient(to left, #ddd 0%, #ccc 60%, #ddd 60%, #ddd 100%); }
+  70% { background-image: linear-gradient(to left, #ddd 0%, #ccc 70%, #ddd 70%, #ddd 100%); }
+  80% { background-image: linear-gradient(to left, #ddd 0%, #ccc 80%, #ddd 80%, #ddd 100%); }
+  90% { background-image: linear-gradient(to left, #ddd 0%, #ccc 90%, #ddd 90%, #ddd 100%); }
+  100% { background-image: linear-gradient(to left, #ddd 0%, #ccc 100%, #ddd 100%, #ddd 100%); }
+}

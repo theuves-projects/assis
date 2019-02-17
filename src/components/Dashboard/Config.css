@@ -12,6 +12,7 @@
 .Dashboard_Config-configAvatar {
   width: 128px;
   border-radius: 3px;
+  animation: 1s loadingEffect infinite;
 }
 .Dashboard_Config-input {
   padding: 8px 16px;
