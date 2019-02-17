@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { Fragment } from 'react'
 import { Link } from 'react-router-dom'
 
 // Utils
@@ -12,7 +12,8 @@ import './Content.css'
 
 const READ = 'read'
 const READING = 'reading'
-const NEW = 'new' 
+const SELECT = 'select' 
+const CONFIG = 'config' 
 
 const Tab = ({
   url,
@@ -60,14 +61,24 @@ const Content = ({
         icon='book'
       />
       {isLoggedIn ? (
-        <Tab
-          url={url}
-          hasNotOption={!option}
-          title='Novo'
-          condition={option === NEW}
-          linkTo={NEW}
-          icon='plus-circle'
-        />
+        <Fragment>
+          <Tab
+            url={url}
+            hasNotOption={!option}
+            title='Seleção'
+            condition={option === SELECT}
+            linkTo={SELECT}
+            icon='plus-circle'
+          />
+          <Tab
+            url={url}
+            hasNotOption={!option}
+            title='Configuração'
+            condition={option === CONFIG}
+            linkTo={CONFIG}
+            icon='user-cog'
+          />
+        </Fragment>
       ) : null}
     </nav>
 

@@ -7,6 +7,7 @@ import Loading from '../Loading'
 import Profile from './Profile'
 import Content from './Content'
 import NewBooks from './NewBooks'
+import Config from './Config'
 import BookList from './BookList/BookList'
 
 // Styles
@@ -14,7 +15,8 @@ import './Dashboard.css'
 
 const READ = 'read'
 const READING = 'reading'
-const NEW = 'new'
+const SELECT = 'select'
+const CONFIG = 'config'
 
 class Dashboard extends Component {
   constructor(props) {
@@ -126,9 +128,15 @@ class Dashboard extends Component {
               >
                 {(() => {
                   switch (option || READING) {
-                    case NEW:
-                      // Se não estiver logado então nào pula para próxima verificação.
+                    case SELECT:
                       if (isLoggedIn) return <NewBooks books={data.books} />
+                    case CONFIG:
+                      if (isLoggedIn) return (
+                        <Config
+                          uid={authUid}
+                          name={data.name}
+                        />
+                      )
                     case READ:
                     case READING:
                       return (

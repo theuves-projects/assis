@@ -5,8 +5,10 @@ import { hot } from 'react-hot-loader/root'
 import firebase, { auth, database } from 'firebase'
 import firebaseConfig from '../firebaseConfig.json'
 
-// Components
+// Components at index
 import Layout from './components/Layout'
+
+// Others components
 import Home from './components/Home/Home'
 import Login from './components/Login/Login'
 import Dashboard from './components/Dashboard/Dashboard'
@@ -30,9 +32,15 @@ class App extends Component {
     return (
       <Router>
         <Layout>
+
+          {/* Rotas públicas e privadas */}
+          <Route path='/u/:username/:option?' component={Dashboard} />
+
+          {/* Rotas públicas */}
           <PublicRoute path='/' component={Home} />
           <PublicRoute path='/login' component={Login} />
-          <Route path='/u/:username/:option?' component={Dashboard} />
+
+          {/* Rotas privadas */}
           <PrivateRoute path='/dashboard' component={Dashboard} />
           <PrivateRoute path='/dashboard/:option' component={Dashboard} />
           <PrivateRoute path='/book/:code' component={Book} />

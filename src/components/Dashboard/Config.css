@@ -1,0 +1,59 @@
+.Dashboard_Config-item:not(:last-child) {
+  margin-bottom: 25px;
+}
+.Dashboard_Config-itemTitle {
+  font-size: 1em;
+  margin-bottom: 10px;
+}
+
+/**
+ * Itens configuráveis
+ */
+.Dashboard_Config-configAvatar {
+  width: 128px;
+  border-radius: 3px;
+}
+.Dashboard_Config-input {
+  padding: 8px 16px;
+  border-radius: 3px;
+  border: solid 1px #bbb;
+  box-shadow: inset 1px 1px 2px 0 #ddd;
+}
+
+/**
+ * Texto de observação nos itens.
+ */
+.Dashboard_Config-obsMsg {
+  display: block;
+  margin-top: 5px;
+  font-style: italic;
+  color: gray;
+}
+
+/**
+ * Caso especial:
+ * -> para deixar o avatar ao lado do botão de upload.
+ */
+.Dashboard_Config-specialInline {
+  display: flex;
+  align-items: flex-start;
+}
+.Dashboard_Config-specialInline *:first-child {
+  margin-right: 10px;
+}
+
+/**
+ * Botão de salvar
+ */
+.Dashboard_Config-btnSave {
+  padding: 10px 20px;
+  border: solid 2px #d85127;
+  border-radius: 3px;
+  font-size: 1em;
+  cursor: pointer;
+  color: white;
+  background-image: linear-gradient(to top, #ec4d1b, #ff5722);
+}
+.Dashboard_Config-btnSave:active {
+  background-image: linear-gradient(to bottom, #ec4d1b, #ff5722);
+}

@@ -1,5 +1,6 @@
 import React from 'react'
-import getAvatar from '../../utils/getAvatar'
+// import getAvatar from '../../utils/getAvatar'
+import Avatar from '../Avatar'
 import './Profile.css'
 
 const Profile = ({
@@ -8,8 +9,8 @@ const Profile = ({
   username
 }) => (
   <div className='Dashboard_Profile'>
-    <img
-      src={getAvatar(uid)}
+    <Avatar
+      uid={uid}
       className='Dashboard_Profile-avatar'
     />
     <h1 className='Dashboard_Profile-name'>

@@ -3,6 +3,6 @@
   "authDomain": "theuves-assis.firebaseapp.com",
   "databaseURL": "https://theuves-assis.firebaseio.com",
   "projectId": "theuves-assis",
-  "storageBucket": "",
+  "storageBucket": "theuves-assis.appspot.com",
   "messagingSenderId": "1033287127339"
 }
