@@ -118,8 +118,8 @@ class Config extends Component {
         .ref()
         .child(`${this.props.uid}`)
         .putString(this.state.userAvatar, 'data_url')
-        .then((snapshot) => {
-          // OK...
+        .then(() => {
+          window.location.reload()
         })
     }
   }

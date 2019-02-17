@@ -29,6 +29,7 @@ const BookCover = ({
   src,
   title
 }) => (
+  // 1.65 * w / 1 é a fórmula para calcular a largura.
   <img
     ref={(el) => { if (el) el.style.height = 1.65 * el.offsetWidth / 1  }}
     className='Dashboard_BookList_BookListItem-cover'

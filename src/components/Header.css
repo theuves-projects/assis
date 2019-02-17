@@ -30,6 +30,7 @@
 .Header-user-avatar {
   width: 1.5em;
   border-radius: 50%;
+  animation: 1s loadingEffect infinite;
 }
 .Header-btn {
   display: flex;
