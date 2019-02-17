@@ -30,6 +30,7 @@ class Avatar extends Component {
     return (
       <img
         ref={(el) => { if (el) el.style.height = el.offsetWidth }}
+        style={{ backgroundColor: '#ddd' }}
         src={forceSrc || this.state.src}
         {...props}
       />

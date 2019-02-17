@@ -1,6 +1,9 @@
 import React from 'react'
-// import getAvatar from '../../utils/getAvatar'
+
+// Components
 import Avatar from '../Avatar'
+
+// Styles
 import './Profile.css'
 
 const Profile = ({

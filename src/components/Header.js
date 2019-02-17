@@ -1,8 +1,14 @@
 import React, { Fragment, Component } from 'React'
 import { Link } from 'react-router-dom'
 import { auth, database } from 'firebase'
-import getAvatar from '../utils/getAvatar'
+
+// Utils
 import getFirstName from '../utils/getFirstName'
+
+// Components
+import Avatar from './Avatar'
+
+// Styles
 import './Header.css'
 
 class Header extends Component {
@@ -57,35 +63,50 @@ class Header extends Component {
               </Link>
             </h1>
             <div className='Header-actions'>
-              {this.state.isLoggedIn ? (
-                <Fragment>
-                  <div className='Header-user'>
-                    <span className='Header-user-name'>{getFirstName(this.state.name)}</span>
-                    <img
-                      className='Header-user-avatar'
-                      src={getAvatar(this.state.uid)}
-                      alt='Avatar'
-                    />
-                  </div>
-                  <button
-                    className='Header-btn'
-                    onClick={this.signOut}
-                  >
-                    Encerrar sessão
-                    <i className='Header-btn-icon fas fa-sign-out-alt'></i>
-                  </button>
-                </Fragment>
-              ) : (
-                <Fragment>
-                  <Link
-                    className='Header-btn'
-                    to='/login'
-                  >
-                    Entrar na sua conta
-                    <i className='Header-btn-icon fas fa-sign-in-alt'></i>
-                  </Link>
-                </Fragment>
-              )}
+              {(() => {
+                switch (this.state.isLoggedIn) {
+
+                  // Se estiver logado.
+                  case true:
+                    return (
+                      <Fragment>
+                        <div className='Header-user'>
+                          <span className='Header-user-name'>
+                            {getFirstName(this.state.name)}
+                          </span>
+                          <Avatar
+                            uid={this.state.uid}
+                            className='Header-user-avatar'
+                            alt='Avatar'
+                          />
+                        </div>
+                        <button
+                          className='Header-btn'
+                          onClick={this.signOut}
+                        >
+                          Encerrar sessão
+                          <i className='Header-btn-icon fas fa-sign-out-alt'></i>
+                        </button>
+                      </Fragment>
+                    )
+
+                  // Se não estiver logado.
+                  case false:
+                    return (
+                      <Link
+                        className='Header-btn'
+                        to='/login'
+                      >
+                        Entrar na sua conta
+                        <i className='Header-btn-icon fas fa-sign-in-alt'></i>
+                      </Link>
+                    )
+
+                  // Se estiver carregando ainda.
+                  default:
+                    return 'Carregando...'
+                }
+              })()}
             </div>
           </div>
         </div>
