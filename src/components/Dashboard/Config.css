@@ -42,19 +42,3 @@
 .Dashboard_Config-specialInline *:first-child {
   margin-right: 10px;
 }
-
-/**
- * Botão de salvar
- */
-.Dashboard_Config-btnSave {
-  padding: 10px 20px;
-  border: solid 2px #d85127;
-  border-radius: 3px;
-  font-size: 1em;
-  cursor: pointer;
-  color: white;
-  background-image: linear-gradient(to top, #ec4d1b, #ff5722);
-}
-.Dashboard_Config-btnSave:active {
-  background-image: linear-gradient(to bottom, #ec4d1b, #ff5722);
-}

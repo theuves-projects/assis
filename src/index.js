@@ -21,6 +21,7 @@ import PublicRoute from './routes/PublicRoute'
 // Global styles
 import './styles/index.css'
 import './styles/container.css'
+import './styles/btn.css'
 
 // Para evitar inicializar o mesmo app duas vezes.
 if (firebase.apps.length === 0) {

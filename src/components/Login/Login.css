@@ -25,20 +25,3 @@
 .Login dd {
   margin-bottom: 20px;
 }
-.Login-btn {
-  width: 100%;
-  padding: 10px 0;
-  border: solid 2px #d85127;
-  border-radius: 3px;
-  font-size: 1.15em;
-  cursor: pointer;
-  color: white;
-  background-image: linear-gradient(to top, #ec4d1b, #ff5722);
-}
-.Login-btn:hover {
-  opacity: 0.95;
-}
-.Login-btn:active {
-  opacity: 0.9;
-  background-image: linear-gradient(to bottom, #ec4d1b, #ff5722);
-}

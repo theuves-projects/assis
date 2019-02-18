@@ -167,7 +167,7 @@ class Config extends Component {
           </ConfigItem>
 
           <button
-            className='Dashboard_Config-btnSave'
+            className='btn'
             onClick={this.saveChanges}
           >
             Salvar alterações

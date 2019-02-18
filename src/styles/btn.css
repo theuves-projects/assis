@@ -1,0 +1,32 @@
+.btn {
+  padding: 10px 20px;
+  border: solid 2px #d85127;
+  border-radius: 3px;
+  font-size: 1.15em;
+  cursor: pointer;
+  color: white;
+  background-image: linear-gradient(to top, #ec4d1b, #ff5722);
+}
+
+/**
+ * Com 100% da tela.
+ */
+.btn.isFullWidth {
+  width: 100%;
+  padding: inherit 0;
+}
+
+/**
+ * Ao passar o mouse.
+ */
+.btn:hover {
+  opacity: 0.95;
+}
+
+/**
+ * Ao pressionar.
+ */
+.btn:active {
+  background-image: linear-gradient(to bottom, #ec4d1b, #ff5722);
+  opacity: 0.9;
+}

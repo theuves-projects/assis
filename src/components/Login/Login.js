@@ -1,5 +1,7 @@
 import React, { Component } from 'react'
 import { auth } from 'firebase'
+
+// Styles
 import './Login.css'
 
 /**
@@ -88,7 +90,7 @@ class Login extends Component {
             </dl>
 
             <button
-              className='Login-btn'
+              className='btn isFullWidth'
               type='submit'
             >
               Entrar

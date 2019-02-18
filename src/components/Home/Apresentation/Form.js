@@ -1,4 +1,6 @@
 import React, { Component } from 'react'
+
+// Styles
 import './Form.css'
 
 class Form extends Component {
@@ -97,8 +99,8 @@ class Form extends Component {
           </dd>
         </dl>
         <button
+          className='btn isFullWidth'
           type='submit'
-          className='form-btn'
         >
           Registrar-se
         </button>
