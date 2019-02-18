@@ -19,15 +19,17 @@
   display: flex;
   align-items: center;
 }
-.Header-user {
+.Header-userLink {
   display: flex;
   align-items: center;
   margin-right: 20px;
+  text-decoration: none;
+  color: black;
 }
-.Header-user-name {
+.Header-userLink-name {
   margin-right: 10px;
 }
-.Header-user-avatar {
+.Header-userLink-avatar {
   width: 1.5em;
   border-radius: 50%;
   animation: 1s loadingEffect infinite;
@@ -38,8 +40,6 @@
   border: none;
   font-size: 1em;
   cursor: pointer;
-  outline: none;
-  user-select: none;
   text-decoration: none;
   align-items: center;
   color: currentColor;

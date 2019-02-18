@@ -15,7 +15,6 @@
   line-height: 200%;
 }
 .Home_Footer-link {
-  border-bottom: solid 1px black;
   text-decoration: none;
   color: currentColor;
 }
@@ -35,7 +34,6 @@
   line-height: 200%;
 }
 .Home_Footer-address a {
-  border-bottom: solid 1px black;
   text-decoration: none;
   color: currentColor;
 }

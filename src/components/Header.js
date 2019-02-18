@@ -70,16 +70,19 @@ class Header extends Component {
                   case true:
                     return (
                       <Fragment>
-                        <div className='Header-user'>
-                          <span className='Header-user-name'>
+                        <Link
+                          className='Header-userLink'
+                          to='/dashboard'
+                        >
+                          <span className='Header-userLink-name'>
                             {getFirstName(this.state.name)}
                           </span>
                           <Avatar
                             uid={this.state.uid}
-                            className='Header-user-avatar'
+                            className='Header-userLink-avatar'
                             alt='Avatar'
                           />
-                        </div>
+                        </Link>
                         <button
                           className='Header-btn'
                           onClick={this.signOut}
