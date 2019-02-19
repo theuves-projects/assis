@@ -1,30 +1,64 @@
 .Home_Books {
-  margin-bottom: 150px;
+  padding: 45px 0;
   text-align: center;
+  font-size: 11px;
 }
 .Home_Books-title {
-  margin-bottom: 75px;
+  margin-bottom: 35px;
   font-size: 3em;
-  line-height: 130%;
+  line-height: 140%;
 }
+
+/**
+ * Sessão com os itens.
+ */
 .Home_Books-container {
-  display: flex;
-  height: 500px;
-  border: solid 1px #ddd;
-  box-shadow: 0 0 15px 0 #ccc;
-}
-.Home_Books-summary,
-.Home_Books-list {
-  overflow-y: scroll;
+  overflow-x: scroll;
 }
 .Home_Books-summary {
-  flex: 1;
+  display: none;
 }
 .Home_Books-list {
-  width: 400px;
-  padding: 0;
-  background-color: #eee;
+  display: inline-block;
 }
+
+/**
+ * Quando a tela tiver mais que 550px.
+ */
+@media (min-width: 550px) {
+  .Home_Books {
+    font-size: 16px;
+    padding: 100px 0;
+  }
+  .Home_Books-title {
+    margin-bottom: calc(100 * 35px / 45);
+  }
+  .Home_Books-container {
+    display: flex;
+    height: 500px;
+    border: solid 1px #ddd;
+    box-shadow: 0 0 15px 0 #ccc;
+    overflow-x: initial;
+  }
+  .Home_Books-summary,
+  .Home_Books-list {
+    overflow-y: scroll;
+  }
+  .Home_Books-summary {
+    flex: 1;
+    display: initial;
+  }
+  .Home_Books-list {
+    width: 400px;
+    padding: 0;
+    background-color: #eee;
+  }
+}
+
+/*************
+ * SCROLLBAR *
+ *************/
+
 .Home_Books-list::-webkit-scrollbar,
 .Home_Books-summary::-webkit-scrollbar {
   width: 10px;

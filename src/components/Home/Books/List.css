@@ -1,3 +1,12 @@
 .Home_Books_List {
-  
+  padding: 20px 0;
+  display: inline-block;
+  white-space: nowrap;
+}
+@media (min-width: 550px) {
+  .Home_Books_List {
+    padding: 0;
+    display: initial;
+    white-space: initial;
+  }
 }

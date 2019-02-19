@@ -1,6 +1,5 @@
 .Header {
   padding: 10px 0;
-  color: black;
   background-image: linear-gradient(to top, #d2c86c, #f0e583);
   border-bottom: 2px solid black;
 }
@@ -19,21 +18,6 @@
   display: flex;
   align-items: center;
 }
-.Header-userLink {
-  display: flex;
-  align-items: center;
-  margin-right: 20px;
-  text-decoration: none;
-  color: black;
-}
-.Header-userLink-name {
-  margin-right: 10px;
-}
-.Header-userLink-avatar {
-  width: 1.5em;
-  border-radius: 50%;
-  animation: 1s loadingEffect infinite;
-}
 .Header-btn {
   display: flex;
   padding: 0;
@@ -48,4 +32,28 @@
 .Header-btn-icon {
   margin-left: 10px;
   font-size: 1.25em;
+}
+
+/***********
+ * PRIVADO *
+ ***********/
+
+/*
+ * Partes que são exibidas somente com o login.
+ */
+
+.Header-userLink-avatar {
+  width: 1.5em;
+  border-radius: 50%;
+  animation: 1s loadingEffect infinite;
+}
+.Header-userLink {
+  display: flex;
+  align-items: center;
+  margin-right: 20px;
+  text-decoration: none;
+  color: black;
+}
+.Header-userLink-name {
+  margin-right: 10px;
 }

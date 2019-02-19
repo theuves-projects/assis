@@ -1,5 +1,5 @@
 .Home_Footer {
-  padding: 75px 0;
+  padding: 45px 0;
   background-color: #ddd;
   color: black;
 }
@@ -7,6 +7,9 @@
   margin-bottom: 20px;
   font-size: 1.75em;
   color: #333;
+}
+.Home_Footer-item:not(:last-child) {
+  margin-bottom: 20px;
 }
 .Home_Footer-list {
   list-style: none;
@@ -18,17 +21,8 @@
   text-decoration: none;
   color: currentColor;
 }
-.Home_Footer-itens {
-  display: flex;
-}
-.Home_Footer-item {
-  flex: 1;
-}
-.Home_Footer-item:last-child {
-  text-align: right;
-}
 .Home_Footer-img--public-domain {
-  width: 150px;
+  width: 100px;
 }
 .Home_Footer-address {
   line-height: 200%;
@@ -43,4 +37,25 @@
 }
 .Home_Footer-address a:active {
   background-color: #333;
+}
+
+/**
+ * Quando tiver a larguar de 550px.
+ */
+@media (min-width: 550px) {
+  .Home_Footer {
+    padding: 70px 0;
+  }
+  .Home_Footer-itens {
+    display: flex;
+  }
+  .Home_Footer-item {
+    flex: 1;
+  }
+  .Home_Footer-item:last-child {
+    text-align: right;
+  }
+  .Home_Footer-img--public-domain {
+    width: 150px;
+  }
 }

@@ -7,7 +7,7 @@
   box-sizing: content-box;
   padding: 30px;
   border-radius: 3px;
-  box-shadow: 8px 8px 0 0 #f0e583;
+  box-shadow: 5px 5px 0 0 #f0e583;
   background-image: linear-gradient(to bottom, #47484e, #30323c);
   color: white;
 }
@@ -24,4 +24,10 @@
 }
 .Login dd {
   margin-bottom: 20px;
+}
+@media (min-width: 550px) {
+  .Form {
+    width: 400px;
+    box-shadow: 10px 10px 0 0 #f0e583;
+  }
 }

@@ -1,11 +1,9 @@
 .Apresentation {
+  padding: 45px 0 calc(45px + 50px) 0; /* + 50px do height no ::after */
   position: relative;
-  padding: 75px 0 150px 0;
-  margin-bottom: 100px;
   background-color: #563121;
-  background-image: url(../../../images/Home_Apresentation-bg.jpg);
+  background-image: url(../../../images/author-paint@mobile.jpg);
   background-size: cover;
-  background-position: 100%;
 }
 .Apresentation::after {
   content: '';
@@ -14,7 +12,20 @@
   left: 0;
   z-index: 1;
   width: 100%;
-  height: 100px;
+  height: 50px;
   background-size: 100% 100%;
-  background-image: url(../../../images/Home_Apresentation-effect.png);
+  background-image: url(../../../images/effects/wave.png);
+}
+@media (min-width: 550px) {
+  /**
+   * .Apresentation é a única exceção que  recebe 70px no lugar de 100px.
+   */
+  .Apresentation {
+    padding: 70px 0 calc(70px + 100px) 0; /* + 100px do height do ::after */
+    background-position: 100%;
+    background-image: url(../../../images/author-paint.jpg);
+  }
+  .Apresentation::after {
+    height: 100px !important;
+  }
 }

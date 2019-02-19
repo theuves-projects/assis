@@ -1,9 +1,9 @@
 .Form {
   display: inline-block;
-  width: 400px;
+  width: calc(100% - 5px); /* - 5px do box-shadow */
   padding: 40px 30px;
   border-radius: 3px;
-  box-shadow: 10px 10px 0 0 #f0e583;
+  box-shadow: 5px 5px 0 0 #f0e583;
   background: white;
 }
 .Form input {
@@ -19,4 +19,10 @@
 }
 .Form dd {
   margin-bottom: 20px;
+}
+@media (min-width: 550px) {
+  .Form {
+    width: 400px;
+    box-shadow: 10px 10px 0 0 #f0e583;
+  }
 }

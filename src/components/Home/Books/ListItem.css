@@ -1,31 +1,17 @@
 .Home_Books_ListItem {
-  position: relative;
-  margin: 20px;
-  margin-bottom: 10px;
   padding: 10px;
+  margin: 0 5px;
+  width: 200px;
+  display: inline-block;
   border-radius: 3px;
-  text-align: left;
-  list-style: none;
-  box-shadow: 1px 1px 1px 0 #ddd;
-  background-color: white;
+  box-shadow: 1px 1px 1px #ddd;
+  background-color: #f5f5f5;
 }
-.Home_Books_ListItem:last-child {
-  margin-bottom: 20px;
+.Home_Books_ListItem:nth-child(odd) {
+  transform: translateY(-10px);
 }
-.Home_Books_ListItem::after {
-  content: '';
-  position: absolute;
-  cursor: pointer;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
-}
-.Home_Books_ListItem:hover {
-  opacity: .95;
-}
-.Home_Books_ListItem:active {
-  opacity: .9;
+.Home_Books_ListItem:nth-child(even) {
+  transform: translateY(10px);
 }
 .Home_Books_ListItem-cover {
   width: 100%;
@@ -34,8 +20,46 @@
 }
 .Home_Books_ListItem-title {
   font-size: 1.25em;
-  white-space: nowrap;
+  text-align: left;
   overflow-x: hidden;
   text-overflow: ellipsis;
   color: #666;
+}
+
+/**
+ * Quando a tela tiver mais que 550px.
+ */
+@media (min-width: 550px) {
+  .Home_Books_ListItem {
+    all: unset;
+    position: relative;
+    display: block;
+    margin: 20px;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 3px;
+    text-align: left;
+    list-style: none;
+    box-shadow: 1px 1px 1px 0 #ddd;
+    transform: unset !important;
+    background-color: white;
+  }
+  .Home_Books_ListItem:last-child {
+    margin-bottom: 20px;
+  }
+  .Home_Books_ListItem::after {
+    content: '';
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+  }
+  .Home_Books_ListItem:hover {
+    opacity: .95;
+  }
+  .Home_Books_ListItem:active {
+    opacity: .9;
+  }
 }
