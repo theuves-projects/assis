@@ -12,8 +12,9 @@
   z-index: 1;
   border-radius: 3px;
   box-shadow: 1px 1px 2px 0 rgba(0, 0, 0, .5);
-  left: 50%;
-  transform: translate(-50%, 12px);
+  top: 50%;
+  left: -12px;
+  transform: translate(-100%, -50%);
   background-color: white;
 }
 .Dashboard_BookList_Dropdown-content::before {
@@ -22,9 +23,23 @@
   width: 0;
   height: 0;
   border: solid 8px transparent;
-  border-bottom-color: white;
+  border-left-color: white;
   position: absolute;
-  left: 50%;
-  top: -14px;
-  transform: translate(-50%);
+  right: 0;
+  top: 50%;
+  transform: translate(12px, -50%);
+}
+@media (min-width: 500px) {
+  .Dashboard_BookList_Dropdown-content {
+    left: 50%;
+    transform: translate(-50%, 12px);
+    background-color: white;
+  }
+  .Dashboard_BookList_Dropdown-content::before {
+    border-left-color: transparent;
+    border-bottom-color: white;
+    top: -12px;
+    left: 50%;
+    transform: translate(-50%);
+  }
 }

@@ -1,4 +1,4 @@
-import React, { Fragment } from 'react'
+import React, { Fragment, Component } from 'react'
 import { Link } from 'react-router-dom'
 import Dropdown from './Dropdown'
 import Checkbox from '../../Checkbox'
@@ -25,18 +25,36 @@ const DropdownItem = ({
   </label>
 )
 
-const BookCover = ({
-  src,
-  title
-}) => (
-  // 1.65 * w / 1 é a fórmula para calcular a largura.
-  <img
-    ref={(el) => { if (el) el.style.height = 1.65 * el.offsetWidth / 1  }}
-    className='Dashboard_BookList_BookListItem-cover'
-    src={src}
-    alt={`Capa do livro ${title}`}
-  />
-)
+class BookCover extends Component {
+  constructor(props) {
+    super(props)
+    this.imgElement = React.createRef()
+    this.updateImgHeight = this.updateImgHeight.bind(this)
+  }
+  componentDidMount() {
+    this.updateImgHeight()
+    addEventListener('resize', this.updateImgHeight)
+  }
+  componentWillUnmount() {
+    removeEventListener('resize', this.updateImgHeight)
+  }
+  updateImgHeight() {
+    this.imgElement.current.style.height = 1.65 * this.imgElement.current.offsetWidth / 1
+  }
+  render() {
+    const { src, title } = this.props
+
+    // 1.65 * w / 1 é a fórmula para calcular a largura.
+    return (
+      <img
+        ref={this.imgElement}
+        className='Dashboard_BookList_BookListItem-cover'
+        src={src}
+        alt={`Capa do livro ${title}`}
+      />
+    )
+  }
+}
 
 const BookListItem = ({
   code,

@@ -1,7 +1,8 @@
 .Header {
   padding: 10px 0;
-  background-image: linear-gradient(to top, #d2c86c, #f0e583);
+  font-size: 14px;
   border-bottom: 2px solid black;
+  background-image: linear-gradient(to top, #d2c86c, #f0e583);
 }
 .Header-brand {
   font-family: Merriweather, Georgia, Times, 'Times New Roman', serif;
@@ -34,6 +35,13 @@
   font-size: 1.25em;
 }
 
+/**
+ * Na versão mobile o nome do usuário não irá aparecer.
+ */
+.Header-userLink {
+  display: none;
+}
+
 /***********
  * PRIVADO *
  ***********/
@@ -42,18 +50,24 @@
  * Partes que são exibidas somente com o login.
  */
 
-.Header-userLink-avatar {
-  width: 1.5em;
-  border-radius: 50%;
-  animation: 1s loadingEffect infinite;
-}
-.Header-userLink {
-  display: flex;
-  align-items: center;
-  margin-right: 20px;
-  text-decoration: none;
-  color: black;
-}
-.Header-userLink-name {
-  margin-right: 10px;
+@media (min-width: 550px) {
+  .Header {
+    font-size: 16px;
+  }
+  .Header-userLink {
+    display: flex;
+    align-items: center;
+    margin-right: 20px;
+    text-decoration: none;
+    color: black;
+  }
+  .Header-userLink-avatar {
+    width: 1.5em;
+    border-radius: 50%;
+    animation: 1s loadingEffect infinite;
+  }
+  .Header-userLink-name {
+    margin-right: 10px;
+  }
+
 }

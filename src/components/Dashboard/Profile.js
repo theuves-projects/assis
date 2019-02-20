@@ -16,12 +16,14 @@ const Profile = ({
       uid={uid}
       className='Dashboard_Profile-avatar'
     />
-    <h1 className='Dashboard_Profile-name'>
-      {name}
-    </h1>
-    <p className='Dashboard_Profile-username'>
-      @{username}
-    </p>
+    <header>
+      <h1 className='Dashboard_Profile-name'>
+        {name}
+      </h1>
+      <p className='Dashboard_Profile-username'>
+        @{username}
+      </p>
+    </header>
   </div>
 )
 

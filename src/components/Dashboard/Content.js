@@ -31,8 +31,10 @@ const Tab = ({
     to={hasNotOption ? `${url}/${linkTo}` : url.replace(/\w+$/, linkTo)}
   >
     <i className={`fas fa-${icon}`}></i>
-    { ` ` }
-    { title }
+    {` `}
+    <span className='Dashboard_Content-tab-title'>
+      {title}
+    </span>
   </Link>  
 )
 

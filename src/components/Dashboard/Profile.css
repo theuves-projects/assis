@@ -1,22 +1,42 @@
 .Dashboard_Profile {
-  padding: 20px;
-  text-align: center;
+  display: flex;
+  margin-bottom: 30px;
   border-radius: 3px;
-  box-shadow: 8px 8px 0 0 #f0e583;
-  background-image: linear-gradient(to bottom, #47484e, #30323c);
-  color: white;
+  align-items: center;
 }
 .Dashboard_Profile-avatar {
-  margin-bottom: 25px;
-  width: 100%;
+  width: 75px;
+  margin-right: 15px;
+  border-radius: 50%;
   border-radius: 3px;
   animation: 1s loadingEffect infinite;
 }
 .Dashboard_Profile-name {
-  margin-bottom: 5px;
-  text-transform: uppercase;
+  margin-bottom: 3px;
+  text-transform: capitalize;
 }
 .Dashboard_Profile-username {
   font-style: italic;
   color: #bbb;
+}
+@media (min-width: 750px) {
+  .Dashboard_Profile {
+    display: inline-block;
+    padding: 20px;
+    align-items: unset;
+    margin-bottom: 0;
+    text-align: center;
+    background-image: linear-gradient(to bottom, #47484e, #30323c);
+    box-shadow: 8px 8px 0 0 #f0e583;
+    color: white;
+  }
+  .Dashboard_Profile-avatar {
+    width: 100%;
+    margin-right: 0;
+    margin-bottom: 25px;
+  }
+  .Dashboard_Profile-name {
+    margin-bottom: 5px;
+    text-transform: uppercase;
+  }
 }

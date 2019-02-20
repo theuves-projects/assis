@@ -5,6 +5,9 @@ class Avatar extends Component {
   constructor(props) {
     super(props)
     this.state = {}
+    this.imgElement = React.createRef()
+    this.updateImgHeight = this.updateImgHeight.bind(this)
+
     storage()
       .ref()
       .child(this.props.uid)
@@ -24,12 +27,22 @@ class Avatar extends Component {
         }
       )
   }
+  componentDidMount() {
+    this.updateImgHeight()
+    window.addEventListener('resize', this.updateImgHeight)
+  }
+  componentWillUnmount() {
+    window.removeEventListener('resize', this.updateImgHeight)
+  }
+  updateImgHeight() {
+    this.imgElement.current.style.height = this.imgElement.current.offsetWidth
+  }
   render() {
     const { forceSrc, ...props } = this.props
 
     return (
       <img
-        ref={(el) => { if (el) el.style.height = el.offsetWidth }}
+        ref={this.imgElement}
         style={{ backgroundColor: '#ddd' }}
         src={forceSrc || this.state.src}
         {...props}
