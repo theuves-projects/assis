@@ -36,10 +36,6 @@ class NewBooks extends Component {
     // Se estiver ativado, o livro vai ser adicionado, senão, será removido.
     const isAdding = isChecked
 
-    console.log(this.state[status])
-    console.log(bookCode)
-    console.log(isChecked)
-
     this.setState({
       [status]: resolveBooksCode(this.state[status], bookCode, isAdding)
     })
