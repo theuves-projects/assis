@@ -8,7 +8,8 @@ const DropdownItem = ({
   title,
   checkboxValue,
   bookCode,
-  status
+  status,
+  onChangeConfig
 }) => (
   <label className='Dashboard_BookList_BookListItem-checkbox'>
     <Checkbox
@@ -102,12 +103,14 @@ const BookListItem = ({
               checkboxValue={isRead}
               bookCode={code}
               status='read'
+              onChangeConfig={onChangeConfig}
             />
             <DropdownItem
-              title='Lido?'
+              title='Lendo?'
               checkboxValue={isReading}
               bookCode={code}
               status='reading'
+              onChangeConfig={onChangeConfig}
             />
           </Dropdown>
         ) : null}
