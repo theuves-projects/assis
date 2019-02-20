@@ -38,7 +38,7 @@
 }
 @media (min-width: 550px) {
   .Dashboard_Content-tab {
-    padding: 10px 25px;
+    padding: 10px 15px;
   }
   .Dashboard_Content-tabs {
     text-align: initial;
@@ -50,7 +50,7 @@
 }
 @media (min-width: 950px) {
   .Dashboard_Content-tab {
-    padding: 10px 15px;
+    padding: 10px 25px;
   }
   .Dashboard_Content-tabs {
     font-size: 16px;

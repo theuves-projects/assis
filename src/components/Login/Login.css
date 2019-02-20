@@ -11,14 +11,6 @@
   background-image: linear-gradient(to bottom, #47484e, #30323c);
   color: white;
 }
-.Login input {
-  padding: 10px 20px;
-  border: solid 1px #ccc;
-  border-radius: 3px;
-  width: 100%;
-  font-size: 1em;
-  box-shadow: inset 1px 1px 2px 0 #ddd;
-}
 .Login dt {
   margin-bottom: 5px;
 }

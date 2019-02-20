@@ -131,7 +131,7 @@ class Config extends Component {
           {/* Nome */}
           <ConfigItem title='Nome'>
             <input
-              className='Dashboard_Config-input'
+              className='input txt'
               value={this.state.userName}
               onChange={this.updateUserName}
               maxLength="25"
@@ -167,7 +167,7 @@ class Config extends Component {
           </ConfigItem>
 
           <button
-            className='btn'
+            className='input btn'
             onClick={this.saveChanges}
           >
             Salvar alterações

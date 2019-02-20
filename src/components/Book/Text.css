@@ -1,6 +1,6 @@
 .Book_Text {
+  padding: 30px;
   margin-bottom: 75px;
-  padding: 75px 100px;
   border: solid 1px #ddd;
   border-radius: 5px;
   box-shadow: 1px 1px 0 0 #ccc;
@@ -13,11 +13,10 @@
   margin-bottom: 25px;
 }
 .Book_Text-title {
-  font-size: 1.75em;
-  margin-bottom: 5px;
+  font-size: 1.15em;
 }
 .Book_Text-subtitle {
-  font-size: 1em;
+  font-size: .85em;
   font-style: italic;
   color: gray;
 }
@@ -45,6 +44,18 @@
 }
 .Book_Text-pCenter {
   text-align: center;
+}
+@media (min-width: 550px) {
+  .Book_Text {
+    padding: 75px 100px;
+  }
+  .Book_Text-title {
+    font-size: 1.75em;
+    margin-bottom: 5px;
+  }
+  .Book_Text-subtitle {
+    font-size: 1em;
+  }
 }
 
 /*****************

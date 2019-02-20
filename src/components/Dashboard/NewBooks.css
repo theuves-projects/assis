@@ -11,6 +11,9 @@
 }
 .Dashboard_NewBooks-name {
   flex: 1;
+  white-space: nowrap;
+  overflow-x: hidden;
+  text-overflow: ellipsis;
 }
 .Dashboard_NewBooks-checkbox {
   display: flex;

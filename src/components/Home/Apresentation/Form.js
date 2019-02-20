@@ -50,6 +50,7 @@ class Form extends Component {
           </dt>
           <dd>
             <input
+              className='input txt isFullWidth'
               type='text'
               id='userName'
               placeholder='Fulano de Tal'
@@ -63,6 +64,7 @@ class Form extends Component {
           </dt>
           <dd>
             <input
+              className='input txt isFullWidth'
               type='text'
               id='userUsername'
               placeholder='fulano'
@@ -76,6 +78,7 @@ class Form extends Component {
           </dt>
           <dd>
             <input
+              className='input txt isFullWidth'
               type='email'
               id='userEmail'
               placeholder='fulano@exemplo.com'
@@ -89,6 +92,7 @@ class Form extends Component {
           </dt>
           <dd>
             <input
+              className='input txt isFullWidth'
               type='password'
               id='userPassword'
               placeholder='Senha secreta'
@@ -99,7 +103,7 @@ class Form extends Component {
           </dd>
         </dl>
         <button
-          className='btn isFullWidth'
+          className='input btn isFullWidth'
           type='submit'
         >
           Registrar-se

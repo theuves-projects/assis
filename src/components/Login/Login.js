@@ -68,6 +68,7 @@ class Login extends Component {
               </dt>
               <dd>
                 <input
+                  className='input txt isFullWidth'
                   id='userEmail'
                   value={this.state.userEmail}
                   onChange={this.onChange}
@@ -80,6 +81,7 @@ class Login extends Component {
               </dt>
               <dd>
                 <input
+                  className='input txt isFullWidth'
                   id='userPassword'
                   value={this.state.userPassword}
                   onChange={this.onChange}
@@ -90,7 +92,7 @@ class Login extends Component {
             </dl>
 
             <button
-              className='btn isFullWidth'
+              className='input btn isFullWidth'
               type='submit'
             >
               Entrar

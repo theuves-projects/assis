@@ -21,7 +21,7 @@ import PublicRoute from './routes/PublicRoute'
 // Global styles
 import './styles/index.css'
 import './styles/container.css'
-import './styles/btn.css'
+import './styles/inputs.css'
 import './styles/keyframes.css'
 
 // Para evitar inicializar o mesmo app duas vezes.
