@@ -19,16 +19,26 @@
   display: flex;
   align-items: center;
 }
+.Header-userLink,
 .Header-btn {
   display: flex;
-  padding: 0;
-  border: none;
+  padding: 6px 12px;
+  border-radius: 3px;
+  border: solid 1px rgba(0, 0, 0, .035);
   font-size: 1em;
   cursor: pointer;
   text-decoration: none;
   align-items: center;
   color: currentColor;
-  background-color: transparent;
+  background-color: rgba(0, 0, 0, .035);
+}
+.Header-userLink:hover,
+.Header-btn:hover {
+  color: #444;
+}
+.Header-userLink:active,
+.Header-btn:active {
+  opacity: .8;
 }
 .Header-btn-icon {
   margin-left: 10px;
@@ -56,15 +66,14 @@
   }
   .Header-userLink {
     display: flex;
-    align-items: center;
-    margin-right: 20px;
-    text-decoration: none;
-    color: black;
+    margin-right: 10px;
   }
   .Header-userLink-avatar {
-    width: 1.5em;
+    width: 1em;
+    height: 1em !important;
     border-radius: 50%;
     animation: 1s loadingEffect infinite;
+    transform: scale(1.25);
   }
   .Header-userLink-name {
     margin-right: 10px;

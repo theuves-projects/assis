@@ -19,10 +19,27 @@
   font-style: italic;
 }
 .Home_Bio-text {
+  margin-bottom: 30px;
   font-size: 1.5em;
   font-weight: lighter;
   line-height: 180%;
   text-align: justify;
+}
+.Home_Bio-link {
+  display: inline-block;
+  padding: 10px 20px;
+  border: solid 2px #ddd;
+  border-radius: 3px;
+  text-decoration: none;
+  font-size: 1.25em;
+  color: black;
+  background-image: linear-gradient(to top, #ddd, #fff)
+}
+.Home_Bio-link:hover {
+  color: #333;
+}
+.Home_Bio-link:active {
+  background-image: linear-gradient(to bottom, #ddd, #fff)
 }
 @media (min-width: 550px) {
   .Home_Bio {

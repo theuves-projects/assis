@@ -44,9 +44,14 @@ class Header extends Component {
   }
   signOut() {
     if (window.confirm('Deseja realmente finalizar a sessão?')) {
-      auth().signOut().catch(() => {
-        window.alert('Algo deu errado!')
-      })
+      auth()
+        .signOut()
+        .then(() => {
+          window.location.assign('/')
+        })
+        .catch(() => {
+          window.alert('Algo deu errado!')
+        })
     }
   }
   render() {

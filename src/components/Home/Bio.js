@@ -23,6 +23,12 @@ const Bio = () => (
           nova estética do Realismo e foi ainda contemporâneo do Parnasianismo
           e do Simbolismo.
         </p>
+        <a
+          className='Home_Bio-link'
+          href='https://pt.wikipedia.org/wiki/Machado_de_Assis'
+        >
+          <i className="fab fa-wikipedia-w"></i> Ver mais
+        </a>
       </article>
     </div>
   </section>
