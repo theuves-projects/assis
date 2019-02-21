@@ -1,10 +1,8 @@
 .Login {
-  padding: 50px 0;
+  margin-top: 35px;
 }
 .Login-form {
-  width: 300px;
-  margin: 0 auto;
-  box-sizing: content-box;
+  width: 100%;
   padding: 30px;
   border-radius: 3px;
   box-shadow: 5px 5px 0 0 #f0e583;
@@ -18,7 +16,11 @@
   margin-bottom: 20px;
 }
 @media (min-width: 550px) {
-  .Form {
+  .Login {
+    margin-top: 45px;
+  }
+  .Login-form {
+    margin: 0 auto;
     width: 400px;
     box-shadow: 10px 10px 0 0 #f0e583;
   }
