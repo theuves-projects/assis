@@ -6,7 +6,7 @@
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --hot",
-    "build": "webpack --mode development"
+    "build": "webpack --mode production"
   },
   "keywords": [],
   "author": "Matheus Alves",
