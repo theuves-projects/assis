@@ -1,4 +1,4 @@
-import React, { Fragment, Component } from 'React'
+import React, { Fragment, Component } from 'react'
 import { Link } from 'react-router-dom'
 import { auth, database } from 'firebase'
 
