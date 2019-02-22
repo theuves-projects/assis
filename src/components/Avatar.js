@@ -43,8 +43,8 @@ class Avatar extends Component {
     return (
       <img
         ref={this.imgElement}
-        style={{ backgroundColor: '#ddd' }}
         src={forceSrc || this.state.src}
+        onLoad={this.updateImgHeight}
         {...props}
       />
     )

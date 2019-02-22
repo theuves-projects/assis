@@ -21,7 +21,7 @@
 }
 @media (min-width: 750px) {
   .Dashboard_Profile {
-    display: inline-block;
+    display: block;
     padding: 20px;
     align-items: unset;
     margin-bottom: 0;
