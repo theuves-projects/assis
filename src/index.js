@@ -26,7 +26,7 @@ import './styles/keyframes.css'
 
 // Para evitar inicializar o mesmo app duas vezes.
 if (firebase.apps.length === 0) {
-  firebase.initializeApp(firebaseConfig())
+  firebase.initializeApp(firebaseConfig)
 }
 
 class App extends Component {
