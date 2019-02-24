@@ -29,6 +29,8 @@ if (firebase.apps.length === 0) {
   firebase.initializeApp(firebaseConfig)
 }
 
+console.log(process.env)
+
 class App extends Component {
   render() {
     return (
