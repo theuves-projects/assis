@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom'
 import { BrowserRouter as Router, Route } from 'react-router-dom'
 import { hot } from 'react-hot-loader/root'
 import firebase, { auth, database } from 'firebase'
-import firebaseConfig from '../firebaseConfig.json'
+import firebaseConfig from '../firebaseConfig'
 
 // Components at index
 import Layout from './components/Layout'
@@ -26,7 +26,7 @@ import './styles/keyframes.css'
 
 // Para evitar inicializar o mesmo app duas vezes.
 if (firebase.apps.length === 0) {
-  firebase.initializeApp(firebaseConfig)
+  firebase.initializeApp(firebaseConfig())
 }
 
 class App extends Component {
