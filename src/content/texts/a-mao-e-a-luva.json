@@ -5,86 +5,91 @@
       "index": 0
     },
     {
-      "name": "I",
+      "name": "Advertência de 1874",
       "index": 1
     },
     {
-      "name": "II",
+      "name": "I",
       "index": 2
     },
     {
-      "name": "III",
+      "name": "II",
       "index": 3
     },
     {
-      "name": "IV",
+      "name": "III",
       "index": 4
     },
     {
-      "name": "V",
+      "name": "IV",
       "index": 5
     },
     {
-      "name": "VI",
+      "name": "V",
       "index": 6
     },
     {
-      "name": "VII",
+      "name": "VI",
       "index": 7
     },
     {
-      "name": "VIII",
+      "name": "VII",
       "index": 8
     },
     {
-      "name": "IX",
+      "name": "VIII",
       "index": 9
     },
     {
-      "name": "X",
+      "name": "IX",
       "index": 10
     },
     {
-      "name": "XI",
+      "name": "X",
       "index": 11
     },
     {
-      "name": "XII",
+      "name": "XI",
       "index": 12
     },
     {
-      "name": "XIII",
+      "name": "XII",
       "index": 13
     },
     {
-      "name": "XIV",
+      "name": "XIII",
       "index": 14
     },
     {
-      "name": "XV",
+      "name": "XIV",
       "index": 15
     },
     {
-      "name": "XVI",
+      "name": "XV",
       "index": 16
     },
     {
-      "name": "XVII",
+      "name": "XVI",
       "index": 17
     },
     {
-      "name": "XVIII",
+      "name": "XVII",
       "index": 18
     },
     {
-      "name": "XIX",
+      "name": "XVIII",
       "index": 19
+    },
+    {
+      "name": "XIX",
+      "index": 20
     }
   ],
   "data": [
     [
       {
         "align": "center",
+        "isTitle": true,
         "content": "Advertência de 1907"
       },
       {
@@ -94,10 +99,15 @@
         "content": "Não existia, há muito, no mercado. O autor aceitou o conselho de confiar a reimpressão ao editor dos outros livros seus. Não lhe alterou nada; apenas emendou erros tipográficos, fez correções de ortografia, e eliminou cerca de quinze linhas. Vai como saiu em 1874."
       },
       {
+        "align": "center",
+        "isTitle": false,
         "content": "M. de A."
-      },
+      }
+    ],
+    [
       {
         "align": "center",
+        "isTitle": true,
         "content": "Advertência de 1874"
       },
       {
@@ -107,19 +117,25 @@
         "content": "Mas talvez estou eu a dar proporções muito graves a uma cousa de tão pequeno tomo. O que aí vai são umas poucas páginas que o leitor esgotará de um trago, se elas lhe aguçarem a curiosidade, ou se lhe sobrar alguma hora que absolutamente não possa empregar em outra cousa – mais bela ou mais útil."
       },
       {
+        "align": "center",
+        "isTitle": false,
         "content": "Novembro de 1874."
       },
       {
+        "align": "center",
+        "isTitle": false,
         "content": "M. de A."
       }
     ],
     [
       {
         "align": "center",
+        "isTitle": true,
         "content": "I"
       },
       {
         "align": "center",
+        "isTitle": true,
         "content": "O FIM DA CARTA"
       },
       {
@@ -240,10 +256,12 @@
     [
       {
         "align": "center",
+        "isTitle": true,
         "content": "II"
       },
       {
         "align": "center",
+        "isTitle": true,
         "content": "UM ROUPÃO"
       },
       {
@@ -337,10 +355,12 @@
     [
       {
         "align": "center",
+        "isTitle": true,
         "content": "III"
       },
       {
         "align": "center",
+        "isTitle": true,
         "content": "AO PÉ DA CERCA"
       },
       {
@@ -491,10 +511,12 @@
     [
       {
         "align": "center",
+        "isTitle": true,
         "content": "IV"
       },
       {
         "align": "center",
+        "isTitle": true,
         "content": "LATET ANGUIS"
       },
       {
@@ -669,10 +691,12 @@
     [
       {
         "align": "center",
+        "isTitle": true,
         "content": "V"
       },
       {
         "align": "center",
+        "isTitle": true,
         "content": "MENINICE"
       },
       {
@@ -757,10 +781,12 @@
     [
       {
         "align": "center",
+        "isTitle": true,
         "content": "VI"
       },
       {
         "align": "center",
+        "isTitle": true,
         "content": "O POSTSCRIPTUM"
       },
       {
@@ -899,10 +925,12 @@
     [
       {
         "align": "center",
+        "isTitle": true,
         "content": "VII"
       },
       {
         "align": "center",
+        "isTitle": true,
         "content": "UM RIVAL"
       },
       {
@@ -1005,10 +1033,12 @@
     [
       {
         "align": "center",
+        "isTitle": true,
         "content": "VIII"
       },
       {
         "align": "center",
+        "isTitle": true,
         "content": "GOLPE"
       },
       {
@@ -1141,10 +1171,12 @@
     [
       {
         "align": "center",
+        "isTitle": true,
         "content": "IX"
       },
       {
         "align": "center",
+        "isTitle": true,
         "content": "CONSPIRAÇÃO"
       },
       {
@@ -1301,10 +1333,12 @@
     [
       {
         "align": "center",
+        "isTitle": true,
         "content": "X"
       },
       {
         "align": "center",
+        "isTitle": true,
         "content": "A REVELAÇÃO"
       },
       {
@@ -1567,10 +1601,12 @@
     [
       {
         "align": "center",
+        "isTitle": true,
         "content": "XI"
       },
       {
         "align": "center",
+        "isTitle": true,
         "content": "LUÍS ALVES"
       },
       {
@@ -1700,10 +1736,12 @@
     [
       {
         "align": "center",
+        "isTitle": true,
         "content": "XII"
       },
       {
         "align": "center",
+        "isTitle": true,
         "content": "A VIAGEM"
       },
       {
@@ -1821,10 +1859,12 @@
     [
       {
         "align": "center",
+        "isTitle": true,
         "content": "XIII"
       },
       {
         "align": "center",
+        "isTitle": true,
         "content": "EXPLICAÇÕES"
       },
       {
@@ -1915,10 +1955,12 @@
     [
       {
         "align": "center",
+        "isTitle": true,
         "content": "XIV"
       },
       {
         "align": "center",
+        "isTitle": true,
         "content": "EX ABRUPTO"
       },
       {
@@ -2039,10 +2081,12 @@
     [
       {
         "align": "center",
+        "isTitle": true,
         "content": "XV"
       },
       {
         "align": "center",
+        "isTitle": true,
         "content": "EMBARGOS DE TERCEIRO"
       },
       {
@@ -2175,10 +2219,12 @@
     [
       {
         "align": "center",
+        "isTitle": true,
         "content": "XVI"
       },
       {
         "align": "center",
+        "isTitle": true,
         "content": "A CONFISSÃO"
       },
       {
@@ -2329,10 +2375,12 @@
     [
       {
         "align": "center",
+        "isTitle": true,
         "content": "XVII"
       },
       {
         "align": "center",
+        "isTitle": true,
         "content": "A CARTA"
       },
       {
@@ -2441,10 +2489,12 @@
     [
       {
         "align": "center",
+        "isTitle": true,
         "content": "XVIII"
       },
       {
         "align": "center",
+        "isTitle": true,
         "content": "A ESCOLHA"
       },
       {
@@ -2670,10 +2720,12 @@
     [
       {
         "align": "center",
+        "isTitle": true,
         "content": "XIX"
       },
       {
         "align": "center",
+        "isTitle": true,
         "content": "CONCLUSÃO"
       },
       {
