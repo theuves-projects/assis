@@ -45,6 +45,9 @@
   text-align: center;
 }
 
+/**
+ * Ao acessar pelo desktop
+ */
 @media (min-width: 550px) {
   .Book_Text {
     padding: 75px 100px;
@@ -61,25 +64,25 @@
 /**
  * Tamanho da fonte.
  */
-.Book_Text-fontSize-small {
+.Book_Text--font-size--small {
   font-size: 1em;
 }
-.Book_Text-fontSize-normal {
+.Book_Text--font-size--normal {
   font-size: 1.25em;
 }
-.Book_Text-fontSize-big {
+.Book_Text--font-size--big {
   font-size: 1.5em;
 }
 
 /**
  * Família da fonte.
  */
-.Book_Text-fontFamily-serif {
+.Book_Text--font-family--serif {
   font-family: Merriweather, Georgia, Times, 'Times New Roman', serif;
 }
-.Book_Text-fontFamily-sans-serif {
+.Book_Text--font-family--sans-serif {
   font-family: Roboto, Helvetica, Verdana, Arial, sans-serif;
 }
-.Book_Text-fontFamily-monospace {
+.Book_Text--font-family--monospace {
   font-family: Consolas, 'Lucida Console', monospace;
 }
