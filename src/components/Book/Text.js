@@ -11,7 +11,7 @@ import './Text.css'
 
 const Text = ({
   book,
-  onReqNextChapter,
+  chapterChanger,
   fontSize,
   fontFamily
 }) => (
@@ -57,7 +57,13 @@ const Text = ({
     <div className='Book_Text-pCenter'>
       <button
         className='Book_Text-btn'
-        onClick={onReqNextChapter}
+        onClick={() => chapterChanger(-1)}
+      >
+        <i className='fas fa-hand-point-left'></i>
+      </button>
+      <button
+        className='Book_Text-btn'
+        onClick={() => chapterChanger(1)}
       >
         <i className='fas fa-hand-point-right'></i>
       </button>

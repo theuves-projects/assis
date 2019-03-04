@@ -1,62 +1,137 @@
 import React, { Component } from 'react'
-import Text from './Text'
-import axios from 'axios'
+
+// Utils
 import { auth, database } from 'firebase'
+import axios from 'axios'
 import { findBook } from '../../utils/books'
+
+// Components
+import Text from './Text'
 import Loading from '../Loading'
+
+// Styles
 import './Book.css'
 
+//
+// Select na parte superior da página
+//
+const Select = ({
+  legend,
+  value,
+  onChange,
+  children
+}) => (
+  <fieldset className='Book-fieldset'>
+    <legend className='Book-legend'>{legend}:</legend>
+    <select
+      className='Book-select Book-selectSpecial'
+      value={value}
+      onChange={onChange}
+    >
+      {children}
+    </select>
+  </fieldset>
+)
+
+//
+// Item de opção pro componente Select
+//
+const Option = ({
+  value,
+  name
+}) => (
+  <option
+    className='Book-select-option'
+    value={value}
+  >
+    {name}
+  </option>  
+)
+
+
 class Book extends Component {
+
+  //
+  // Init
+  //
   constructor(props) {
     super(props)
 
-    this.changeChapter = this.changeChapter.bind(this)
-    this.changeFontSize = this.changeFontSize.bind(this)
-    this.changeFontFamily = this.changeFontFamily.bind(this)
-    this.nextChapter = this.nextChapter.bind(this)
-    this.onSelectText = this.onSelectText.bind(this)
+    // Bind
+    this.onChangeChapter = this.onChangeChapter.bind(this)
+    this.chapterChanger = this.chapterChanger.bind(this)
+    this.changeFont = this.changeFont.bind(this)
 
     const bookCode = this.props.match.params.code
+    const hasConfigs = this.props.data.booksConfig
+    const hasConfigsToThis = this.props.data.booksConfig[bookCode]
 
-    if (this.props.data.booksConfig && this.props.data.booksConfig[bookCode]) {
+    // Definição das configurações
+    if (hasConfigs && hasConfigsToThis) {
       this.state = {
         config: this.props.data.booksConfig[bookCode]
       }
     } else {
       this.state = {
         config: {
-          currentChapter: 0,
-          fontSize: 'normal',
-          fontFamily: 'serif'
+          currentChapter : 0,
+          fontSize       : 'normal',
+          fontFamily     : 'serif'
         }
       }
     }
 
+    // URL do JSON do livro
     const dataPath = findBook(parseInt(bookCode)).dataPath
   
     axios.get(dataPath)
-      .then((response) => {
-        if (!this.state) return
-        this.setState({
-          data: response.data
-        })
+      .then(onReqSuccess)
+      .catch(onReqError)
+
+    function onReqSuccess(res) {
+      if (!this.state) return
+
+      this.setState({
+        data: response.data
       })
-      .catch((err) => {
-        alert('Houve algum erro! Não foi possível obter o livro.')
-      })
+    }
+    function onReqError() {
+      alert('Houve algum erro! Não foi possível obter o livro.')
+    }
   }
+
+  //
+  // Antes de atualizar:
+  //
+  // * Volta para o topo da página
+  // * Atualiza configurações no banco de dados
+  //
   componentWillUpdate(_, nextState) {
-    if (JSON.stringify(this.state) !== JSON.stringify(nextState)) {
-      if (this.state.config.currentChapter !== nextState.config.currentChapter) {
+    const stateStr = JSON.stringify(this.state)
+    const nextStateStr = JSON.stringify(nextState)
+
+    if (stateStr !== nextStateStr) {
+      const currChapter = this.state.config.currentChapter
+      const nextChapter = nextState.config.currentChapter
+
+      if (currChapter !== nextChapter) {
         window.scrollTo(0, 0)
       }
 
       const uid = auth().currentUser.uid
       const bookCode = this.props.match.params.code
-      database().ref(`users/${uid}/booksConfig/${bookCode}`).set(nextState.config)
+
+      // Atualiza banco de dados
+      database()
+        .ref(`users/${uid}/booksConfig/${bookCode}`)
+        .set(nextState.config)
     }
   }
-  changeChapter(event) {
+
+  ///
+  // Alterar capítulo
+  //
+  onChangeChapter(event) {
     if (!this.state) return
 
     this.setState({
@@ -66,105 +141,110 @@ class Book extends Component {
       }
     })
   }
-  changeFontSize(event) {
-    if (!this.state) return
-    this.setState({
-      config: {
-        ...this.state.config,
-        fontSize: event.target.value
-      }
-    })
-  }
-  changeFontFamily(event) {
-    if (!this.state) return
-    this.setState({
-      config: {
-        ...this.state.config,
-        fontFamily: event.target.value
-      }
-    })
-  }
-  onSelectText() {
-    return 0
-  }
-  nextChapter() {
-    this.setState({
-      config: {
-        ...this.state.config,
-        currentChapter: this.state.config.currentChapter + 1,
-      }
-    })
-  }
-  render() {
-    if (!this.state.data) return <Loading msg='Carregando o livro...' />
 
+  //
+  // Altera a fonte
+  //
+  // * status
+  //   -> fontSize - Pro tamanho da fonte
+  //   -> fontFamily - Pra família da fonte
+  //
+  changeFont(state, value) {
+    if (!this.state) return
+
+    if (state !== 'fontSize') return
+    if (state !== 'fontFamily') return
+
+    this.setState({
+      config: {
+        ...this.state.config,
+        [state]: value
+      }
+    })
+  }
+
+  chnage
+
+  //
+  // Avançar capítulo
+  //
+  chapterChanger(n) {
+    this.setState({
+      config: {
+        ...this.state.config,
+        currentChapter: this.state.config.currentChapter + n,
+      }
+    })
+  }
+
+  //
+  // Render
+  //
+  render() {
+
+    // Carregando
+    if (!this.state.data) {
+      return <Loading msg='Carregando o livro...' />
+    }
+
+    // Depois de carregado
     return (
       <section className='Book'>
-
         <div className='container'>
+
+          {/* Refrente às opções na parte superior */}
           <div className='Book-actions'>
 
-            {/* Na esquerda. */}
+            {/* Na esquerda */}
             <div>
-
-              {/* Seleção do capítulo. */}
-              <fieldset className='Book-fieldset'>
-                <legend className='Book-legend'>Capítulo:</legend>
-                <select
-                  className='Book-select Book-selectSpecial'
-                  value={this.state.config.currentChapter}
-                  onChange={this.changeChapter}
-                >
-                  {this.state.data.chapter.map((chapter) => (
-                    <option
-                      className='Book-select-option'
-                      key={chapter.index}
-                      value={chapter.index}
-                    >
-                      {chapter.name}
-                    </option>
-                  ))}
-                </select>
-              </fieldset>
+              <Select
+                legend='Capítulo'
+                value={this.state.config.currentChapter}
+                onChange={this.onChangeChapter}
+              >
+                {this.state.data.chapter.map((chapter) => (
+                  <Option
+                    key={chapter.index}
+                    value={chapter.index}
+                    name={chapter.name}
+                  />
+                ))}
+              </Select>
             </div>
 
-            {/* Na direita. */}
+            {/* Na direita */}
             <div>
 
-              {/* Seleção do tamanho da fonte. */}
-              <fieldset className='Book-fieldset'>
-                <legend className='Book-legend'>Tamanho:</legend>
-                <select
-                  className='Book-select'
-                  value={this.state.config.fontSize}
-                  onChange={this.changeFontSize}
-                >
-                  <option value='small'>Fonte pequena</option>
-                  <option value='normal'>Fonte normal</option>
-                  <option value='big'>Fonte grande</option>
-                </select>
-              </fieldset>
+              {/* Tamanho da fonte */}
+              <Select
+                legend='Tamanho'
+                value={this.state.config.fontSize}
+                onChange={(e) => this.changeFont('fontSize', e.target.value)}
+              >
+                <Option value='small' name='Fonte pequena' />
+                <Option value='normal' name='Fonte normal' />
+                <Option value='big' name='Fonte grande' />
+              </Select>
 
-              {/* Seleção da família da fonte. */}
-              <fieldset className='Book-fieldset'>
-                <legend className='Book-legend'>Família:</legend>
-                <select
-                  className='Book-select'
-                  value={this.state.config.fontFamily}
-                  onChange={this.changeFontFamily}
-                >
-                  <option value='serif'>Fonte serifada</option>
-                  <option value='sans-serif'>Fonte sem serifa</option>
-                  <option value='monospace'>Fonte mono-espaçada</option>
-                </select>
-              </fieldset>
+              {/* Família da fonte */}
+              <Select
+                legend='Família'
+                value={this.state.config.fontFamily}
+                onChange={(e) => this.changeFont('fontFamily', e.target.value)}
+              >
+                <option value='serif' name='Fonte serifada' />
+                <option value='sans-serif' name='Fonte sem serifa' />
+                <option value='monospace' name='Fonte mono-espaçada' />
+              </Select>
             </div>
           </div>
+
+          {/* Conteúdo do livro */}
           <Text
             book={this.state.data.data[this.state.config.currentChapter]}
             fontSize={this.state.config.fontSize}
             fontFamily={this.state.config.fontFamily}
-            onReqNextChapter={this.nextChapter}
+            chapterChanger={this.chapterChanger}
           />
         </div>
       </section>
