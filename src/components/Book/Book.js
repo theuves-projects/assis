@@ -4,6 +4,7 @@ import React, { Component } from 'react'
 import { auth, database } from 'firebase'
 import axios from 'axios'
 import { findBook } from '../../utils/books'
+import createClassName from '../../utils/createClassName'
 
 // Components
 import Text from './Text'
@@ -19,12 +20,16 @@ const Select = ({
   legend,
   value,
   onChange,
+  isSpecial,
   children
 }) => (
   <fieldset className='Book-fieldset'>
     <legend className='Book-legend'>{legend}:</legend>
     <select
-      className='Book-select Book-selectSpecial'
+      className={createClassName([
+        'Book-select',
+        isSpecial ? 'Book-select--special' : null
+      ])}
       value={value}
       onChange={onChange}
     >
@@ -186,6 +191,10 @@ class Book extends Component {
       return <Loading msg='Carregando o livro...' />
     }
 
+    // Variáveis
+    const { currentChapter, fontSize, fontFamily } = this.state.config
+    const chapterContent = this.state.data.data[currentChapter]
+
     // Depois de carregado
     return (
       <section className='Book'>
@@ -198,8 +207,9 @@ class Book extends Component {
             <div>
               <Select
                 legend='Capítulo'
-                value={this.state.config.currentChapter}
+                value={currentChapter}
                 onChange={this.onChangeChapter}
+                isSpecial={true}
               >
                 {this.state.data.chapter.map((chapter) => (
                   <Option
@@ -217,7 +227,7 @@ class Book extends Component {
               {/* Tamanho da fonte */}
               <Select
                 legend='Tamanho'
-                value={this.state.config.fontSize}
+                value={fontSize}
                 onChange={(e) => this.changeFont('fontSize', e.target.value)}
               >
                 <Option value='small' name='Fonte pequena' />
@@ -228,21 +238,21 @@ class Book extends Component {
               {/* Família da fonte */}
               <Select
                 legend='Família'
-                value={this.state.config.fontFamily}
+                value={fontFamily}
                 onChange={(e) => this.changeFont('fontFamily', e.target.value)}
               >
-                <option value='serif' name='Fonte serifada' />
-                <option value='sans-serif' name='Fonte sem serifa' />
-                <option value='monospace' name='Fonte mono-espaçada' />
+                <Option value='serif' name='Fonte serifada' />
+                <Option value='sans-serif' name='Fonte sem serifa' />
+                <Option value='monospace' name='Fonte mono-espaçada' />
               </Select>
             </div>
           </div>
 
           {/* Conteúdo do livro */}
           <Text
-            book={this.state.data.data[this.state.config.currentChapter]}
-            fontSize={this.state.config.fontSize}
-            fontFamily={this.state.config.fontFamily}
+            book={chapterContent}
+            fontSize={fontSize}
+            fontFamily={fontFamily}
             chapterChanger={this.chapterChanger}
           />
         </div>
