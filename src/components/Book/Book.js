@@ -85,18 +85,19 @@ class Book extends Component {
     const dataPath = findBook(parseInt(bookCode)).dataPath
   
     axios.get(dataPath)
-      .then(onReqSuccess)
+      .then(onReqSuccess.bind(this))
       .catch(onReqError)
 
     function onReqSuccess(res) {
       if (!this.state) return
 
       this.setState({
-        data: response.data
+        data: res.data
       })
     }
-    function onReqError() {
+    function onReqError(err) {
       alert('Houve algum erro! Não foi possível obter o livro.')
+      console.error(err)
     }
   }
 
