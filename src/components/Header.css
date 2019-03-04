@@ -72,7 +72,7 @@
     width: 1em;
     height: 1em !important;
     border-radius: 50%;
-    animation: 1s loadingEffect infinite;
+    animation: 1s loadingEffect linear infinite alternate;
     transform: scale(1.25);
   }
   .Header-userLink-name {

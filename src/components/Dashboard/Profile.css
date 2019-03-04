@@ -9,7 +9,7 @@
   margin-right: 15px;
   border-radius: 50%;
   border-radius: 3px;
-  animation: 1s loadingEffect infinite;
+  animation: 1s loadingEffect linear infinite alternate;
 }
 .Dashboard_Profile-name {
   margin-bottom: 3px;

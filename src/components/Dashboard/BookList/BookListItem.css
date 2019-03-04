@@ -26,7 +26,7 @@
   display: block;
   width: 100%;
   border-radius: 3px;
-  animation: 1s loadingEffect infinite;
+  animation: 1s loadingEffect linear infinite alternate;
 }
 .Dashboard_BookList_BookListItem-footer {
   display: flex;
