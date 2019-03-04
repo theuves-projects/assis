@@ -1,6 +1,12 @@
 import React from 'react'
+
+// Utils
 import createClassName from '../../utils/createClassName'
+
+// Components
 import TextWithDictionary from '../TextWithDictionary'
+
+// Styles
 import './Text.css'
 
 const Text = ({
@@ -16,37 +22,33 @@ const Text = ({
       `Book_Text-fontFamily-${fontFamily}`
     ])}
   >
-    <header className='Book_Text-header'>
-      <h1 className='Book_Text-title'>
-        {book.chapterName}
-      </h1>
-      {book.chapterDescription ? (
-        <h2 className='Book_Text-subtitle'>
-          {book.chapterDescription}
-        </h2>
-      ) : (
-        null
-      )}
-    </header>
-
     <TextWithDictionary className='Book_Text-content'>
-      {book.text.map((paragraph, index) => {
+      {book.map((paragraph, index) => {
 
-        // Centralizar partes específicas.
-        // - Abreviação do nome de Machado de Assis
-        // - A palavra FIM.
-        // - Um ano.
-        if (/^(M\.?(\sde\s)?A\.?|FIM|\d{4}\.?)$/i.test(paragraph)) {
+        // Alinhamento no centro
+        if (paragraph.align === 'center') {
+
+          // Se for um título estará dentro dum h1
+          if (paragraph.isTitle) {
+            return (
+              <h1 key={index} className='Book_Text-title'>
+                {paragraph.content}
+              </h1>
+            )
+          }
+
+          // Caso contrário, será um parágrafo normal centralizado
           return (
             <p key={index} className='Book_Text-p Book_Text-pCenter'>
-              {paragraph}
+              {paragraph.content}
             </p>
           )
         }
 
+        // Parágrafo normal
         return (
           <p key={index} className='Book_Text-p'>
-            {paragraph}
+            {paragraph.content}
           </p>
         )
       })}

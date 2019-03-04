@@ -7,18 +7,17 @@
   text-align: justify;
   line-height: 180%;
 }
-.Book_Text-header {
-  text-align: center;
-  text-transform: uppercase;
-  margin-bottom: 25px;
-}
 .Book_Text-title {
+  display: block;
   font-size: 1.15em;
+  text-align: center;
 }
-.Book_Text-subtitle {
-  font-size: .85em;
-  font-style: italic;
-  color: gray;
+.Book_Text-p + .Book_Text-title,
+.Book_Text-title + .Book_Text-p {
+  margin-top: 30px;
+}
+.Book_Text-pCenter + .Book_Text-pCenter {
+  margin-top: -15px;
 }
 .Book_Text-content {
   margin-bottom: 50px;
@@ -45,16 +44,13 @@
 .Book_Text-pCenter {
   text-align: center;
 }
+
 @media (min-width: 550px) {
   .Book_Text {
     padding: 75px 100px;
   }
   .Book_Text-title {
-    font-size: 1.75em;
-    margin-bottom: 5px;
-  }
-  .Book_Text-subtitle {
-    font-size: 1em;
+    font-size: 1.25em;
   }
 }
 

@@ -3,7 +3,6 @@ import Text from './Text'
 import axios from 'axios'
 import { auth, database } from 'firebase'
 import { findBook } from '../../utils/books'
-import canBePtWord from '../../utils/canBePtWord'
 import Loading from '../Loading'
 import './Book.css'
 
@@ -59,6 +58,7 @@ class Book extends Component {
   }
   changeChapter(event) {
     if (!this.state) return
+
     this.setState({
       config: {
         ...this.state.config,
@@ -115,13 +115,13 @@ class Book extends Component {
                   value={this.state.config.currentChapter}
                   onChange={this.changeChapter}
                 >
-                  {this.state.data.map((chapter, index) => (
+                  {this.state.data.chapter.map((chapter) => (
                     <option
                       className='Book-select-option'
-                      key={index}
-                      value={index}
+                      key={chapter.index}
+                      value={chapter.index}
                     >
-                      {chapter.chapterName}
+                      {chapter.name}
                     </option>
                   ))}
                 </select>
@@ -161,7 +161,7 @@ class Book extends Component {
             </div>
           </div>
           <Text
-            book={this.state.data[this.state.config.currentChapter]}
+            book={this.state.data.data[this.state.config.currentChapter]}
             fontSize={this.state.config.fontSize}
             fontFamily={this.state.config.fontFamily}
             onReqNextChapter={this.nextChapter}
