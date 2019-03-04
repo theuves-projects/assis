@@ -163,8 +163,6 @@ class Book extends Component {
     })
   }
 
-  chnage
-
   //
   // Avançar capítulo
   //
