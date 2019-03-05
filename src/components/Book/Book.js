@@ -193,7 +193,8 @@ class Book extends Component {
 
     // Variáveis
     const { currentChapter, fontSize, fontFamily } = this.state.config
-    const chapterContent = this.state.data.data[currentChapter]
+    const chapterContent = this.state.data[currentChapter]
+    const chaptersList = this.state.data.map(p => p[0].content)
 
     // Depois de carregado
     return (
@@ -211,11 +212,11 @@ class Book extends Component {
                 onChange={this.onChangeChapter}
                 isSpecial={true}
               >
-                {this.state.data.chapter.map((chapter) => (
+                {chaptersList.map((chapter, index) => (
                   <Option
-                    key={chapter.index}
-                    value={chapter.index}
-                    name={chapter.name}
+                    key={index}
+                    value={index}
+                    name={chapter}
                   />
                 ))}
               </Select>
