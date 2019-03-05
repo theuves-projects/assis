@@ -158,8 +158,9 @@ class Book extends Component {
   changeFont(state, value) {
     if (!this.state) return
 
-    if (state !== 'fontSize') return
-    if (state !== 'fontFamily') return
+    if (state !== 'fontSize' && state !== 'fontFamily') {
+      throw new Error(`Configuração de fonte inválida: ${state}`)
+    }
 
     this.setState({
       config: {
