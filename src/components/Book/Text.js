@@ -11,15 +11,15 @@ import './Text.css'
 
 const Text = ({
   book,
-  chapterChanger,
   fontSize,
-  fontFamily
+  fontFamily,
+  chapterChanger
 }) => (
   <article
     className={createClassName([
       'Book_Text',
-      `Book_Text-fontSize-${fontSize}`,
-      `Book_Text-fontFamily-${fontFamily}`
+      `Book_Text--font-size--${fontSize}`,
+      `Book_Text--font-family--${fontFamily}`
     ])}
   >
     <TextWithDictionary className='Book_Text-content'>
