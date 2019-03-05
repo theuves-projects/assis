@@ -10,10 +10,21 @@ import TextWithDictionary from '../TextWithDictionary'
 import './Text.css'
 
 //
+// Converte "-" para "―"
+//
+function normalizeDash(str) {
+  return str
+    .replace(/\s-\s/g, ' ― ')
+    .replace(/-\s/g, '― ')
+}
+
+//
 // Title
 //
 const Title = ({ content }) => (
-  <h1 className='Book_Text-title'>{content}</h1>
+  <h1 className='Book_Text-title'>
+    {content}
+  </h1>
 )
 
 //
@@ -25,7 +36,7 @@ const Paragraph = ({ content, isCentralized }) => (
       isCentralized ? `Book_Text-paragraph--center` : null
     ])}
   >
-    {content}
+    {normalizeDash(content)}
   </p>
 )
 
