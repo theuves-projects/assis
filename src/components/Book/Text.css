@@ -16,6 +16,9 @@
   margin-top: 0;
   margin-bottom: 30px;
 }
+.Book_Text-title + .Book_Text-paragraph {
+  margin-top: 30px;
+}
 .Book_Text-paragraph {
   margin-bottom: 15px;
 }
@@ -24,6 +27,9 @@
 }
 .Book_Text-paragraph--center {
   text-align: center;
+}
+.Book_Text-paragraph--center + .Book_Text-paragraph--center {
+  margin-top: -15px;
 }
 
 /**
