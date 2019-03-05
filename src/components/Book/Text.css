@@ -11,8 +11,12 @@
 .Book_Text-title {
   text-align: center;
 }
+.Book_Text-title + .Book_Text-title {
+  margin-top: 0;
+  margin-bottom: 30px;
+}
 .Book_Text-paragraph {
-
+  margin-bottom: 15px;
 }
 .Book_Text-paragraph--center {
   text-align: center;
