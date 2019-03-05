@@ -1,7 +1,9 @@
 .Header {
+  position: relative;
   padding: 10px 0;
   font-size: 14px;
-  border-bottom: 2px solid black;
+  box-shadow: 0 2px 5px 1px rgba(0,0,0,.5);
+  z-index: 1;
   background-image: linear-gradient(to top, #d2c86c, #f0e583);
 }
 .Header-brand {
