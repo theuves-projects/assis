@@ -3,8 +3,9 @@
   margin-bottom: 75px;
   border: solid 1px #ddd;
   border-radius: 5px;
-  box-shadow: 1px 1px 0 0 #ccc;
+  font-size: 14px;
   text-align: justify;
+  box-shadow: 1px 1px 0 0 #ccc;
   line-height: 180%;
 }
 
@@ -17,6 +18,9 @@
 }
 .Book_Text-paragraph {
   margin-bottom: 15px;
+}
+.Book_Text-paragraph:not(.Book_Text-paragraph--center) {
+  text-indent: 1.15em;
 }
 .Book_Text-paragraph--center {
   text-align: center;
@@ -53,6 +57,10 @@
 @media (min-width: 550px) {
   .Book_Text {
     padding: 75px 100px;
+    font-size: 16px;
+  }
+  .Book_Text-paragraph:not(.Book_Text-paragraph--center) {
+    text-indent: 1.5em;
   }
 }
 
