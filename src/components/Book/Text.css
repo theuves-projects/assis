@@ -56,6 +56,10 @@
 .Book_Text-btn:not(:first-child) {
   margin-left: calc(var(--separation) / 2);
 }
+.Book_Text-btn:disabled {
+  opacity: .9;
+  cursor: default;
+}
 
 /**
  * Ao acessar pelo desktop

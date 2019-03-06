@@ -60,6 +60,8 @@ const Text = ({
   book,
   fontSize,
   fontFamily,
+  chapterMax,
+  chapterCurrent,
   chapterChanger
 }) => (
   <article
@@ -86,11 +88,13 @@ const Text = ({
         direction='left'
         title='Voltar capítulo'
         onClick={() => chapterChanger(-1)}
+        disabled={chapterCurrent === 0}
       />
       <Button
         direction='right'
         title='Próximo capítulo'
         onClick={() => chapterChanger(1)}
+        disabled={chapterCurrent === chapterMax}
       />
     </footer>
   </article>

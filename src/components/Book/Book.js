@@ -255,6 +255,8 @@ class Book extends Component {
             book={chapterContent}
             fontSize={fontSize}
             fontFamily={fontFamily}
+            chapterMax={chaptersList.length - 1}
+            chapterCurrent={currentChapter}
             chapterChanger={this.chapterChanger}
           />
         </div>
