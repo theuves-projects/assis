@@ -2,6 +2,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "ADVERTÊNCIA"
     },
     {
@@ -11,12 +12,14 @@
       "content": "Não me culpeis pelo que lhe achardes romanesco. Dos que então fiz, este me era particularmente prezado. Agora mesmo, que há tanto me fui a outras e diferentes páginas, ouço um eco remoto ao reler estas, eco de mocidade e fé ingênua. É claro que, em nenhum caso, lhes tiraria a feição passada; cada obra pertence ao seu tempo."
     },
     {
+      "isCentralized": true,
       "content": "M. de A."
     }
   ],
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "I"
     },
     {
@@ -149,10 +152,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "II"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": ""
     },
     {
@@ -279,10 +284,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "III"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": ""
     },
     {
@@ -430,10 +437,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "IV"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": ""
     },
     {
@@ -473,10 +482,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "V"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": ""
     },
     {
@@ -591,10 +602,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "VI"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": ""
     },
     {
@@ -1003,10 +1016,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "VII"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": ""
     },
     {
@@ -1211,10 +1226,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "VIII"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": ""
     },
     {
@@ -1353,10 +1370,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "IX"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": ""
     },
     {
@@ -1528,10 +1547,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "X"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": ""
     },
     {
@@ -1661,10 +1682,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "XI"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": ""
     },
     {
@@ -1725,10 +1748,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "XII"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": ""
     },
     {
@@ -1921,10 +1946,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "XIII"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": ""
     },
     {
@@ -2099,10 +2126,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "XIV"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": ""
     },
     {
@@ -2220,10 +2249,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "XV"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": ""
     },
     {
@@ -2317,10 +2348,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "XVI"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": ""
     },
     {
@@ -2606,10 +2639,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "XVII"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": ""
     },
     {
@@ -2766,10 +2801,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "XVIII"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": ""
     },
     {
@@ -2971,10 +3008,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "XIX"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": ""
     },
     {
@@ -3137,10 +3176,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "XX"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": ""
     },
     {
@@ -3237,10 +3278,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "XXI"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": ""
     },
     {
@@ -3496,10 +3539,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "XXII"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": ""
     },
     {
@@ -3641,10 +3686,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "XXIII"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": ""
     },
     {
@@ -3816,10 +3863,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "XXIV"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": ""
     },
     {
@@ -3944,6 +3993,7 @@
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "Salvador"
     },
     {
@@ -4064,10 +4114,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "XXV"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": ""
     },
     {
@@ -4128,10 +4180,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "XXVI"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": ""
     },
     {
@@ -4159,10 +4213,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "XXVII"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": ""
     },
     {
@@ -4274,10 +4330,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "XXVIII"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": ""
     },
     {
