@@ -2,6 +2,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "ADVERTÊNCIA"
     },
     {
@@ -18,20 +19,19 @@
     },
     {
       "isCentralized": true,
+      "isTitle": false,
       "content": "ESAÚ E JACÓ"
     }
   ],
   [
     {
       "isCentralized": true,
-      "content": "Dico, che quando l´anima mal nata...\nDante"
-    },
-    {
-      "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO PRIMEIRO"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "COUSAS FUTURAS!"
     },
     {
@@ -90,6 +90,7 @@
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "Menina da saia branca,\nSaltadeira de riacho..."
     },
     {
@@ -139,6 +140,7 @@
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "Trepa-me neste coqueiro,\nBota-me os cocos abaixo."
     },
     {
@@ -146,16 +148,19 @@
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "Menina da saia branca,\nSaltadeira de riacho,\nTrepa-me neste coqueiro,\nBota-me os cocos abaixo,\nQuebra coco, sinhá,\nLá no cocá,\nSe te dá na cabeça,\nHá de rachá;\nMuito hei de me ri,\nMuito hei de gostá,\nLelê, cocô, naiá."
     }
   ],
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "II"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "MELHOR DE DESCER QUE DE SUBIR"
     },
     {
@@ -171,10 +176,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "III"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "A ESMOLA DA FELICIDADE"
     },
     {
@@ -211,10 +218,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "IV"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "A MISSA DO COUPÉ"
     },
     {
@@ -266,10 +275,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "V"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "HÁ CONTRADIÇÕES EXPLICÁVEIS"
     },
     {
@@ -282,10 +293,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "VI"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "MATERNIDADE"
     },
     {
@@ -322,10 +335,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "VII"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "GESTAÇÃO"
     },
     {
@@ -383,10 +398,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "VIII"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "NEM CASAL, NEM GENERAL"
     },
     {
@@ -447,10 +464,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "IX"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "VISTA DE PALÁCIO"
     },
     {
@@ -466,10 +485,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "X"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "O JURAMENTO"
     },
     {
@@ -602,10 +623,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "XI"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "UM CASO ÚNICO!"
     },
     {
@@ -624,10 +647,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "XII"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "ESSE AIRES"
     },
     {
@@ -668,16 +693,19 @@
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "Dico, que quando l´anima mal nata..."
     }
   ],
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "XIII"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "A EPÍGRAFE"
     },
     {
@@ -693,10 +721,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "XIV"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "A LIÇÃO DO DISCÍPULO"
     },
     {
@@ -742,10 +772,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "XV"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "TESTE DAVID CUM SIBYLLA"
     },
     {
@@ -854,10 +886,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "XVI"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "PATERNALISMO"
     },
     {
@@ -870,10 +904,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "XVII"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "TUDO O QUE RESTRINJO"
     },
     {
@@ -895,10 +931,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "XVIII"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "DE COMO VIERAM CRESCENDO"
     },
     {
@@ -953,10 +991,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "XIX"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "APENAS DUAS. - QUARENTA ANOS. - TERCEIRA CAUSA"
     },
     {
@@ -993,10 +1033,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "XX"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "A JOIA"
     },
     {
@@ -1030,10 +1072,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "XXI"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "UM PONTO ESCURO"
     },
     {
@@ -1049,10 +1093,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "XXII"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "AGORA UM SALTO"
     },
     {
@@ -1062,10 +1108,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "XXIII"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "QUANDO TIVEREM BARBAS"
     },
     {
@@ -1126,10 +1174,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "XXIV"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "ROBESPIERRE E LUÍS XVI"
     },
     {
@@ -1220,10 +1270,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "XXV"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "D. MIGUEL"
     },
     {
@@ -1245,10 +1297,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "XXVI"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "A LUTA DOS RETRATOS"
     },
     {
@@ -1324,10 +1378,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "XXVII"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "DE UMA REFLEXÃO INTEMPESTIVA"
     },
     {
@@ -1343,10 +1399,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "XXVIII"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "O RESTO É CERTO"
     },
     {
@@ -1359,10 +1417,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "XXIX"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "A PESSOA MAIS MOÇA"
     },
     {
@@ -1372,10 +1432,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "XXX"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "A GENTE BATISTA"
     },
     {
@@ -1395,6 +1457,7 @@
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "Cuñados y juntos:\nEs cierto que están difuntos;"
     },
     {
@@ -1402,6 +1465,7 @@
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "Cunhados e cunhadíssimos;\nÉ certo que são vivíssimos!"
     },
     {
@@ -1429,10 +1493,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "XXXI"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "FLORA"
     },
     {
@@ -1478,10 +1544,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "XXXII"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "O APOSENTADO"
     },
     {
@@ -1542,10 +1610,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "XXXIII"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "A SOLIDÃO TAMBÉM CANSA"
     },
     {
@@ -1564,10 +1634,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "XXXIV"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "INEXPLICÁVEL"
     },
     {
@@ -1595,10 +1667,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "XXXV"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "EM VOLTA DA MOÇA"
     },
     {
@@ -1632,10 +1706,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "XXXVI"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "A DISCÓRDIA NÃO É TÃO FEIA COMO SE PINTA"
     },
     {
@@ -1669,10 +1745,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "XXXVII"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "DESACORDO NO ACORDO"
     },
     {
@@ -1700,10 +1778,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "XXXVIII"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CHEGADA A PROPÓSITO"
     },
     {
@@ -1857,10 +1937,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "XXXIX"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "UM GATUNO"
     },
     {
@@ -1900,10 +1982,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "XL"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "RECUERDOS"
     },
     {
@@ -1926,6 +2010,7 @@
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "Tienen las sevillanas,\nEn la mantilla,\nUn letrero que disse:\n¡Viva Sevilla!"
     },
     {
@@ -1933,16 +2018,19 @@
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "Tienen las sevillanas,\nEn la mantilla..."
     }
   ],
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "XLI"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CASO DO BURRO"
     },
     {
@@ -1964,10 +2052,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "XLII"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "UMA HIPÓTESE"
     },
     {
@@ -1977,10 +2067,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "XLIII"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "O DISCURSO"
     },
     {
@@ -2044,10 +2136,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "XLIV"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "O SALMÃO"
     },
     {
@@ -2150,10 +2244,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "XLV"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "MUSA, CANTA..."
     },
     {
@@ -2184,10 +2280,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "XLVI"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "ENTRE UM ATO E OUTRO"
     },
     {
@@ -2200,10 +2298,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "XLVII"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "SÃO MATEUS, IV, 1-10"
     },
     {
@@ -2339,10 +2439,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "XLVIII"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "TERPSÍCORE"
     },
     {
@@ -2427,10 +2529,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "XLIX"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "TABULETA VELHA"
     },
     {
@@ -2488,10 +2592,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "L"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "O TINTEIRO DE EVARISTO"
     },
     {
@@ -2540,10 +2646,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "LI"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "AQUI PRESENTE"
     },
     {
@@ -2604,10 +2712,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "LII"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "UM SEGREDO"
     },
     {
@@ -2701,10 +2811,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "LIII"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "DE CONFIDÊNCIAS"
     },
     {
@@ -2846,10 +2958,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "LIV"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "ENFIM, SÓ!"
     },
     {
@@ -2859,10 +2973,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "LV"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "\"A MULHER É A DESOLAÇÃO DO HOMEM\""
     },
     {
@@ -2887,10 +3003,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "LVI"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "O GOLPE"
     },
     {
@@ -2933,10 +3051,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "LVII"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "DAS ENCOMENDAS"
     },
     {
@@ -2985,10 +3105,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "LVIII"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "MATAR SAUDADES"
     },
     {
@@ -3022,10 +3144,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "LIX"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "NOITE DE 14"
     },
     {
@@ -3098,10 +3222,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "LX"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "MANHÃ DE 15"
     },
     {
@@ -3144,10 +3270,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "LXI"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "LENDO XENOFONTE"
     },
     {
@@ -3163,10 +3291,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "LXII"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "\"PARE NO D.\""
     },
     {
@@ -3248,10 +3378,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "LXIII"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "TABULETA NOVA"
     },
     {
@@ -3325,6 +3457,7 @@
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "Confeitaria do império\ndas leis"
     },
     {
@@ -3349,10 +3482,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "LXIV"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "PAZ!"
     },
     {
@@ -3413,10 +3548,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "LXV"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "ENTRE OS FILHOS"
     },
     {
@@ -3447,10 +3584,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "LXVI"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "O BASTO E A ESPADILHA"
     },
     {
@@ -3460,10 +3599,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "LXVII"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "A NOITE INTEIRA"
     },
     {
@@ -3495,6 +3636,7 @@
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "Allons, enfants de la patrie,\nLe jour de gloire est arrivé!"
     },
     {
@@ -3519,10 +3661,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "LXVIII"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "DE MANHÃ"
     },
     {
@@ -3532,10 +3676,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "LXIX"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "AO PIANO"
     },
     {
@@ -3557,10 +3703,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "LXX"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "DE UMA CONCLUSÃO ERRADA"
     },
     {
@@ -3624,10 +3772,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "LXXI"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "A COMISSÃO"
     },
     {
@@ -3646,10 +3796,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "LXXII"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "O REGRESSO"
     },
     {
@@ -3707,10 +3859,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "LXXIII"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "UM ELDORADO"
     },
     {
@@ -3735,10 +3889,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "LXXIV"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "A ALUSÃO DO TEXTO"
     },
     {
@@ -3781,10 +3937,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "LXXV"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "PROVÉRBIO ERRADO"
     },
     {
@@ -3800,10 +3958,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "LXXVI"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "TALVEZ FOSSE A MESMA!"
     },
     {
@@ -3840,10 +4000,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "LXXVII"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "HOSPEDAGEM"
     },
     {
@@ -3883,10 +4045,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "LXXVIII"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "VISITA AO MARECHAL"
     },
     {
@@ -3986,10 +4150,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "LXXIX"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "FUSÃO, DIFUSÃO, CONFUSÃO..."
     },
     {
@@ -4014,10 +4180,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "LXXX"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "TRANSFUSÃO, ENFIM"
     },
     {
@@ -4039,10 +4207,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "LXXXI"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "AI, DUAS ALMAS..."
     },
     {
@@ -4050,6 +4220,7 @@
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "Ai, duas almas no meu seio moram!"
     },
     {
@@ -4057,6 +4228,7 @@
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "Ai, duas almas no meu seio moram"
     },
     {
@@ -4064,6 +4236,7 @@
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "Ai, duas almas no meu seio moram!"
     },
     {
@@ -4082,10 +4255,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "LXXXII"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "EM SÃO CLEMENTE"
     },
     {
@@ -4101,10 +4276,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "LXXXIII"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "A GRANDE NOITE"
     },
     {
@@ -4159,10 +4336,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "LXXXIV"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "O VELHO SEGREDO"
     },
     {
@@ -4199,10 +4378,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "LXXXV"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "TRÊS CONSTITUIÇÕES"
     },
     {
@@ -4230,10 +4411,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "LXXXVI"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "ANTES QUE ME ESQUEÇA"
     },
     {
@@ -4243,10 +4426,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "LXXXVII"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "ENTRE AIRES E FLORA"
     },
     {
@@ -4301,10 +4486,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "LXXXVIII"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "NÃO, NÃO, NÃO"
     },
     {
@@ -4317,10 +4504,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "LXXXIX"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "O DRAGÃO"
     },
     {
@@ -4342,10 +4531,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "XC"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "O AJUSTE"
     },
     {
@@ -4409,10 +4600,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "XCI"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "NEM SÓ A VERDADE SE DEVE ÀS MÃES"
     },
     {
@@ -4494,10 +4687,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "XCII"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "SEGREDO ACORDADO"
     },
     {
@@ -4531,10 +4726,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "XCIII"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "NÃO ATA NEM DESATA"
     },
     {
@@ -4562,10 +4759,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "XCIV"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "GESTOS OPOSTOS"
     },
     {
@@ -4590,10 +4789,12 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "XCV"
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "O TERCEIRO"
     },
     {
