@@ -2,6 +2,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "PRÓLOGO DA TERCEIRA EDIÇÃO"
     },
     {
@@ -11,6 +12,7 @@
       "content": "Um amigo e confrade ilustre tem teimado comigo para que dê a este livro o seguimento de outro. \"Com as Memórias póstumas de Brás Cubas, donde este proveio, fará você uma trilogia, e a Sofia de Quincas Borba ocupará exclusivamente a terceira parte.\" Algum tempo cuidei que podia ser, mas relendo agora estas páginas concluo que não. A Sofia está aqui toda. Continuá-la seria repeti-la, e acaso repetir o mesmo seria pecado. Creio que foi assim que me tacharam este e alguns outros dos livros que vim compondo pelo tempo fora no silêncio da minha vida. Vozes houve, generosas e fortes, que então me defenderam; já lhes agradeci em particular; agora o faço cordial e publicamente."
     },
     {
+      "isCentralized": true,
       "content": "1899."
     },
     {
@@ -21,6 +23,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO PRIMEIRO"
     },
     {
@@ -33,6 +36,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO II"
     },
     {
@@ -42,6 +46,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO III"
     },
     {
@@ -69,6 +74,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO IV"
     },
     {
@@ -99,6 +105,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO V"
     },
     {
@@ -159,6 +166,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO VI"
     },
     {
@@ -246,6 +254,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO VII"
     },
     {
@@ -291,6 +300,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO VIII"
     },
     {
@@ -339,6 +349,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO IX"
     },
     {
@@ -372,6 +383,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO X"
     },
     {
@@ -394,6 +406,7 @@
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "QUINCAS BORBA"
     },
     {
@@ -421,6 +434,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO XI"
     },
     {
@@ -433,6 +447,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO XII"
     },
     {
@@ -454,6 +469,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO XIII"
     },
     {
@@ -472,6 +488,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO XIV"
     },
     {
@@ -481,6 +498,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO XV"
     },
     {
@@ -508,6 +526,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO XVI"
     },
     {
@@ -529,6 +548,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO XVII"
     },
     {
@@ -580,6 +600,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO XVIII"
     },
     {
@@ -604,6 +625,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO XIX"
     },
     {
@@ -616,6 +638,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO XX"
     },
     {
@@ -625,6 +648,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO XXI"
     },
     {
@@ -763,6 +787,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO XXII"
     },
     {
@@ -772,6 +797,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO XXIII"
     },
     {
@@ -790,6 +816,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO XXIV"
     },
     {
@@ -799,6 +826,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO XXV"
     },
     {
@@ -808,6 +836,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO XXVI"
     },
     {
@@ -820,6 +849,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO XXVII"
     },
     {
@@ -829,6 +859,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO XXVIII"
     },
     {
@@ -874,6 +905,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO XXIX"
     },
     {
@@ -904,6 +936,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO XXX"
     },
     {
@@ -934,6 +967,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO XXXI"
     },
     {
@@ -970,6 +1004,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO XXXII"
     },
     {
@@ -986,6 +1021,7 @@
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "SOFIA.                              "
     },
     {
@@ -1061,6 +1097,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO XXXIII"
     },
     {
@@ -1070,6 +1107,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO XXXIV"
     },
     {
@@ -1094,6 +1132,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO XXXV"
     },
     {
@@ -1124,6 +1163,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO XXXVI"
     },
     {
@@ -1139,6 +1179,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO XXXVII"
     },
     {
@@ -1172,6 +1213,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO XXXVIII"
     },
     {
@@ -1181,6 +1223,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO XXXIX"
     },
     {
@@ -1208,6 +1251,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO XL"
     },
     {
@@ -1226,6 +1270,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO XLI"
     },
     {
@@ -1262,6 +1307,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO XLII"
     },
     {
@@ -1370,6 +1416,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO XLIII"
     },
     {
@@ -1397,6 +1444,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO XLIV"
     },
     {
@@ -1406,6 +1454,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO XLV"
     },
     {
@@ -1436,6 +1485,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO XLVI"
     },
     {
@@ -1454,6 +1504,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO XLVII"
     },
     {
@@ -1499,6 +1550,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO XLVIII"
     },
     {
@@ -1529,6 +1581,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO XLIX"
     },
     {
@@ -1553,6 +1606,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO L"
     },
     {
@@ -1784,6 +1838,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO LI"
     },
     {
@@ -1808,6 +1863,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO LII"
     },
     {
@@ -1835,6 +1891,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO LIII"
     },
     {
@@ -1847,6 +1904,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO LIV"
     },
     {
@@ -1877,6 +1935,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO LV"
     },
     {
@@ -1889,6 +1948,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO LVI"
     },
     {
@@ -1922,6 +1982,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO LVII"
     },
     {
@@ -1946,6 +2007,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO LVIII"
     },
     {
@@ -1979,6 +2041,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO LIX"
     },
     {
@@ -2039,6 +2102,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO LX"
     },
     {
@@ -2081,6 +2145,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO LXI"
     },
     {
@@ -2168,6 +2233,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO LXII"
     },
     {
@@ -2183,6 +2249,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO LXIII"
     },
     {
@@ -2198,6 +2265,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO LXIV"
     },
     {
@@ -2252,6 +2320,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO LXV"
     },
     {
@@ -2297,6 +2366,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO LXVI"
     },
     {
@@ -2306,6 +2376,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO LXVII"
     },
     {
@@ -2342,6 +2413,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO LXVIII"
     },
     {
@@ -2399,6 +2471,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO LXIX"
     },
     {
@@ -2522,6 +2595,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO LXX"
     },
     {
@@ -2561,6 +2635,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO LXXI"
     },
     {
@@ -2597,6 +2672,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO LXXII"
     },
     {
@@ -2618,6 +2694,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO LXXIII"
     },
     {
@@ -2630,6 +2707,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO LXXIV"
     },
     {
@@ -2645,6 +2723,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO LXXV"
     },
     {
@@ -2669,6 +2748,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO LXXVI"
     },
     {
@@ -2678,6 +2758,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO LXXVII"
     },
     {
@@ -2744,6 +2825,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO LXXVIII"
     },
     {
@@ -2765,6 +2847,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO LXXIX"
     },
     {
@@ -2780,6 +2863,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO LXXX"
     },
     {
@@ -2804,6 +2888,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO LXXXI"
     },
     {
@@ -2819,6 +2904,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO LXXXII"
     },
     {
@@ -2876,6 +2962,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO LXXXIII"
     },
     {
@@ -2942,6 +3029,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO LXXXIV"
     },
     {
@@ -2951,6 +3039,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO LXXXV"
     },
     {
@@ -2969,6 +3058,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO LXXXVI"
     },
     {
@@ -3005,6 +3095,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO LXXXVII"
     },
     {
@@ -3026,6 +3117,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO LXXXVIII"
     },
     {
@@ -3044,6 +3136,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO LXXXIX"
     },
     {
@@ -3125,6 +3218,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO XC"
     },
     {
@@ -3144,12 +3238,14 @@
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "Vous marchiez? J'en suis fort aise.\nEh bien! mourez maintenant.        "
     }
   ],
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO XCI"
     },
     {
@@ -3159,6 +3255,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO XCII"
     },
     {
@@ -3198,6 +3295,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO XCIII"
     },
     {
@@ -3228,6 +3326,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO XCIV"
     },
     {
@@ -3252,6 +3351,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO XCV"
     },
     {
@@ -3264,6 +3364,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO XCVI"
     },
     {
@@ -3282,6 +3383,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO XCVII"
     },
     {
@@ -3306,6 +3408,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO XCVIII"
     },
     {
@@ -3316,10 +3419,12 @@
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "Sua amiga e obrigada                  "
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "SOFIA.                  "
     },
     {
@@ -3359,6 +3464,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO XCIX"
     },
     {
@@ -3389,6 +3495,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO C"
     },
     {
@@ -3461,6 +3568,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CI"
     },
     {
@@ -3494,6 +3602,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CII"
     },
     {
@@ -3503,6 +3612,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CIII"
     },
     {
@@ -3563,6 +3673,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CIV"
     },
     {
@@ -3611,6 +3722,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CV"
     },
     {
@@ -3659,6 +3771,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CVI"
     },
     {
@@ -3683,6 +3796,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CVII"
     },
     {
@@ -3692,6 +3806,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CVIII"
     },
     {
@@ -3785,6 +3900,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CIX"
     },
     {
@@ -3800,6 +3916,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CX"
     },
     {
@@ -3866,6 +3983,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CXI"
     },
     {
@@ -3905,6 +4023,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CXII"
     },
     {
@@ -3914,6 +4033,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CXIII"
     },
     {
@@ -3926,6 +4046,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CXIV"
     },
     {
@@ -3935,6 +4056,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CXV"
     },
     {
@@ -4058,6 +4180,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CXVI"
     },
     {
@@ -4100,6 +4223,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CXVII"
     },
     {
@@ -4118,6 +4242,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CXVIII"
     },
     {
@@ -4259,6 +4384,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CXIX"
     },
     {
@@ -4304,6 +4430,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CXX"
     },
     {
@@ -4427,6 +4554,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CXXI"
     },
     {
@@ -4442,6 +4570,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CXXII"
     },
     {
@@ -4469,6 +4598,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CXXIII"
     },
     {
@@ -4478,6 +4608,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CXXIV"
     },
     {
@@ -4494,12 +4625,14 @@
     },
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "Ecco ridente in cielo\nSpunta la bela aurora.       "
     }
   ],
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CXXV"
     },
     {
@@ -4518,6 +4651,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CXXVI"
     },
     {
@@ -4530,6 +4664,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CXXVII"
     },
     {
@@ -4539,6 +4674,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CXXVIII"
     },
     {
@@ -4614,6 +4750,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CXXIX"
     },
     {
@@ -4623,6 +4760,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CXXX"
     },
     {
@@ -4674,6 +4812,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CXXXI"
     },
     {
@@ -4692,6 +4831,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CXXXII"
     },
     {
@@ -4722,6 +4862,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CXXXIII"
     },
     {
@@ -4776,6 +4917,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CXXXIV"
     },
     {
@@ -4800,6 +4942,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CXXXV"
     },
     {
@@ -4809,6 +4952,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CXXXVI"
     },
     {
@@ -4821,6 +4965,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CXXXVII"
     },
     {
@@ -4830,6 +4975,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CXXXVIII"
     },
     {
@@ -4863,6 +5009,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CXXXIX"
     },
     {
@@ -4896,6 +5043,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CXL"
     },
     {
@@ -4905,6 +5053,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CXLI"
     },
     {
@@ -4950,6 +5099,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CXLII"
     },
     {
@@ -4959,6 +5109,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CXLIII"
     },
     {
@@ -4968,6 +5119,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CXLIV"
     },
     {
@@ -5022,6 +5174,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CXLV"
     },
     {
@@ -5043,6 +5196,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CXLVI"
     },
     {
@@ -5130,6 +5284,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CXLVII"
     },
     {
@@ -5139,6 +5294,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CXLVIII"
     },
     {
@@ -5163,6 +5319,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CXLIX"
     },
     {
@@ -5214,6 +5371,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CL"
     },
     {
@@ -5229,6 +5387,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CLI"
     },
     {
@@ -5259,6 +5418,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CLII"
     },
     {
@@ -5334,6 +5494,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CLIII"
     },
     {
@@ -5409,6 +5570,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CLIV"
     },
     {
@@ -5424,6 +5586,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CLV"
     },
     {
@@ -5433,6 +5596,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CLVI"
     },
     {
@@ -5445,6 +5609,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CLVII"
     },
     {
@@ -5454,6 +5619,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CLVIII"
     },
     {
@@ -5499,6 +5665,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CLIX"
     },
     {
@@ -5523,6 +5690,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CLX"
     },
     {
@@ -5535,6 +5703,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CLXI"
     },
     {
@@ -5568,6 +5737,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CLXII"
     },
     {
@@ -5577,6 +5747,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CLXIII"
     },
     {
@@ -5586,6 +5757,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CLXIV"
     },
     {
@@ -5631,6 +5803,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CLXV"
     },
     {
@@ -5655,6 +5828,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CLXVI"
     },
     {
@@ -5664,6 +5838,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CLXVII"
     },
     {
@@ -5724,6 +5899,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CLXVIII"
     },
     {
@@ -5733,6 +5909,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CLXIX"
     },
     {
@@ -5772,6 +5949,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CLXX"
     },
     {
@@ -5808,6 +5986,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CLXXI"
     },
     {
@@ -5850,6 +6029,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CLXXII"
     },
     {
@@ -5871,6 +6051,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CLXXIII"
     },
     {
@@ -5919,6 +6100,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CLXXIV"
     },
     {
@@ -5943,6 +6125,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CLXXV"
     },
     {
@@ -6039,6 +6222,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CLXXVI"
     },
     {
@@ -6084,6 +6268,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CLXXVII"
     },
     {
@@ -6123,6 +6308,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CLXXVIII"
     },
     {
@@ -6138,6 +6324,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CLXXIX"
     },
     {
@@ -6189,6 +6376,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CLXXX"
     },
     {
@@ -6258,6 +6446,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CLXXXI"
     },
     {
@@ -6363,6 +6552,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CLXXXII"
     },
     {
@@ -6417,6 +6607,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CLXXXIII"
     },
     {
@@ -6465,6 +6656,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CLXXXIV"
     },
     {
@@ -6477,6 +6669,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CLXXXV"
     },
     {
@@ -6498,6 +6691,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CLXXXVI"
     },
     {
@@ -6507,6 +6701,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CLXXXVII"
     },
     {
@@ -6516,6 +6711,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CLXXXVIII"
     },
     {
@@ -6597,6 +6793,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CLXXXIX"
     },
     {
@@ -6606,6 +6803,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CXC"
     },
     {
@@ -6624,6 +6822,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CXCI"
     },
     {
@@ -6636,6 +6835,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CXCII"
     },
     {
@@ -6651,6 +6851,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CXCIII"
     },
     {
@@ -6669,6 +6870,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CXCIV"
     },
     {
@@ -6690,6 +6892,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CXCV"
     },
     {
@@ -6711,6 +6914,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CXCVI"
     },
     {
@@ -6720,6 +6924,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CXCVII"
     },
     {
@@ -6732,6 +6937,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CXCVIII"
     },
     {
@@ -6741,6 +6947,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CXCIX"
     },
     {
@@ -6774,6 +6981,7 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CC"
     },
     {
@@ -6789,13 +6997,13 @@
   [
     {
       "isCentralized": true,
+      "isTitle": true,
       "content": "CAPÍTULO CCI"
     },
     {
       "content": "Queria dizer aqui o fim do Quincas Borba, que adoeceu também, ganiu infinitamente, fugiu desvairado em busca do dono, e amanheceu morto na rua, três dias depois. Mas, vendo a morte do cão narrada em capítulo especial, é provável que me perguntes se ele, se o seu defunto homônimo é que dá o título ao livro, e por que antes um que outro - questão prenhe de questões, que nos levariam longe... Eia! Chora os dous recentes mortos, se tens lágrimas. Se só tens riso, ri-te! É a mesma cousa. O Cruzeiro, que a linda Sofia não quis fitar, como lhe pedia Rubião, está assaz alto para não discernir os risos e as lágrimas dos homens."
     },
     {
-      "isTitle": true,
       "isCentralized": true,
       "content": "FIM"
     }
