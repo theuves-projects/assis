@@ -8,10 +8,10 @@ import PrivateRoute from './routes/PrivateRoute'
 import PublicRoute from './routes/PublicRoute'
 
 // Components
-import Home from './components/Home/Home'
-import Login from './components/Login/Login'
-import Dashboard from './components/Dashboard/Dashboard'
-import Book from './components/Book/Book'
+import Home from './pages/Home'
+import Login from './pages/Login'
+import Dashboard from './pages/Dashboard'
+import Book from './pages/Book'
 
 const Routes = () => (
   <Router>
