@@ -1,13 +1,43 @@
 import React, { Component } from 'react'
+
+// Utils
 import { auth, database } from 'firebase'
+import axios from 'axios'
+import blobToBase64 from 'blob-to-base64'
+
+// Components
 import Form from './Form.js'
+
+// Styles
 import './Apresentation.css'
 
 class Apresentation extends Component {
   constructor(props) {
     super(props)
 
+    const bgs = {
+      src: require('../../../images/author-paint.jpg'),
+      lazySrc: require('../../../images/author-paint.lazy.jpg')
+    }
+
+    this.state = {
+      bgs,
+      bgSrc: bgs.lazySrc
+    }
+
     this.onSubmit = this.onSubmit.bind(this)
+  }
+  componentDidMount() {
+    const img = this.state.bgs.src
+
+    axios.get(img, { responseType: 'blob' })
+      .then((res) => {
+        blobToBase64(res.data, (err, base64) => {
+          this.setState({
+            bgSrc: base64
+          })
+        });
+      })
   }
   onSubmit(clearForm, {
     userName,
@@ -59,12 +89,13 @@ class Apresentation extends Component {
         }
       }
     })
-
-
   }
   render() {
     return (
-      <section className='apresentation'>
+      <section
+        className='apresentation'
+        style={{ backgroundImage: `url(${this.state.bgSrc})` }}
+      >
         <div className='container'>
           <Form
             onSubmit={this.onSubmit}
