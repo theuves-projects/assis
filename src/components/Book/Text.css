@@ -3,54 +3,74 @@
   margin-bottom: 75px;
   border: solid 1px #ddd;
   border-radius: 5px;
-  box-shadow: 1px 1px 0 0 #ccc;
+  font-size: 14px;
   text-align: justify;
+  box-shadow: 1px 1px 0 0 #ccc;
   line-height: 180%;
 }
+
 .Book_Text-title {
-  display: block;
-  font-size: 1.15em;
   text-align: center;
 }
-.Book_Text-p + .Book_Text-title,
-.Book_Text-title + .Book_Text-p {
+.Book_Text-title + .Book_Text-title {
+  margin-top: 0;
+  margin-bottom: 30px;
+}
+.Book_Text-title + .Book_Text-paragraph {
   margin-top: 30px;
 }
-.Book_Text-pCenter + .Book_Text-pCenter {
+.Book_Text-paragraph {
+  margin-bottom: 15px;
+}
+.Book_Text-paragraph:not(.Book_Text-paragraph--center) {
+  text-indent: 1.15em;
+}
+.Book_Text-paragraph--center {
+  text-align: center;
+}
+.Book_Text-paragraph--center + .Book_Text-paragraph--center {
   margin-top: -15px;
 }
-.Book_Text-content {
-  margin-bottom: 50px;
+
+/**
+ * Footer
+ */
+.Book_Text-footer {
+  margin-top: 50px;
+  text-align: center;
 }
 .Book_Text-btn {
-  padding: 15px;
-  font-size: 1.25em;
-  cursor: pointer;
+  --separation: 10px;
+  padding: 10px;
   border: solid 1px #d85127;
   border-radius: 50%;
+  font-size: 1.15em;
   box-shadow: 1px 1px 0 0 #ccc;
+  cursor: pointer;
   background-color: #ff5722;
   color: white;
 }
-.Book_Text-btn:hover {
-  opacity: .95;
+.Book_Text-btn:not(:last-child) {
+  margin-right: calc(var(--separation) / 2);
 }
-.Book_Text-btn:active {
+.Book_Text-btn:not(:first-child) {
+  margin-left: calc(var(--separation) / 2);
+}
+.Book_Text-btn:disabled {
   opacity: .9;
-}
-.Book_Text-p {
-  margin-bottom: 15px;
-}
-.Book_Text-pCenter {
-  text-align: center;
+  cursor: default;
 }
 
+/**
+ * Ao acessar pelo desktop
+ */
 @media (min-width: 550px) {
   .Book_Text {
     padding: 75px 100px;
+    font-size: 16px;
   }
-  .Book_Text-title {
-    font-size: 1.25em;
+  .Book_Text-paragraph:not(.Book_Text-paragraph--center) {
+    text-indent: 1.5em;
   }
 }
 
@@ -61,25 +81,25 @@
 /**
  * Tamanho da fonte.
  */
-.Book_Text-fontSize-small {
+.Book_Text--font-size--small {
   font-size: 1em;
 }
-.Book_Text-fontSize-normal {
+.Book_Text--font-size--normal {
   font-size: 1.25em;
 }
-.Book_Text-fontSize-big {
+.Book_Text--font-size--big {
   font-size: 1.5em;
 }
 
 /**
  * Família da fonte.
  */
-.Book_Text-fontFamily-serif {
+.Book_Text--font-family--serif {
   font-family: Merriweather, Georgia, Times, 'Times New Roman', serif;
 }
-.Book_Text-fontFamily-sans-serif {
+.Book_Text--font-family--sans-serif {
   font-family: Roboto, Helvetica, Verdana, Arial, sans-serif;
 }
-.Book_Text-fontFamily-monospace {
+.Book_Text--font-family--monospace {
   font-family: Consolas, 'Lucida Console', monospace;
 }

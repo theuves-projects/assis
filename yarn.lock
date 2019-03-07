@@ -1174,6 +1174,13 @@ binary-extensions@^1.0.0:
   resolved "https://registry.yarnpkg.com/binary-extensions/-/binary-extensions-1.12.0.tgz#c2d780f53d45bba8317a8902d4ceeaf3a6385b14"
   integrity sha512-DYWGk01lDcxeS/K9IHPGWfT8PsJmbXRtRd2Sx72Tnb8pcYZQFF1oSDb8hJtS1vhp212q1Rzi5dUf9+nq0o9UIg==
 
+blob-to-base64@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/blob-to-base64/-/blob-to-base64-1.0.2.tgz#806a2b78b389153d6fc193bc369a6cd80ea645cf"
+  integrity sha512-R46jVNdr4wX2rSRo/UoJuHgK9J0q7Gq/m0Y5drahZKouspb19Oezy7Ynx6H2UGBGyuUA68Gt8VQvUh1q24jJ+g==
+  dependencies:
+    is-blob "^2.0.1"
+
 bluebird@^3.5.1, bluebird@^3.5.3:
   version "3.5.3"
   resolved "https://registry.yarnpkg.com/bluebird/-/bluebird-3.5.3.tgz#7d01c6f9616c9a51ab0f8c549a79dfe6ec33efa7"
@@ -3092,6 +3099,11 @@ is-binary-path@^1.0.0:
   integrity sha1-dfFmQrSA8YenEcgUFh/TpKdlWJg=
   dependencies:
     binary-extensions "^1.0.0"
+
+is-blob@^2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/is-blob/-/is-blob-2.0.1.tgz#7fde57ef8782a154bc0f3bdcaa0ffdccb6c33767"
+  integrity sha512-SmqVJYMnAeqrKLcwq6TXu1rpAg3yipVlMZIqR5u510rxoOzJGW9GQY6g+WtWkcc44pjbWAuxzZDCkbgf5e6r0Q==
 
 is-buffer@^1.1.5:
   version "1.1.6"

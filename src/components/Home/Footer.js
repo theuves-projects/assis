@@ -54,9 +54,9 @@ const Footer = () => (
         {/* Item 3 */}
         <div className='Home_Footer-item'>
           <address className='Home_Footer-address'>
-            Copyright &copy; 2019 by <a href='mailto:theuves@gmail.com'>Matheus Alves</a>.<br />
-            Desenvolvido em Dourados-MS, Brasil.<br />
-            Veja o <a href='https://github.com/thevues/assis'>código-fonte</a>.
+            Copyright &copy; 2019 by <a href='mailto:theuves@gmail.com'>Matheus Alves</a><br />
+            Desenvolvido em Dourados-MS, Brasil<br />
+            Veja o <a href='https://github.com/thevues/assis'>código-fonte</a>
           </address>
         </div>
       </div>

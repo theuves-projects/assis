@@ -9,59 +9,94 @@ import TextWithDictionary from '../TextWithDictionary'
 // Styles
 import './Text.css'
 
+//
+// Converte "-" para "―"
+//
+function normalizeDash(str) {
+  return str
+    .replace(/\s-\s/g, ' ― ')
+    .replace(/-\s/g, '― ')
+}
+
+//
+// Title
+//
+const Title = ({ content }) => (
+  <h1 className='Book_Text-title'>
+    {content}
+  </h1>
+)
+
+//
+// Paragraph
+//
+const Paragraph = ({ content, isCentralized }) => (
+  <p className={createClassName([
+      'Book_Text-paragraph',
+      isCentralized ? `Book_Text-paragraph--center` : null
+    ])}
+  >
+    {normalizeDash(content)}
+  </p>
+)
+
+//
+// Button
+//
+const Button = ({ direction, ...props }) => (
+  <button
+    className='Book_Text-btn'
+    {...props}
+  >
+    <i className={createClassName([
+        'fas',
+        `fa-hand-point-${direction}`
+      ])}
+    />
+  </button>
+)
+
 const Text = ({
   book,
-  onReqNextChapter,
   fontSize,
-  fontFamily
+  fontFamily,
+  chapterMax,
+  chapterCurrent,
+  chapterChanger
 }) => (
   <article
     className={createClassName([
       'Book_Text',
-      `Book_Text-fontSize-${fontSize}`,
-      `Book_Text-fontFamily-${fontFamily}`
+      `Book_Text--font-size--${fontSize}`,
+      `Book_Text--font-family--${fontFamily}`
     ])}
   >
     <TextWithDictionary className='Book_Text-content'>
-      {book.map((paragraph, index) => {
-
-        // Alinhamento no centro
-        if (paragraph.align === 'center') {
-
-          // Se for um título estará dentro dum h1
-          if (paragraph.isTitle) {
-            return (
-              <h1 key={index} className='Book_Text-title'>
-                {paragraph.content}
-              </h1>
-            )
-          }
-
-          // Caso contrário, será um parágrafo normal centralizado
-          return (
-            <p key={index} className='Book_Text-p Book_Text-pCenter'>
-              {paragraph.content}
-            </p>
-          )
+      {book.map((para, index) => {
+        if (para.isTitle) {
+          return <Title key={index} content={para.content} />
         }
-
-        // Parágrafo normal
-        return (
-          <p key={index} className='Book_Text-p'>
-            {paragraph.content}
-          </p>
-        )
+        if (para.isCentralized) {
+          return <Paragraph key={index} content={para.content} isCentralized={true} />
+        }
+        return <Paragraph key={index} content={para.content} />
       })}
     </TextWithDictionary>
 
-    <div className='Book_Text-pCenter'>
-      <button
-        className='Book_Text-btn'
-        onClick={onReqNextChapter}
-      >
-        <i className='fas fa-hand-point-right'></i>
-      </button>
-    </div>
+    <footer className='Book_Text-footer'>
+      <Button
+        direction='left'
+        title='Voltar capítulo'
+        onClick={() => chapterChanger(-1)}
+        disabled={chapterCurrent === 0}
+      />
+      <Button
+        direction='right'
+        title='Próximo capítulo'
+        onClick={() => chapterChanger(1)}
+        disabled={chapterCurrent === chapterMax}
+      />
+    </footer>
   </article>
 )
 

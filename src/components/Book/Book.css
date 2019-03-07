@@ -24,6 +24,10 @@
   margin-bottom: 5px;
   color: gray;
 }
+
+/**
+ * Ao acessar no desktop
+ */
 @media (min-width: 550px) {
   .Book-actions {
     display: flex;
@@ -36,7 +40,7 @@
   .Book-fieldset {
     margin-bottom: 0;
   }
-  .Book-selectSpecial {
+  .Book-select--special {
     border: solid 1px #d85127;
     background-image: linear-gradient(to top, #ec4d1b, #ff5722);
     color: white;
