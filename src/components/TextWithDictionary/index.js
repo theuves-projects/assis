@@ -2,12 +2,10 @@ import React, { Component } from 'react'
 import axios from 'axios'
 import canBePtWord from '../../utils/canBePtWord'
 import cml from '../../utils/cml'
-
-import './TextWithDictionary.css'
+import { Container } from './styles';
 
 const covertUnderlineToItalic = (text) => {
-  return cml(text, [
-    {
+  return cml(text, [{
       tokenStart: '_',
       replacerStart: '<i>',
       tokenEnd: '_',
@@ -20,11 +18,13 @@ class TextWithDictionary extends Component {
   constructor(props) {
     super(props)
     this.state = {}
+
     this.onScroll = this.onScroll.bind(this)
     this.onSelectText = this.onSelectText.bind(this)
     this.onClickInThePage = this.onClickInThePage.bind(this)
     this.setDictionaryContentRef = this.setDictionaryContentRef.bind(this)
     this.setDictionaryContainerRef = this.setDictionaryContainerRef.bind(this)
+    
   }
   componentDidMount() {
     window.addEventListener('click', this.onClickInThePage)
@@ -102,15 +102,12 @@ class TextWithDictionary extends Component {
 
     return (
       <div ref={this.setDictionaryContainerRef}>
-        <div
-          className='TextWithDictionary-content'
-          ref={this.setDictionaryContentRef}
-        >
+        <Container ref={this.setDictionaryContentRef} >
           {this.state.content
             ? <div dangerouslySetInnerHTML={{ __html: this.state.content }} />
             : <i>Carregando...</i>
           }
-        </div>
+        </Container>
         <div
           {...props}
           onClick={this.onSelectText}

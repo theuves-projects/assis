@@ -1,13 +1,11 @@
 import React from 'react'
-import './Loading.css'
+import { Icon, Text } from './styles';
 
 const Loading = ({ msg }) => (
   <div>
-    <div className='Loading-icon'></div>
-    <p className='Loading-text'>
-      {msg || 'Carregando...'}
-    </p>
+    <Icon />
+    <Text>{msg || 'Carregando...'}</Text>
   </div>
-)
+);
 
 export default Loading
