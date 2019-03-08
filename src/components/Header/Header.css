@@ -1,26 +1,28 @@
-.Header {
+/* .Header {
   position: relative;
   padding: 10px 0;
   font-size: 14px;
   box-shadow: 0 2px 5px 1px rgba(0,0,0,.5);
   z-index: 1;
   background-image: linear-gradient(to top, #d2c86c, #f0e583);
-}
-.Header-brand {
+} */
+/* .Header-brand {
   font-family: Merriweather, Georgia, Times, 'Times New Roman', serif;
   font-style: italic;
   text-decoration: none;
   color: currentColor;
-}
-.Header-flex {
+} */
+/* .Header-flex {
+
   display: flex;
   justify-content: space-between;
   align-items: center;
-}
-.Header-actions {
+} */
+
+/* .Header-actions {
   display: flex;
   align-items: center;
-}
+} */
 .Header-userLink,
 .Header-btn {
   display: flex;
@@ -70,13 +72,13 @@
     display: flex;
     margin-right: 10px;
   }
-  .Header-userLink-avatar {
+  /* .Header-userLink-avatar {
     width: 1em;
     height: 1em !important;
     border-radius: 50%;
     animation: 1s loadingEffect linear infinite alternate;
     transform: scale(1.25);
-  }
+  } */
   .Header-userLink-name {
     margin-right: 10px;
   }

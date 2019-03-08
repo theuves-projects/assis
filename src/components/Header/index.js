@@ -1,124 +1,50 @@
 import React, { Fragment, Component } from 'react'
 import { Link } from 'react-router-dom'
 import { auth, database } from 'firebase'
+import { Header as HeaderContainer, Content, Title, Actions, Button, Icon } from "./styles";
+import { Container } from '../../styles/container';
 
-// Utils
-import getFirstName from '../../utils/getFirstName'
-
-// Components
-import Avatar from '../Avatar'
 
 // Styles
-import './Header.css'
+import NotLogged from './NotLogged';
+import Logged from './Logged';
 
 class Header extends Component {
   constructor(props) {
     super(props)
-    this.state = {}
-    this.refreshData = this.refreshData.bind(this)
+    this.state = {
 
-    auth().onAuthStateChanged((user) => {
-      this.refreshData()
-    })
-  }
-  refreshData() {
-    const isLoggedIn = !!auth().currentUser
-
-    if (isLoggedIn) {
-      const uid = auth().currentUser.uid
-      
-      database().ref(`users/${uid}`).once('value', (snapshot) => {
-        const data = snapshot.val()
-
-        this.setState({
-          isLoggedIn,
-          uid,
-          ...data
-        })
-      })
-    } else {
-      this.setState({
-        isLoggedIn
-      })
     }
   }
-  signOut() {
-    if (window.confirm('Deseja realmente finalizar a sessão?')) {
-      auth()
-        .signOut()
-        .then(() => {
-          window.location.assign('/')
-        })
-        .catch(() => {
-          window.alert('Algo deu errado!')
-        })
+
+  verifyUserState = () => {
+    switch (this.state.isLoggedIn) {
+      case true:
+        return <Logged />
+      case false:
+        return <NotLogged />
+      default:
+        return "Carregando...";
     }
   }
+
   render() {
+    const { isLoggedIn } = this.state;
     return (
-      <header className='Header'>
-        <div className='container'>
-          <div className='Header-flex'>
+      <HeaderContainer className='Header'>
+        <Container>
+          <Content>
             <h1>
-              <Link
-                to={this.state.isLoggedIn ? '/dashboard' : '/'}
-                className='Header-brand'
-              >
+              <Title to={isLoggedIn ? '/dashboard' : '/'}>
                 Assis
-              </Link>
+              </Title>
             </h1>
-            <div className='Header-actions'>
-              {(() => {
-                switch (this.state.isLoggedIn) {
-
-                  // Se estiver logado.
-                  case true:
-                    return (
-                      <Fragment>
-                        <Link
-                          className='Header-userLink'
-                          to='/dashboard'
-                        >
-                          <span className='Header-userLink-name'>
-                            {getFirstName(this.state.name)}
-                          </span>
-                          <Avatar
-                            uid={this.state.uid}
-                            className='Header-userLink-avatar'
-                            alt='Avatar'
-                          />
-                        </Link>
-                        <button
-                          className='Header-btn'
-                          onClick={this.signOut}
-                        >
-                          Encerrar sessão
-                          <i className='Header-btn-icon fas fa-sign-out-alt'></i>
-                        </button>
-                      </Fragment>
-                    )
-
-                  // Se não estiver logado.
-                  case false:
-                    return (
-                      <Link
-                        className='Header-btn'
-                        to='/login'
-                      >
-                        Entrar na sua conta
-                        <i className='Header-btn-icon fas fa-sign-in-alt'></i>
-                      </Link>
-                    )
-
-                  // Se estiver carregando ainda.
-                  default:
-                    return 'Carregando...'
-                }
-              })()}
-            </div>
-          </div>
-        </div>
-      </header>
+            <Actions>
+              {this.verifyUserState()}
+            </Actions>
+          </Content>
+        </Container>
+      </HeaderContainer>
     )
   }
 }

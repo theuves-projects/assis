@@ -11,7 +11,6 @@ import Routes from './routes';
 //import './styles/index.css'
 import './styles/container.css'
 import './styles/inputs.css'
-import './styles/keyframes.css'
 
 // Para evitar inicializar o mesmo app duas vezes.
 if (firebase.apps.length === 0) {
@@ -20,8 +19,8 @@ if (firebase.apps.length === 0) {
 
 const App = () => (
   <>
-  <GlobalStyle />
-  <Routes />
+    <GlobalStyle />
+    <Routes />
   </>
 );
 

@@ -27,7 +27,8 @@ module.exports = {
           ],
           plugins: [
             'react-hot-loader/babel',
-            '@babel/plugin-proposal-class-properties'
+            '@babel/plugin-proposal-class-properties',
+            '@babel/plugin-transform-async-to-generator',
           ]
         }
       }
@@ -54,7 +55,7 @@ module.exports = {
   },
   plugins: [
     new CopyWebpackPlugin([
-      { from: 'src/content/texts', to: 'src/content/'}
+      { from: 'src/content/texts', to: 'src/content/' }
     ]),
     new HtmlWebpackPlugin({
       inject: false,

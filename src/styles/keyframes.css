@@ -1,8 +1,0 @@
-/**
- * loadingEffect
- * Faz efeito de carregamento com background.
- */
-@keyframes loadingEffect {
-  from { background-color: #eee; }
-  to { background-color: #bbb; }
-}
