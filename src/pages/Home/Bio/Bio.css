@@ -1,0 +1,58 @@
+.Home_Bio {
+  padding: 45px 0;
+  text-align: center;
+  background-image: linear-gradient(to bottom, #47484e, #30323c);
+  color: white;
+  font-size: 11px;
+}
+.Home_Bio-author {
+  width: 130px;
+  height: 130px;
+  text-align: center;
+  border-radius: 50%;
+  margin-bottom: 30px;
+  box-shadow: 4px 4px 0 0 #f0e583;
+}
+.Home_Bio-title {
+  font-size: 3em;
+  margin-bottom: 30px;
+  font-style: italic;
+}
+.Home_Bio-text {
+  margin-bottom: 30px;
+  font-size: 1.5em;
+  font-weight: lighter;
+  line-height: 180%;
+  text-align: justify;
+}
+.Home_Bio-link {
+  display: inline-block;
+  padding: 10px 20px;
+  border: solid 2px #ddd;
+  border-radius: 3px;
+  text-decoration: none;
+  font-size: 1.25em;
+  color: black;
+  background-image: linear-gradient(to top, #ddd, #fff)
+}
+.Home_Bio-link:hover {
+  color: #333;
+}
+.Home_Bio-link:active {
+  background-image: linear-gradient(to bottom, #ddd, #fff)
+}
+
+@media (min-width: 550px) {
+  .Home_Bio {
+    padding: 100px 0;
+    font-size: 16px;
+  }
+  .Home_Bio-author {
+    width: 200px;
+    height: 200px;
+    box-shadow: 8px 8px 0 0 #f0e583;
+  }
+  .Home_Bio-text {
+    font-size: 1.25em;
+  }
+}

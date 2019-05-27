@@ -1,0 +1,86 @@
+/* .Header {
+  position: relative;
+  padding: 10px 0;
+  font-size: 14px;
+  box-shadow: 0 2px 5px 1px rgba(0,0,0,.5);
+  z-index: 1;
+  background-image: linear-gradient(to top, #d2c86c, #f0e583);
+} */
+/* .Header-brand {
+  font-family: Merriweather, Georgia, Times, 'Times New Roman', serif;
+  font-style: italic;
+  text-decoration: none;
+  color: currentColor;
+} */
+/* .Header-flex {
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+} */
+
+/* .Header-actions {
+  display: flex;
+  align-items: center;
+} */
+.Header-userLink,
+.Header-btn {
+  display: flex;
+  padding: 6px 12px;
+  border-radius: 3px;
+  border: solid 1px rgba(0, 0, 0, .035);
+  font-size: 1em;
+  cursor: pointer;
+  text-decoration: none;
+  align-items: center;
+  color: currentColor;
+  background-color: rgba(0, 0, 0, .035);
+}
+.Header-userLink:hover,
+.Header-btn:hover {
+  color: #444;
+}
+.Header-userLink:active,
+.Header-btn:active {
+  opacity: .8;
+}
+.Header-btn-icon {
+  margin-left: 10px;
+  font-size: 1.25em;
+}
+
+/**
+ * Na versão mobile o nome do usuário não irá aparecer.
+ */
+.Header-userLink {
+  display: none;
+}
+
+/***********
+ * PRIVADO *
+ ***********/
+
+/*
+ * Partes que são exibidas somente com o login.
+ */
+
+@media (min-width: 550px) {
+  .Header {
+    font-size: 16px;
+  }
+  .Header-userLink {
+    display: flex;
+    margin-right: 10px;
+  }
+  /* .Header-userLink-avatar {
+    width: 1em;
+    height: 1em !important;
+    border-radius: 50%;
+    animation: 1s loadingEffect linear infinite alternate;
+    transform: scale(1.25);
+  } */
+  .Header-userLink-name {
+    margin-right: 10px;
+  }
+
+}
