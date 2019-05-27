@@ -12,11 +12,17 @@ import Logged from './Logged';
 class Header extends Component {
   constructor(props) {
     super(props)
-    this.state = {
-
-    }
+    this.state = {}
   }
-
+  
+  componentDidMount() {
+    auth().onAuthStateChanged(user => {
+      this.setState({
+        isLoggedIn: !!auth().currentUser
+      })
+    })
+  }
+  
   verifyUserState = () => {
     switch (this.state.isLoggedIn) {
       case true:
