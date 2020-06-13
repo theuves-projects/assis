@@ -1,58 +1,17 @@
-import React, { Component } from 'react'
-import ReactDOM from 'react-dom'
-import { BrowserRouter as Router, Route } from 'react-router-dom'
-import { hot } from 'react-hot-loader/root'
-import firebase, { auth, database } from 'firebase'
-import firebaseConfig from '../firebaseConfig'
+import React from 'react';
+import ReactDOM from 'react-dom';
+import './index.css';
+import App from './App';
+import * as serviceWorker from './serviceWorker';
 
-// Components at index
-import Layout from './components/Layout'
+ReactDOM.render(
+  <React.StrictMode>
+    <App />
+  </React.StrictMode>,
+  document.getElementById('root')
+);
 
-// Others components
-import Home from './components/Home/Home'
-import Login from './components/Login/Login'
-import Dashboard from './components/Dashboard/Dashboard'
-import Book from './components/Book/Book'
-
-// Routes
-import PrivateRoute from './routes/PrivateRoute'
-import PublicRoute from './routes/PublicRoute'
-
-// Global styles
-import './styles/index.css'
-import './styles/container.css'
-import './styles/inputs.css'
-import './styles/keyframes.css'
-
-// Para evitar inicializar o mesmo app duas vezes.
-if (firebase.apps.length === 0) {
-  firebase.initializeApp(firebaseConfig)
-}
-
-class App extends Component {
-  render() {
-    return (
-      <Router>
-        <Layout>
-
-          {/* Rotas públicas e privadas */}
-          <Route path='/u/:username/:option?' component={Dashboard} />
-
-          {/* Rotas públicas */}
-          <PublicRoute path='/' component={Home} />
-          <PublicRoute path='/login' component={Login} />
-
-          {/* Rotas privadas */}
-          <PrivateRoute path='/dashboard' component={Dashboard} />
-          <PrivateRoute path='/dashboard/:option' component={Dashboard} />
-          <PrivateRoute path='/book/:code' component={Book} />
-        </Layout>
-      </Router>
-    )
-  }
-}
-
-const root = document.getElementById('root')
-ReactDOM.render(<App />, root)
-
-export default hot(App)
+// If you want your app to work offline and load faster, you can change
+// unregister() to register() below. Note this comes with some pitfalls.
+// Learn more about service workers: https://bit.ly/CRA-PWA
+serviceWorker.unregister();

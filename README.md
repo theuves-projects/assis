@@ -1,63 +1,68 @@
-# Assis
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-[![Doar](https://img.shields.io/badge/paypal-doar-179bd7.svg?logo=paypal&style=flat&logoColor=blue)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3WZ447WCJ54XG&source=url)
+## Available Scripts
 
-> Um site para ler os principais romances de Machado de Assis com opção de
-cadastro e consequentemente uma série de configurações para facilitar a
-alternação de leitura entre computador e smartphone.
+In the project directory, you can run:
 
-[Acesse-o aqui.](#)
+### `yarn start`
 
-## Observações
+Runs the app in the development mode.<br />
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-**Obs. 1:**
+The page will reload if you make edits.<br />
+You will also see any lint errors in the console.
 
-Todos o conteúdo dos livros apresentados aqui foram extraídos de PDFs
-distribuídos no website oficial do Machado de Assis (sustentado pelo MEC).
-Em alguns livros foi mais complexo a extração dos texto do livros, desse modo,
-algumas palavras tiveram caracteres omitidos, tornando o texto quanse que
-ilegível.
+### `yarn test`
 
-Esses erros serão corrigidos em breve, conforme meu tempo disponível.
+Launches the test runner in the interactive watch mode.<br />
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-**Obs. 2:**
+### `yarn build`
 
-Há ainda alguns erros e muita coisa a ser melhorada (no código e no layout).
+Builds the app for production to the `build` folder.<br />
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-Veja as *issues* [aqui](https://github.com/theuves/assis/issues).
+The build is minified and the filenames include the hashes.<br />
+Your app is ready to be deployed!
 
-Sinta-se livre para abrir mais ou enviar Pull Requests.
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-## Desenvolvimento
+### `yarn eject`
 
-Veja aqui como executar esse site no seu computador.
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-1. Clone-o:
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-```bash
-$ git clone https://github.com/theuves/assis.git
-$ cd assis
-```
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-2. Instale as dependências:
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-```bash
-$ yarn install
-```
+## Learn More
 
-3. Execute localmente o site:
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-```bash
-$ yarn start
-```
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-Okay... agora acesse-o em &lt;http://localhost:8080&gt;.
+### Code Splitting
 
-## License
+This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
 
-MIT &copy; Matheus Alves
+### Analyzing the Bundle Size
 
-Os livros do Machado de Assis estão sob domínio público.
+This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
 
-As capas dos livros são as mesmas de edições de bolso da Saraiva ([e isso deve
-ser mudado com urgência](https://github.com/theuves/assis/issues/7)).
+### Making a Progressive Web App
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+
+### Advanced Configuration
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+
+### Deployment
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+
+### `yarn build` fails to minify
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
