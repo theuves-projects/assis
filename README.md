@@ -1,63 +1,46 @@
-# Assis
+# Getting Started with Create React App
 
-[![Doar](https://img.shields.io/badge/paypal-doar-179bd7.svg?logo=paypal&style=flat&logoColor=blue)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3WZ447WCJ54XG&source=url)
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-> Um site para ler os principais romances de Machado de Assis com opção de
-cadastro e consequentemente uma série de configurações para facilitar a
-alternação de leitura entre computador e smartphone.
+## Available Scripts
 
-[Acesse-o aqui.](#)
+In the project directory, you can run:
 
-## Observações
+### `npm start`
 
-**Obs. 1:**
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-Todos o conteúdo dos livros apresentados aqui foram extraídos de PDFs
-distribuídos no website oficial do Machado de Assis (sustentado pelo MEC).
-Em alguns livros foi mais complexo a extração dos texto do livros, desse modo,
-algumas palavras tiveram caracteres omitidos, tornando o texto quanse que
-ilegível.
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
 
-Esses erros serão corrigidos em breve, conforme meu tempo disponível.
+### `npm test`
 
-**Obs. 2:**
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-Há ainda alguns erros e muita coisa a ser melhorada (no código e no layout).
+### `npm run build`
 
-Veja as *issues* [aqui](https://github.com/theuves/assis/issues).
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-Sinta-se livre para abrir mais ou enviar Pull Requests.
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-## Desenvolvimento
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-Veja aqui como executar esse site no seu computador.
+### `npm run eject`
 
-1. Clone-o:
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-```bash
-$ git clone https://github.com/theuves/assis.git
-$ cd assis
-```
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-2. Instale as dependências:
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-```bash
-$ yarn install
-```
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-3. Execute localmente o site:
+## Learn More
 
-```bash
-$ yarn start
-```
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-Okay... agora acesse-o em &lt;http://localhost:8080&gt;.
-
-## License
-
-MIT &copy; Matheus Alves
-
-Os livros do Machado de Assis estão sob domínio público.
-
-As capas dos livros são as mesmas de edições de bolso da Saraiva ([e isso deve
-ser mudado com urgência](https://github.com/theuves/assis/issues/7)).
+To learn React, check out the [React documentation](https://reactjs.org/).
