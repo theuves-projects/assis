@@ -3,14 +3,15 @@ import styled from 'styled-components'
 import Color from 'color'
 
 interface Props {
+  color: string,
   title: string,
   year: number,
 }
 
-function Card({ title, year }: Props) {
+function Card({ color, title, year }: Props) {
   return (
     <CardStyled>
-      <Main color="#1ABC9C">
+      <Main color={color}>
         <Title>
           {title}
         </Title>
