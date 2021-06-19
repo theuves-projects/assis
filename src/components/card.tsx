@@ -20,7 +20,7 @@ function Card({ color, title, year }: Props) {
         </Year>
       </Main>
       <Footer>
-        <Button>
+        <Button href="#">
           Ler online
         </Button>
       </Footer>
@@ -53,7 +53,10 @@ const Year = styled.p`
   padding: 30px 0;
 `
 
-const Button = styled.div`
+const Button = styled.a`
+  display: block;
+  text-decoration: none;
+  color: #333;
   padding: 6px 0;
   border: solid 1px #333;
   border-radius: 3px;
