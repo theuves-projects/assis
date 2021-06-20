@@ -12,9 +12,11 @@ function Card({ color, title, year }: Props) {
   return (
     <CardStyled>
       <Main color={color}>
-        <Title>
-          {title}
-        </Title>
+        <TitleContainer>
+          <Title>
+            {title}
+          </Title>
+        </TitleContainer>
         <Year>
           {year}
         </Year>
@@ -32,11 +34,12 @@ const CardStyled = styled.div`
   display: flex;
   flex-direction: column;
   text-align: center;
+  box-shadow: 1px 1px 3px 0 #aaa;
   background-color: white;
 `
 
 const Main = styled.div<{color: string}>`
-  background-image: linear-gradient(-45deg, ${props => Color(props.color).darken(0.05).hex()} 50%, ${props => props.color} 50%);
+  background-image: linear-gradient(-45deg, ${props => Color(props.color).darken(0.1).hex()} 50%, ${props => props.color} 50%);
   color: white;
 `
 
@@ -45,12 +48,20 @@ const Footer = styled.div`
 `
 
 const Title = styled.h3`
-  padding: 60px 0 30px 0;
   text-transform: uppercase;
+  line-height: 1.25;
+`
+
+const TitleContainer = styled.div`
+  display: flex;
+  height: 130px;
+  padding: 0 20px;
+  align-items: center;
+  justify-content: center;
 `
 
 const Year = styled.p`
-  padding: 30px 0;
+  padding-bottom: 30px;
 `
 
 const Button = styled.a`
