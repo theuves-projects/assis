@@ -14,13 +14,13 @@ function Home() {
         <Content>
           <Grid>
             {books.map((book => (
-              <Column>
+              <div>
                 <Card
-                  color={book.color}
+                  color="#67604d"
                   title={book.title}
                   year={book.year}
                 />
-              </Column>
+              </div>
             )))}
           </Grid>
         </Content>
@@ -53,7 +53,7 @@ const Image = styled.div`
     content: '';
     position: absolute;
     inset: 0;
-    background-color: rgb(20 255 230 / 20%);
+    background-color: rgb(0 0 0 / 30%);
   }
 `
 
@@ -64,14 +64,12 @@ const Content = styled.div`
 
 const Grid = styled.div`
   --grid-gap: 20px;
+  margin: 0 auto;
+  width: 720px;
   box-sizing: border-box;
   display: grid;
   grid-template-columns: repeat(3, calc((100% - 2 * var(--grid-gap)) / 3));
   grid-gap: var(--grid-gap);
-`
-
-const Column = styled.div`
-
 `
 
 export default Home
