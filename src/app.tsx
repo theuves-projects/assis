@@ -7,11 +7,15 @@ const GlobalStyle = createGlobalStyle`
     padding: 0;
     margin: 0;
   }
+  body,
+  input,
+  select {
+    font-family: Verdana, Arial, sans-serif;
+  }
   #root,
   html,
   body {
     height: 100%;
-    font-family: Roboto, Helvetica, sans-serif;
   }
 `
 
