@@ -34,7 +34,7 @@ const CardStyled = styled.div`
   display: flex;
   flex-direction: column;
   text-align: center;
-  box-shadow: 1px 1px 3px 0 #aaa;
+  box-shadow: 1px 1px 3px 0 #bbb;
   background-color: white;
 `
 
@@ -44,12 +44,12 @@ const Main = styled.div<{color: string}>`
 `
 
 const Footer = styled.div`
-  padding: 15px;
+  padding: 10px;
 `
 
 const Title = styled.h3`
   text-transform: uppercase;
-  line-height: 1.25;
+  line-height: 1.75;
 `
 
 const TitleContainer = styled.div`
@@ -67,10 +67,10 @@ const Year = styled.p`
 const Button = styled.a`
   display: block;
   text-decoration: none;
-  color: #333;
   padding: 6px 0;
-  border: solid 1px #333;
-  border-radius: 3px;
+  color: black;
+  background-color: #ddd;
+  box-shadow: 1px 1px 1px 0 #aaa;
 `
 
 export default Card
